@@ -1,4 +1,5 @@
 collections:
   topics:
     output: true
-    order: []
+    order:
+      - Savings.md
