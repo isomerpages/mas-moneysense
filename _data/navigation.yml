@@ -3,6 +3,6 @@ links:
   - title: Who we are
     url: /about-us/
   - title: Topics
-    collection: example-folder
+    collection: topics
   - title: Financial Calculators
     url: /financial-tools/
