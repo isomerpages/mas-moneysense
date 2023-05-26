@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: Who we are
+    url: /about-us
+  - title: Topics
     collection: example-folder
+  - title: Financial Calculators
+    url: /financial-tools/
