@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Who we are
     url: /about-us/
+  - title: Life Events
+    collection: life-events
   - title: Topics
     collection: topics
   - title: Financial Calculators
