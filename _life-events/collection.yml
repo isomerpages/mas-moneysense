@@ -2,5 +2,6 @@ collections:
   life-events:
     output: true
     order:
+      - National Service.md
       - Having Children.md
       - Buying a Car.md
