@@ -1,4 +1,5 @@
 collections:
   life-events:
     output: true
-    order: []
+    order:
+      - Buying a Car.md
