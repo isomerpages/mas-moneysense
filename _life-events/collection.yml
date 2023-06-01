@@ -2,6 +2,7 @@ collections:
   life-events:
     output: true
     order:
+      - Unexpected Events.md
       - National Service.md
       - Having Children.md
       - Buying a Car.md
