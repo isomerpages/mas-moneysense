@@ -2,4 +2,5 @@ collections:
   life-events:
     output: true
     order:
+      - Having Children.md
       - Buying a Car.md
