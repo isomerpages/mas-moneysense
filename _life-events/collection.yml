@@ -2,6 +2,7 @@ collections:
   life-events:
     output: true
     order:
+      - Getting Married.md
       - Starting Work.md
       - Unexpected Events.md
       - National Service.md
