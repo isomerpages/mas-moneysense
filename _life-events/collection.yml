@@ -1,0 +1,4 @@
+collections:
+  life-events:
+    output: true
+    order: []
