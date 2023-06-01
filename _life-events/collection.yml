@@ -2,6 +2,7 @@ collections:
   life-events:
     output: true
     order:
+      - Being a student.md
       - Buying a home.md
       - Getting married.md
       - Starting work.md
