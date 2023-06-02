@@ -72,9 +72,9 @@ With so many types of investments to choose from, it helps to take a closer look
 
 Here are a few things to think about as you make your plans:
 
-*   **Your goals –** What are your [financial goals](https://www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages)? Are you looking for a regular income? To grow your savings quickly? Or to preserve your savings?
+*   **Your goals –** What are your [financial goals](/guides/financial-goals-at-different-life-stages)? Are you looking for a regular income? To grow your savings quickly? Or to preserve your savings?
 *   **Your investment horizon –** When do you need the money? Will you need to be able to convert your investment to cash quickly, or are you able to hold your funds in the investment for the long term?
-*   **Your risk appetite –** Can you withstand losses? [What level of risk](https://www.moneysense.gov.sg/articles/2018/10/managing-investment-risk) are you comfortable with? Is your investment portfolio sufficiently diversified?
+*   **Your risk appetite –** Can you withstand losses? [What level of risk](/guides/managing-investment-risk) are you comfortable with? Is your investment portfolio sufficiently diversified?
 
 Once you have invested, monitor your investment portfolio regularly and make adjustments as necessary, such as:
 
