@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Moneysense Website
-      background: /images/hero-banner.png
+      background: /images/plant-coins-hero.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
