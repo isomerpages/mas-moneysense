@@ -41,9 +41,11 @@ If the purchase price of an apartment is $300,000 and its valuation is $330,000,
 |Loan from|Type of home|Applicable limits|CPF-OA eligible for loan repayment, for up to|
 |---|---|---|---|
 |HDB|New flat|No limit|Full OA|
-|HDB|Resale HDB flat|Valuation limit|Below 55 years old: Set aside the current [Basic Retirement Sum (BRS)](https://www.cpf.gov.sg/member/faq/retirement-income/general-information-on-retirement/what-are-the-retirement-sums-applicable-to-me) in your Special Account (SA) and Ordinary Account (OA). 55 years old and above: Meet the BRS in your Retirement Account, SA (including amount withdrawn for investment) and OA.|
-|Bank|New HDB flat/Resale HDB flat/Private property|Valuation and withdrawal limit|
+|HDB|Resale HDB flat|Valuation limit|Subject to CPF limits^^|
+|Bank|New HDB flat/Resale HDB flat/Private property|Valuation and withdrawal limit|Subject to CPF limits^^|
 
+^^ Below 55 years old: Set aside the current [Basic Retirement Sum (BRS)](https://www.cpf.gov.sg/member/faq/retirement-income/general-information-on-retirement/what-are-the-retirement-sums-applicable-to-me) in your Special Account (SA) and Ordinary Account (OA). 
+55 years old and above: Meet the BRS in your Retirement Account, SA (including amount withdrawn for investment) and OA.
 ### Tip
 
 Use the&nbsp;[CPF Withdrawal Limit](https://www.cpf.gov.sg/member/faq/home-ownership/housing-scheme/how-much-cpf-savings-can-i-use-for-my-property-purchase)&nbsp;calculator to find out when you'll reach the withdrawal limit.
