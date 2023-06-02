@@ -19,7 +19,7 @@ sections:
           description: 3 basic investment strategies
           url: /
         - title: Understanding CareShield Life
-          description: When it pays out
+          description: When does it pays out
           url: /
       subtitle: Find out the importance of setting financial goals, and managing your
         income, savings and spending.
