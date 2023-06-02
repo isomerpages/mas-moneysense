@@ -50,8 +50,7 @@ You pay the option fee to reserve the property of your choice. The tables below 
 | New 4-room, 5-room, Executive Flat | $2,000 |
 | New 3-room | $1,000 |
 | New 2-room | $500 |
-| Resale flat | 
-Up to $5,000 in total, comprising:
+| Resale flat | Up to $5,000 in total, comprising:
 
 *   Up to $1,000 before signing the Option to Purchase (OTP)
 *   The rest up to $4,000 on exercising the OTP
