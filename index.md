@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Moneysense Website
+      title: Making sense of your money​​
       background: /images/plant-coins-hero.jpg
-      button: Contact Us
-      url: /contact-us/
+      button: Starter Pack
+      url: /
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -21,6 +21,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      subtitle: Find out the importance of setting financial goals, and managing your
+        income, savings and spending.
   - infobar:
       title: Infobar title
       subtitle: Subtitle
