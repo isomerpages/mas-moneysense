@@ -7,14 +7,13 @@ description: ""
 
 Know your risk appetite and learn 3 basic investment strategies you can use when investing: diversification, asset allocation and dollar-cost averaging.
 
-Key takeaways
+**Key takeaways**
 
 *   To manage risk, you should invest in a diversified portfolio of different investments.
 *   You should allocate your capital to different asset classes according to your desired risk-return profile.
 *   Dollar-cost averaging removes the risk of timing the market wrongly.
 
-Know your risk appetite
------------------------
+### Know your risk appetite
 
 Can you afford to lose all of your investment?
 
@@ -32,15 +31,13 @@ As all investments carry risk, you should consider the risk-return tradeoff befo
 
 Your risk appetite is more about how much you can afford to lose rather than how much you want to make. Try this [risk tolerance questionnaire](https://www.cpf.gov.sg/content/dam/web/member/growing-your-savings/documents/Risk_Tolerance_Questionaire.pdf) from the CPF board to determine your risk profile.
 
-Risk-return trade-off
----------------------
+### Risk-return trade-off
 
 The higher the potential returns, the higher the risks.
 
 For example, if you were to invest in futures, you might expect high returns, but at the same time need to be prepared for the high level of risk involved. The question to ask yourself is, “Can I afford to lose a significant amount, or even all of my money?”
 
-Managing risk
--------------
+### Managing risk
 
 All investments involve some measure of risk. You can use these 3 investment strategies to help you manage risk:
 
@@ -52,7 +49,7 @@ Diversification refers to spreading your investments over a variety of assets wi
 
 You may give up some gains, but the overall risk of loss is reduced, and you will be in a better position to withstand ups and downs in the market.
 
-### Example
+#### Example
 
 If you invest in just a single company's shares, you may lose all your money if the company goes bankrupt. However, by distributing your investments over five companies, you risk losing only 20% of your money if one company goes bankrupt.
 
@@ -61,13 +58,13 @@ You can diversify your portfolio by:
 *   Investing in different asset classes (e.g. shares and bonds)
 *   Within each asset class, invest in different securities, industries or countries (e.g. a portfolio of different shares, or exchange-traded fund that tracks an index)
 
-#### Correlation
+### Correlation
 
 Assets that move together in the same direction are said to be correlated. One way to diversify is to combine assets which move randomly or in opposite ways. These assets can be described as being negatively correlated, or even not correlated at all.
 
 Investing in assets that are not correlated is beneficial because they are not impacted by the same market trends. Hence, shocks in one market will not affect the others.
 
-### Example
+#### Example
 
 If the construction industry suffers a downturn, both the share price of a construction company and the price of steel, which is used in construction, will drop. These two are **positively correlated.**  
 However, industries dealing in healthcare will not be affected and hence the share price of a healthcare company will move independently or randomly – they are **not correlated.**
@@ -82,7 +79,7 @@ Deciding how to distribute your investments is part of the asset allocation stra
 
 **Your risk profile –** Knowing your risk tolerance allows you to invest comfortably without potentially losing more than you can afford to. If you have a low tolerance, you should allocate more funds to lower-risk assets, though you should also expect lower returns.
 
-**Asset mix –** Knowing how [various assets](https://www.moneysense.gov.sg/starter-packs/guide-to-types-of-investments) are correlated and what risks and returns to expect from each will help you decide on your preferred asset mix.
+**Asset mix –** Knowing how [various assets](/starter-packs/guide-to-types-of-investments) are correlated and what risks and returns to expect from each will help you decide on your preferred asset mix.
 
 **Current and expected market conditions –** Have your personal circumstances changed? Even if your situation has not shifted, the markets are likely to have. It is important to monitor and re-balance your asset mix regularly, in order to maintain a balanced portfolio.
 
