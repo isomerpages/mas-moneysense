@@ -160,7 +160,11 @@ Some policies, like fire insurance and mortgagee interest policies, may be requi
 |Amount to insure	|Up to your requirements (based on estimated value of fittings, furniture and valuable appliances).|
 
 #### Mortgagee interest policy
-
+|Who should buy|	Borrowers. Policy is usually required for home loans from banks.|
+|---|---|
+|Mandatory?	|Required by most banks for existing home loans.|
+|What is covered|	Loan default in the event of a fire.|
+|Amount to insure|Based on reinstatement value or outstanding loan amount whichever is lower.|
 
 **Note:** Extraneous perils include earthquake, windstorm, flood, riot and strike damage, landslip, smoke, damage, sprinkler leakage, explosion, water damage due to overflowing or bursting water tank. These are subject to policy terms.
 
