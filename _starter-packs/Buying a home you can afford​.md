@@ -37,4 +37,4 @@ This starter pack aims to help you learn the basics before buying, and helps you
 At the end of this guide, you will have a better idea of what it takes to own a property.
 
 ### Contents
-1. 
+1.
