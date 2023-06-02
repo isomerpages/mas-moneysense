@@ -37,3 +37,9 @@ By the end of this guide, you’ll understand:
 *   What makes a good spending plan and the concept of budgeting
 *   Ways to stretch your dollar and cut your spending
 *   Debt and how to avoid and reduce it
+
+### Contents
+
+1. **[What is inflation?](/guides/savings/what-is-inflation)**
+2. **[Effects of compounding interest](/guides/savings/effects-of-compounding-interest)**
+3. 
