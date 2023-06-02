@@ -106,10 +106,17 @@ In addition to your monthly home loan repayments, you'll also want to budget for
 *   Property tax
 *   Mortgage insurance and other home-related insurance
 
-Maintenance, conservancy charges and utilities
+#### Maintenance, conservancy charges and utilities
+HDB homeowners pay monthly [service and conservancy charges](https://www.jrtc.org.sg/our-services/) to their town councils for maintaining their housing estates. You pay a higher fee for a larger flat.
 
-Property tax
+Owners of private properties such as condominiums and apartments typically pay monthly maintenance fees.
 
-Mortgage insurance
+Utility charges (power, water and gas) depend on their usage.
+#### Property tax
+
+#### Mortgage insurance
+
+
+
 
 Insurance for your home
