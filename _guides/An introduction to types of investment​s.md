@@ -46,17 +46,14 @@ To start investing, you will need:
 
 | Types of investments | What it is | What it's good for | How you can lose money |
 | --- | --- | --- | --- |
-| [Shares](https://www.moneysense.gov.sg/articles/2018/10/guide-to-shares-what-you-need-to-know-before-you-invest) | 
+| [Shares](/guides/guide-to-shares-what-you-need-to-know-before-you-invest) | 
 *   Shares are issued by companies to raise capital or financing from investors.
-*   When you buy a share in a company, you become a part-owner of that company.
-
- | 
-
+*   When you buy a share in a company, you become a part-owner of that company.| 
 *   Income from dividends.
 *   Capital gains if the share price rises.
 
  | Price fluctuations You could lose a lot if the issuer is wound up |
-| [Bonds](https://www.moneysense.gov.sg/articles/2018/10/understanding-bonds) | 
+| [Bonds](/guides/understanding-bonds) | 
 
 *   Companies or governments can borrow money from investors by issuing bonds to raise funds.
 *   [Singapore Savings Bonds (SSBs)](https://www.mas.gov.sg/bonds-and-bills/Singapore-Savings-Bonds) are among the safest investments, as they are backed by the Government. You can also redeem the bonds early without any penalties.
@@ -69,7 +66,7 @@ To start investing, you will need:
  | Price fluctuations  
 Issuer defaults  
 Issuer is wound up |
-| [Unit trusts](https://www.moneysense.gov.sg/articles/2018/10/understanding-unit-trusts) or funds | 
+| [Unit trusts](/guides/understanding-unit-trusts) or funds | 
 
 *   Investment product where money from investors is pooled and invested by a fund manager in a portfolio of assets. This is according to the unit trust or fund's stated investment objective and investment approach.
 
@@ -78,7 +75,7 @@ Issuer is wound up |
 *   Achieve diversified investment exposure
 
  | Price fluctuations |
-| [Exchange traded funds (ETFs)](https://www.moneysense.gov.sg/articles/2018/10/guide-to-etfs-understanding-exchange-traded-funds) | 
+| [Exchange traded funds (ETFs)](/guides/guide-to-etfs-understanding-exchange-traded-funds) | 
 
 *   A type of fund that is listed and traded on a stock exchange.
 *   Some ETFs have simpler cash-based structures while others are complex and involve derivatives.
@@ -90,7 +87,7 @@ Issuer is wound up |
  | Price fluctuations  
 Default of derivative counterparty  
 where a derivative is used |
-| [Real estate investment trusts (REITs)](https://www.moneysense.gov.sg/articles/2018/10/understanding-real-estate-investment-trusts-reits) | 
+| [Real estate investment trusts (REITs)](/guides/understanding-real-estate-investment-trusts-reits) | 
 
 *   Unit trust or fund that is traded on a stock exchange and is invested in a portfolio of real estate assets.
 
@@ -105,13 +102,12 @@ where a derivative is used |
 
 Not all products in a specific asset class are of the same quality. For example, although bonds are often described as "safer", there are differing quality of bonds out there. Some are rated as investment grade while others are of lower quality (i.e. junk bonds or "high-yield" bonds). Same goes for stocks too!
 
-Other investment products
--------------------------
+### Other investment products
 
-Some products are more complex than others, and have terms and features that may be difficult to understand. These products are classified as [Specified Investment Products (SIPs)](https://www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips) in Singapore.
+Some products are more complex than others, and have terms and features that may be difficult to understand. These products are classified as [Specified Investment Products (SIPs)](/guides/understanding-specified-investment-products-sips) in Singapore.
 
 Before an SIP can be sold to you, financial institutions are required to assess your investment knowledge and experience to make sure you can understand these products. This is done through a Customer Account Review (CAR) if you wish to open an account to trade SIPs listed on an exchange, or a Customer Knowledge Assessment (CKA) if you wish to invest in an unlisted SIPs.
 
 **Remember, do not invest in products you do not** **fully understand.**
 
-**See also:** [Guide to types of investments](https://www.moneysense.gov.sg/starter-packs/guide-to-types-of-investments)
+**See also:** [Guide to types of investments](/starter-packs/guide-to-types-of-investments)
