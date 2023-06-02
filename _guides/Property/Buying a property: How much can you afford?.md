@@ -8,14 +8,13 @@ third_nav_title: Property
 
 Buy a property within your means. Take stock of all your resources to see what you can afford and how much you can borrow, and get to know the differences between HDB loans and bank loans.
 
-Key takeaways
+**Key takeaways**
 
 *   Choose a home based on what you can afford in terms of upfront and ongoing payments.
 *   If you are buying an HDB flat, you may qualify for an HDB loan.
 *   How much you can borrow will depend on your lender’s assessment and rules such as the total debt servicing ratio (TDSR) and loan-to-value (LTV) limit.
 
-What can you afford?
---------------------
+### What can you afford?
 
 Buying a home is a huge milestone and a long-term financial commitment. So make sure you buy a home that you can afford in the long run. You'll need to have enough resources to pay for upfront costs, ongoing homeownership expenses and monthly loan instalments.
 
@@ -45,8 +44,7 @@ Things to note:
 *   Take note of the cap on the amount you can use from your CPF savings for your home loan.
 *   Ask your lender for a repayment schedule.
 
-How much do you have now?
--------------------------
+### How much do you have now?
 
 Take a look at what you currently have. Do you have enough money to see you through all the costs involved in buying a home?
 
@@ -57,8 +55,7 @@ Your available resources could come from your:
 *   Sales proceeds (net of outstanding loan) from your current home, if any
 *   Income. Do you have a steady income or is it commission-based and dependent on other factors?
 
-How much can you borrow?
-------------------------
+### How much can you borrow?
 
 HDB and the lenders will assess how much you can borrow for a home loan in the following ways:
 
@@ -68,8 +65,7 @@ Total debt servicing ratio (TDSR)
 
 Loan-to-value limits
 
-Getting an HDB loan
--------------------
+### Getting an HDB loan
 
 If you are buying an HDB flat, you may qualify for a loan from the HDB. With an HDB loan, you may borrow up to 85% of the purchase price or the property’s valuation price. This depends on which is lower, subject to HDB’s credit assessment.
 
