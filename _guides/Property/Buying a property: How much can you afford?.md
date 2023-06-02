@@ -59,11 +59,11 @@ Your available resources could come from your:
 
 HDB and the lenders will assess how much you can borrow for a home loan in the following ways:
 
-Mortgage servicing ratio (MSR)
+* Mortgage servicing ratio (MSR)
 
-Total debt servicing ratio (TDSR)
+* Total debt servicing ratio (TDSR)
 
-Loan-to-value limits
+* Loan-to-value limits
 
 ### Getting an HDB loan
 
