@@ -136,6 +136,7 @@ Even if you're not using your CPF monies to pay for your monthly instalments, yo
 A&nbsp;**mortgage reducing term insurance**&nbsp;protects your dependants if you (the borrower) should pass away or become permanently disabled and can no longer service the loan.
 
 ##### All properties
+If your property is mortgaged to a bank, you may be required to take up a mortgagee interest policy.
 
 #### Insurance for your home
 
