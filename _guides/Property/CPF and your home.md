@@ -41,7 +41,8 @@ If the purchase price of an apartment is $300,000 and its valuation is $330,000,
 |Loan from|Type of home|Applicable limits|CPF-OA eligible for loan repayment, for up to|
 |---|---|---|---|
 |HDB|New flat|No limit|Full OA|
-|HDB|Resale HDB flat|Valuation limit|Below 55 years old: Set aside the current [Basic Retirement Sum (BRS)](https://www.cpf.gov.sg/member/faq/retirement-income/general-information-on-retirement/what-are-the-retirement-sums-applicable-to-me) in your Special Account (SA) and Ordinary Account (OA). 55 years old and above: Meet the BRS in your Retirement Account, SA (including amount withdrawn for investment) and OA.|<br style="box-sizing: border-box;"><strong style="box-sizing: border-box;">Bank</strong>New HDB flat/<br style="box-sizing: border-box;">Resale HDB flat/<br style="box-sizing: border-box;">Private propertyValuation and withdrawal limit<br style="box-sizing: border-box;"><br style="box-sizing: border-box;">
+|HDB|Resale HDB flat|Valuation limit|Below 55 years old: Set aside the current [Basic Retirement Sum (BRS)](https://www.cpf.gov.sg/member/faq/retirement-income/general-information-on-retirement/what-are-the-retirement-sums-applicable-to-me) in your Special Account (SA) and Ordinary Account (OA). 55 years old and above: Meet the BRS in your Retirement Account, SA (including amount withdrawn for investment) and OA.|
+|Bank|New HDB flat/Resale HDB flat/Private property|Valuation and withdrawal limit|
 
 ### Tip
 
