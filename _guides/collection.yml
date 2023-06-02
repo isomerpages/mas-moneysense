@@ -2,11 +2,6 @@ collections:
   guides:
     output: true
     order:
-      - Property/.keep
-      - Property/Understand the costs of buying a home.md
-      - Property/How home loans work.md
-      - "Property/Buying a property: How much can you afford?.md"
-      - Property/CPF and your home.md
       - Savings/.keep
       - Savings/​​What is inflation?.md
       - Savings/Effects of compounding interest.md
@@ -18,3 +13,8 @@ collections:
       - Investments/Financial goals at different life stages.md
       - Investments/An introduction to types of investment​s.md
       - Investments/Managing investment risk.md
+      - Property/.keep
+      - Property/Understand the costs of buying a home.md
+      - Property/How home loans work.md
+      - "Property/Buying a property: How much can you afford?.md"
+      - Property/CPF and your home.md
