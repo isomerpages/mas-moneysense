@@ -102,8 +102,7 @@ Compare the two loan types below:
 | Interest rates | Pegged at 0.1% above the prevailing CPF interest rate & reviewed quarterly |Fixed/floating |
 | Maximum loan period | Up to 25 years | Up to 30 years for HDB flat and 35 years for private property  |
 | Loan switch | Can switch to bank loan | Cannot switch to HDB loan |
-| Chargeable fees | No penalty for early repayment | May incur fees for: Early repayment
-; Refinancing within lock-in period |
+| Chargeable fees | No penalty for early repayment | May incur fees for: Early repayment; Refinancing within lock-in period |
 
 **Find out more:** [About Housing Loans: Key Questions to Ask Your Bank Before Taking a Housing Loan](https://www.moneysense.gov.sg/-/media/moneysense/guides-publication/about-home-loan-2018-eng.ashx) 
 
