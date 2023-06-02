@@ -2,6 +2,6 @@ collections:
   guides:
     output: true
     order:
-      - Managing investment risk.md
       - What is investing?.md
       - Financial goals at different life stages.md
+      - Managing investment risk.md
