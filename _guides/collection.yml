@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Savings/​​What is inflation?.md
       - Savings/Taking stock of your finances.md
       - Savings/Effects of compounding interest.md
       - Savings/Setting financial goals.md
