@@ -2,9 +2,9 @@ collections:
   topics:
     output: true
     order:
+      - Savings.md
+      - Loans and Credit.md
+      - Insurance.md
       - Property.md
       - Retirement.md
       - Estate Planning.md
-      - Insurance.md
-      - Loans and Credit.md
-      - Savings.md
