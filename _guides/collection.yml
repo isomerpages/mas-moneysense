@@ -2,5 +2,5 @@ collections:
   guides:
     output: true
     order:
-      - Financial goals at different life stages.md
       - What is investing?.md
+      - Financial goals at different life stages.md
