@@ -40,6 +40,8 @@ By the end of this guide, you’ll understand:
 
 ### Contents
 
-1. **[What is inflation?](/guides/savings/what-is-inflation)**
-2. **[Effects of compounding interest](/guides/savings/effects-of-compounding-interest)**
-3. 
+1.  **[What is inflation?](/guides/savings/what-is-inflation)**
+2.  **[Effects of compounding interest](/guides/savings/effects-of-compounding-interest)**
+3. **[Setting financial goals](/guides/savings/setting-financial-goals)**
+4.  **[Taking stock of your finances](/guides/savings/taking-stock-of-your-finances)**
+5.  **[Managing your money](/guides/savings/managing-your-money)**
