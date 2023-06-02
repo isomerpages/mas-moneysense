@@ -125,7 +125,7 @@ You pay lower property tax if you live in the property you own, compared to if y
 
 ##### For HDB flats
 
-If you're buying an HDB flat and using your CPF savings to pay your monthly instalments, you must be insured under the&nbsp;[CPF’s Home Protection Scheme](https://www.cpf.gov.sg/member/faq/home-ownership/home-protection-scheme).
+If you're buying an HDB flat and using your CPF savings to pay your monthly instalments, you must be insured under the [CPF’s Home Protection Scheme](https://www.cpf.gov.sg/member/faq/home-ownership/home-protection-scheme).
 
 This insurance scheme protects you and your family against losing your home should you become permanently disabled, or pass away before the housing loan is paid up.
 
@@ -133,7 +133,7 @@ Even if you're not using your CPF monies to pay for your monthly instalments, yo
 
 ##### For private properties
 
-A&nbsp;**mortgage reducing term insurance**&nbsp;protects your dependants if you (the borrower) should pass away or become permanently disabled and can no longer service the loan.
+A **mortgage reducing term insurance** protects your dependants if you (the borrower) should pass away or become permanently disabled and can no longer service the loan.
 
 ##### All properties
 If your property is mortgaged to a bank, you may be required to take up a mortgagee interest policy.
@@ -144,7 +144,7 @@ If your property is mortgaged to a bank, you may be required to take up a mortga
 
 For peace of mind, it's a good idea to insure your home against fire and other perils. The cost of such insurance is generally low relative to the potential loss.
 
-Some policies, like fire insurance and mortgagee interest policies, may be required by your bank. Here's a comparison of the [different types of home insurance] http://gia.org.sg/consumers/property.html) and what they are for:
+Some policies, like fire insurance and mortgagee interest policies, may be required by your bank. Here's a comparison of the [different types of home insurance](http://gia.org.sg/consumers/property.html) and what they are for:
 
 #### Fire insurance
 | Who should buy |Homeowners. Recommended for all properties.|
