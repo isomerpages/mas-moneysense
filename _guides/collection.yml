@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Property/How home loans work.md
       - Property/Understand the costs of buying a home.md
       - Property/.keep
       - Savings/.keep
