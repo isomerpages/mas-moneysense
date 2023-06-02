@@ -43,7 +43,7 @@ Our volunteers and partners play a valuable role in making our programmes a succ
 
 Interested in partnering with us? [Get in touch](mailto:moneysense@mas.gov.sg)!
 
-**See also:** [Partnering MoneySense: For schools, workplaces and communities](https://www.moneysense.gov.sg/about-us/partnering-moneysense-for-schools-workplaces-and-communities)[](https://www.moneysense.gov.sg/about-us/partnering-moneysense-for-schools-workplaces-and-communities)
+**See also:** [Partnering MoneySense: For schools, workplaces and communities](/about-us/partnering-moneysense-for-schools-workplaces-and-communities)
 
 Governance
 ----------
