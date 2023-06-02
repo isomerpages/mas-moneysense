@@ -17,7 +17,7 @@ sections:
           url: /starter-packs/buying-a-home-you-can-afford
         - title: Managing investment risk
           description: 3 basic investment strategies
-          url: /
+          url: /guides/managing-investment-risk
         - title: Understanding CareShield Life
           description: When does it pays out
           url: /
