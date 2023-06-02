@@ -7,5 +7,7 @@ Be smart about saving and managing your money. Get tips on setting financial goa
 
 Get started
 
-* Setting Financial Goals
-* Effects of Compounding Interests
+* Setting financial goals
+* Effects of compounding interest
+* Managing your money
+* Taking stock of your finances
