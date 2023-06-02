@@ -8,34 +8,31 @@ third_nav_title: Property
 
 You can pay for your home with your CPF savings. Learn about CPF Withdrawal Limits, buying a second property and properties with less than 60 years lease.
 
-Key takeaways
+**Key takeaways**
 
 *   You can only use your CPF savings up to withdrawal limit.
 *   Once you hit the limit, loan repayment must be in cash.
 *   Plan to pay off the loan by age 55.
 
-Using CPF for your home
------------------------
+### Using CPF for your home
 
 You may use your CPF savings to pay for part of the purchase price of your home and to service the loan. However, there is a cap on how much you can use if you're taking a bank loan.
 
 CPF savings can only be used for properties built on freehold or leasehold land with a remaining lease of more than 20 years, provided the remaining lease can cover the youngest buyer until at least the age of 95.
 
-Key considerations
-------------------
+### Key considerations
 
 Many of us will use CPF to pay for our homes. Yet at the same time, CPF is meant for our retirement. So before committing to your dream home, keep in mind that:
 
 *   The more money you spend on housing, the less you will have for retirement. Don’t allow your total debt repayments to take up a large proportion of your income.
 *   Be aware of the CPF Withdrawal Limit. When the total CPF savings used for the property have reached the limit, you and your co-payer may have to pay the remaining of your monthly instalments in cash.
 
-CPF Withdrawal Limit
---------------------
+### CPF Withdrawal Limit
 
 Based on whether you are buying a new HDB flat, resale flat or a private property, the Valuation Limit or the Withdrawal Limit may apply.
 
-*   **Valuation Limit**&nbsp;is the lower of the purchase price or valuation at the time of purchase.
-*   **Withdrawal Limit**&nbsp;is the maximum amount of CPF you can use for your home, currently capped at 120% of the Valuation Limit.
+*   **Valuation Limit** is the lower of the purchase price or valuation at the time of purchase.
+*   **Withdrawal Limit** is the maximum amount of CPF you can use for your home, currently capped at 120% of the Valuation Limit.
 
 #### Example
 
