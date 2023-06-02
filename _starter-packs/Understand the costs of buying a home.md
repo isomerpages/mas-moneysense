@@ -80,9 +80,8 @@ How much downpayment you have to pay in cash or from your CPF savings depends on
 
 | Flat type | Downpayment in cash or CPF |
 | --- | --- |
-| Build-To-Order Flats (BTO) | 20% of purchase price  
-Includes booking fee and balance (both only in cash and/or CPF) |
-| Resale | 20% of purchase price Includes booking fee and balance (both only in cash and/or CPF) |
+| Build-To-Order Flats (BTO) | 20% of purchase price, includes booking fee and balance (both only in cash and/or CPF). |
+| Resale | 20% of purchase price, includes booking fee and balance (both only in cash and/or CPF). |
 
 #### For a bank loan
 
