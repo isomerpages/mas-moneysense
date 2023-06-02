@@ -61,7 +61,7 @@ To start investing, you will need:
 			<li>Income from dividends.</li>
 			<li>Capital gains if the share price rises.</li>
 			</ul></td>
-		<td width="25%"></td>
+		<td width="25%">Price fluctuations You could lose a lot if the issuer is wound up</td>
 	</tr>
 		<tr>
 		<td width="25%"><a href="/guides/understanding-bonds">Bonds</a> </td>
