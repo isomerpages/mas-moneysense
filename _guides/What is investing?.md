@@ -3,6 +3,8 @@ title: What is investing?
 permalink: /guides/what-is-investing/
 description: ""
 ---
+3 min. read
+
 Get started on investing by learning about terms commonly used in investing and what you should think about before you start.
 
 **Key takeaways**
