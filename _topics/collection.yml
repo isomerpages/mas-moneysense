@@ -2,10 +2,10 @@ collections:
   topics:
     output: true
     order:
-      - Investments.md
       - Savings.md
       - Loans and Credit.md
       - Insurance.md
+      - Investments.md
       - Property.md
       - Retirement.md
       - Estate Planning.md
