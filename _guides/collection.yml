@@ -2,11 +2,11 @@ collections:
   guides:
     output: true
     order:
-      - Property/CPF and your home.md
       - Property/.keep
       - Property/Understand the costs of buying a home.md
       - Property/How home loans work.md
       - "Property/Buying a property: How much can you afford?.md"
+      - Property/CPF and your home.md
       - Savings/.keep
       - Savings/​​What is inflation?.md
       - Savings/Effects of compounding interest.md
