@@ -2,14 +2,14 @@ collections:
   guides:
     output: true
     order:
-      - Insurance/.keep
-      - Loans and Credit/.keep
       - Savings/.keep
       - Savings/​​What is inflation?.md
       - Savings/Effects of compounding interest.md
       - Savings/Setting financial goals.md
       - Savings/Taking stock of your finances.md
       - Savings/​Managing your money.md
+      - Loans and Credit/.keep
+      - Insurance/.keep
       - Investments/.keep
       - Investments/What is investing?.md
       - Investments/Financial goals at different life stages.md
