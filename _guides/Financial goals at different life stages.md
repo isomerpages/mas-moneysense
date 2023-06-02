@@ -7,22 +7,21 @@ description: ""
 
 Your needs change over time, so should your financial plan. Learn how to define your financial goals and priorities, and what to look out for as you invest at different life stage.
 
-Key takeaways
+**Key takeaways**
 
 *   Have a clear idea of your investment goals.
 *   Every life stage brings different priorities that require different investing approaches.
 *   Your risk profile influences your investment portfolio.
 *   The higher the potential returns, the higher the risk.
 
-Assessing your goals
---------------------
+### Assessing your goals
 
 Generally, we invest to meet certain needs at various points in our lives. Are you looking to accumulate savings, buy a home, send your children to university, or prepare for your retirement?
 
 Before you invest, you should have a clear idea of your goals and risk tolerance. These can change over the course of your life, so you should review them regularly.
 
-Investing for different life stages
------------------------------------
+### Investing for different life stages
+
 
 There are, broadly speaking, four major life stages for all of us. Every phase brings different goals and priorities that require a different investment approach.
 
