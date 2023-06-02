@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Insurance/.keep
       - Loans and Credit/.keep
       - Savings/.keep
       - Savings/​​What is inflation?.md
