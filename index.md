@@ -13,14 +13,14 @@ sections:
       url: /
       key_highlights:
         - title: Buying a home you can afford​
-          description: " Get an overview of the costs"
+          description: Get an overview of the costs
           url: /
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Understanding CareShield Life
+          description: When it pays out
+          url: /
       subtitle: Find out the importance of setting financial goals, and managing your
         income, savings and spending.
   - infobar:
