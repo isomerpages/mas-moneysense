@@ -23,73 +23,10 @@ Consider a $100 investment that earns 4% every year compounded.
 
 | Year | Amount at the start of the year | Interest earned in the year | Amount at the end of the year (including interest earned) |
 | --- | --- | --- | --- |
-| 
-1
-
- | 
-
-$100
-
- | 
-
-4% x $100 = $4
-
- | 
-
-$100 + $4 = $104
-
- |
-| 
-
-2
-
- | 
-
-$104
-
- | 
-
-4% x $104 = $4.16
-
- | 
-
-$104 + $4.16 = $108.16
-
- |
-| 
-
-3
-
- | 
-
-$108.16
-
- | 
-
-4% x $108.16 = $4.33
-
- | 
-
-$108.16 + $4.33 = $112.49
-
- |
-| 
-
-4
-
- | 
-
-$112.49
-
- | 
-
-4% x $112.49 = $4.50
-
- | 
-
-$112.49 + $4.50 = $116.99
-
- |
+| 1 | $100 | 4% x $100 = $4 | $100 + $4 = $104 |
+| 2 | $104 | 4% x $104 = $4.16 | $104 + $4.16 = $108.16 |
+| 3 | $108.16 | 4% x $108.16 = $4.33 | $108.16 + $4.33 = $112.49 |
+| 4 | $112.49 | 4% x $112.49 = $4.50 | $112.49 + $4.50 = $116.99 |
 
 As you can see, the interest earned grows each year as the base amount grows, creating a snowball effect.
 
