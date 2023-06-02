@@ -2,8 +2,8 @@ collections:
   guides:
     output: true
     order:
-      - Investments/Managing investment risk.md
-      - Investments/Financial goals at different life stages.md
-      - Investments/What is investing?.md
-      - Investments/An introduction to types of investment​s.md
       - Investments/.keep
+      - Investments/What is investing?.md
+      - Investments/Financial goals at different life stages.md
+      - Investments/An introduction to types of investment​s.md
+      - Investments/Managing investment risk.md
