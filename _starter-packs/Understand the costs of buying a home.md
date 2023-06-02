@@ -65,11 +65,7 @@ Up to $5,000 in total, comprising:
 | Type | Option fee (cash) |
 | --- | --- |
 | EC or private property | 5% |
-| Resale EC or private property | 5% comprising:
-*   1% to obtain the Option to Purchase (OTP)
-*   Remaining 4% upon exercising OTP
-
- |
+| Resale EC or private property | 5% comprising: 1% to obtain the Option to Purchase (OTP) Remaining 4% upon exercising OTP |
 
 
 ### Downpayment
