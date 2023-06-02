@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Investments/.keep
-      - An introduction to types of investment​s.md
       - What is investing?.md
       - Financial goals at different life stages.md
       - Managing investment risk.md
