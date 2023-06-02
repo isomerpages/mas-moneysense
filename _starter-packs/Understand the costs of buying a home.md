@@ -85,22 +85,10 @@ How much downpayment you have to pay in cash or from your CPF savings depends on
 
 #### For a bank loan
 
-|  | No outstanding housing loan | 2nd housing loan | 3rd housing loan |
+| Downpayment | No outstanding housing loan | 2nd housing loan | 3rd housing loan |
 | --- | --- | --- | --- |
-| Minimum cash downpayment | 
-*   5% (for LTV of 75%)
-*   10% (for LTV of 55%)
-
- | 25% | 25% |
-| 
-
-Rest of downpayment
-
- | 
-
-Can be paid using cash and/or CPF
-
- |
+| Minimum cash downpayment | 5% (for LTV of 75%) or 10% (for LTV of 55%) | 25% | 25% |
+| Rest of downpayment| Can be paid using cash and/or CPF |
 
 ### Third-party costs
 
