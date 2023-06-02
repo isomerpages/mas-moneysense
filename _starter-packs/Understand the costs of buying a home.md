@@ -153,12 +153,18 @@ Some policies, like fire insurance and mortgagee interest policies, may be requi
 |Amount to insure|Covers the cost of reinstating the damaged structures.|
 
 #### Home contents insurance
-
+|Who should buy	|Homeowners and tenants. Recommended for all properties.|
+|---|---|
+|Mandatory?|	No.|
+|What is covered|Fire, extraneous perils and home contents.|
+|Amount to insure	|Up to your requirements (based on estimated value of fittings, furniture and valuable appliances).|
 
 #### Mortgagee interest policy
 
 
 **Note:** Extraneous perils include earthquake, windstorm, flood, riot and strike damage, landslip, smoke, damage, sprinkler leakage, explosion, water damage due to overflowing or bursting water tank. These are subject to policy terms.
+
+
 
 
 Insurance for your home
