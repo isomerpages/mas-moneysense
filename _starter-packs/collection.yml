@@ -1,0 +1,4 @@
+collections:
+  starter-packs:
+    output: true
+    order: []
