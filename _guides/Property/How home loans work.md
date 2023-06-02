@@ -91,7 +91,7 @@ To illustrate, here's what happens to the monthly instalment for an S$800,000 30
 
 Even if you are eligible for a bigger loan or a longer loan tenure, do not take it up unless you are sure you will have the resources to fund it.
 
-**See also:**&nbsp;[Mortgage Calculator](https://www.moneysense.gov.sg/financial-tools/mortgage-calculator)
+**See also:**[Mortgage Calculator](/financial-tools/mortgage-calculator)
 
 ### What you can do: Pre-pay your home loan
 
@@ -101,12 +101,14 @@ You can consider making a lump sum pre-payment on your home loan to reduce your 
 
 If you have an outstanding home loan of $800,000 over 25 years, and you make a one-time partial prepayment:
 
-<table style="box-sizing: border-box; margin-bottom: 40px; border-collapse: collapse; display: inline-block; color: rgb(77, 77, 77); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border: none; font-size: 16px; line-height: 20px;"><strong style="box-sizing: border-box;">Prepayment amount (% of outstanding home loan)</strong></td><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: none; border-left: 1px solid rgb(255, 255, 255); border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;">$40,000 (5%)</td><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: none; border-left: 1px solid rgb(255, 255, 255); border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;">$80,000 (10%)</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: 1px solid rgb(255, 255, 255); border-left: none; border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;"><strong style="box-sizing: border-box;">Monthly home loan payment</strong></td><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;">$4,440</td><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;">$4,210</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: 1px solid rgb(255, 255, 255); border-left: none; border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;"><strong style="box-sizing: border-box;">Total interest saved over remaining loan tenure</strong></td><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;">$30,150</td><td style="box-sizing: border-box; background: rgba(236, 227, 201, 0.32); padding: 15px; vertical-align: top; min-width: 150px; border-top: 1px solid rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255); border-image: initial; border-right: none; border-bottom: none; font-size: 16px; line-height: 20px;">$60,300</td></tr></tbody></table>
+|Prepayment amount (% of outstanding home loan)|$40,000 (5%)|$80,000 (10%)|
+|---|---|---|
+|Monthly home loan payment|$4,440|$4,210|
+|Total interest saved over remaining loan tenure|$30,150|$60,300|
 
-**Note:**&nbsp;Assuming that the home loan interest rate rises to 5% per annum and remains at that level for the remaining loan tenure of 25 years. Subject to the terms and conditions of your home loan — check with your lender.
+**Note:** Assuming that the home loan interest rate rises to 5% per annum and remains at that level for the remaining loan tenure of 25 years. Subject to the terms and conditions of your home loan — check with your lender.
 
-All about your loan
--------------------
+### All about your loan
 
 Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet for more details about your home loan.
 
