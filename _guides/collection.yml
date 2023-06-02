@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Estate Planning/.keep
       - Savings/.keep
       - Savings/​​What is inflation?.md
       - Savings/Effects of compounding interest.md
