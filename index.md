@@ -12,9 +12,9 @@ sections:
       button: Starter Pack
       url: /
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Buying a home you can afford​
+          description: " Get an overview of the costs"
+          url: /
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
