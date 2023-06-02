@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Buying a home you can afford​
           description: Get an overview of the costs
-          url: /
+          url: /starter-packs/buying-a-home-you-can-afford
         - title: Managing investment risk
           description: 3 basic investment strategies
           url: /
