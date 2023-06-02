@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Savings/Effects of compounding interest.md
       - Savings/Setting financial goals.md
       - Savings/.keep
       - Investments/.keep
