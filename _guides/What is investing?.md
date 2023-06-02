@@ -13,8 +13,7 @@ Get started on investing by learning about terms commonly used in investing and 
 *   Investing is expected to provide better returns than bank deposits, but it comes with risks
 *   Save first, then invest in products you understand and are suitable for your needs, risk profile and circumstances
 
-Before you start investing
---------------------------
+### Before you start investing
 
 You should have these in place before you start on your investing journey:  
 
@@ -22,8 +21,7 @@ You should have these in place before you start on your investing journey:
 *   Enough cash for emergencies (about 3 to 6 months’ income)
 *   Your basic health and life insurance policies in place
 
-Why invest?
------------
+### Why invest?
 
 Investing is an opportunity to grow your savings so that you can achieve your financial goals, whether it's for your home, your children’s education or your own retirement. The earlier you start, the better!
 
@@ -31,8 +29,7 @@ Investing will generally help you generate better returns than saving in a bank,
 
 This is why you should equip yourself with the necessary investing knowledge and information before you start.
 
-Basic terms and concepts
-------------------------
+### Basic terms and concepts
 
 Here are a few terms that you'll find useful before you start investing:
 
@@ -67,8 +64,7 @@ All investments come with the risk of losing money. Always know the maximum you 
 
 **Portfolio –** The pool of investments you own.
 
-Things to consider
-------------------
+### Things to consider
 
 With so many types of investments to choose from, it helps to take a closer look at your personal financial situation to see what suits you best.
 
