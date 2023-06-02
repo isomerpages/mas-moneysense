@@ -114,13 +114,13 @@ Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet for
 
 ### HDB Loan Eligibility Letter
 
-To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an&nbsp;[HDB Loan Eligibility (HLE)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/hdb-loan-eligibility-hle-letter)&nbsp;letter.
+To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an&nbsp;[HDB Loan Eligibility (HLE)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/hdb-loan-eligibility-hle-letter) letter.
 
 HLE helps you plan for your home purchase by giving you information on how much you can borrow, the monthly repayments, the amount of cash you need and other terms and conditions.
 
 ### Tip
 
-An HDB loan comes with certain eligibility criteria such as an income ceiling.&nbsp;[Check if you qualify](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/housing-loan-options/housing-loan-from-hdb).
+An HDB loan comes with certain eligibility criteria such as an income ceiling.[Check if you qualify](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/housing-loan-options/housing-loan-from-hdb).
 
 ### Property loan fact sheet
 
@@ -138,10 +138,9 @@ It highlights how possible increases in interest rates will affect your monthly 
 
 Ask your bank to take you through the fact sheet so that you know what you are committing to when you take up the loan.
 
-**See also:**&nbsp;[Comparing HDB loans and bank housing loans](https://www.moneysense.gov.sg/articles/2018/10/buying-a-property-how-much-can-you-afford)
+**See also:**[Comparing HDB loans and bank housing loans](/guides/property/buying-a-property-how-much-can-you-afford)
 
-Refinancing and repricing
--------------------------
+### Refinancing and repricing
 
 Refinancing means switching from your existing home loan to a new lender with lower interest rates. Refinancing at your current bank is called repricing, or conversion.
 
@@ -184,12 +183,11 @@ Your instalment amounts and interest rates will likely change if you change your
 Before committing to a refinanced housing loan package:
 
 *   Read the terms and conditions and understand what the new package offers.
-*   Check the&nbsp;[CPF Housing Withdrawal Limit](https://www.cpf.gov.sg/member/faq/home-ownership/housing-scheme/how-much-cpf-savings-can-i-use-for-my-property-purchase)&nbsp;applicable to you when you refinance your housing loan.
+*   Check the [CPF Housing Withdrawal Limit](https://www.cpf.gov.sg/member/faq/home-ownership/housing-scheme/how-much-cpf-savings-can-i-use-for-my-property-purchase) applicable to you when you refinance your housing loan.
 
-What if you can't pay?
-----------------------
+### What if you can't pay?
 
-If you have trouble keeping up with your monthly payments, approach your mortgagee quickly (HDB or the bank). HDB may be able to better advise you on&nbsp;[alternative options](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/financial-assistance-measures), while the bank may be able to help you restructure the loan.
+If you have trouble keeping up with your monthly payments, approach your mortgagee quickly (HDB or the bank). HDB may be able to better advise you on [alternative options](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/financial-assistance-measures), while the bank may be able to help you restructure the loan.
 
 Your home loan is secured against your property. In case of a loan default, HDB or the bank has a first charge and the CPF Board has a second charge on your property, if CPF savings have been used for downpayment or to service the loan.
 
@@ -197,14 +195,14 @@ If you fail to make the home loan payments when they are due, the first charge a
 
 The CPF Board is entitled to the remaining sales proceeds to recover what has been deducted from your CPF OA.
 
-Download:&nbsp;[Managing housing loan arrears with financial institutions - what are my options?](https://www.moneysense.gov.sg/-/media/moneysense/media-article/informational-brochure-for-flat-owners-in-fi-housing-loan-arrears-after-30-sep.ashx)
+Download: [Managing housing loan arrears with financial institutions - what are my options?](https://www.moneysense.gov.sg/-/media/moneysense/media-article/informational-brochure-for-flat-owners-in-fi-housing-loan-arrears-after-30-sep.ashx)
 
 ### Tip
 
-If you are using CPF to service your housing instalments, it makes sense to pay off the loan&nbsp;**by the CPF withdrawal age of 55,**&nbsp;due to the lower CPF contributions from age 50 onwards. With lower contributions to your Ordinary Account, you may have to use more cash for the loan repayments.
+If you are using CPF to service your housing instalments, it makes sense to pay off the loan **by the CPF withdrawal age of 55,** due to the lower CPF contributions from age 50 onwards. With lower contributions to your Ordinary Account, you may have to use more cash for the loan repayments.
 
-**See also:**&nbsp;[Managing debt: What you can do](https://www.moneysense.gov.sg/articles/2018/11/managing-debt-what-you-can-do)
+**See also:** [Managing debt: What you can do](/guide/loans-and-credit/managing-debt-what-you-can-do)
 
 ### Find out more
 
-Download the guide:&nbsp;[About Housing Loans: Key Questions to Ask Your Bank Before Taking a Housing Loan](https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.ashx)
+Download the guide:[About Housing Loans: Key Questions to Ask Your Bank Before Taking a Housing Loan](https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.ashx)
