@@ -7,13 +7,12 @@ description: ""
 
 Learn about the financial markets, common investment products and what they are good for.
 
-Key takeaways
+**Key takeaways**
 
 *   Investment products have different features and risk characteristics.
 *   For more complex products, you will be required to undergo a knowledge assessment or account review before they can be sold to you.
 
-What you should know about investment products
-----------------------------------------------
+### What you should know about investment products
 
 An important aspect of investing is understanding the product before you put your money in it. You might ask:
 
@@ -22,8 +21,7 @@ An important aspect of investing is understanding the product before you put you
 *   Will this product complement, supplement or replace your existing investments?
 *   Will you become over-exposed to a particular risk if your portfolio is not sufficiently diversified?
 
-A brief introduction to financial markets
------------------------------------------
+### A brief introduction to financial markets
 
 The **primary market** is where new issues of financial assets are sold. Examples are initial public offers (IPOs) for ordinary shares, and tenders for government bonds.
 
@@ -35,18 +33,16 @@ Different asset classes such as shares, exchange traded funds (ETFs) and real es
 
 **Learn more:** [Trading on the SGX](https://www.sgx.com/beginners-guide-investing)
 
-What you need to start
-----------------------
+### What you need to start
 
 To start investing, you will need:
 
 *   A [Central Depository (CDP) account](https://www1.cdp.sgx.com/sgx-cdp-web/login) to hold your securities
 *   A brokerage account with a securities broker for trading
 
-**See also:** [Guide to shares: How to invest](https://www.moneysense.gov.sg/articles/2018/10/guide-to-shares-how-to-invest)
+**See also:** [Guide to shares: How to invest](/guides/guide-to-shares-how-to-invest)
 
-Common investment products
---------------------------
+### Common investment products
 
 | Types of investments | What it is | What it's good for | How you can lose money |
 | --- | --- | --- | --- |
