@@ -53,9 +53,14 @@ To start investing, you will need:
 	</tr>
 	<tr>
 		<td width="25%"><a href="/guides/guide-to-shares-what-you-need-to-know-before-you-invest">Shares</a></td>
-    <td width="25%"><ul><li>Shares are issued by companies to raise capital or financing from investors.</li>
-			<li>When you buy a share in a company, you become a part-owner of that company.</li></ul></td>
-		<td width="25%"></td>
+    <td width="25%"><ul>
+			<li>Shares are issued by companies to raise capital or financing from investors.</li>
+			<li>When you buy a share in a company, you become a part-owner of that company.</li>
+			</ul></td>
+		<td width="25%"><ul>
+			<li>Income from dividends.</li>
+			<li>Capital gains if the share price rises.</li>
+			</ul></td>
 		<td width="25%"></td>
 	</tr>
 		<tr>
