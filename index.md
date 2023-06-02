@@ -10,7 +10,7 @@ sections:
       title: Making sense of your money​​
       background: /images/plant-coins-hero.jpg
       button: Starter Pack
-      url: /
+      url: /starter-packs/making-sense-of-your-money
       key_highlights:
         - title: Buying a home you can afford​
           description: Get an overview of the costs
