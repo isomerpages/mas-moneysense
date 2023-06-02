@@ -98,6 +98,7 @@ How much downpayment you have to pay in cash or from your CPF savings depends on
 | Legal fee | Lawyers | Processing the mortgage over the property to be financed. |
 | Stamp duty | Government | A tax payable for registration of the mortgage. |
 | Insurance premium | Insurance company | Insurance cover for your property against fire and other damage. Lenders will require you to adequately insure assets being financed. |
+
 ### Recurring payments
 
 In addition to your monthly home loan repayments, you'll also want to budget for other recurring costs that come with owning a home. These include:
