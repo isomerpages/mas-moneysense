@@ -15,9 +15,9 @@ sections:
         - title: Buying a home you can afford​
           description: Get an overview of the costs
           url: /
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Managing investment risk
+          description: 3 basic investment strategies
+          url: /
         - title: Understanding CareShield Life
           description: When it pays out
           url: /
