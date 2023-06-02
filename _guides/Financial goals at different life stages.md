@@ -47,31 +47,31 @@ Given your greater financial obligations at this time, it is a good idea to exer
 
 You should aim to:
 
-*   **Buy a home you can afford** \- Do not over-extend yourself on [housing](https://www.moneysense.gov.sg/starter-packs/buying-a-home-you-can-afford). Leave more for planning your future retirement needs.
+*   **Buy a home you can afford** \- Do not over-extend yourself on [housing](/starter-packs/buying-a-home-you-can-afford). Leave more for planning your future retirement needs.
 *   **Make informed financial decisions** \- Assess your family's needs and goals. There are trade-offs between short- and long-term goals — buying a car or paying for travels may impact your savings for retirement.
 *   **Build enough financial reserves** \- Review if your emergency fund is sufficient to cover your expanded family's expenses. You may need to top up your emergency cash savings to cater to new commitments, such as a new house or additional child.
-*   **Have adequate insurance coverage** \- As you now have more commitments, ensure that you and your dependants have [adequate insurance coverage](https://www.moneysense.gov.sg/articles/2018/10/assessing-your-insurance-needs).
+*   **Have adequate insurance coverage** \- As you now have more commitments, ensure that you and your dependants have [adequate insurance coverage](/guides/assessing-your-insurance-needs).
 
 Once you have laid strong financial foundations and settled on a stable budget, it's time to capitalise on your peaking earning power. You may have the capacity to set aside more for investments. With your financial bases covered, you'll have greater latitude to seek to maximise your investment returns **based on your risk appetite**.
 
 ### Preparing for retirement
 
-Later in your career, you may have to manage many competing priorities. Your children may need money for university, and you may need to take care of your aged parents' financial needs. It's also time for you to assess your [retirement plans](https://www.moneysense.gov.sg/starter-packs/planning-for-retirement).
+Later in your career, you may have to manage many competing priorities. Your children may need money for university, and you may need to take care of your aged parents' financial needs. It's also time for you to assess your [retirement plans](/starter-packs/planning-for-retirement).
 
 At this point, where your investment horizon gets shorter, you may want to preserve what you have saved by shifting more of your investments into those that are less risky. You may also invest in different products that can generate a regular stream of income for you.
 
 You should aim to:
 
-*   **Prepare ahead for your retirement needs** \- Work out [how much you'll need](https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs) for your desired lifestyle and healthcare when you retire. You could finance these by [topping up your CPF](https://www.cpf.gov.sg/member/growing-your-savings/saving-more-with-cpf/top-up-to-enjoy-higher-retirement-payouts/top-ups-for-loved-ones-employees-and-others) and investing in suitable products.
+*   **Prepare ahead for your retirement needs** \- Work out [how much you'll need](/guides/determine-your-retirement-needs) for your desired lifestyle and healthcare when you retire. You could finance these by [topping up your CPF](https://www.cpf.gov.sg/member/growing-your-savings/saving-more-with-cpf/top-up-to-enjoy-higher-retirement-payouts/top-ups-for-loved-ones-employees-and-others) and investing in suitable products.
 *   **Set aside budget for your dependants' needs** \- Make sure you have enough saved or invested for your children's tertiary education, and your parent's long-term care.
 *   **Think carefully about upgrading** \- Don't overspend on upgrading your home. You need to prioritise and manage your money wisely.
 
 ### Retiring well
 
-Once you stop work, you would want to be self-sufficient. Ideally, your home should be paid up and you have an adequate [retirement income](https://www.moneysense.gov.sg/articles/2018/11/options-for-your-retirement-income) stream. You should consider lower risk investments that can generate a regular income for you and are easy to liquidate — such as [Singapore Savings Bonds](https://www.mas.gov.sg/bonds-and-bills/Singapore-Savings-Bonds).
+Once you stop work, you would want to be self-sufficient. Ideally, your home should be paid up and you have an adequate [retirement income](/guides/options-for-your-retirement-income) stream. You should consider lower risk investments that can generate a regular income for you and are easy to liquidate — such as [Singapore Savings Bonds](https://www.mas.gov.sg/bonds-and-bills/Singapore-Savings-Bonds).
 
 You can aim to:
 
 *   **Retire debt-free** \- Aim to fully pay up your housing loan before you retire. Start repaying earlier from your late 40s to 50s.
 *   **Monetise your home** \- If you need additional funds for retirement, you could sell your home and buy a smaller, less expensive place. Find out about right-sizing and lease buyback.
-*   **Spend your retirement funds sensibly -** Beware of [scams](https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam) and spend within your means.
+*   **Spend your retirement funds sensibly -** Beware of [scams](/guides/how-to-spot-an-investment-scam) and spend within your means.
