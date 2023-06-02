@@ -29,28 +29,8 @@ Here's the difference between the two spending patterns:
 
 | Spending pattern | When salary comes in, it goes to: |
 | --- | --- |
-| 
-Save first and spend what's left.  
-  
-
-
- | 
-
-1.  Savings first
-2.  Must-pay bills
-3.  Lifestyle expenses
-
- |
-| 
-
-Spend first and maybe, save later.
-
- | 
-
-1.  Must-pay bills and lifestyle expenses first
-2.  Savings, if there's money left
-
- |
+| Save first and spend what's left.   | 1.  Savings first 2.  Must-pay bills 3.  Lifestyle expenses |
+| Spend first and maybe, save later. | 1.  Must-pay bills and lifestyle expenses first 2.  Savings, if there's money left  |
 
 Saving first ensures that you save a portion of your income every month. Ideally, you should save at least 20% of your income every month. For the rest of your income, use a budget to help you manage your expenses.
 
