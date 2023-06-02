@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Property/CPF and your home.md
       - Property/.keep
       - Property/Understand the costs of buying a home.md
       - Property/How home loans work.md
