@@ -90,38 +90,18 @@ Here's a summary of when CPF savings can be used for buying an older property:
 
 | Remaining lease | Use of CPF funds |
 | --- | --- |
-| 
-\&gt; 60 years
-
- | 
-
-Allowed
-
- |
-| 
-
-21 to 59&nbsp;years
-
- | 
-
-Allowed, if the remaining lease can cover the youngest buyer until at least the age of 95&nbsp;
-
- |
+| &gt; 60 years | Allowed |
+| 21 to 59 years  | Allowed, if the remaining lease can cover the youngest buyer until at least the age of 95  |
 | &lt; 20 years | Not allowed |
 
 **For HDB loans:**
 
 | Remaining lease | Use of CPF funds |
 | --- | --- |
-| \&gt; 60 years | Allowed |
-| 21 to 59 years&nbsp; | 
-*   Allowed, if remaining lease can cover the youngest buyer until at least the age of 95&nbsp;
-*   Restrictions on loan tenure apply
-
- |
+| &gt; 60 years | Allowed |
+| 21 to 59 years | Allowed, if remaining lease can cover the youngest buyer until at least the age of 95. Restrictions on loan tenure apply. |
 | &lt; 20 years | Not allowed |
 
-Do your sums
-------------
+### Do your sums
 
-Use the&nbsp;[CPF calculators](https://www.cpf.gov.sg/member/tools-and-services/calculators)&nbsp;to check your affordability, withdrawal limits, loan repayments and interest payable.
+Use the [CPF calculators](https://www.cpf.gov.sg/member/tools-and-services/calculators) to check your affordability, withdrawal limits, loan repayments and interest payable.
