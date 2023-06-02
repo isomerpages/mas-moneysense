@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Savings/Setting financial goals.md
       - Savings/.keep
       - Investments/.keep
       - Investments/What is investing?.md
