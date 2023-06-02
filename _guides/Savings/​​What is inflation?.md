@@ -24,5 +24,5 @@ Inflation has a big impact on how we get and use our money because we need to th
 ### Causes and effects of inflation
 
 What causes inflation and what are its effects? How does the Monetary Authority of Singapore (MAS) help to manage inflation in Singapore? Watch this video to find out:
-
-[https://youtu.be/IAy4TIya8GU](https://youtu.be/IAy4TIya8GU)
+[![youtube-thumbnail-inflation](/images/Guides/youtube-thumbnail-inflation.jpg)
+](https://youtu.be/IAy4TIya8GU)
