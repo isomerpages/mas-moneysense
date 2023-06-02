@@ -1,4 +1,5 @@
 collections:
   starter-packs:
     output: true
-    order: []
+    order:
+      - Buying a home you can afford​.md
