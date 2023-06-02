@@ -21,7 +21,7 @@ The home that you buy should meet you and your family's needs now and in the fut
 
 Before looking for a home to buy:
 
-*   [Do your sums](/guides/taking-stock-of-your-finances)&nbsp;and look at what you can afford
+*   [Do your sums](/guides/savings/taking-stock-of-your-finances)&nbsp;and look at what you can afford
 *   Find out what your&nbsp;[mortgage payments](/financial-tools/mortgage-calculator)&nbsp;will look like
 
 What you can afford depends on your income, expenses, debts and savings as well as the amount you may be eligible to borrow. You'll need to make some upfront payments, and keep up with monthly housing loan instalments, and other recurring charges.
