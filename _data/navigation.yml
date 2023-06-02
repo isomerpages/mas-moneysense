@@ -4,6 +4,8 @@ links:
     url: /about-us/
   - title: Life Events
     collection: life-events
+  - title: Guides
+    collection: guides
   - title: Topics
     collection: topics
   - title: Financial Calculators
