@@ -8,17 +8,16 @@ third_nav_title: Property
 
 Find out about the types of home loans available and how interest is calculated, and learn about repayments and refinancing.
 
-Key takeaways
+**Key takeaways**
 
 *   The HDB Loan Eligibility (HLE) letter and property loan fact sheet contain the terms of your loan and show how rising interest rates could affect your repayments.
 *   For bank loans, variable rates will kick in after the fixed rate lock-in period ends (differs by loan package).
 *   Refinancing a home loan may help you save on the interest.
 *   Making a partial pre-payment can help you lower your monthly loan payments and save on the interest as well.
 
-What is a home loan?
---------------------
+### What is a home loan?
 
-An HDB loan or home loan is money borrowed from HDB or the bank to help you buy your property. For HDB flats, you may also be able to tap on housing loans at a&nbsp;[concessionary interest rate](https://www.hdb.gov.sg/cs/infoweb/news-and-publications/publications/hdbspeaks/housing-loan-at-a-concessionary-interest-rate), subject to HDB's criteria.
+An HDB loan or home loan is money borrowed from HDB or the bank to help you buy your property. For HDB flats, you may also be able to tap on housing loans at a [concessionary interest rate](https://www.hdb.gov.sg/cs/infoweb/news-and-publications/publications/hdbspeaks/housing-loan-at-a-concessionary-interest-rate), subject to HDB's criteria.
 
 With a home loan:
 
@@ -27,8 +26,7 @@ With a home loan:
 *   The loan is disbursed after the downpayment is made, when you pay the remaining purchase price to the seller
 *   Interest is charged from the first disbursement
 
-Who is eligible for a home loan?
---------------------------------
+### Who is eligible for a home loan?
 
 HDB and the banks will have their own eligibility criteria for prospective borrowers. These include:
 
@@ -40,8 +38,7 @@ HDB and the banks will have their own eligibility criteria for prospective borro
 
 If you are self-employed or do not have a regular income, you must demonstrate the ability to service monthly instalments to be eligible for a loan. Each lender will assess your eligibility based on its criteria.
 
-Types of home loans
--------------------
+### Types of home loans
 
 HDB offers a concessionary loan for HDB buyers only, at an interest rate that is pegged at 0.1% above the CPF Ordinary Account interest rate. This interest rate is revised in line with the revision of CPF interest rates.
 
@@ -75,10 +72,9 @@ To understand the differences of the various bank loan packages better, ask your
 *   Under what circumstances the rate is changed
 *   What special features, if any, apply and if these will be removed or amended later
 
-**Note:**&nbsp;A promotional rate is lower than the rate for the remainder of the loan. Make sure you know how much your monthly payments will increase when the promotional period is over.
+**Note:** A promotional rate is lower than the rate for the remainder of the loan. Make sure you know how much your monthly payments will increase when the promotional period is over.
 
-How interest is computed
-------------------------
+### How interest is computed
 
 The common method of calculating interest is monthly reducing (monthly rest).
 
