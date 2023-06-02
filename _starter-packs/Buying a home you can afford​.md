@@ -35,3 +35,6 @@ This starter pack aims to help you learn the basics before buying, and helps you
 *   Are there grants and schemes which I can qualify for?
 
 At the end of this guide, you will have a better idea of what it takes to own a property.
+
+### Contents
+1. 
