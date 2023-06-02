@@ -36,8 +36,7 @@ Saving first ensures that you save a portion of your income every month. Ideally
 
 Conversely, a spend-first-save-later pattern could mean there is nothing left for savings.
 
-How do you spend?
------------------
+### How do you spend?
 
 Before you start tracking your spending, take an honest look at how you spend your money.
 
@@ -61,8 +60,7 @@ You should take steps to curb your spending if it is keeping you from achieving 
 
 A simple way to track your spending is by using a budgeting app. Or you could jot down what you spent, when and how much you paid for it.
 
-Setting a budget
-----------------
+### Setting a budget
 
 A budget is a good **savings and spending plan**. It can help you manage your savings, income, spending, debt and other liabilities prudently. Setting up a budget is also a great way to get a quick snapshot of where your money is coming from and going.
 
@@ -86,8 +84,7 @@ Here are a few tips to get you started:
 4.  **Set up a budget and follow it in a disciplined manner.** Expenses may be budgeted but we need not spend it if we don't need to.
 5.  **Monitor your budget regularly** to see if you are on track. Adjust your budget if, for example, you get a pay rise or get a pay cut or if you have another addition to the family.
 
-If you're spending too much
----------------------------
+### If you're spending too much
 
 Look for ways to reduce your expenses. Here are some ideas:
 
@@ -97,7 +94,6 @@ Look for ways to reduce your expenses. Here are some ideas:
 *   Have more home-cooked meals instead of eating out
 *   Review monthly subscriptions that you may no longer need
 
-Do your sums
-------------
+### Do your sums
 
-Drawing up a monthly budget can help you take control of your expenses. Use the [Budget Calculator](https://www.moneysense.gov.sg/financial-tools/budget-calculator) to see how much you can spend after setting aside your savings.
+Drawing up a monthly budget can help you take control of your expenses. Use the [Budget Calculator](/financial-tools/budget-calculator) to see how much you can spend after setting aside your savings.
