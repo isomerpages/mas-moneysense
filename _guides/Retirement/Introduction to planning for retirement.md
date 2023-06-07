@@ -88,8 +88,7 @@ Assuming an inflation rate of 3%, the current cost of living would double in 24 
 
 **See also:** [Effects of compounding interest](https://www.moneysense.gov.sg/articles/2018/10/effects-of-compounding-interest)
 
-Building a retirement plan
---------------------------
+### Building a retirement plan
 
 What does it take to draw up a retirement plan? Here are the steps you'll need to go through:
 
