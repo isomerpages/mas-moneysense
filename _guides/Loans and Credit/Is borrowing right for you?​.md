@@ -8,13 +8,12 @@ third_nav_title: Loans and Credit
 
 Borrowing money is a huge responsibility. Find out why people borrow, and what to consider before you do.
 
-Key takeaways
+**Key takeaways**
 
 *   Only borrow what you can afford to repay, no matter what happens.
 *   Always ask for a schedule of payments and read the small print.
 
-When should you take a loan?
-----------------------------
+### When should you take a loan?
 
 Apart from borrowing to make big ticket purchases, people also borrow for other reasons. These fall into 2 broad buckets:
 
@@ -23,8 +22,7 @@ Apart from borrowing to make big ticket purchases, people also borrow for other 
 
 Take a moment to think about why you're borrowing. If you are borrowing mostly for avoidable events, it's time to take stock.
 
-Before you take a loan
-----------------------
+### Before you take a loan
 
 Borrowing money is a huge responsibility. Before you commit to borrowing, ask yourself these questions:
 
@@ -61,12 +59,9 @@ For example, for a $50,000 car loan at 6% interest a year, here's how much you c
 | Number of payments (A) | 84 | 72 | 60 |
 | Monthly payment (B) | $731 | $829 | $967 |
 | Total payments (A) x (B) | $61,404 | $59,688 | $58,020 |
-| **Interest saved** versus a 7-year loan | \- | **$1,716**  
-(i.e. $61,404 – $59,688) | **$3,384**  
-(i.e. $61,404 – $58,020) |
+| **Interest saved** versus a 7-year loan | \- | **$1,716** (i.e. $61,404 – $59,688) | **$3,384**  (i.e. $61,404 – $58,020) |
 
-After you borrow
-----------------
+### After you borrow
 
 You should:
 
