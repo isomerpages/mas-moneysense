@@ -18,9 +18,9 @@ sections:
         - title: Managing investment risk
           description: 3 basic investment strategies
           url: /guides/managing-investment-risk
-        - title: Understanding CareShield Life
-          description: When does it pays out
-          url: /
+        - title: Insurance Basics
+          description: Get the protection you need
+          url: /guides/insurance/insurance-basics/
       subtitle: Find out the importance of setting financial goals, and managing your
         income, savings and spending.
   - infobar:
