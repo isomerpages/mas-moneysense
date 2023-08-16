@@ -3,3 +3,26 @@ title: Major Financial Decisions
 permalink: /major-financial-decisions/
 description: ""
 ---
+To feature 
+
+#### Getting married 
+
+Getting married: Planning your finances together (moneysense.gov.sg) 
+
+#### Having children 
+
+Planning your finances when having and raising children (moneysense.gov.sg) 
+
+Getting your kids started on money management (moneysense.gov.sg) 
+
+5 Questions On... How to plan activities for your children without breaking the bank (moneysense.gov.sg) 
+
+3 things you didn’t know about… teaching your kid about money (moneysense.gov.sg) 
+
+#### Buying a home 
+
+moneysense.gov.sg/articles/2018/10/buying-a-property-how-much-can-you-afford?sc_lang=en 
+
+How home loans work (moneysense.gov.sg) 
+
+moneysense.gov.sg/articles/2018/11/costs-of-borrowing-flat-rate-monthly-rest-and-effective-interest-rate?sc_lang=en 
