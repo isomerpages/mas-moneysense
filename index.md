@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Are You Planning Your Finances Well
       button: Read More
-      url: /are-you-planning-your finances well
+      url: /planning-your-finances
       image: /images/plant-coins-hero.jpg
       alt: are you planning your finances
   - infopic:
