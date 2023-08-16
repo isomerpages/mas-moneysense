@@ -35,4 +35,9 @@ sections:
       url: /are-you-planning-your finances well
       image: /images/plant-coins-hero.jpg
       alt: are you planning your finances
+  - infopic:
+      title: Navigating Major Financial Decisions
+      button: Read More
+      url: /navigating-major-financial-decisions
+      alt: financial decisions
 ---
