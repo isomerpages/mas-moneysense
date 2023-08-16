@@ -29,4 +29,10 @@ sections:
       url: /stay-updated
       image: /images/spot an investment scam hero banner.jpg
       alt: stay-updated
+  - infopic:
+      title: Are You Planning Your Finances Well
+      button: Read More
+      url: /are-you-planning-your finances well
+      image: /images/plant-coins-hero.jpg
+      alt: are you planning your finances
 ---
