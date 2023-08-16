@@ -1,0 +1,4 @@
+collections:
+  current-trends-of-concern:
+    output: true
+    order: []
