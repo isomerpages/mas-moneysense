@@ -3,7 +3,8 @@ title: Current Trends of Concerns
 permalink: /current-trends/
 description: ""
 ---
-*   Scams 
+
+![](/images/hero-banner.png)*   Scams 
     
 
 *   [moneysense.gov.sg/articles/2019/7/4-tips-to-stay-safe-when-using-e-payments?sc\_lang=en](https://www.moneysense.gov.sg/articles/2019/7/4-tips-to-stay-safe-when-using-e-payments?sc_lang=en) 
