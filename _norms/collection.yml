@@ -1,0 +1,4 @@
+collections:
+  norms:
+    output: true
+    order: []
