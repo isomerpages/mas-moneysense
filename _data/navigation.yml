@@ -1,9 +1,9 @@
 logo: /images/logo-moneysense-nobg.png
 links:
-  - title: Stay Updated
-    url: /stay-updated
   - title: Who we are
     url: /about-us/
+  - title: Stay Updated
+    url: /stay-updated
   - title: Starter Packs
     collection: starter-packs
   - title: Contact Us
