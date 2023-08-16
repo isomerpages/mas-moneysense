@@ -23,10 +23,10 @@ sections:
           url: /guides/insurance/insurance-basics/
       subtitle: Find out the importance of setting financial goals, and managing your
         income, savings and spending.
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: In The Spotlight
+      button: FINd out more
+      url: /stay-updated
+      image: /images/spot an investment scam hero banner.jpg
+      alt: stay-updated
 ---
