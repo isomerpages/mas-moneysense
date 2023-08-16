@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Moneysense Website
+title: MoneySense Website
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
