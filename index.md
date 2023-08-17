@@ -7,14 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: MoneySense
       background: /images/20th anniversary banner.jpg
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      button: Celebrate with us
-      url: /20th_anniversary
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infopic:
       title: In The Spotlight
       button: FINd out more
