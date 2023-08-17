@@ -8,11 +8,12 @@ notification: ""
 sections:
   - hero:
       title: Making sense of your money​​
-      background: /images/plant-coins-hero.jpg
-      button: Latest Read
-      url: /scams
+      background: /images/Homepage/20th anniversary banner.jpg
       subtitle: Find out the importance of setting financial goals, and managing your
         income, savings and spending.
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infopic:
       title: In The Spotlight
       button: FINd out more
