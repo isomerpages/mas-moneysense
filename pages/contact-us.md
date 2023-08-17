@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: ""
       - email: moneysense@mas.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
 ---
