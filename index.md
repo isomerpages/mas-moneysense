@@ -7,13 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Making sense of your money​​
+      title: MoneySense
       background: /images/Homepage/20th anniversary banner.jpg
-      subtitle: Find out the importance of setting financial goals, and managing your
-        income, savings and spending.
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: Celebrate with us
+      url: /20th_anniversary
   - infopic:
       title: In The Spotlight
       button: FINd out more
