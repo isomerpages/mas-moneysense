@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: MoneySense
-      background: /images/Homepage/20th anniversary banner.jpg
+      background: /images/20th anniversary banner.jpg
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
