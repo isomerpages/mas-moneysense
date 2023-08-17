@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/20th anniversary banner.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      background: /images/plant-coins-hero.jpg
+      title: MoneySense
+      button: Celebrate with us
+      url: /20th_Anniversary
   - infopic:
       title: In The Spotlight
       button: FINd out more
