@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/orange background.png
+      background: /images/Homepage/dark blue background.png
       title: MoneySense
       subtitle: 20TH ANNIVERSARY
   - infopic:
