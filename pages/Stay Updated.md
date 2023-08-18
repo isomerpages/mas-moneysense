@@ -8,7 +8,7 @@ description: ""
 
 ![socials](/images/Homepage/socials.png)Get the latest news on our socials.
 
-Follow us on :   [Facebook]      [Instagram]      [YouTube]
+Follow us on :    [Facebook]      [Instagram]      [YouTube]
 
 
 ![MoneySense Facebook](/images/Homepage/facebook.png)[Facebook](https://facebook.com/MoneySense/) 
