@@ -5,25 +5,25 @@ description: ""
 ---
 
 
-4 min. read
+![3 traps to avoid when shopping](/images/In%20The%20Spotlight/3%20traps%20to%20avoid%20when%20shopping.jfif)4 min. read
 
 **It is no accident that we sometimes spend more than we planned to when we go shopping. Learn about some ways retailers use to encourage you to spend more and how you can make smart choices in your spending.**
 
-**Key takeaways**
+#### Key takeaways
 
 *   Paying for a purchase through instalments is a form of borrowing. There are late fees or charges involved if you cannot meet repayments, making the purchase more expensive.
 *   Take your time to consider carefully before making a purchase – you will be less likely to buy something you do not need.
 *   Overspending adds up. Not only will you be stretching your finances at that point, you also hobble your financial goals for the long-term future.
 
-**How do retailers lull you into spending more?**
+#### How do retailers lull you into spending more?
 
 Many of us are enticed by the loud advertisements on shopping events, especially when it comes to the last few months of the year – think 10.10 Sale, 11.11 Sale, Black Friday & Cyber Monday.
 
 There just seems to be so many bargains to be scored! But are there, really?
 
-**Giving the appearance of affordability – buy now, pay later**
+#### Giving the appearance of affordability – buy now, pay later
 
-Instalment payment plans or buy now, pay later options may make pricier options _appear_ affordable by spreading out payments. Instead of paying $1,200 now for a mobile phone, paying $400 each time over three instalments is more appealing for many – except perhaps we could have only afforded a $600 mobile phone with our budget. (Find out the real costs of instalment payment plans [here](https://www.moneysense.gov.sg/articles/2018/11/the-real-cost-of-instalment-payment-plans).)
+Instalment payment plans or buy now, pay later options may make pricier options _appear_ affordable by spreading out payments. Instead of paying $1,200 now for a mobile phone, paying $400 each time over three instalments is more appealing for many – except perhaps we could have only afforded a $600 mobile phone with our budget. (Find out the real costs of instalment payment plans [here]((https://www.moneysense.gov.sg/articles/2018/11/the-real-cost-of-instalment-payment-plans)).
 
 To be fair, instalments are not bad, in and of themselves. In fact, most of us would _need_ to pay by instalments at some point in our lives, such as for our home.
 
@@ -41,7 +41,7 @@ The rule of thumb for shopping is to take time to ask yourself a few questions:
 
 Usually, leaving the store or website and waiting for three days before making a purchase will give you clear answers.
 
-**Preying on FOMO**
+#### Preying on FOMO
 
 With online shopping, the temptation to splurge has become a daily struggle for many.
 
@@ -55,7 +55,7 @@ Ideally, take time to do your research when you have your eye on something. Comp
 
 It is also no secret that retailers monitor your browsing activity and use it to their advantage by pushing similar or complementary products your way. Ditch your shopping apps and turn on the private or incognito feature on your browser when you next shop online to cut out temptations!
 
-**Counting on penny-wise behavior**
+#### Counting on penny-wise behavior
 
 Ever wondered why there are usually three sizes of popcorn, iced latte, or fries?
 
@@ -67,8 +67,8 @@ Making a shopping list could help you stay away from distractions merchants shov
 
 A small adjustment you could make to your online shopping routine is to carefully go through your shopping cart. Are you sure you want to buy all the items? Are there hidden charges?
 
-**The bottomline**
+#### The bottomline
 
 Knowing how retailers go all out to persuade you to part with more money is bagging a deal in itself. After all, that money you did not spend because you saw through their tricks can be put to better use, such as saving or investing.
 
-It is easier to curb an itch to turn to retail therapy when you have clear financial goals (read more about how to set goals for yourself [here](https://www.moneysense.gov.sg/articles/2020/6/setting-financial-goals), and try our tool for reaching for your own financial goals [here](https://www.mymoneysense.gov.sg/)).
+It is easier to curb an itch to turn to retail therapy when you have clear financial goals (read more about how to set goals for yourself [here](https://www.moneysense.gov.sg/articles/2020/6/setting-financial-goals), and try our tool for reaching for your own financial goals here. 
