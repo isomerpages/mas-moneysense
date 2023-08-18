@@ -8,7 +8,7 @@ description: ""
 ### Hot Topics
 
 
-* [Buy Now Pay Later](/_folders/buy-now-pay-later)
+* [Buy Now Pay Later](/buy-now-pay-later)
 
 * Cryptocurrency
 
