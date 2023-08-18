@@ -2,4 +2,5 @@ collections:
   buy-now-pay-later:
     output: true
     order:
+      - Needs Versus Wants (VIDEO).md
       - 3 Traps To Avoid When You Go Shopping.md
