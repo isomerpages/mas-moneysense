@@ -1,0 +1,4 @@
+collections:
+  buy-now-pay-later:
+    output: true
+    order: []
