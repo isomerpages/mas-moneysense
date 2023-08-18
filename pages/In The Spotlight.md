@@ -8,9 +8,9 @@ description: ""
 ### Hot Topics
 
 
-* [Buy Now Pay Later](/folders/buy-now-pay-later/)
+[Buy Now Pay Later]((/about-us/partnering-moneysense-for-schools-workplaces-and-communities))
 
-* Cryptocurrency
+* Cryptocurrency[Cryptocurrency]((/folders/buy-now-pay-later))
 
 * Inflation
 
