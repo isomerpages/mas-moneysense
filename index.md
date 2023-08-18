@@ -20,7 +20,7 @@ sections:
       title: Are You Planning Your Finances Well
       button: Read More
       url: /planning-your-finances
-      image: /images/plant-coins-hero.jpg
+      image: /images/Homepage/planning your finances.jfif
       alt: are you planning your finances
   - infopic:
       title: Navigating Major Financial Decisions
