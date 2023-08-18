@@ -27,5 +27,5 @@ sections:
       button: Read More
       url: /navigating-major-financial-decisions
       alt: financial decisions
-      image: /images/spot an investment scam hero banner.jpg
+      image: /images/Homepage/stock market.jfif
 ---
