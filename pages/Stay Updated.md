@@ -3,7 +3,9 @@ title: Stay Updated
 permalink: /stay-updated/
 description: ""
 ---
-Follow us on our socials for up to date information
+Get the latest news on our socials.
+
+Follow us on : 
 
 ![MoneySense Facebook](/images/Homepage/facebook.png)[Facebook](https://facebook.com/MoneySense/) 
 
