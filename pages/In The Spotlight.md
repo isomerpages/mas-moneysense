@@ -10,11 +10,8 @@ description: ""
 
 * [Buy Now Pay Later](/_folders/buy-now-pay-later)
 
-* [Cryptocurrency]((/folders/buy-now-pay-later))
+* Cryptocurrency
 
-* [Inflation](https://cms.isomer.gov.sg/sites/mas-moneysensetest/folders/buy-now-pay-later)
-
-* [Scams](/folders/buy-now-pay-later)
-
+* Inflation
 
 * Scams
