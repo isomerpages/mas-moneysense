@@ -14,7 +14,7 @@ sections:
       title: In The Spotlight
       button: FINd out more
       url: /stay-updated
-      image: /images/spot an investment scam hero banner.jpg
+      image: /images/Homepage/scam laptop.png
       alt: stay-updated
   - infopic:
       title: Are You Planning Your Finances Well
