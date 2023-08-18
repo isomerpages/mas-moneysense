@@ -5,4 +5,4 @@ description: ""
 ---
 Learn how to differentiate between needs and wants.
 
-![needs vs wants](/images/In%20The%20Spotlight/needs%20vs%20wants.png)
+[Needs vs Wants](https://www.youtube.com/watch?v=OmzRi54QQ1w&t=5s)![needs versus wants](/images/In%20The%20Spotlight/needs%20vs%20wants.png)
