@@ -12,7 +12,7 @@ sections:
       subtitle: 20TH ANNIVERSARY
   - infopic:
       title: In The Spotlight
-      button: FINd out more
+      button: Find out more
       url: /stay-updated
       image: /images/Homepage/scam laptop.png
       alt: stay-updated
