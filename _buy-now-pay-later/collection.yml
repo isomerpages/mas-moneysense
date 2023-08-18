@@ -1,4 +1,5 @@
 collections:
   buy-now-pay-later:
     output: true
-    order: []
+    order:
+      - 3 Traps To Avoid When You Go Shopping.md
