@@ -71,4 +71,4 @@ A small adjustment you could make to your online shopping routine is to carefull
 
 Knowing how retailers go all out to persuade you to part with more money is bagging a deal in itself. After all, that money you did not spend because you saw through their tricks can be put to better use, such as saving or investing.
 
-It is easier to curb an itch to turn to retail therapy when you have clear financial goals (read more about how to set goals for yourself [here](https://www.moneysense.gov.sg/articles/2020/6/setting-financial-goals), and try our tool for reaching for your own financial goals here. 
+It is easier to curb an itch to turn to retail therapy when you have clear financial goals (read more about how to set goals for yourself [here](https://www.moneysense.gov.sg/articles/2020/6/setting-financial-goals), and try our tool for reaching for your own financial goals [here](https://www.mymoneysense.gov.sg/)).
