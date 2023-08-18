@@ -3,9 +3,6 @@ title: Stay Updated
 permalink: /stay-updated/
 description: ""
 ---
-
-
-
 ![socials](/images/Homepage/socials.png)Get the latest news on our socials.
 
 Follow us on :    [Facebook]      [Instagram]      [YouTube]
