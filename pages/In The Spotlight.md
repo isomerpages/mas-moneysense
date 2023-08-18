@@ -8,7 +8,7 @@ description: ""
 ### Hot Topics
 
 
-[Buy Now Pay Later]((/about-us/partnering-moneysense-for-schools-workplaces-and-communities))
+* [Buy Now Pay Later](/_folders/buy-now-pay-later)
 
 * [Cryptocurrency]((/folders/buy-now-pay-later))
 
