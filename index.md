@@ -7,13 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/20th anniversary banner.jpg
+      background: /images/Homepage/orange background.png
       title: MoneySense
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Hero Dropdown Element Title
-            url: ""
+      subtitle: 20TH ANNIVERSARY
   - infopic:
       title: In The Spotlight
       button: FINd out more
