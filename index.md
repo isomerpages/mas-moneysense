@@ -27,5 +27,5 @@ sections:
       button: Read More
       url: /navigating-major-financial-decisions
       alt: financial decisions
-      image: /images/Homepage/stock market.jfif
+      image: /images/Homepage/navigating financial decisions.jfif
 ---
