@@ -13,7 +13,7 @@ sections:
   - infopic:
       title: In The Spotlight
       button: Find out more
-      url: /stay-updated
+      url: /in-the-spotlight
       image: /images/Homepage/scam laptop.png
       alt: stay-updated
   - infopic:
