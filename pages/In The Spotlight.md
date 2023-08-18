@@ -12,6 +12,6 @@ description: ""
 
 * Cryptocurrency[Cryptocurrency]((/folders/buy-now-pay-later))
 
-* Inflation
+
 
 * Scams
