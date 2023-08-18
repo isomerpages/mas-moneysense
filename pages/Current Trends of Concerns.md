@@ -6,6 +6,8 @@ description: ""
 ![](/images/hero-banner.png) 
 
 #### Scams
+
+![abc](/images/spot%20an%20investment%20scam%20hero%20banner.jpg)
     
 
 *   [moneysense.gov.sg/articles/2019/7/4-tips-to-stay-safe-when-using-e-payments?sc\_lang=en](https://www.moneysense.gov.sg/articles/2019/7/4-tips-to-stay-safe-when-using-e-payments?sc_lang=en) 
