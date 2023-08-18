@@ -3,8 +3,6 @@ title: 3 Traps To Avoid When You Go Shopping
 permalink: /buy-now-pay-later/3-traps-to-avoid-when-you-go-shopping/
 description: ""
 ---
-
-
 ![3 traps to avoid when shopping](/images/In%20The%20Spotlight/3%20traps%20to%20avoid%20when%20shopping.jfif)4 min. read
 
 **It is no accident that we sometimes spend more than we planned to when we go shopping. Learn about some ways retailers use to encourage you to spend more and how you can make smart choices in your spending.**
@@ -71,4 +69,4 @@ A small adjustment you could make to your online shopping routine is to carefull
 
 Knowing how retailers go all out to persuade you to part with more money is bagging a deal in itself. After all, that money you did not spend because you saw through their tricks can be put to better use, such as saving or investing.
 
-It is easier to curb an itch to turn to retail therapy when you have clear financial goals (read more about how to set goals for yourself [here](https://www.moneysense.gov.sg/articles/2020/6/setting-financial-goals), and try our tool for reaching for your own financial goals [here](https://www.mymoneysense.gov.sg/)).
+It is easier to curb an itch to turn to retail therapy when you have clear financial goals (read more about how to set goals for yourself [here](https://www.moneysense.gov.sg/articles/2020/6/setting-financial-goals), and try our tool for reaching for your own financial goals [here](https://www.mymoneysense.gov.sg/).
