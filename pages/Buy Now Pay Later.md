@@ -10,7 +10,7 @@ Buy Now Pay Later (BNPL) is **a form of credit that allows consumers to purchas
 
 Read More:
 
-[3 Traps To Avoid When You Are Going Shopping](/3-traps-to-avoid-when-you-are-going-shopping)
+[3 Traps To Avoid When You Are Going Shopping](/3-traps-to-avoid-when-going-shopping)
 
 [Needs Versus Wants](/needs-versus-wants)
 
