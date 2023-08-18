@@ -67,7 +67,7 @@ This means:
 * You will need to keep paying the monthly instalments even if the merchant winds up
 
 * Although the instalment plan itself is interest-free, if you miss a payment, you will incur credit card interest charges
-* 
+
 * You may not be able to cancel the card until you make all the payments
 
 * Refunds or exchanges may not be allowed once the bank approves the instalment plan
