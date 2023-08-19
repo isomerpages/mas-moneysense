@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/dark blue background.png
       title: MoneySense
-      subtitle: 20TH ANNIVERSARY
+      subtitle: Singapore's National Financial Education Programme
   - infopic:
       title: In The Spotlight
       button: Find out more
