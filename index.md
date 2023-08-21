@@ -15,6 +15,8 @@ sections:
       url: /in-the-spotlight
       image: /images/Homepage/scam laptop.png
       alt: stay-updated
+      description: To strengthen your finances, you need to know about new financial
+        instruments and understanding the changing environment.
   - infopic:
       title: Are You Planning Your Finances Well
       button: Read More
