@@ -15,6 +15,19 @@ Which group do you belong to?
 
 ### Life Stages
 
+Fresh Entrant To Workforce
+
+Working Adult (parent with young children)
+
+Working Adult (supporting aged parents)
+
+Working adult (parent with children and supporting aged parents)
+Pre-retiree
+
+Golden years
+
+
+
 * Save: Set aside at least three to six months’ worth of expenses
 
 * Protect: Aim for insurance coverage of 9 times’ annual income for death
