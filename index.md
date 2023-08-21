@@ -18,11 +18,13 @@ sections:
       description: To strengthen your finances, you need to know about new financial
         instruments and understanding the changing environment.
   - infopic:
-      title: Are You Planning Your Finances Well
-      button: Read More
+      title: Are You Planning Your Finances Well?
+      button: Find Out More
       url: /planning-your-finances
       image: /images/Homepage/planning your finances.jfif
       alt: are you planning your finances
+      description: What are your most important financial planning needs? How do you
+        go about closing gaps in your finances? We break it down for you.
   - infopic:
       title: Navigating Major Financial Decisions
       button: Read More
