@@ -15,19 +15,19 @@ Which group do you belong to?
 
 ### Life Stages
 
-Fresh Entrant To Workforce
+* Fresh Entrant To Workforce
 
-Working Adult (parent with young children)
+* Working Adult (parent with young children)
 
-Working Adult (supporting aged parents)
+* Working Adult (supporting aged parents)
 
-Working adult (parent with children and supporting aged parents)
+* Working adult (parent with children and supporting aged parents)
 
-Pre-retiree
+* Pre-retiree
 
-Golden years
+* Golden years
 
-
+### Financial Planning Norms
 
 * Save: Set aside at least three to six months’ worth of expenses
 
