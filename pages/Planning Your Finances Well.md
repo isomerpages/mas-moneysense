@@ -33,5 +33,4 @@ Golden Years
 
 * Protect: Aim for insurance coverage of 9 times’ annual income for death
 
-* Invest: Put aside at least 10% to 20% of your salary 
-
+* Invest: Put aside at least 10% to 20% of your salary
