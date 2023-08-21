@@ -11,4 +11,4 @@ Having solid plans is key when it comes to major financial decisions, such as bu
 
 * Having children 
 
-* Buying a home 
+* Buying a home
