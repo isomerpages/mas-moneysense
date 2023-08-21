@@ -21,8 +21,8 @@ To feature
 
 #### Buying a home 
 
-moneysense.gov.sg/articles/2018/10/buying-a-property-how-much-can-you-afford?sc_lang=en 
+[moneysense.gov.sg/articles/2018/10/buying-a-property-how-much-can-you-afford?sc\_lang=en](https://www.moneysense.gov.sg/articles/2018/10/buying-a-property-how-much-can-you-afford?sc_lang=en)
 
-How home loans work (moneysense.gov.sg) 
+[How home loans work (moneysense.gov.sg)](https://www.moneysense.gov.sg/articles/2018/10/how-home-loans-work)
 
-moneysense.gov.sg/articles/2018/11/costs-of-borrowing-flat-rate-monthly-rest-and-effective-interest-rate?sc_lang=en
+[Costs of borrowing flat rate monthly rest and effective interest rate](moneysense.gov.sg/articles/2018/11/costs-of-borrowing-flat-rate-monthly-rest-and-effective-interest-rate)
