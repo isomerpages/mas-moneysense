@@ -29,10 +29,22 @@ Golden Years
 
 #####  Save: Set aside at least three to six months’ worth of expenses
 
+[​Managing your money (moneysense.gov.sg)](https://www.moneysense.gov.sg/articles/2018/11/managing-your-money)
+
+[Take charge, plan ahead (moneysense.gov.sg)](https://www.moneysense.gov.sg/articles/2014/8/take-charge-plan-ahead) \[video\]
+
+[How to pay yourself first (moneysense.gov.sg)](https://www.moneysense.gov.sg/articles/2013/10/how-to-pay-yourself-first) \[video\]
+
+[Needs versus wants (moneysense.gov.sg)](https://www.moneysense.gov.sg/articles/2013/10/needs-versus-wants) \[video\]
+
+[Introduction to planning for retirement (moneysense.gov.sg)](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning)
+
+[Determine your retirement needs (moneysense.gov.sg)](https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs)
+
 
 ##### Protect: Aim for insurance coverage of 9 times’ annual income for death
 
 ##### Total Permanent Disability, and 4 times’ annual income for critical illness. 
 
 
-##### Keep insurance premiums to no more than 15% of salary 
+##### Keep insurance premiums to no more than 15% of salary
