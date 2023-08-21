@@ -5,6 +5,7 @@ description: ""
 ---
 ![Are Your Planning Your Finances](/images/Are%20You%20Planning%20Your%20Finances/planning%20your%20finances.jfif)
 
+### Are You Planning Your Finances Well
 Your needs and priorities shift as you enter a new life stage. 
 
 You may have added responsibilities, such as caring for a dependant, or more financial goals, such as buying a new home. 
