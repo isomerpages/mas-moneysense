@@ -13,6 +13,8 @@ We know how overwhelming it may be. So we have worked with industry associations
 
 Which group do you belong to?
 
+#### Life Stages
+
 Fresh Entrant To Workforce
 
 Working Adult (Parent With Young Children)
@@ -21,4 +23,16 @@ Working Adult (Supporting Aged Parents)
 
 Working Adult (Parent With Children, Supporting Aged Parents)
 
-Pre-retiree, Golden Years
+Pre-retiree
+
+Golden Years
+
+#####  Save: Set aside at least three to six months’ worth of expenses
+
+
+##### Protect: Aim for insurance coverage of 9 times’ annual income for death
+
+##### Total Permanent Disability, and 4 times’ annual income for critical illness. 
+
+
+##### Keep insurance premiums to no more than 15% of salary 
