@@ -3,7 +3,7 @@ title: In The Spotlight
 permalink: /in-the-spotlight/
 description: ""
 ---
-![in the spotlight](/images/Homepage/scam%20laptop.png)
+![In the Spotlight](/images/In%20The%20Spotlight/in%20the%20spotlight%20landing%20pic.jfif)
 
 ### Hot Topics
 
