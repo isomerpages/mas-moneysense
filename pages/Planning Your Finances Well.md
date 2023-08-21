@@ -30,6 +30,6 @@ Golden years
 
 * Save: Set aside at least three to six months’ worth of expenses
 
-* Protect: Aim for insurance coverage of 9 times’ annual income for death
+* Protect: Aim for insurance coverage of 9 times’ annual income for death/Total Permanent Disability, and 4 times’ annual income for critical illness. Keep insurance premiums to no more than 15% of salary
 
 * Invest: Put aside at least 10% to 20% of your salary
