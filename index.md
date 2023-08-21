@@ -7,9 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/dark blue background.png
-      title: MoneySense
-      subtitle: Singapore's National Financial Education Programme
+      background: /images/navigating major financial decisions.jfif
+      title: Money Matters Made Simple
   - infopic:
       title: In The Spotlight
       button: Find out more
