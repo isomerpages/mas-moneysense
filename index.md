@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: In The Spotlight
       button: Find out more
-      url: /what-you-should-know
+      url: /in-the-spotlight
       image: /images/In The Spotlight/in the spotlight main pic.jfif
       alt: stay-updated
       description: To strengthen your finances, you need to know about new financial
