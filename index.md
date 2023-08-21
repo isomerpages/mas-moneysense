@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: In The Spotlight
       button: Find out more
-      url: /in-the-spotlight
+      url: /what-you-should-know
       image: /images/Homepage/scam laptop.png
       alt: stay-updated
       description: To strengthen your finances, you need to know about new financial
