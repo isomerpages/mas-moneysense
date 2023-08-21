@@ -20,7 +20,7 @@ sections:
   - infopic:
       title: Are You Planning Your Finances Well?
       button: Find Out More
-      url: /are-you-planning-your-finances-well/
+      url: /financial-planning-norms
       image: /images/Homepage/planning your finances.jfif
       alt: are you planning your finances
       description: What are your most important financial planning needs? How do you
