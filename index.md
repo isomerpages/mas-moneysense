@@ -27,8 +27,10 @@ sections:
         go about closing gaps in your finances? We break it down for you.
   - infopic:
       title: Navigating Major Financial Decisions
-      button: Read More
+      button: Find Out More
       url: /navigating-major-financial-decisions
       alt: financial decisions
       image: /images/Homepage/navigating financial decisions.jfif
+      description: From buying a house to starting a family, solid financial plans are
+        at the heart of these milestones in life.
 ---
