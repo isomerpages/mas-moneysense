@@ -21,11 +21,11 @@ Which group do you belong to?
 
 * Working Adult (supporting aged parents)
 
-* Working adult (parent with children and supporting aged parents)
+* Working Adult (parent with children and supporting aged parents)
 
 * Pre-retiree
 
-* Golden years
+* Golden Years
 
 ### Financial Planning Norms
 
