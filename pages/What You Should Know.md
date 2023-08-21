@@ -7,7 +7,9 @@ description: ""
 
 ### What you should know
 
-Staying well-informed is how you can make sound and responsible financial decisions. / It pays to stay abreast of new developments so you can spot red flags and avoid pitfalls.
+Staying well-informed is how you can make sound and responsible financial decisions. 
+
+It pays to stay abreast of new developments so you can spot red flags and avoid pitfalls.
 
 * [Buy Now Pay Later](/buy-now-pay-later)
 
