@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MoneySense Website
+title: Money Matters Made Simple
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
