@@ -7,8 +7,8 @@ description: ""
 
 Having solid plans is key when it comes to major financial decisions, such as buying a home and starting your family. / These are long-term commitments that you want to get right. / Let us share some tips for preparing for these important milestones in your life!” 
 
-* Getting married 
+* Getting Married 
 
-* Having children 
+* Having Children 
 
-* Buying a home
+* Buying A Home
