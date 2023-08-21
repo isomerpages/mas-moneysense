@@ -3,7 +3,7 @@ title: Navigating Major Financial Decisions
 permalink: /major-financial-decisions/
 description: ""
 ---
-To feature 
+
 
 #### Getting married 
 
