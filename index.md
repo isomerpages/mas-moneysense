@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: Navigating Major Financial Decisions
       button: Find Out More
-      url: /navigating-major-financial-decisions
+      url: /major-financial-decisions
       alt: financial decisions
       image: /images/Homepage/navigating financial decisions.jfif
       description: From buying a house to starting a family, solid financial plans are
