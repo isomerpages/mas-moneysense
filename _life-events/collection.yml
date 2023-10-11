@@ -1,0 +1,12 @@
+collections:
+  life-events:
+    output: true
+    order:
+      - Being a student.md
+      - Buying a home.md
+      - Getting married.md
+      - Starting work.md
+      - Unexpected events.md
+      - National service.md
+      - Having children.md
+      - Buying a car.md

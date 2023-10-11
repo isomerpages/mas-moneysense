@@ -1,0 +1,5 @@
+collections:
+  norms:
+    output: true
+    order:
+      - ​​What is inflation?.md
