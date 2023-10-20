@@ -3,7 +3,6 @@ title: MoneySense 20th Anniversary
 permalink: /20th-anniversary/
 description: MoneySense 20th Anniversary
 ---
-
 ![](/images/20th%20anniversary%20banner.jpg)
 MoneySense Turns 20 This Year**
 
@@ -11,7 +10,7 @@ MoneySense was started in 2003 to help Singaporeans manage their money well and 
 
 Take a walk down memory lane with us, as we look back on MoneySense's key initiatives in our last 20 years!
 
-![Logo](/images/hero%20banner%2020th%20anniversary.png)
+
 
 **Logo**
 
@@ -19,11 +18,7 @@ As we turn 20, we specially designed an anniversary logo featuring a circular a
 
    
 
- 
-
-![Confetti](https://www.moneysense.gov.sg/-/media/moneysense/images/ready-for-life-images/confetti.ashx)
-
-**  
+![celebration](/images/confetti.jfif)
 Commemoration of 20th Anniversary  
   
 **
@@ -32,7 +27,7 @@ To commemorate MoneySense’s 20th anniversary milestone in 2023, we have l
 
  
 
-![RFL](https://www.moneysense.gov.sg/-/media/moneysense/images/ready-for-life-images/rfl-image.ashx)
+![rfl](/images/rfl%20festival.png)
 
  **"Ready for Life" Festival**
 
@@ -45,22 +40,22 @@ There will also be weekly webinars throughout October covering a range of financ
    
   
 
-![be ready](https://www.moneysense.gov.sg/-/media/moneysense/images/ready-for-life-images/retirement2.ashx)
+![Elderly couple](/images/couple.jfif)
 
 **Be Ready with CPF and MoneySense - A Joint Campaign (Nov 2023)**
 
 Learn to make the most of your savings and CPF funds to fulfil your life goals in the CPF-MoneySense Joint Retirement Planning campaign, jointly organised by CPF Board and MoneySense. Whether you are starting out in your career, buying your first home or seeking to achieve financial security for your loved ones and yourself, the campaign will help you better prepare for retirement and make sound financial decisions. Visit [cpf.gov.sg/BeReady](https://www.cpf.gov.sg/member/infohub/be-ready).  
   
 
-![IFL](https://www.moneysense.gov.sg/-/media/moneysense/images/ready-for-life-images/iflthumbnail.ashx)
+![](/images/institute%20of%20financial%20literacy.jfif)
 
 **Institute for Financial Literacy - Financial Health Clinics** 
 
 Receive practical advice on levelling up your financial planning and building your financial resilience through a 1-on-1 consultation with an Associate Trainer from the Institute of Financial Literacy, MoneySense's ground outreach arm. This complimentary Digital Financial Health Clinic will be held on Zoom.  Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeIzVg-Dfx8ezSdXwM5wUCsFjy8qPmfrq9jak8Mulz54AUFGA/viewform).
 
-![quiz](https://www.moneysense.gov.sg/-/media/moneysense/images/ready-for-life-images/quiz.ashx)
 
-  
+
+  ![](/images/Homepage/flq%20hero%20banner.png)
 
 **Financial Literacy Quiz**
 
