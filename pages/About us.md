@@ -41,10 +41,6 @@ Our volunteers and partners play a valuable role in making our programmes a succ
 *   Financial industry associations
 *   …and more
 
-Interested in partnering with us? [Get in touch](mailto:moneysense@mas.gov.sg)!
-
-**See also:** [Partnering MoneySense: For schools, workplaces and communities](/about-us/partnering-moneysense-for-schools-workplaces-and-communities)
-
 Governance
 ----------
 
