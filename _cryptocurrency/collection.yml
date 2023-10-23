@@ -2,6 +2,7 @@ collections:
   cryptocurrency:
     output: true
     order:
+      - Risks of Trading Payment Token Derivatives.md
       - Risks of cryptocurrencies, initial coin offerings and other digital
         tokens.md
       - Cryptocurrency.md
