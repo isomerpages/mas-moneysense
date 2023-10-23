@@ -2,4 +2,6 @@ collections:
   cryptocurrency:
     output: true
     order:
+      - Risks of cryptocurrencies, initial coin offerings and other digital
+        tokens.md
       - Cryptocurrency.md
