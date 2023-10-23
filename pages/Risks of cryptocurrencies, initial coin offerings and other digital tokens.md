@@ -5,6 +5,14 @@ description: ""
 ---
 ![crypto](/images/crypto%20coins%20tokens.jfif)
 
+5 min. read
+
+Find out how digital tokens work and what you should do to protect yourself from token-related scams.
+
+Key takeaways
+
+*   Cryptocurrencies are not regulated by the Monetary Authority of Singapore (MAS) as they are not legal tender.
+*   Be aware of the risks of initial coin offerings (ICOs).
 What are digital tokens, cryptocurrencies and ICOs?
 ---------------------------------------------------
 
