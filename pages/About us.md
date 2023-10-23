@@ -24,8 +24,6 @@ In practical terms, we want to help Singaporeans:
 *   Make informed decisions when it comes to personal finances
 *   Plan well for their future
 
-**See also:** [MoneySense Framework](/about-us/moneysense-framework)
-
 Beyond resources published on the MoneySense website and social media, our [Institute for Financial Literacy](https://www.ifl.org.sg/) runs talks and workshops at the workplace and also for the public. These cover a wide range of money management and personal finance topics, to help participants understand their own financial needs, and decide which financial products are right for them. Our programmes are always free and unbiased. We also work with schools on financial education activities and workshops for their students.
 
 Join our mailing list and follow us on Facebook ([moneysense](https://www.facebook.com/MoneySENSE/)) and Instagram ([@moneysense\_sg](https://www.instagram.com/moneysense_sg)) for latest updates on what we do.
@@ -40,10 +38,6 @@ Our volunteers and partners play a valuable role in making our programmes a succ
 *   Consumer and investor organisations
 *   Financial industry associations
 *   …and more
-
-Interested in partnering with us? [Get in touch](mailto:moneysense@mas.gov.sg)!
-
-**See also:** [Partnering MoneySense: For schools, workplaces and communities](/about-us/partnering-moneysense-for-schools-workplaces-and-communities)
 
 Governance
 ----------
