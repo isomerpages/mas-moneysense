@@ -1,4 +1,5 @@
 collections:
   cryptocurrency:
     output: true
-    order: []
+    order:
+      - Cryptocurrency.md
