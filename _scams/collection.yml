@@ -2,8 +2,8 @@ collections:
   scams:
     output: true
     order:
-      - 4 Tips to Stay Safe when Using Electronic Payments.md
-      - Dealing with Unregulated Persons.md
-      - Phishing Scam.md
-      - How to Spot an Investment Scam.md
       - Scams.md
+      - How to Spot an Investment Scam.md
+      - Phishing Scam.md
+      - Dealing with Unregulated Persons.md
+      - 4 Tips to Stay Safe when Using Electronic Payments.md
