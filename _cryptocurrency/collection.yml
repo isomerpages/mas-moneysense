@@ -1,0 +1,4 @@
+collections:
+  cryptocurrency:
+    output: true
+    order: []
