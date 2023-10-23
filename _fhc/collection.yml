@@ -2,4 +2,4 @@ collections:
   fhc:
     output: true
     order:
-      - main.md
+      - Financial Health Check.md
