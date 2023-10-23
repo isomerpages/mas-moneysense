@@ -9,8 +9,8 @@ The Monetary Authority of Singapore advises the public to act with extreme cauti
 
 Read More:
 
-The risks you are exposed to when trading in cryptocurrencies and their derivatives
+[The risks you are exposed to when trading in cryptocurrencies and their derivatives](/the-risks-you-are-exposed-to-when-trading-in-cryptocurrencies-and-their-derivatives/)
 
-Risks of trading payment token derivatives
+[Risks of Trading Payment Token Derivatives](/risks-of-trading-payment-token-derivatives/)
 
-Risks of cryptocurrencies initial coin offerings and other digital tokens
+[ Risks of cryptocurrencies, initial coin offerings and other digital tokens](/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens/)
