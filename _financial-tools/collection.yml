@@ -2,10 +2,10 @@ collections:
   financial-tools:
     output: true
     order:
+      - Financial Tools.md
       - Savings Calculator.md
       - Net Worth Calculator.md
       - Mortgage Switching.md
       - Debt Calculator.md
       - Budget Calculator.md
-      - Financial Tools.md
       - Mortgage Calculator.md
