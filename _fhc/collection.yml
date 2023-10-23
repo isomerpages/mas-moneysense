@@ -1,0 +1,4 @@
+collections:
+  fhc:
+    output: true
+    order: []
