@@ -15,6 +15,6 @@ It pays to stay abreast of new developments so you can spot red flags and avoid 
 
 * Cryptocurrency
 
-* Inflation
+* [Inflation](/what-is-inflation/)
 
 * Scams
