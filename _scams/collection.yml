@@ -1,0 +1,4 @@
+collections:
+  scams:
+    output: true
+    order: []
