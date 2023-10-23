@@ -1,4 +1,5 @@
 collections:
   fhc:
     output: true
-    order: []
+    order:
+      - main.md
