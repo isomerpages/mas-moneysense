@@ -13,6 +13,6 @@ Let us share some tips for preparing for these important milestones in your life
 
 * [Buying a Home](/buying-a-property-how-much-can-you-afford/)
 
-* Getting Married 
+* [Getting Married](/planning-your-finances-together/)
 
 * Having Children
