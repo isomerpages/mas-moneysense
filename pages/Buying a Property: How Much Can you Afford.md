@@ -108,17 +108,21 @@ If you are buying an HDB flat, you may qualify for a loan from the HDB. With an 
 
 The amount of HDB loan granted depends on:
 
-The buyer's age
-Monthly income
-Financial standing
-Are you eligible?
-To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an HDB Loan Eligibility (HLE) letter.
+*The buyer's age
+
+*Monthly income
+
+*Financial standing
+
+#### Are you eligible?
+To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an[HDB Loan Eligibility (HLE) letter](https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778)
 
 The HLE helps you plan for your home purchase by giving you information on how much you can borrow, the monthly repayments, the amount of cash you need and other terms and conditions.
 
 Note: An HDB loan comes with certain eligibility criteria such as an income ceiling. Check if you qualify.
 
-HDB loan versus bank loan
+#### HDB loan versus bank loan
+
 If you're choosing between an HDB loan and bank loan for financing your HDB flat, the key differences to consider include the downpayment, interest rate and flexibility to pay off your loan early.
 
 Compare the two loan types below:
