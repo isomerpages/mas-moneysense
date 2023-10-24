@@ -2,4 +2,5 @@ collections:
   buying-a-home:
     output: true
     order:
+      - How Home Loans Work.md
       - "Buying a Property: How Much Can you Afford.md"
