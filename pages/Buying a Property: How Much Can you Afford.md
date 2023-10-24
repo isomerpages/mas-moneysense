@@ -9,9 +9,12 @@ description: ""
 **Buy a property within your means. Take stock of all your resources to see what you can afford and how much you can borrow, and get to know the differences between HDB loans and bank loans.**
 
 #### Key takeaways
-Choose a home based on what you can afford in terms of upfront and ongoing payments.
-If you are buying an HDB flat, you may qualify for an HDB loan.
-How much you can borrow will depend on your lender’s assessment and rules such as the total debt servicing ratio (TDSR) and loan-to-value (LTV) limit.
+*Choose a home based on what you can afford in terms of upfront and ongoing payments.
+
+*If you are buying an HDB flat, you may qualify for an HDB loan.
+
+*How much you can borrow will depend on your lender’s assessment and rules such as the total debt servicing ratio (TDSR) and loan-to-value (LTV) limit.
+
 #### What can you afford?
 Buying a home is a huge milestone and a long-term financial commitment. So make sure you buy a home that you can afford in the long run. You'll need to have enough resources to pay for upfront costs, ongoing homeownership expenses and monthly loan instalments.
 
@@ -33,23 +36,44 @@ The size of your monthly instalment depends on how much you have borrowed, the l
 
 #### Things to note:
 
-For the same amount of money borrowed, a longer loan tenure means your monthly payment is smaller but your total interest paid is higher.
-Take note of the cap on the amount you can use from your CPF savings for your home loan.
-Ask your lender for a repayment schedule.
-How much do you have now?
+*For the same amount of money borrowed, a longer loan tenure means your monthly payment is smaller but your total interest paid is higher.
+
+*Take note of the cap on the amount you can use from your CPF savings for your home loan.
+
+*Ask your lender for a repayment schedule.
+
+#### How much do you have now?
 Take a look at what you currently have. Do you have enough money to see you through all the costs involved in buying a home?
 
 Your available resources could come from your:
 
-Cash savings (to meet upfront payments and keep up with repayments in case of income loss)
-CPF Ordinary Account savings
-Sales proceeds (net of outstanding loan) from your current home, if any
-Income. Do you have a steady income or is it commission-based and dependent on other factors?
-How much can you borrow?
+*Cash savings (to meet upfront payments and keep up with repayments in case of income loss)
+
+*CPF Ordinary Account savings
+
+*Sales proceeds (net of outstanding loan) from your current home, if any
+
+*Income. Do you have a steady income or is it commission-based and dependent on other factors?
+
+#### How much can you borrow?
 HDB and the lenders will assess how much you can borrow for a home loan in the following ways:
 
-Mortgage servicing ratio (MSR)
-Total debt servicing ratio (TDSR)
+**Mortgage servicing ratio (MSR)**
+
+MSR indicates the proportion of your gross monthly income that is used to service your mortgage.
+
+MSR= Monthly mortgage repayment/Gross monthly income
+
+Your monthly HDB or Executive Condominium (EC) loan installment must not exceed 30% of your gross monthly income. This applies if you are buying a HDB flat, or EC where the minimum occupation period of the EC has not expired.
+
+
+**Total debt servicing ratio (TDSR)**
+
+TDSR indicates the proportion of your gross monthly income used to service all your monthly debt repayments. If you are taking a loan to buy a property, you will need to meet the TDSR rules.
+
+TDSR=Total monthly debt payments / Gross monthly income
+
+Your total monthly debt commitments (e.g. mortgage payments, car payments and credit card payments) should not exceed the TDSR threshold of 55%. You may find out more about how the TDSR is computed [here](https://www.mas.gov.sg/regulation/explainers/tdsr-for-property-loans/calculating-tdsr).
 Loan-to-value limits
 Getting an HDB loan
 If you are buying an HDB flat, you may qualify for a loan from the HDB. With an HDB loan, you may borrow up to 85% of the purchase price or the property’s valuation price. This depends on which is lower, subject to HDB’s credit assessment.
