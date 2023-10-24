@@ -25,8 +25,7 @@ If they’re a little older, they will understand a deeper concept of spending. 
 For teenagers, you may want to task them with picking up groceries for the household. If you plan properly and give them a slightly tighter budget, it gives them practice with shopping for the best deal.
 
 Importantly, the concept of making choices is ingrained in them. Rather than tell them “we can’t afford it” (which in some cases, at least, is a lie), make them see that “we choose not to spend money like that”. 
-
-**Allow them to make good and bad decisions*
+#### Allow them to make good and bad decisions
 
 If they are to learn about making choices, what better way than to really let them experience it for real.
 
@@ -44,7 +43,7 @@ They won’t learn about working for something they want, which makes it less li
 
 And when they get into trouble, they may instinctively expect to be helped. You don’t want to set this tone for their financial future to spare your child a couple of hours of hunger.
 
-**Show them, don’t tell them**
+#### Show them, don’t tell them
 
 If you’re always browsing online stores in your free time, or splashing out on a new gadget the moment you lay your eyes on it, don’t be surprised if your child doesn’t pick up sound financial habits as quickly.
 
