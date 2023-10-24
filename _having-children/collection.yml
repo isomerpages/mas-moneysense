@@ -1,4 +1,5 @@
 collections:
   having-children:
     output: true
-    order: []
+    order:
+      - Planning your Finances when having and raising children.md
