@@ -2,6 +2,7 @@ collections:
   having-children:
     output: true
     order:
+      - 3 things you didn’t know about… teaching your kid about money.md
       - 5 Questions on how to plan activities for your children without breaking
         the bank.md
       - Getting your Kids Started on Money Management.md
