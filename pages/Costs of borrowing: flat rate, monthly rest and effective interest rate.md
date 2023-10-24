@@ -61,68 +61,66 @@ Here's what your payment schedule might look like for the first 5 years. Notice 
 | 5    | 3.50%| $1,989.29   | $1,490.47     |$3,480| $41,757
 
 
-
-Fixed versus floating rate
+####  Fixed versus  floating rate
 For a fixed rate monthly rest, the interest rate stays the same for a period of time known as the lock-in period.
 
 For a floating rate, the interest rate can move up or down. If interest rate moves up, your interest expense will be higher. Do factor this in when deciding if you can afford a loan.
 
-Effective interest rate (EIR) - what your loan actually costs
+#### Effective interest rate (EIR) - what your loan actually costs
 The true cost of your loan is known as the effective interest rate (EIR), which may be higher than the advertised rate because of the way interest is calculated.
 
-For flat rate loans, the EIR is higher than the advertised rate because the same rate (advertised rate) is applied throughout the loan period, based on the original loan amount.
-For monthly rest loans, the advertised rate is the same as the EIR, because interest is calculated based on the reduced balance of the loan.
-Also, note that that the frequency of payments may also affect the EIR. Think about 2 loans with the same principal amount, interest and duration. The loan with smaller, more frequent instalments will be more costly than one with fewer but larger instalments.
+*For flat rate loans, the EIR is higher than the advertised rate because the same rate (advertised rate) is applied throughout the loan period, based on the original loan amount.
 
-Example: How payment frequency affects EIR
+*For monthly rest loans, the advertised rate is the same as the EIR, because interest is calculated based on the reduced balance of the loan.
+
+Also, note that that the **frequency of payments** may also affect the EIR. Think about 2 loans with the same principal amount, interest and duration. The loan with smaller, more frequent instalments will be more costly than one with fewer but larger instalments.
+
+##### Example: How payment frequency affects EIR
 For a $1,000 loan, repayable over a year with interest of $200, the EIR will vary depending on the repayment schedule:
 
-Repayment schedule	EIR
-1 repayment of $1,200 after a year
 
-20.0%
 
-2 repayments of $600 every 6 months
+| Repayment Schedule | EIR |
+| -------- | -------- |
+| 1 repayment of $1,200 after a year   | 20.0%    |
+| 2 repayments of $600 every 6 months   | 27.8%    |
+| 4 repayments of $300 every 3 months   | 34.6%    |
+| 6 repayments of $200 every 2 months   | 37.7%    |
+| 12 repayments of $100 after 1 month   | 41.3%    |
 
-27.8%
 
-4 repayments of $300 every 3 months
-
-34.6%
-
-6 repayments of $200 every 2 months
-
-37.7%
-
-12 repayments of $100 every 1 month
-
-41.3%
-
-Comparing loans
+#### Comparing loans
 Ask your bank for the advertised and effective interest rates. You can use EIR to compare different loan packages to find out which one costs the least.
 
 The higher the EIR, the more interest you will be paying.
 
 However, you may not always want to choose the loan with the lowest EIR. For instance, if you intend to repay early, you may take a loan with a higher EIR, but without any early repayment penalty.
 
-Deciding on a repayment plan
+#### Deciding on a repayment plan
 Apart from the interest, you'll also need to consider your ability to meet the monthly repayment when choosing the loan tenure.
 
 Generally, a shorter loan tenure means less interest overall, but a higher monthly repayment (and vice versa). Are you able to keep up the payments for the entire loan period?
 
-To help you decide, ask your bank for a repayment schedule. It will give you an idea of the total borrowing costs (including the total interest payable).
+To help you decide, ask your bank for a **repayment schedule**. It will give you an idea of the total borrowing costs (including the total interest payable).
 
-Note
-If you take up a floating-rate loan, keep in mind that interest rates can go up. Even small increases can make a big difference in the total amount you pay, so plan accordingly.
-Other costs of loans
+#### Note
+If you take up a floating-rate loan, keep in mind that **interest rates can go up**. Even small increases can make a big difference in the total amount you pay, so plan accordingly.
+
+#### Other costs of loans
 Loans may come with other costs such as fees, charges and third-party costs, which could add up. You may need to factor these into your calculations.
 
-Fees and charges	What it's for
-Processing fee	Processing the loan application (usually charged upfront upon loan approval)
-Amendment fee	Changes to the original loan application
-Cancellation fee	For not taking up or drawing down on the loan after accepting it
-Excess charges	Drawing more than the original overdraft limit
-Late payment charges	For not repaying the amount due by the payment due date
-Default charges	For failing to make payment
-Early repayment charge	For paying part or the whole loan earlier than originally agreed.
-Note: Your bank can change terms, including interest rates, fees and charges by giving notice.
+
+
+| Fees and charges | What it's for|
+| -------- | -------- |
+| Processing fee    | Processing the loan application (usually charged upfront upon loan approval)   |
+| Amendment fee   |Changes to the original loan application |
+| Cancellation fee    |	For not taking up or drawing down on the loan after accepting it   |
+| Excess fee    | Drawing more than the original overdraft limit  |
+| Late payment charges	  | For not repaying the amount due by the payment due date|
+| Default charges   | For failing to make payment |
+| Early repayment charge  | Early repayment charge	For paying part or the whole loan earlier than originally agreed. |
+
+
+#### Note
+Your bank can change terms, including interest rates, fees and charges by giving notice.
