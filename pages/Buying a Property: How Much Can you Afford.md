@@ -74,8 +74,23 @@ TDSR indicates the proportion of your gross monthly income used to service all y
 TDSR=Total monthly debt payments / Gross monthly income
 
 Your total monthly debt commitments (e.g. mortgage payments, car payments and credit card payments) should not exceed the TDSR threshold of 55%. You may find out more about how the TDSR is computed [here](https://www.mas.gov.sg/regulation/explainers/tdsr-for-property-loans/calculating-tdsr).
-Loan-to-value limits
-Getting an HDB loan
+
+**Loan-to-value limits**
+The loan-to-value(LTV) limit determines the maximum amount you can borrow for a housing loan.
+
+LTV= Loan amount/ Property value
+
+Lenders will consider the following before granting the LTV:
+
+*All existing loans and credit facilities
+
+*Tenure of the loan
+
+*Monthly repayment instalment as a proportion of gross monthly income
+
+*Any discount, rebate or other benefits given
+
+#### Getting an HDB loan
 If you are buying an HDB flat, you may qualify for a loan from the HDB. With an HDB loan, you may borrow up to 85% of the purchase price or the property’s valuation price. This depends on which is lower, subject to HDB’s credit assessment.
 
 The amount of HDB loan granted depends on:
