@@ -1,0 +1,4 @@
+collections:
+  having-children:
+    output: true
+    order: []
