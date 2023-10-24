@@ -15,4 +15,4 @@ Let us share some tips for preparing for these important milestones in your life
 
 * [Getting Married](/planning-your-finances-together/)
 
-* Having Children[Having Children](/planning-your-finances-when-having-and-raising-children/)
+* [Having Children](/planning-your-finances-when-having-and-raising-children/)
