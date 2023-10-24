@@ -2,4 +2,5 @@ collections:
   having-children:
     output: true
     order:
+      - Getting your Kids Started on Money Management.md
       - Planning your Finances when having and raising children.md
