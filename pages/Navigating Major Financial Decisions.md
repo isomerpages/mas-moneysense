@@ -11,7 +11,7 @@ These are long-term commitments that you want to get right.
 
 Let us share some tips for preparing for these important milestones in your life!
 
-* [Buying A Home]((/buying-a-home/)
+* [Buying a Home](/buying-a-property-how-much-can-you-afford/)
 
 * Getting Married 
 
