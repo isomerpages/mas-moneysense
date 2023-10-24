@@ -12,13 +12,13 @@ description: ""
 Choose a home based on what you can afford in terms of upfront and ongoing payments.
 If you are buying an HDB flat, you may qualify for an HDB loan.
 How much you can borrow will depend on your lender’s assessment and rules such as the total debt servicing ratio (TDSR) and loan-to-value (LTV) limit.
-What can you afford?
+#### What can you afford?
 Buying a home is a huge milestone and a long-term financial commitment. So make sure you buy a home that you can afford in the long run. You'll need to have enough resources to pay for upfront costs, ongoing homeownership expenses and monthly loan instalments.
 
-Upfront costs
+##### Upfront costs
 These include the option fee, downpayment, stamp duty, legal cost, agent's commission and fees, renovation and other miscellaneous costs.
 
-Ongoing expenses
+##### Ongoing expenses
 There are some ongoing expenses which cannot be paid with your CPF savings. You'll need to set aside enough money for:
 
 Monthly expenses (property taxes, fire and mortgage insurance, conservancy and management service fees).
@@ -26,7 +26,7 @@ Future interest rate hikes if you're taking up a floating rate loan.
 Possible drop in property value and the original LTV ratio is exceeded.
 You may have to dip into your savings if you're not prepared.
 
-Monthly loan instalments
+##### Monthly loan instalments
 A home loan is usually repaid in monthly instalments. Each monthly instalment consists of a principal repayment and interest payment.
 
 The size of your monthly instalment depends on how much you have borrowed, the loan tenure, the interest rate of the loan and how interest is computed.
@@ -85,4 +85,4 @@ Compare the two loan types below:
 
 
 
-Find out more: About Housing Loans: Key Questions to Ask Your Bank Before Taking a Housing Loan 
+Find out more: About Housing Loans: Key Questions to Ask Your Bank Before Taking a Housing Loan
