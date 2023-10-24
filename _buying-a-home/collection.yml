@@ -1,4 +1,5 @@
 collections:
   buying-a-home:
     output: true
-    order: []
+    order:
+      - "Buying a Property: How Much Can you Afford.md"
