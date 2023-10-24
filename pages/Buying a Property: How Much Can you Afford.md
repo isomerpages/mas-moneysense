@@ -90,6 +90,19 @@ Lenders will consider the following before granting the LTV:
 
 *Any discount, rebate or other benefits given
 
+The LTV limits for individuals change depending on the number of outstanding housing loans a borrower has. For **bank loans** on residential properties, the following LTV limits apply:
+
+
+
+| Outstanding housing loans | LTV limit | Minimum cash downpayment |
+| -------- | -------- | -------- |
+| None   | 75% or 55%    | 5% (for LTV of 75%)  , 10%(for LTV of 55%)
+| 1   | 45% or 25%       | 25%    |
+| 2 or more   | 35% or 15%     | 25%   |
+
+Apply the lowest LTV limit if the loan tenure exceeds 30 years (or 25 years for HDB flats), or the loan period extends beyond the borrower's age of 65 years.
+
+
 #### Getting an HDB loan
 If you are buying an HDB flat, you may qualify for a loan from the HDB. With an HDB loan, you may borrow up to 85% of the purchase price or the property’s valuation price. This depends on which is lower, subject to HDB’s credit assessment.
 
