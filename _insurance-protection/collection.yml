@@ -2,6 +2,7 @@ collections:
   insurance-protection:
     output: true
     order:
+      - Understanding whole life insurance.md
       - Understanding Health Insurance.md
       - "Life insurance: Comparing term and bundled products.md"
       - Insurance Basics.md
