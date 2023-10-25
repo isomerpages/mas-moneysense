@@ -14,12 +14,10 @@ Before you start a family, you and your spouse should:
 
 #### Plan and prioritise
 -------------------
-
 Review your financial situation and financial plans. Draw up a fresh budget for the household to prioritise your spending, so as to accommodate new expenses for your baby — doctor's visits for mummy and baby, baby's daily necessities, and perhaps even fun activities for your little one, etc. Revise your financial plan to cater for your child's longer term needs, such as tertiary education.
 
 #### Do your research
 ----------------
-
 Talk to professionals, your friends, and family members to have an idea of what it would cost to pay for your child's needs. Don't let the information alarm you, but see it as a way to help you prepare for what's to come.
 
 You should also read up the [various government help schemes](https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/marriage-and-parenthood-schemes) available, including the Enhanced Baby Bonus, Enhanced MediSave Grant for Newborns, and subsidies for centre-based infant and child care.
@@ -31,15 +29,12 @@ If need be, you can also use your MediSave to pay for:
 
 #### What to expect when you're expecting
 ------------------------------------
-
 Here are a few things to note when you're expecting:
 
 #### Maternity packages and consultation charges
-
 Consultation and delivery charges vary. You may want to consider pre-natal packages offered by some gynaecologists that cover regular consultancy charges and basic medication. Read the details of the maternity packages carefully to find out what is not included.
 
 #### Delivery charges
-
 The cost of delivery packages also varies depending on the type of delivery, choice of hospital, and the length of stay. Broadly, delivery by C-section costs more; and private hospital stays are more expensive.
 
 **See also:**
@@ -76,8 +71,7 @@ You will need to pay for your baby’s basic needs such as:
 *   Healthcare
 
 #### Tip
-
-*Start saving up during the pregnancy to buy these items.*
+***Start saving up during the pregnancy to buy these items.***
 
 Later on, you may need to buy other items such as a baby stroller and car seat. What it costs you will depend on whether you buy new or branded items, or make use of hand-me-downs. On top of these, you may need infant care or nanny care.
 
@@ -123,7 +117,6 @@ These include:
 *   [Foreign domestic worker levy concession](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession)
 
 #### Tip
-
 *Find out more about enhancements in* [housing](https://www.madeforfamilies.gov.sg/marriage/your-home-matters-new/housing-schemes-and-grants)[,](https://www.madeforfamilies.gov.sg/marriage/your-home-matters-new/housing-schemes-and-grants) [workplace support](https://www.madeforfamilies.gov.sg/support-measures/managing-work-and-family-life/family-friendly-workplaces), *and* [support for parents.](https://www.madeforfamilies.gov.sg/parental-leave-and-benefits)
 
 #### Paying for university
@@ -131,4 +124,3 @@ These include:
 
 Saving for a child's university education should be one of your priorities as a parent. The cost can be hefty. Apart from school or tuition fees, you have to factor in living expenses if you are planning to send your child overseas. The cost can be daunting if you do not prepare or plan ahead.
 
-**See also:** [Planning ahead for your child's university education](https://www.moneysense.gov.sg/articles/2018/10/planning-ahead-for-your-childs-education)
