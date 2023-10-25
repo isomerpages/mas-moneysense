@@ -2,4 +2,5 @@ collections:
   insurance-protection:
     output: true
     order:
+      - Insurance Basics.md
       - Buying Direct Purchase Insurance.md
