@@ -1,0 +1,4 @@
+collections:
+  insurance-protection:
+    output: true
+    order: []
