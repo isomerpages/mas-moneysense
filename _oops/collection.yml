@@ -1,5 +1,5 @@
 collections:
-  this-page-is-not-available:
+  oops:
     output: true
     order:
       - This page is no longer available.md
