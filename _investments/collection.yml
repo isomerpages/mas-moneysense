@@ -2,7 +2,7 @@ collections:
   investments:
     output: true
     order:
-      - What to ask before buying an investment product.md
-      - Managing investment risk.md
-      - Putting together an investment portfolio.md
       - An introduction to types of investments.md
+      - Putting together an investment portfolio.md
+      - Managing investment risk.md
+      - What to ask before buying an investment product.md
