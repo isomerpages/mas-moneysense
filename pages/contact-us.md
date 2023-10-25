@@ -6,8 +6,8 @@ agency_name: MoneySense
 contacts:
   - content:
       - phone: ""
-      - email: moneysense@mas.gov.sg
+      - email: ""
       - other: ""
-    title: General Enquiries & Feedback
+    title: via the online form
 feedback: ""
 ---
