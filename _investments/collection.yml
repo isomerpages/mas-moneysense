@@ -2,7 +2,6 @@ collections:
   investments:
     output: true
     order:
-      - "Guide to shares: What you need to know before you invest.md"
       - What to ask before buying an investment product.md
       - Managing investment risk.md
       - Putting together an investment portfolio.md
