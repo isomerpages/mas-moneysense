@@ -1,4 +1,5 @@
 collections:
   dummy:
     output: true
-    order: []
+    order:
+      - FHC main landing page.md
