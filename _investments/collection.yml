@@ -2,4 +2,5 @@ collections:
   investments:
     output: true
     order:
+      - Putting together an investment portfolio.md
       - An introduction to types of investments.md
