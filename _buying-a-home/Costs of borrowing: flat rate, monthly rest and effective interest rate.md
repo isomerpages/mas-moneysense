@@ -40,12 +40,12 @@ Below is a calculation for a $90,000 car loan at 2.5% interest per annum flat ra
 | Interest Paid    | $11,250     | $15,750   |
 
 
-#### Monthly rest rate
+##### Monthly rest rate
 With monthly rest, interest is calculated based on the outstanding balance of the loan. As you pay down your outstanding loan amount every month, the interest also reduces over time.
 
 Monthly rest is commonly used for home loans.
 
-#### Loan on monthly rest
+##### Loan on monthly rest
 Say you have a $600,000 loan payable over 20 years at a fixed rate of 3.5% per annum, and you have to make 240 equal monthly repayments of $3,480.
 
 Here's what your payment schedule might look like for the first 5 years. Notice that the interest portion of the payment reduces as time goes on.
@@ -61,12 +61,12 @@ Here's what your payment schedule might look like for the first 5 years. Notice 
 | 5    | 3.50%| $1,989.29   | $1,490.47     |$3,480| $41,757
 
 
-####  Fixed versus  floating rate
+#####  Fixed versus  floating rate
 For a fixed rate monthly rest, the interest rate stays the same for a period of time known as the lock-in period.
 
 For a floating rate, the interest rate can move up or down. If interest rate moves up, your interest expense will be higher. Do factor this in when deciding if you can afford a loan.
 
-#### Effective interest rate (EIR) - what your loan actually costs
+##### Effective interest rate (EIR) - what your loan actually costs
 The true cost of your loan is known as the effective interest rate (EIR), which may be higher than the advertised rate because of the way interest is calculated.
 
 *For flat rate loans, the EIR is higher than the advertised rate because the same rate (advertised rate) is applied throughout the loan period, based on the original loan amount.
@@ -103,7 +103,7 @@ Generally, a shorter loan tenure means less interest overall, but a higher month
 
 To help you decide, ask your bank for a **repayment schedule**. It will give you an idea of the total borrowing costs (including the total interest payable).
 
-#### Note
+**Note:**
 If you take up a floating-rate loan, keep in mind that **interest rates can go up**. Even small increases can make a big difference in the total amount you pay, so plan accordingly.
 
 #### Other costs of loans
@@ -122,5 +122,5 @@ Loans may come with other costs such as fees, charges and third-party costs, whi
 | Early repayment charge  | Early repayment charge	For paying part or the whole loan earlier than originally agreed. |
 
 
-#### Note
+**Note:**
 Your bank can change terms, including interest rates, fees and charges by giving notice.
