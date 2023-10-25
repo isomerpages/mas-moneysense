@@ -1,0 +1,4 @@
+collections:
+  investments:
+    output: true
+    order: []
