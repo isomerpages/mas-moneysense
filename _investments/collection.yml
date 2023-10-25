@@ -1,4 +1,5 @@
 collections:
   investments:
     output: true
-    order: []
+    order:
+      - An introduction to types of investments.md
