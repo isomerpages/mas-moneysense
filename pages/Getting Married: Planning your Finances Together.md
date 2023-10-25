@@ -6,18 +6,17 @@ description: ""
 ![getting married](/images/getting%20married.jfif)
 2 min. read
 
-Don't let money put a strain on your relationship. Find out how you can work together to achieve your financial goals as a couple.
+**Don't let money put a strain on your relationship. Find out how you can work together to achieve your financial goals as a couple.**
 
 #### Working on your new financial life together
 -------------------------------------------
-
 One of the most important parts of a marriage is knowing how to manage your money together.
 
 Differing attitudes towards money can pose challenges to a relationship. For example, what seems sensible and prudent to you may seem stingy to him or her. If you are used to lavishing each other with extravagant gifts, you might no longer find this desirable or sensible once you get married and have bills to pay.
 
 Planning ahead together can help you build a strong foundation for your marriage.
 
-##### What you should do
+#### What you should do
 ------------------
 
 Here are some tips for you:
