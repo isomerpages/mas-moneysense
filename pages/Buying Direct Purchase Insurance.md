@@ -46,18 +46,20 @@ The features of DPI are broadly standardised for easy comparison. But do read th
 
 You can buy protection of up to $400,000, based on your needs:
 
+**Sum assured**
+* Term DPI: $50,000-$400,000 per insurer 
+* Whole Life DPI: $50,000-$200,000 per insurer. The maximum sum assured is aggregated for all Term DPI and Whole Life DPI at $400,000 
 
+**Entry age**
+* Minimum age: 18 Years old 
+* Maximum age: 45, 60 or 65 years old depending on the type of DPI purchased
 
-| Sum assured     | Term DPI: $50,000-$400,000 per insurer Whole Life DPI: $50,000-$200,000 per insurer. The maximum sum assured is aggregated for all Term DPI and Whole Life DPI at $400,000     |
-| -------- | -------- | 
-| Text     | Text     |
-| -------- | -------- | | Text     | Text     |
-| -------- | -------- |  
-| -------- | -------- |  
-| Entry age     | Minimum age: 18 Years old Maximum age: 45, 60 or 65 years old depending on the type of DPI purchased     | 
+**Amount of TPD benefit**
+* 100% of sum assured
 
-
-
+**Amount of optional CI rider benefit**
+* 100% of sum assured (except for illnesses that require angioplasty and other invasive treatments for coronary artery)
+* For illnesses that require angioplasty and other invasive treatments for coronary artery, the payout will be 10% of the sum assured, subject to a maximum amount of $25,000
 
 ### Coverage period
 
@@ -65,33 +67,17 @@ You can choose different coverage periods for a term life DPI. For whole life, c
 
 | Period | Term DPI | Whole Life DPI |
 | --- | --- | --- |
-| **Policy coverage period** | 
-*   5 years (renewable)
-*   20 years (non-renewable)
-*   Up to age 65 (non-renewable)
-
-TPD and optional CI benefits cover up to age 65; death and terminal illness benefits cover up to age 85.
-
- | Up to death of insured or up to a specified maturity age (e.g. 99 years old), except for TPD benefits which will be up to age 65. |
+| **Policy coverage period** | *   5 years (renewable) / 20 years (non-renewable) / Up to age 65 (non-renewable). TPD and optional CI benefits cover up to age 65; death and terminal illness benefits cover up to age 85. | Up to death of insured or up to a specified maturity age (e.g. 99 years old), except for TPD benefits which will be up to age 65. |
 | **Premium paying period** | Same as policy coverage period. | Up to age 70 or age 85.  
  |
 
-Which insurers offer DPI
-------------------------
-
 Most life insurance companies offer DPI. You may choose to buy directly from their customer service centres or websites, if available.
 
-How to buy DPI
+### How to buy DPI
 
-If you're considering DPI,
+If you're considering DPI, make sure you understand your own insurance needs. Determine if you can afford the insurance policy and how much coverage you need.
 
-### 1\. Do your research
-
-Understand your own&nbsp;[insurance needs](https://www.moneysense.gov.sg/articles/2018/10/assessing-your-insurance-needs). Use the&nbsp;[budget](https://www.moneysense.gov.sg/financial-tools/budget-calculator)&nbsp;and&nbsp;[insurance coverage](https://www.cpf.gov.sg/eSvc/Web/Schemes/InsuranceEstimator/InsuranceEstimator)&nbsp;calculators to determine if you can afford the insurance policy and how much coverage you need.
-
-### 2\. Compare
-
-Shortlist three to four products. Compare their features and benefits on&nbsp;[compareFIRST.sg](http://www.comparefirst.sg/), an online portal that helps you compare products among different insurers.
+Shortlist three to four products. Compare their features and benefits on compareFIRST, an online portal that helps you compare products among different insurers.
 
 You can compare the different types of DPI, as well as between DPI and non-DPI, in terms of:
 
@@ -101,8 +87,6 @@ You can compare the different types of DPI, as well as between DPI and non-DPI, 
 *   Cash values
 *   Distribution cost
 
-### 3\. Buy directly
-
-Select the product that meets your needs. Buy directly from the customer service centres or websites (if available) of the life insurance company.
+Once you have picked the product that meets your needs, you can buy directly from the customer service centres or websites (if available) of the life insurance company.
 
 Before purchasing any DPI, go through the DPI Fact Sheet and complete the checklist that you will receive from the life insurance company. These documents set out important information that you should consider when buying DPI.
