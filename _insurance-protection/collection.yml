@@ -1,4 +1,5 @@
 collections:
   insurance-protection:
     output: true
-    order: []
+    order:
+      - Buying Direct Purchase Insurance.md
