@@ -3,4 +3,4 @@ title: Savings Calculator
 permalink: /financial-tools/savings-calculator/
 description: ""
 ---
-The calculator is no longer available. 
+[![Oops! This page is no longer available.](/images/Homepage/mymoneysense%20redirect.png)](https://www.mymoneysense.gov.sg/)
