@@ -10,7 +10,7 @@ sections:
       background: /images/navigating major financial decisions.jfif
       title: Money Matters Made Simple
   - infopic:
-      title: Hot button issues
+      title: Hot Button Issues
       button: Find out more
       url: /in-the-spotlight
       image: /images/In The Spotlight/in the spotlight main pic.jfif
