@@ -25,6 +25,8 @@ Saving first ensures that you save a portion of your income every month. Ideally
 
 Conversely, a spend-first-save-later pattern could mean there is nothing left for savings.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="How To Pay Yourself First" src="https://www.youtube.com/embed/AqBtGINDZxA" height="520" width="585"></iframe>
+
 ### How do you spend?
 Before you start tracking your spending, take an honest look at how you spend your money.
 
@@ -42,7 +44,7 @@ Was it a need or want? Was it an essential item or was it bought on impulse?
 Do you usually buy at first sight? Or do you compare prices to see if you're getting the best deal?
 You should take steps to curb your spending if it is keeping you from achieving your goals.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="How To Pay Yourself First" src="https://www.youtube.com/embed/AqBtGINDZxA" height="520" width="585"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Needs vs Wants" src="https://www.youtube.com/embed/OmzRi54QQ1w" height="520" width="585"></iframe>
 
 ###### Tracking your spending
 A simple way to track your spending is by using a budgeting app. Or you could jot down what you spent, when and how much you paid for it.
