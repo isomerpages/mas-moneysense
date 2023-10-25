@@ -2,5 +2,6 @@ collections:
   insurance-protection:
     output: true
     order:
+      - "Life insurance: Comparing term and bundled products.md"
       - Insurance Basics.md
       - Buying Direct Purchase Insurance.md
