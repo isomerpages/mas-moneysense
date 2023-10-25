@@ -1,4 +1,5 @@
 collections:
   managing-your-money:
     output: true
-    order: []
+    order:
+      - Managing Your Money.md
