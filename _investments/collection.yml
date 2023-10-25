@@ -2,5 +2,6 @@ collections:
   investments:
     output: true
     order:
+      - Managing investment risk.md
       - Putting together an investment portfolio.md
       - An introduction to types of investments.md
