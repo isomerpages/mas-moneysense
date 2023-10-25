@@ -123,4 +123,3 @@ These include:
 ---------------------
 
 Saving for a child's university education should be one of your priorities as a parent. The cost can be hefty. Apart from school or tuition fees, you have to factor in living expenses if you are planning to send your child overseas. The cost can be daunting if you do not prepare or plan ahead.
-
