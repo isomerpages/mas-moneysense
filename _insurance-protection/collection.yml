@@ -2,6 +2,7 @@ collections:
   insurance-protection:
     output: true
     order:
+      - Understanding critical illness insurance.md
       - Understanding Integrated Shield Plans.md
       - Understanding term insurance.md
       - Understanding whole life insurance.md
