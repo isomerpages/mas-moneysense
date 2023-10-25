@@ -9,10 +9,10 @@ How you manage your money can make a big impact on your life.
 
 A good job and a dream income could still be insufficient if we don’t know how to handle our money. The key to being financially secure is not how much money we make, but how well we manage it. 
 
-#### Start by saving first
+### Start by saving first
 Saving first and spending later is a good way to increase your savings. It is a commitment to save a fixed amount every time you get paid. You should keep this amount in a separate bank account so that you are not tempted to spend it.
 
-###### Save first versus spend first
+##### Save first versus spend first
 Here's the difference between the two spending patterns:
 
 
@@ -25,10 +25,10 @@ Saving first ensures that you save a portion of your income every month. Ideally
 
 Conversely, a spend-first-save-later pattern could mean there is nothing left for savings.
 
-#### How do you spend?
+### How do you spend?
 Before you start tracking your spending, take an honest look at how you spend your money.
 
-###### Needs versus wants
+##### Needs versus wants
 Needs are the essentials of life. These are things you can’t live without, like food or utilities.
 
 Wants are the things you desire. They could be more expensive (but not necessarily better) substitutes for your needs or just non-essential items, like a new pair of shoes to add to your collection.
@@ -45,7 +45,7 @@ You should take steps to curb your spending if it is keeping you from achieving 
 ###### Tracking your spending
 A simple way to track your spending is by using a budgeting app. Or you could jot down what you spent, when and how much you paid for it.
 
-#### Setting a budget
+### Setting a budget
 A budget is a good savings and spending plan. It can help you manage your savings, income, spending, debt and other liabilities prudently. Setting up a budget is also a great way to get a quick snapshot of where your money is coming from and going.
 
 Preparing a budget will help you:
@@ -57,7 +57,7 @@ Preparing a budget will help you:
 If you have an existing budget, review it from time to time to make sure it still works. If you are new to budgeting, use the Budget Calculator to guide you.
 
 
-###### Checklist 
+##### Checklist 
 Here are a few tips to get you started on preparing a budget:
 
 1. Work out your total monthly income. Include income you can count on (basic salary, rental income). Do not include any money you are not sure you will earn (e.g. bonuses and commissions).
@@ -67,7 +67,7 @@ Here are a few tips to get you started on preparing a budget:
 5. Monitor your budget regularly to see if you are on track. Adjust your budget if, for example, you get a pay rise or get a pay cut or if you have another addition to the family.
  
 
-#### If you're spending too much
+### If you're spending too much
 Look for ways to reduce your expenses. Here are some ideas:
 
 * Change to house brands when shopping for food or essential household items
