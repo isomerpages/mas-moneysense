@@ -5,11 +5,11 @@ description: ""
 ---
 ![](/images/how%20home%20loans%20work.jfif)
 
-**Find out about the types of home loans available and how interest is calculated, and learn about repayments and refinancing.
-***
+**Find out about the types of home loans available and how interest is calculated, and learn about repayments and refinancing.**
+
 #### Key takeaways
 
-*   The HDB Loan Eligibility (HLE) letter and property loan fact sheet contain the terms of your loan and show how rising interest rates could affect your repayments.
+* The HDB Loan Eligibility (HLE) letter and property loan fact sheet contain the terms of your loan and show how rising interest rates could affect your repayments.
 *   For bank loans, variable rates will kick in after the fixed rate lock-in period ends (differs by loan package).
 *   Refinancing a home loan may help you save on the interest.
 *   Making a partial pre-payment can help you lower your monthly loan payments and save on the interest as well.
