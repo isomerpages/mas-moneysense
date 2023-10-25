@@ -3,10 +3,4 @@ title: Mortgage Calculator
 permalink: /financial-tools/mortgage-calculator/
 description: ""
 ---
-You can use the following calculators:
-
-HDB
-
-CPF
-
-MyMoneySense
+[![Oops! This page is no longer available.](/images/Homepage/mymoneysense%20redirect.png)](https://www.mymoneysense.gov.sg/)
