@@ -27,10 +27,17 @@ Which group do you belong to?
 
 * Golden Years
 
-### Financial Planning Norms
+### Basic Financial Planning Guide
 
-* Save: Set aside at least three to six months’ worth of expenses
+* Emergency Funds: 
+	* Set aside at least three to six months’ worth of expenses
 
-* Protect: Aim for insurance coverage of 9 times’ annual income for death/Total Permanent Disability, and 4 times’ annual income for critical illness. Keep insurance premiums to no more than 15% of salary
+* Protection: Obtain insurance protection for:
+	* Death & Total Permanent Disability: 9x annual income
+	* Critical illness: 4x annual income
+	* Spend at most 15% of income on insurance protection
 
-* Invest: Put aside at least 10% to 20% of your salary
+* Investments: 
+	* Invest at least 10% of income for retirement and other financial goals
+
+* Make your will and CPF nomination, and appoint trusted persons
