@@ -40,4 +40,4 @@ If you can no longer afford or do not wish to continue paying the premiums for y
 
 ### Are you covered?
 
-Not sure if your current health insurance is an IP? You can check by logging in to the CPF Board website. 
+Not sure if your current health insurance is an IP? You can check by logging in to the CPF Board website.
