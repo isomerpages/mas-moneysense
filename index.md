@@ -33,13 +33,4 @@ sections:
       image: /images/Homepage/navigating financial decisions.jfif
       description: From buying a house to starting a family, solid financial plans are
         at the heart of these milestones in life.
-  - infopic:
-      title: Financial Literacy Quiz
-      id: infopic
-      description: Stand a chance to receive $20 vouchers by completing the Financial
-        Literacy Quiz  and logging in to MyMoneySense.
-      button: Find out more
-      url: https://www.mymoneysense.gov.sg/fin-lit-quiz/?&utm_source=Website&utm_medium=moneysense&utm_campaign=2023Oct
-      image: /images/Homepage/flq hero banner.png
-      alt: Financial Literacy Quiz
 ---
