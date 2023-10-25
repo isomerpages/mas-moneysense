@@ -30,14 +30,20 @@ Which group do you belong to?
 ### Basic Financial Planning Guide
 
 * Emergency Funds: 
-	* Set aside at least three to six months’ worth of expenses
+	* Set aside at least three to six months’ worth of expenses 
+	
+	(Read more: Managing your finances)
 
 * Protection: Obtain insurance protection for:
 	* Death & Total Permanent Disability: 9x annual income
 	* Critical illness: 4x annual income
 	* Spend at most 15% of income on insurance protection
-
+	
+	(Read more: Insurance)
 * Investments: 
 	* Invest at least 10% of income for retirement and other financial goals
+	
+	(Read more: Investments)
+
 
 * Make your will and CPF nomination, and appoint trusted persons
