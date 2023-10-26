@@ -61,7 +61,7 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 
 
 
-##
+#
 
 
 
@@ -78,7 +78,7 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 
 
 
-##
+#
 
 
 
@@ -95,7 +95,7 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 
 
 
-##
+#
 
 
 
