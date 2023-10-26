@@ -5,7 +5,6 @@ permalink: /how-to-plan-activities-for-your-children-without-breaking-the-bank/
 description: ""
 ---
 ![](/images/madam%20thm.jfif)
-3 min. read
 
 **It’s the school holidays! For some children nowadays, it’s about “fun” enrichment classes, indoor parks and playgrounds, and overseas holidays. Is it possible to plan activities that are fun and enriching for your children without spending too much?**
 
