@@ -4,7 +4,6 @@ permalink: /costs-of-borrowing-flat-rate-monthly-rest-and-effective-interest-rat
 description: ""
 ---
 ![cost of borrowing](/images/cost%20of%20borrowing.jfif)
-4 min. read
 
 **Look beyond the advertised interest rate. Learn about different types of loans and what factors affect how much interest you'll end up paying.**
 
