@@ -1,0 +1,4 @@
+collections:
+  legacy-planning:
+    output: true
+    order: []
