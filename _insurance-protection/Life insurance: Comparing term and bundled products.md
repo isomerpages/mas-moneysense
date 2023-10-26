@@ -48,8 +48,6 @@ Riders may be offered to enhance the benefits of the original policy, e.g. cover
 ### Term versus bundled products
 Compare both types of products as each product fulfils a specific purpose. Decide what features and benefits match your needs and buy the product that best meets them.
 
-
-
 |  | Term | 
 | -------- | -------- |
 | **Type**     | Unbundled     |
@@ -58,11 +56,7 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Investment risk**     | None     |
 | **Premium level**     | Constant. Premiums is revised upon renewal     |
 
-
-
-
-
-
+#
 
 |  | Participating Whole Life | 
 | -------- | -------- |
@@ -72,11 +66,7 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Investment risk**     | You bear investment risks of the non-guaranteed bonuses.     |
 | **Premium level**     | Typically constant. Premiums can be paid on a regular basis     |
 
-
-
-
-
-
+#
 
 |  | Participating Endowment | 
 | -------- | -------- |
@@ -86,12 +76,7 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Investment risk**     | You bear investment risks of the non-guaranteed bonuses.     |
 | **Premium level**     | Typically constant. Premiums can be paid on a regular basis     |
 
-
-
-
-
-
-
+#
 
 |  | Non-Participating Endowment/Whole Life | 
 | -------- | -------- |
