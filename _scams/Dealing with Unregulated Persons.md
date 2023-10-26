@@ -4,7 +4,6 @@ permalink: /dealing-with-unregulated-persons/
 description: ""
 ---
 ![Unregulated Persons](/images/unregulated%20people.jfif)
-3 min. read
 
 **Find out the risks of dealing with unregulated persons for financial products and services, and get tips to protect yourself.**
 
