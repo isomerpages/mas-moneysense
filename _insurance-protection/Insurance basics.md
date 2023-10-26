@@ -77,7 +77,7 @@ Before committing to an insurance plan, run through this checklist to make sure 
 ### Before buying, compareFIRST
 You should always compareFIRST before deciding which life insurance product to buy.
 
-[compareFIRST](www.comparefirst.sg) is an information portal on insurance products. It allows you to compare the premiums and features of life insurance products available to the retail market in Singapore.
+[CompareFIRST](https://www.comparefirst.sg/wap/homeEvent.action) is an information portal on insurance products. It allows you to compare the premiums and features of life insurance products available to the retail market in Singapore.
 
 You can customise your search by selecting:
 
