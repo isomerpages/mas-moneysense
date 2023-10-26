@@ -11,8 +11,8 @@ Find out how digital tokens work and what you should do to protect yourself from
 
 *   Cryptocurrencies are not regulated by the Monetary Authority of Singapore (MAS) as they are not legal tender.
 *   Be aware of the risks of initial coin offerings (ICOs).
-What are digital tokens, cryptocurrencies and ICOs?
----------------------------------------------------
+
+#### What are digital tokens, cryptocurrencies and ICOs
 
 A digital token is a cryptographically-secured representation of the token-holder’s rights to receive a benefit or to perform specified functions.
 
