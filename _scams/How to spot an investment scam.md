@@ -65,8 +65,6 @@ Do not be too quick to believe everything you are told. Verify information provi
 
 It is also important to ask the entity as many questions as you need to fully understand the investment opportunity. If it is unable to answer or avoids answering any of your questions, be wary.
 
-**See also:** [Dealing with unregulated persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons)
-
 If you suspect that you are a victim of scam, please inform your bank and file a police report immediately.
 
 Tell your family and friends about investment scams so that they do not fall prey to them.
