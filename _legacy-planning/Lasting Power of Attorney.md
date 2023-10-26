@@ -40,16 +40,20 @@ Compared to making an LPA, the deputyship application process will not only take
 
 There are two LPA forms, with LPA Form 1 being the most widely used:
 
+
 | LPA Form 1 | 
 | --- | 
 | 
 *   A standard version that allows donors to grant general powers with basic restrictions to donees
-*   98% of Singapore Citizens who have made an LPA used this form
+*   98% of Singapore Citizens who have made an LPA used this form |
+
 
 | LPA Form 2 | 
 | --- |
 *   For donors who wish to grant customised and specific powers to their donees
-*   The Annex to Part 3 of this form has to be drafted by a lawyer
+*   The Annex to Part 3 of this form has to be drafted by a lawyer |
+
+
 
 ### Making an LPA using Form 1
 
@@ -79,4 +83,3 @@ Not sure how to fill up Form 1 or make an advance care plan? Try this self-guid
 ##### Note
 
 **Application fees are waived until 31 March 2026**. To encourage more Singaporeans to pre-plan, the Office of the Public Guardian has extended the LPA application fee waiver for Singaporeans making an LPA Form 1 to 31 March 2026.
-
