@@ -11,7 +11,7 @@ description: ""
 
 * In-house instalment payment plans offered by a store may charge high interest rates.
 
-* *Small monthly payments can add up, and you may end up paying more than the original purchase price.
+* Small monthly payments can add up, and you may end up paying more than the original purchase price.
 * Instalment payment plans offered by credit card companies are interest-free as long as you pay in full and on time.
 
 * Instalment plans make items seem more affordable by breaking up a large purchase into smaller monthly payments on your credit card. However, depending on the type of plan, their total cost can be much higher.
@@ -56,8 +56,7 @@ In some cases, the interest you pay could end up being more than the purchase pr
 #### Zero-interest instalment payment plans
 Interest-free instalment plans offered by credit card companies allow you to pay the same price as someone who pays the whole sum upfront in cash – but only if you pay the instalment in full and on time.  
 
-##### 
-Take note: your obligation is to the bank
+#### Take note: your obligation is to the bank
 With an instalment plan, your payment obligation is to the credit card issuer, not the merchant. Once you charge something to your credit card, you have to settle the charge fully.
 
 This means:
