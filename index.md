@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: Hot Button Issues
       button: Find out more
-      url: /in-the-spotlight
+      url: /hot-button-issues
       image: /images/In The Spotlight/in the spotlight main pic.jfif
       alt: stay-updated
       description: To strengthen your finances, you need to know about new financial
