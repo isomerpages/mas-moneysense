@@ -17,4 +17,4 @@ It pays to stay abreast of new developments so you can spot red flags and avoid 
 
 * [Inflation](/what-is-inflation/)
 
-* [Scams](/scams/)
+* [Scams](/4-tips-to-stay-safe-when-using-e-payments/)[Scams](/scams/)
