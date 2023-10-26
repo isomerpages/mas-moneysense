@@ -21,7 +21,7 @@ There just seems to be so many bargains to be scored! But are there, really?
 
 #### Giving the appearance of affordability – buy now, pay later
 
-Instalment payment plans or buy now, pay later options may make pricier options _appear_ affordable by spreading out payments. Instead of paying $1,200 now for a mobile phone, paying $400 each time over three instalments is more appealing for many – except perhaps we could have only afforded a $600 mobile phone with our budget. (Find out the real costs of instalment payment plans [here]((https://www.moneysense.gov.sg/articles/2018/11/the-real-cost-of-instalment-payment-plans)).
+Instalment payment plans or buy now, pay later options may make pricier options _appear_ affordable by spreading out payments. Instead of paying $1,200 now for a mobile phone, paying $400 each time over three instalments is more appealing for many – except perhaps we could have only afforded a $600 mobile phone with our budget.
 
 To be fair, instalments are not bad, in and of themselves. In fact, most of us would _need_ to pay by instalments at some point in our lives, such as for our home.
 
@@ -68,5 +68,3 @@ A small adjustment you could make to your online shopping routine is to carefull
 #### The bottomline
 
 Knowing how retailers go all out to persuade you to part with more money is bagging a deal in itself. After all, that money you did not spend because you saw through their tricks can be put to better use, such as saving or investing.
-
-It is easier to curb an itch to turn to retail therapy when you have clear financial goals (read more about how to set goals for yourself [here](https://www.moneysense.gov.sg/articles/2020/6/setting-financial-goals), and try our tool for reaching for your own financial goals [here](https://www.mymoneysense.gov.sg/).
