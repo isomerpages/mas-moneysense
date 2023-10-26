@@ -62,6 +62,8 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 
 
 
+
+
 |  | Participating Whole Life | 
 | -------- | -------- |
 | **Type**     | Bundled     |
@@ -74,6 +76,8 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 
 
 
+
+
 |  | Participating Endowment | 
 | -------- | -------- |
 | **Type**     | Bundled     |
@@ -83,6 +87,9 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Premium level**     | Typically constant. Premiums can be paid on a regular basis     |
 
 ##
+
+
+
 
 
 
