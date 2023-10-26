@@ -2,7 +2,6 @@ collections:
   buy-now-pay-later:
     output: true
     order:
-      - Buy Now Pay Later.md
       - The real cost of instalment payment plans.md
       - Needs Versus Wants (VIDEO).md
       - 3 Traps To Avoid When You Go Shopping.md
