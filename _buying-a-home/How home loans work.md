@@ -17,7 +17,7 @@ description: ""
 #### What is a home loan?
 --------------------
 
-An HDB loan or home loan is money borrowed from HDB or the bank to help you buy your property. For HDB flats, you may also be able to tap on housing loans at a&nbsp;[concessionary interest rate](https://www.hdb.gov.sg/cs/infoweb/news-and-publications/publications/hdbspeaks/housing-loan-at-a-concessionary-interest-rate), subject to HDB's criteria.
+An HDB loan or home loan is money borrowed from HDB or the bank to help you buy your property. For HDB flats, you may also be able to tap on housing loans at [concessionary interest rate](https://www.hdb.gov.sg/residential/servicing-your-hdb-housing-loan/loan-matters/interest-rate), subject to HDB's criteria.
 
 With a home loan:
 
@@ -117,7 +117,7 @@ Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet for
 
 #### HDB Loan Eligibility Letter
 
-To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an&nbsp;[HDB Loan Eligibility (HLE)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/hdb-loan-eligibility-hle-letter)&nbsp;letter.
+To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for a [HDB Home Eligibility Letter (HLE)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter).
 
 HLE helps you plan for your home purchase by giving you information on how much you can borrow, the monthly repayments, the amount of cash you need and other terms and conditions.
 
