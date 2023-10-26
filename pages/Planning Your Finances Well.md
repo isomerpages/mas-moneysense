@@ -43,7 +43,7 @@ Which group do you belong to?
 * Investments: 
 	* Invest at least 10% of income for retirement and other financial goals
 	
-	(Read more: [Investments](/investments/))
+	(Read more: [Investments](/investments/types-of-investments/))
 
 
 * Make your will and CPF nomination, and appoint trusted persons
