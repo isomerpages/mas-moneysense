@@ -8,7 +8,7 @@ description: ""
 ### Know your risk appetite
 Can you afford to lose all of your investment?
 
-Every investment bears risk. In some cases, you could lose some or all of the money you invested. In other cases, you may have to bear market price fluctuation. Then, there are cases where you lose income or return on investment.
+Every investment bears risk. In some cases, you could lose some or all of the money you invested. In other cases, you may have to bear market price fluctuations. Then, there are cases where you lose income or return on investment.
 
 Your willingness to accept risk should take into account:
 
@@ -19,7 +19,7 @@ Your willingness to accept risk should take into account:
 
 As all investments carry risk, you should consider the risk-return tradeoff before deciding on an investment. Generally, the higher the potential returns, the greater the risk.
 
-**Your risk appetite is more about how much you can afford to lose rather than how much you want to make.** 
+**Note****Your risk appetite is more about how much you can afford to lose rather than how much you want to make.** 
 
 ### Risk-return trade-off
 The higher the potential returns, the higher the risks.
@@ -52,7 +52,7 @@ Assets that move together in the same direction are said to be correlated. One w
 
 Investing in assets that are not correlated is beneficial because they are not impacted by the same market trends. Hence, shocks in one market will not affect the others.
 
-Example: If the construction industry suffers a downturn, both the share price of a construction company and the price of steel, which is used in construction, will drop. These two are positively correlated.
+**Example:** If the construction industry suffers a downturn, both the share price of a construction company and the price of steel, which is used in construction, will drop. These two are positively correlated.
 
 
 However, industries dealing in healthcare will not be affected and hence the share price of a healthcare company will move independently or randomly – they are not correlated.
