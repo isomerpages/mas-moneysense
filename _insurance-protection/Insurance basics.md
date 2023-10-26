@@ -25,11 +25,13 @@ Here are 3 main types of insurance policies and their purpose:
 
 **2. Health insurance**
 
+
 | Purpose | Examples | 
 | -------- | -------- | 
 | For yourself (helps pay medical costs due to illnesses or accidents)      | MediShield Life, Private Integrated Shield Plans (IPs), Critical illness, Disability income, ElderShield/CareShield Life     | 
 
 **3. General insurance**
+
 
 | Purpose | Examples | 
 | -------- | -------- | 
@@ -49,7 +51,7 @@ Your insurance policy is a contract that lists exactly what you want to protect 
 * Damage to your car
 * Damage to your house
 
-2.  Pay the premium
+2. Pay the premium
 
 Premium is the amount you pay for the insurance. It could be monthly, quarterly or yearly. It could also be a one-time payment for travel insurance.
 
