@@ -52,11 +52,14 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 
 |  | Term | 
 | -------- | -------- |
-| **Type**     | Unbundled     
-| **Cost of premiums**    | Most affordable     
-| **Cash value**     | Typically none     
-| **Investment risk**     | None     
-| **Premium level**     | Constant. Premiums is revised upon renewal     
+| **Type**     | Unbundled     |
+| **Cost of premiums**    | Most affordable     |
+| **Cash value**     | Typically none     |
+| **Investment risk**     | None     |
+| **Premium level**     | Constant. Premiums is revised upon renewal     |
+
+
+
 
 ##
 
@@ -72,6 +75,9 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Investment risk**     | You bear investment risks of the non-guaranteed bonuses.     |
 | **Premium level**     | Typically constant. Premiums can be paid on a regular basis     |
 
+
+
+
 ##
 
 
@@ -85,6 +91,9 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Cash value**     | Yes. Cash value comprises guaranteed benefits and future non-guaranteed bonuses. Surrender value of guaranteed bonuses may be less than the total cash value of the policy.      |
 | **Investment risk**     | You bear investment risks of the non-guaranteed bonuses.     |
 | **Premium level**     | Typically constant. Premiums can be paid on a regular basis     |
+
+
+
 
 ##
 
