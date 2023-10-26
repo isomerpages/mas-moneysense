@@ -1,5 +1,5 @@
 collections:
-  managing-your-money:
+  emergency-funds:
     output: true
     order:
       - Managing Your Money.md
