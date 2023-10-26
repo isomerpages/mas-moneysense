@@ -2,7 +2,6 @@ collections:
   scams:
     output: true
     order:
-      - Scams.md
       - How to Spot an Investment Scam.md
       - Phishing Scam.md
       - Dealing with Unregulated Persons.md
