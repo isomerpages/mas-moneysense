@@ -52,11 +52,11 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 
 |  | Term | 
 | -------- | -------- |
-| **Type**     | Unbundled     |
-| **Cost of premiums**    | Most affordable     |
-| **Cash value**     | Typically none     |
-| **Investment risk**     | None     |
-| **Premium level**     | Constant. Premiums is revised upon renewal     |
+| **Type**     | Unbundled     
+| **Cost of premiums**    | Most affordable     
+| **Cash value**     | Typically none     
+| **Investment risk**     | None     
+| **Premium level**     | Constant. Premiums is revised upon renewal     
 
 ##
 
