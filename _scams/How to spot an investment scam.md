@@ -53,7 +53,7 @@ Some investment scams may even claim to be regulated by the relevant authorities
 
 Confirm such claims by checking the resources on the Monetary Authority of Singapore (MAS) website.
 
-*   [Financial Instituitions Directory](https://eservices.msd.gov.sg/fid) \- a list of financial instituitions regulated by MAS and the regulated activities they are authorised to provide
+*  [Financial Institutions Directory](https://eservices.mas.gov.sg/fid) \- a list of financial instituitions regulated by MAS and the regulated activities they are authorised to provide
 *   [Register of Representatives](http://eservices.mas.gov.sg/rr) \- a list of individuals who conduct activities regulated by MAS
 *   [Investor Alert List](https://www.mas.gov.sg/ial) \- a non-exhaustive list of persons unregulated by MAS who may have been wrongly misperceived as being licensed or authorised by MAS
 
