@@ -4,7 +4,6 @@ permalink: /3-things-you-didnt-know-about-teaching-your-kid-about-money/
 description: ""
 ---
 ![3 things](/images/3%20things.jfif)
-3 min. read
 
 **It probably comes as no surprise that you influence your kids significantly – from their taste in music, to their daily routines, to their values in life.**
 
