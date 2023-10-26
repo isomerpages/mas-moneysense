@@ -4,7 +4,6 @@ permalink: /buying-a-property-how-much-can-you-afford/
 description: ""
 ---
 ![Buying a property](/images/buying%20a%20property.jfif)
-4 min. read
 
 **Buy a property within your means. Take stock of all your resources to see what you can afford and how much you can borrow, and get to know the differences between HDB loans and bank loans.**
 
