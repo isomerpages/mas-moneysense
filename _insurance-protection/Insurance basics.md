@@ -24,11 +24,13 @@ Here are 3 main types of insurance policies and their purpose:
 | For a regular income during retirement     | CPF LIFE annuities     | 
 
 **2. Health insurance**
+
 | Purpose | Examples | 
 | -------- | -------- | 
 | For yourself (helps pay medical costs due to illnesses or accidents)      | MediShield Life, Private Integrated Shield Plans (IPs), Critical illness, Disability income, ElderShield/CareShield Life     | 
 
 **3. General insurance**
+
 | Purpose | Examples | 
 | -------- | -------- | 
 | For yourself and the assets that you own     | Car insurance, travel insurance, property insurance, work injury compensation insurance     | 
