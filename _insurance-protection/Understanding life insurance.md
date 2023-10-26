@@ -47,7 +47,7 @@ Before committing, consider if your employment situation may change, and whether
 
 If your budget is tight, get term insurance to cover basic living expenses until your youngest child starts earning an income. 
 
-#### Note
+**Note:**
 It is important to know if you are buying life insurance for protection alone or to build savings too, how much to buy, and what you can afford. 
 
 You will be guided through this process if you deal with and seek advice from a financial advisory (FA) representative. 
@@ -80,13 +80,13 @@ Read your policy documents and ask questions when in doubt. Take the documents h
 * When you can expect to receive the policy documents
 * Who in the insurance company you can call, other than the FA representative, if you want to enquire on the status of your application
 
-*After you buy*
+**After you buy**
 * How to make a claim
 * How the assessment is made
 * How long it will take
 
 
-**Be cautious**
+**Be cautious**:
 
 You should 
 * Never sign blank or incomplete forms
