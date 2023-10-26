@@ -4,7 +4,6 @@ permalink: /planning-your-finances-together/
 description: ""
 ---
 ![getting married](/images/getting%20married.jfif)
-2 min. read
 
 **Don't let money put a strain on your relationship. Find out how you can work together to achieve your financial goals as a couple.**
 
