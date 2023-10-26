@@ -9,7 +9,7 @@ A will is a written document that sets out your instructions and wishes on how y
 
 You may want to speak to a lawyer to make sure your Will is valid. It can be altered at any time.
 
-##### Note
+**Note:**
 
 CPF savings are not covered under a will and not part of an estate. They are protected from creditors' claims to it. You are strongly encouraged to make a [CPF nomination](https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme) so that your intended beneficiaries can have quick access to the funds.
 
@@ -45,7 +45,7 @@ If you need advice or help preparing your will, you can seek legal advice or tal
 
 If you pass away without making a will in Singapore, your assets will be distributed according to intestacy laws, which may not be in line with your wishes.
 
-Example:
+**Example:**
 If your spouse and children are financially self-reliant, you may want to provide for your elderly parents, disabled or unemployed siblings, grandchildren or even grandparents. Without a will, your wishes may not be fulfilled.
 
 For more information, visit [My Legacy](https://www.mylegacy.gov.sg/frequently-asked-questions#making-a-will) for the answers to the most Frequently Asked Questions (FAQs).
