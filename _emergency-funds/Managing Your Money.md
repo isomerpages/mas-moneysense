@@ -46,7 +46,7 @@ You should take steps to curb your spending if it is keeping you from achieving 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Needs vs Wants" src="https://www.youtube.com/embed/OmzRi54QQ1w" height="520" width="585"></iframe>
 
-###### Tracking your spending
+
 A simple way to track your spending is by using a budgeting app. Or you could jot down what you spent, when and how much you paid for it.
 
 ### Setting a budget
