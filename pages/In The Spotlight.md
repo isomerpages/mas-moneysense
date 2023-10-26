@@ -11,10 +11,10 @@ It pays to stay abreast of new developments so you can spot red flags and avoid 
 
 ### What you should know
 
-* [Buy Now Pay Later](/buy-now-pay-later/3-traps-to-avoid-when-you-go-shopping/)[Buy Now Pay Later](/buy-now-pay-later)
+* [Buy Now Pay Later](/3-traps-to-avoid-when-you-go-shopping/)
 
 * [Cryptocurrency](/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens/)
 
 * [Inflation](/what-is-inflation/)
 
-* [Scams](/4-tips-to-stay-safe-when-using-e-payments/)[Scams](/scams/)
+* [Scams](/4-tips-to-stay-safe-when-using-e-payments/)
