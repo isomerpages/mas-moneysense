@@ -47,3 +47,5 @@ Which group do you belong to?
 
 
 * Make your will and CPF nomination, and appoint trusted persons
+
+(Read more: [Legacy planning](/legacy-planning/planning-for-retirement/))
