@@ -37,8 +37,6 @@ In addition to these risks, DPTs are not suitable for retail investors because t
 
 Crypto derivatives are derivatives contracts, such as futures, options, or contracts for differences (CFD), that reference cryptocurrencies as the underlying. These products may be offered by CFD brokers and DPT service providers or traded on DeFi applications.
 
-Find out more about the risks of trading cryptocurrencies and their derivatives [here](https://www.moneysense.gov.sg/articles/2019/12/risks-of-trading-payment-token-derivatives?sc_lang=en).
-
 Currently, MAS’ regulations on crypto derivatives only apply to those listed on Singapore Approved Exchanges. Crypto derivatives traded on DeFi applications are not regulated. 
 
 If you trade in crypto derivatives that are not listed on Approved Exchanges, the money you deposited for trading in these derivatives is not protected by MAS’ regulations.

@@ -53,7 +53,7 @@ Some investment scams may even claim to be regulated by the relevant authorities
 
 Confirm such claims by checking the resources on the Monetary Authority of Singapore (MAS) website.
 
-*   [Financial Instituitions Directory](https://eservices.msd.gov.sg/fid) \- a list of financial instituitions regulated by MAS and the regulated activities they are authorised to provide
+*  [Financial Institutions Directory](https://eservices.mas.gov.sg/fid) \- a list of financial instituitions regulated by MAS and the regulated activities they are authorised to provide
 *   [Register of Representatives](http://eservices.mas.gov.sg/rr) \- a list of individuals who conduct activities regulated by MAS
 *   [Investor Alert List](https://www.mas.gov.sg/ial) \- a non-exhaustive list of persons unregulated by MAS who may have been wrongly misperceived as being licensed or authorised by MAS
 
@@ -64,8 +64,6 @@ Remember, dealing with an unregulated entity means giving up the safeguards offe
 Do not be too quick to believe everything you are told. Verify information provided by the entity about themselves or the investment opportunity, such as the background of representatives and the entity's track record. 
 
 It is also important to ask the entity as many questions as you need to fully understand the investment opportunity. If it is unable to answer or avoids answering any of your questions, be wary.
-
-**See also:** [Dealing with unregulated persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons)
 
 If you suspect that you are a victim of scam, please inform your bank and file a police report immediately.
 

@@ -5,29 +5,22 @@ description: ""
 ---
 ![Are Your Planning Your Finances](/images/Are%20You%20Planning%20Your%20Finances/planning%20your%20finances.jfif)
 
-Your needs and priorities shift as you enter a new life stage. 
+The Monetary Authority of Singapore (MAS) and MoneySense, in collaboration with CPF Board and finance industry associations, have developed a Basic Financial Planning Guide to help Singaporeans take simple steps to enhance their financial well-being. 
 
-You may have added responsibilities, such as caring for a dependant, or more financial goals, such as buying a new home. 
+With so many tips on financial planning out there, it can be hard to ascertain if you are on the right track, especially if you do not have a financial adviser. 
 
-We know how overwhelming it may be. So we have worked with industry associations to work out the basic needs to aim for and how you could achieve them. 
+To help Singaporeans proactive identify and plug gaps in their financial planning, MAS and MoneySense, together with the CPF Board, Association of Banks in Singapore, Association of FInancial Advisers (Singapore) and Life Insurance Association, have developed a Basic Financial Planning Guide with rules of thumb to support individuals taking proactive steps to address their savings, insurance, and investment needs. 
 
-Which group do you belong to?
-
-### Life Stages
-
-* Fresh Entrant To Workforce
-
-* Working Adult (parent with young children)
-
-* Working Adult (supporting aged parents)
-
-* Working Adult (parent with children and supporting aged parents)
-
-* Pre-retiree
-
-* Golden Years
+From January 2024, this Guide will be available in six customised formats to better match the specific needs of individuals at different life stages. 
 
 ### Basic Financial Planning Guide
+
+![](/images/streamlined%20basic%20financial%20planning%20guide%20(circulate%20on%2026%20sep%202023)%20(002).jpg)
+
+###### Download:
+[Basic financial planning guide, along with additional information](/files/streamlined%20basic%20financial%20planning%20guide.pdf)
+
+[Frequently Asked Questions for consumers](/files/faqs%20for%20consumers%20on%20basic%20financial%20planning%20(for%207%20oct%202023).pdf)
 
 ##### Emergency Funds: 
 Set aside **at least three to six months’** worth of expenses

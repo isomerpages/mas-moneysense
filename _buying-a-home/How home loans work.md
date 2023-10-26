@@ -123,7 +123,7 @@ HLE helps you plan for your home purchase by giving you information on how much 
 
 #### Tip
 
-An HDB loan comes with certain eligibility criteria such as an income ceiling.&nbsp;[Check if you qualify](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/housing-loan-options/housing-loan-from-hdb).
+An HDB loan comes with certain eligibility criteria such as an income ceiling. [Check if you qualify.](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility)
 
 #### Property loan fact sheet
 
@@ -140,8 +140,6 @@ It highlights how possible increases in interest rates will affect your monthly 
 *   Penalty fees
 
 Ask your bank to take you through the fact sheet so that you know what you are committing to when you take up the loan.
-
-**See also:**&nbsp;[Comparing HDB loans and bank housing loans](https://www.moneysense.gov.sg/articles/2018/10/buying-a-property-how-much-can-you-afford)
 
 #### Refinancing and repricing
 -------------------------
@@ -192,7 +190,7 @@ Before committing to a refinanced housing loan package:
 What if you can't pay?
 ----------------------
 
-If you have trouble keeping up with your monthly payments, approach your mortgagee quickly (HDB or the bank). HDB may be able to better advise you on&nbsp;[alternative options](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/financial-assistance-measures), while the bank may be able to help you restructure the loan.
+If you have trouble keeping up with your monthly payments, approach your mortgagee quickly (HDB or the bank). HDB may be able to better advise you on alternative options while the bank may be able to help you restructure the loan.
 
 Your home loan is secured against your property. In case of a loan default, HDB or the bank has a first charge and the CPF Board has a second charge on your property, if CPF savings have been used for downpayment or to service the loan.
 
@@ -204,9 +202,3 @@ The CPF Board is entitled to the remaining sales proceeds to recover what has be
 #### Tip
 
 If you are using CPF to service your housing instalments, it makes sense to pay off the loan&nbsp;**by the CPF withdrawal age of 55,**&nbsp;due to the lower CPF contributions from age 50 onwards. With lower contributions to your Ordinary Account, you may have to use more cash for the loan repayments.
-
-**See also:**&nbsp;[Managing debt: What you can do](https://www.moneysense.gov.sg/articles/2018/11/managing-debt-what-you-can-do)
-
-#### Find out more
-
-Download the guide:&nbsp;[About Housing Loans: Key Questions to Ask Your Bank Before Taking a Housing Loan](https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.ashx)&nbsp;

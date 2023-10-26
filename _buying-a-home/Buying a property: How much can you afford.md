@@ -114,7 +114,7 @@ The amount of HDB loan granted depends on:
 *Financial standing
 
 #### Are you eligible?
-To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an[HDB Loan Eligibility (HLE) letter](https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778)
+To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an [HDB Loan Eligibility (HLE) letter](https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778)
 
 The HLE helps you plan for your home purchase by giving you information on how much you can borrow, the monthly repayments, the amount of cash you need and other terms and conditions.
 
