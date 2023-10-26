@@ -4,7 +4,6 @@ permalink: /risks-of-trading-payment-token-derivatives/
 description: ""
 ---
 ![Risks](/images/crypto%20coins%20tokens.jfif)
-2 min. read
 
 Find out what payment token derivatives are and what you should know if you plan to trade them.
 
