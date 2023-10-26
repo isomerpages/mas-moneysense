@@ -2,5 +2,6 @@ collections:
   legacy-planning:
     output: true
     order:
+      - What is a will?.md
       - Determine your retirement needs.md
       - Planning for retirement.md
