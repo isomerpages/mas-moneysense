@@ -4,7 +4,6 @@ permalink: /phishing-scam/
 description: ""
 ---
 ![](/images/phishing.jfif)
-2 min. read
 
 **Phishing is a way of obtaining sensitive personal information such as account details, PIN and password through the internet. Anyone with these details can perform unauthorized transactions on your account. Find out how to protect yourself from phishing attempts.
 **
