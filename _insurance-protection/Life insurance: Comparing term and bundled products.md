@@ -59,6 +59,9 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Premium level**     | Constant. Premiums is revised upon renewal     |
 
 ##
+
+
+
 |  | Participating Whole Life | 
 | -------- | -------- |
 | **Type**     | Bundled     |
@@ -68,6 +71,9 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Premium level**     | Typically constant. Premiums can be paid on a regular basis     |
 
 ##
+
+
+
 |  | Participating Endowment | 
 | -------- | -------- |
 | **Type**     | Bundled     |
@@ -77,6 +83,9 @@ Compare both types of products as each product fulfils a specific purpose. Decid
 | **Premium level**     | Typically constant. Premiums can be paid on a regular basis     |
 
 ##
+
+
+
 |  | Non-Participating Endowment/Whole Life | 
 | -------- | -------- |
 | **Type**     | Bundled     |
