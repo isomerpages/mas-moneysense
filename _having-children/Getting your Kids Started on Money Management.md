@@ -4,7 +4,6 @@ permalink: /getting-your-kids-started-on-money-management/
 description: ""
 ---
 ![getting your kids started on money mangement ](/images/getting%20your%20kids%20started%20on%20money%20management.jfif)
-5 min. read
 
 **Children learn best through experience. Find out how to teach your children the concept of money through everyday activities.**
 
