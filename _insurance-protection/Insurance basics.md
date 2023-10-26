@@ -39,7 +39,7 @@ Here are 3 main types of insurance policies and their purpose:
 
 ### How insurance works
 
-**1. Assess your needs and choose a policy**
+#### Assess your needs and choose a policy
 
 The first question to ask yourself is, do you need insurance at all? If you're unsure, take a look at what you have now — your work, life, family and everything you worked hard for. Which part of it do you want to protect if something untoward was to happen to you? Your answer can lead you to the type of insurance you need.
 
@@ -51,7 +51,7 @@ Your insurance policy is a contract that lists exactly what you want to protect 
 * Damage to your car
 * Damage to your house
 
-**2. Pay the premium**
+#### Pay the premium
 
 Premium is the amount you pay for the insurance. It could be monthly, quarterly or yearly. It could also be a one-time payment for travel insurance.
 
@@ -59,7 +59,7 @@ Generally, it costs less if you pay the premiums annually instead of monthly or 
 
 The amount of premium depends on the risk and on the value of the potential loss you’re being insured for. For example, you may want your family to continue to receive your monthly income if you pass away prematurely so your insurance policy will cost more for this benefit.
 
-**3. Make a claim**
+##### Make a claim
 
 If something happens that’s covered by the policy, you can claim on your insurance. Tell the insurer what happened, they'll investigate and if the claim meets with what you’re protected against, then they'll pay you as agreed.
 
