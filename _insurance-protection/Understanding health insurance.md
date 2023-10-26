@@ -41,7 +41,7 @@ There are a few things to consider when choosing a health insurance plan:
 *   **If you have a family –** Make sure your family has adequate health insurance. Medical emergencies can be costly. Check that the deductibles and co-insurance payments are affordable for the long term.
 *   **If you are a senior citizen –** Check the CPF Board website to see if you are covered under ElderShield. If you are under 65 and opted out of ElderShield earlier, speak to any of the private insurers to opt back in. Premiums and payouts are the same across all insurers. You'll need a medical assessment. Your application could be rejected if you have a pre-existing illness.
 
-### Note
+**Note:**
 
 All Singapore Citizens and Permanent Residents born in 1980 or later are covered under CareShield Life (the enhanced ElderShield Scheme) on 1 Oct 2020, or when they turn 30, whichever is later.
 
