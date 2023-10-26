@@ -47,5 +47,3 @@ Do not make large financial commitments on your own or on impulse. Instead, disc
 As you move on to the next stage of life, it's also time to review your health and life insurance.
 
 If you're [planning to buy a home](https://www.moneysense.gov.sg/starter-packs/buying-a-home-you-can-afford), work out what you can afford first.
-
-
