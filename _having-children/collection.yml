@@ -1,0 +1,9 @@
+collections:
+  having-children:
+    output: true
+    order:
+      - Planning your finances when having and raising children.md
+      - Getting your kids started on money management.md
+      - 5 Questions on how to plan activities for your children without breaking
+        the bank.md
+      - 3 things you didn’t know about… teaching your kid about money.md

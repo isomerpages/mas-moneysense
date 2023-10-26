@@ -10,9 +10,9 @@ sections:
       background: /images/navigating major financial decisions.jfif
       title: Money Matters Made Simple
   - infopic:
-      title: In The Spotlight
+      title: Hot Button Issues
       button: Find out more
-      url: /in-the-spotlight
+      url: /hot-button-issues
       image: /images/In The Spotlight/in the spotlight main pic.jfif
       alt: stay-updated
       description: To strengthen your finances, you need to know about new financial
@@ -28,18 +28,9 @@ sections:
   - infopic:
       title: Navigating Major Financial Decisions
       button: Find Out More
-      url: /major-financial-decisions
+      url: /navigating-major-financial-decisions
       alt: financial decisions
       image: /images/Homepage/navigating financial decisions.jfif
       description: From buying a house to starting a family, solid financial plans are
         at the heart of these milestones in life.
-  - infopic:
-      title: Financial Literacy Quiz
-      id: infopic
-      description: Stand a chance to receive $20 vouchers by completing the Financial
-        Literacy Quiz  and logging in to MyMoneySense.
-      button: Find out more
-      url: https://www.mymoneysense.gov.sg/fin-lit-quiz/?&utm_source=Website&utm_medium=moneysense&utm_campaign=2023Oct
-      image: /images/Homepage/flq hero banner.png
-      alt: Financial Literacy Quiz
 ---

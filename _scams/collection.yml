@@ -1,0 +1,8 @@
+collections:
+  scams:
+    output: true
+    order:
+      - 4 Tips to stay safe when using electronic payments.md
+      - How to spot an investment scam.md
+      - Phishing scam.md
+      - Dealing with unregulated persons.md

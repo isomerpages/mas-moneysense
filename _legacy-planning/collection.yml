@@ -1,0 +1,8 @@
+collections:
+  legacy-planning:
+    output: true
+    order:
+      - Planning for retirement.md
+      - Determine your retirement needs.md
+      - Lasting Power of Attorney.md
+      - What is a will?.md

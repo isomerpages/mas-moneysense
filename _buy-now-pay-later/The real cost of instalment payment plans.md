@@ -5,8 +5,6 @@ description: ""
 ---
 ![instalment payment plans](/images/In%20The%20Spotlight/instalment%20payment%20plans.jfif)
 
-3 min. read
-
 **Instalment plans aren't all the same. Find out the difference between in-house instalment payment plans and instalment payment plans offered by credit card companies, and the hidden costs of each.**
 
 #### Key takeaways
