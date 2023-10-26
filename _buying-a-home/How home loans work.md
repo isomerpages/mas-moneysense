@@ -17,7 +17,7 @@ description: ""
 #### What is a home loan?
 --------------------
 
-An HDB loan or home loan is money borrowed from HDB or the bank to help you buy your property. For HDB flats, you may also be able to tap on housing loans at [concessionary interest rate](https://www.hdb.gov.sg/residential/servicing-your-hdb-housing-loan/loan-matters/interest-rate), subject to HDB's criteria.
+An HDB loan or home loan is money borrowed from HDB or the bank to help you buy your property. For HDB flats, you may also be able to tap on housing loans at a&nbsp;[concessionary interest rate](https://www.hdb.gov.sg/cs/infoweb/news-and-publications/publications/hdbspeaks/housing-loan-at-a-concessionary-interest-rate), subject to HDB's criteria.
 
 With a home loan:
 
@@ -117,13 +117,13 @@ Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet for
 
 #### HDB Loan Eligibility Letter
 
-To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for a [HDB Home Eligibility Letter (HLE)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter).
+To find out if you are eligible for an HDB loan and the maximum amount you can borrow, you will need to apply for an&nbsp;[HDB Loan Eligibility (HLE)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/hdb-loan-eligibility-hle-letter)&nbsp;letter.
 
 HLE helps you plan for your home purchase by giving you information on how much you can borrow, the monthly repayments, the amount of cash you need and other terms and conditions.
 
 #### Tip
 
-An HDB loan comes with certain eligibility criteria such as an income ceiling.&nbsp;[Check if you qualify](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/housing-loan-options/housing-loan-from-hdb).
+An HDB loan comes with certain eligibility criteria such as an income ceiling. [Check if you qualify.](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility)
 
 #### Property loan fact sheet
 
@@ -190,7 +190,7 @@ Before committing to a refinanced housing loan package:
 What if you can't pay?
 ----------------------
 
-If you have trouble keeping up with your monthly payments, approach your mortgagee quickly (HDB or the bank). HDB may be able to better advise you on&nbsp;[alternative options](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/financial-assistance-measures), while the bank may be able to help you restructure the loan.
+If you have trouble keeping up with your monthly payments, approach your mortgagee quickly (HDB or the bank). HDB may be able to better advise you on alternative options while the bank may be able to help you restructure the loan.
 
 Your home loan is secured against your property. In case of a loan default, HDB or the bank has a first charge and the CPF Board has a second charge on your property, if CPF savings have been used for downpayment or to service the loan.
 
