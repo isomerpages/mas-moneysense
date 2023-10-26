@@ -40,20 +40,15 @@ Compared to making an LPA, the deputyship application process will not only take
 
 There are two LPA forms, with LPA Form 1 being the most widely used:
 
-
-| LPA Form 1 | 
-| --- | 
-| 
+##### LPA Form 1 
+ 
 *   A standard version that allows donors to grant general powers with basic restrictions to donees
-*   98% of Singapore Citizens who have made an LPA used this form |
+*   98% of Singapore Citizens who have made an LPA used this form
 
+##### LPA Form 2 
 
-| LPA Form 2 | 
-| --- |
 *   For donors who wish to grant customised and specific powers to their donees
-*   The Annex to Part 3 of this form has to be drafted by a lawyer |
-
-
+*   The Annex to Part 3 of this form has to be drafted by a lawyer
 
 ### Making an LPA using Form 1
 
