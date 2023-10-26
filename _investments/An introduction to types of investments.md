@@ -22,7 +22,7 @@ The secondary market is where an investor can purchase an asset from another inv
 
 Different asset classes such as shares, exchange traded funds (ETFs) and real estate investment trusts (REITS) are listed on the exchange. There are fixed trading hours, during which the prices of the shares may go up and down.
 
-Over-the-counter (OTC) refers to trades made outside the organised exchanges. Brokers and dealers use a network of computers and telephones to determine prices between two parties.
+Over-the-Counter (OTC) refers to trades made outside the organised exchanges. Brokers and dealers use a network of computers and telephones to determine prices between two parties.
 
 ### What you need to start
 To start investing, you will need:
@@ -58,4 +58,4 @@ Before an SIP can be sold to you, financial institutions are required to assess 
 
 This is done through a Customer Account Review (CAR) if you wish to open an account to trade SIPs listed on an exchange, or a Customer Knowledge Assessment (CKA) if you wish to invest in an unlisted SIPs.
 
-**Remember, do not invest in products you do not fully understand.**
+**Note: Remember, do not invest in products you do not fully understand.**
