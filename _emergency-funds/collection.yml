@@ -2,5 +2,5 @@ collections:
   emergency-funds:
     output: true
     order:
-      - Managing Your Money.md
+      - Managing your money.md
       - Taking Stock Of Your Finances.md
