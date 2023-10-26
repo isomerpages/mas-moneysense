@@ -39,7 +39,7 @@ Which group do you belong to?
 	* Critical illness: 4x annual income
 	* Spend at most 15% of income on insurance protection
 	
-	(Read more: [Insurance](/insurance-protection/))
+	(Read more: [Insurance](/insurance-basics/))
 * Investments: 
 	* Invest at least 10% of income for retirement and other financial goals
 	
