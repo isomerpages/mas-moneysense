@@ -2,4 +2,5 @@ collections:
   legacy-planning:
     output: true
     order:
+      - Determine your retirement needs.md
       - Planning for retirement.md
