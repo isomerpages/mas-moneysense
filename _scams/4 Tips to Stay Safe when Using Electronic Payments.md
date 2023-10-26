@@ -4,7 +4,6 @@ permalink: /4-tips-to-stay-safe-when-using-e-payments/
 description: ""
 ---
 ![4 tips to stay safe when using e-payments](/images/4%20tips.jfif)
-3 min. read
 
 **Electronic payments, commonly known as e-payments, refer to cashless transactions made via electronic mediums. These transactions are completed as simply and quickly as by just tapping a card or device, or using an app, saving time for both consumers and businesses.**
 
