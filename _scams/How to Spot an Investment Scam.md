@@ -4,7 +4,6 @@ permalink: /how-to-spot-an-investment-scam/
 description: ""
 ---
 ![Investment Scam](/images/investment%20scam.png)
-2 min. read
 
 **Find out how you can spot an investment scam and what you can do to avoid falling prey to one.**
 
