@@ -54,7 +54,7 @@ Remember to:
 
 #### Buy life insurance
 
-Newborns who are registered as Singapore Citizens at birth are automatically insured under [MediShield Life](https://www.moneysense.gov.sg/articles/2018/10/medishield-life). Think about life insurance to help provide for your family should something unexpected happen to you.
+Newborns who are registered as Singapore Citizens at birth are automatically insured under MediShield Life. Think about life insurance to help provide for your family should something unexpected happen to you.
 
 #### Paying for your child’s changing needs
 --------------------------------------
@@ -111,9 +111,9 @@ There are a range of government schemes to help you defray the cost of having an
 These include:
 
 *   [MediShield Life coverage from birth](https://www.cpf.gov.sg/member/healthcare-financing/medishield-life)
-*   [Baby Bonus Scheme](https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Pages/Baby-Bonus-Scheme.aspx)
+*   [Baby Bonus Scheme](https://www.babybonus.msf.gov.sg/Pages/Home.aspx)
 *   [Tax reliefs and rebate for parents](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Parenthood-Tax-Rebate--PTR-/)
-*   [Subsidies for centre-based infant and childcare](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#CCICS)
+*   [Subsidies for infant and childcare](https://www.ecda.gov.sg/parents/subsidies-financial-assistance)
 *   [Foreign domestic worker levy concession](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession)
 
 #### Tip
