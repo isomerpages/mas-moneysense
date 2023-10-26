@@ -1,4 +1,5 @@
 collections:
   legacy-planning:
     output: true
-    order: []
+    order:
+      - Planning for retirement.md
