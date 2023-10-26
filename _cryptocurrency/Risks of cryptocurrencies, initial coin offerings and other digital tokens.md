@@ -5,8 +5,6 @@ description: ""
 ---
 ![crypto](/images/crypto%20coins%20tokens.jfif)
 
-5 min. read
-
 Find out how digital tokens work and what you should do to protect yourself from token-related scams.
 
 #### Key takeaways
