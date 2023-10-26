@@ -141,8 +141,6 @@ It highlights how possible increases in interest rates will affect your monthly 
 
 Ask your bank to take you through the fact sheet so that you know what you are committing to when you take up the loan.
 
-**See also:**&nbsp;[Comparing HDB loans and bank housing loans](https://www.moneysense.gov.sg/articles/2018/10/buying-a-property-how-much-can-you-afford)
-
 #### Refinancing and repricing
 -------------------------
 
@@ -204,9 +202,3 @@ The CPF Board is entitled to the remaining sales proceeds to recover what has be
 #### Tip
 
 If you are using CPF to service your housing instalments, it makes sense to pay off the loan&nbsp;**by the CPF withdrawal age of 55,**&nbsp;due to the lower CPF contributions from age 50 onwards. With lower contributions to your Ordinary Account, you may have to use more cash for the loan repayments.
-
-**See also:**&nbsp;[Managing debt: What you can do](https://www.moneysense.gov.sg/articles/2018/11/managing-debt-what-you-can-do)
-
-#### Find out more
-
-Download the guide:&nbsp;[About Housing Loans: Key Questions to Ask Your Bank Before Taking a Housing Loan](https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.ashx)&nbsp;
