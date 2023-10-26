@@ -18,9 +18,9 @@ From January 2024, this Guide will be available in six customised formats to bet
 ![](/images/streamlined%20basic%20financial%20planning%20guide%20(circulate%20on%2026%20sep%202023)%20(002).jpg)
 
 ###### Download:
-Basic financial planning guide, along with additional information[](/files/streamlined%20basic%20financial%20planning%20guide.pdf)
+[Basic financial planning guide, along with additional information](/files/streamlined%20basic%20financial%20planning%20guide.pdf)
 
-Frequently Asked Questions for consumers[](/files/faqs%20for%20consumers%20on%20basic%20financial%20planning%20(for%207%20oct%202023).pdf)
+[Frequently Asked Questions for consumers](/files/faqs%20for%20consumers%20on%20basic%20financial%20planning%20(for%207%20oct%202023).pdf)
 
 ##### Emergency Funds: 
 Set aside **at least three to six months’** worth of expenses
