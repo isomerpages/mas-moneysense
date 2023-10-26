@@ -44,12 +44,8 @@ Do not make large financial commitments on your own or on impulse. Instead, disc
 
 #### 6\. Sort out the important things first
 
-As you move on to the next stage of life, it's also time to review your [health](https://www.moneysense.gov.sg/articles/2018/11/understanding-health-insurance) and [life insurance](https://www.moneysense.gov.sg/articles/2018/11/understanding-life-insurance).
+As you move on to the next stage of life, it's also time to review your health and life insurance.
 
 If you're [planning to buy a home](https://www.moneysense.gov.sg/starter-packs/buying-a-home-you-can-afford), work out what you can afford first.
 
-#### Find out more
 
-Getting Married - Planning your finances together booklet - A booklet targeted at couples who are planning to get married or newly married. The booklet provides financial planning tips on the various financial decisions that couples have to make in their marriage journey.
-
-Download: [Getting Married - Planning your finances together](https://www.moneysense.gov.sg/-/media/moneysense/media-article/retirement-booklet-aug-2023/couples-booklet---aug-2023.ashx)
