@@ -33,7 +33,7 @@ To commemorate&nbsp;MoneySense’s 20th&nbsp;anniversary&nbsp;milestone&nbsp;in 
 
 CPF Board and MoneySense are collaborating to bring to you a month-long festival, where you can discover new passions and re-imgine your retirement.&nbsp;
 
-The “Ready for Life” Festival will kick off on 7 October 2023 at the Marina Bay Sands Expo and Convention Centre. There will be an exciting line-up of financial and lifestyle talks, and activity booths to help you get the most out of the golden chapter in your life journey.
+The “Ready for Life” Festival kicked off on 7 October 2023 at the Marina Bay Sands Expo and Convention Centre. There will be an exciting line-up of financial and lifestyle talks, and activity booths to help you get the most out of the golden chapter in your life journey.
 
 There will also be weekly webinars throughout October covering a range of financial planning topics that you won't want to miss. Click&nbsp;[here](https://www.cpf.gov.sg/member/infohub/ready-for-life)&nbsp;for details and registration.
 
