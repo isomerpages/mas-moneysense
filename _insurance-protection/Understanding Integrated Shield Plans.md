@@ -24,11 +24,11 @@ Are you wondering if you should just have MediShield Life, to upgrade to an IP o
 
 There are two things to consider:
 
-###### Your comfort level with the types of hospitals, wards and doctors:
+##### Your comfort level with the types of hospitals, wards and doctors:
  
  Do you wish to stay in a Type A/B1 ward in a public hospital, or a private hospital? Do you want to be able to choose your doctor?
 
-###### Your budget:
+##### Your budget:
 
 Can you afford the IP premiums in the long term especially when the premiums rise with age?
 

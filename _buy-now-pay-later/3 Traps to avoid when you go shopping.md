@@ -4,17 +4,6 @@ permalink: /3-traps-to-avoid-when-you-go-shopping/
 description: ""
 ---
 ![3 traps to avoid when shopping](/images/In%20The%20Spotlight/3%20traps%20to%20avoid%20when%20shopping.jfif)
-
-**It is no accident that we sometimes spend more than we planned to when we go shopping. Learn about some ways retailers use to encourage you to spend more and how you can make smart choices in your spending.**
-
-#### Key takeaways
-
-*   Paying for a purchase through instalments is a form of borrowing. There are late fees or charges involved if you cannot meet repayments, making the purchase more expensive.
-*   Take your time to consider carefully before making a purchase – you will be less likely to buy something you do not need.
-*   Overspending adds up. Not only will you be stretching your finances at that point, you also hobble your financial goals for the long-term future.
-
-#### How do retailers lull you into spending more?
-
 Many of us are enticed by the loud advertisements on shopping events, especially when it comes to the last few months of the year – think 10.10 Sale, 11.11 Sale, Black Friday & Cyber Monday.
 
 There just seems to be so many bargains to be scored! But are there, really?
