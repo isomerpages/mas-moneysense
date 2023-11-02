@@ -1,5 +1,0 @@
-collections:
-  fhc:
-    output: true
-    order:
-      - Financial Health Check.md
