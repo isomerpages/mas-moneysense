@@ -41,6 +41,6 @@ sections:
         cpf.gov.sg/BeReady
       button: Find out more
       url: https://www.cpf.gov.sg/member/infohub/be-ready?utm_source=myswb&utm_medium=bn&utm_campaign=rtmplng
-      image: /images/beready_cpf_ms.png
+      image: /images/brhome.png
       alt: BeReady
 ---
