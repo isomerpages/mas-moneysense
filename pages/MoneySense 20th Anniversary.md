@@ -2,6 +2,7 @@
 title: MoneySense 20th Anniversary
 permalink: /20th-anniversary/
 description: MoneySense 20th Anniversary
+variant: markdown
 ---
 ![](/images/20th%20anniversary%20banner.jpg)
 MoneySense Turns 20 This Year
@@ -40,8 +41,8 @@ There will also be weekly webinars throughout October covering a range of financ
 &nbsp;  
   
 
-![Elderly couple](/images/couple.jfif)
-**Be Ready with CPF and MoneySense - A Joint Campaign (Nov 2023)**
+![CPF](/images/beready_cpf_ms.png)
+**Make every day matter. Plan for your best life today**
 
 Learn to make the most of your savings and CPF funds to fulfil your life goals in the CPF-MoneySense Joint Retirement Planning campaign, jointly organised by CPF Board and MoneySense. Whether you are starting out in your career, buying your first home or seeking to achieve financial security for your loved ones and yourself, the campaign will help you better prepare for retirement and make sound financial decisions. Visit&nbsp;[cpf.gov.sg/BeReady](https://www.cpf.gov.sg/member/infohub/be-ready).  
   
