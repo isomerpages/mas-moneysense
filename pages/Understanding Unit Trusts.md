@@ -4,7 +4,8 @@ permalink: /understanding-unit-trusts/
 variant: markdown
 description: ""
 ---
-![test](/images/Homepage/scam%20laptop.png)
+![1](/images/Major%20Financial%20Decisions/major%20financial%20decisions.jfif)
+
 
 If you invest in a unit trust or fund, your money is pooled with money from other investors and invested in a portfolio of assets according to the fund’s stated investment objective and investment approach.
 
