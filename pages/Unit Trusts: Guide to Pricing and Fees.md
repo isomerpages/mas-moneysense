@@ -4,7 +4,7 @@ permalink: /unit-trusts-guide/
 variant: markdown
 description: ""
 ---
-![Unit Trusts](/images/Homepage/dark%20blue%20background.png)
+![Unit Trusts](/images/Major%20Financial%20Decisions/major%20financial%20decisions.jfif)
 
 Funds are priced either by the “bid and offer pricing” method or the “single pricing” method. You can find details of the pricing method in the prospectus and the product highlights sheet.
 
