@@ -33,4 +33,14 @@ sections:
       image: /images/Homepage/navigating financial decisions.jfif
       description: From buying a house to starting a family, solid financial plans are
         at the heart of these milestones in life.
+  - infopic:
+      title: Plan For Your Financial Goals Early
+      id: infopic
+      description: Get useful tips and resources to help you make better financial
+        decisions for your life goals. Plan for your best life today at
+        cpf.gov.sg/BeReady
+      button: Find out more
+      url: https://www.cpf.gov.sg/member/infohub/be-ready?utm_source=myswb&utm_medium=bn&utm_campaign=rtmplng
+      image: /images/brhome.png
+      alt: BeReady
 ---
