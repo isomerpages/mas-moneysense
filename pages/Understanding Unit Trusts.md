@@ -43,25 +43,10 @@ The price of each unit is based on the fund’s net asset value (NAV) divided by
 #### Why invest in funds?
 
 
-Funds invest in a diversified range of assets. A fund’s diversified portfolio means risks can be better spread over the assets in the fund. Find out more about the features of funds below:
+Funds invest in a diversified range of assets. A fund’s diversified portfolio means risks can be better spread over the assets in the fund. 
 
-| Feature | This also means... | What you should do |
-| --- | --- | --- |
-| 
-Managed by a professional fund manager who decides what assets to buy or sell based on the investment objective of the fund.
+#### What are the risks?
 
- | You have no control over the investment decisions of the fund manager. | Assess whether the fund manager has the resources, experience and skills to manage the fund.  
-**Note:**&nbsp;A fund’s good recent short-term performance may not mean that it will continue to perform well over a longer period. Even with a longer track record, past performance is not necessarily a good indicator of future performance. |
-| Fees charged by professional fund managers will reduce your returns. | Find out about the type and amount of fees applicable. |
-| Invests in a diversified range of assets to spread its risks. | May diversify some risks, but cannot eliminate all risks. Be prepared for price fluctuations. | After investing, regularly monitor the fund’s performance to see if it meets your expectations. |
-| May provide access to assets or markets that may be difficult or expensive for you to invest in directly. | You may face risks unique to that particular fund.  
-For example, a fund investing in emerging markets may be subject to political, legal and foreign-exchange risks. | Regularly monitor the fund's performance and the economic and political risks of the markets you are invested in. |
-| Many funds to choose from to cater to your risk tolerance and investment objectives (e.g. capital preservation, income generation or capital appreciation) | The variety of funds can be overwhelming. If you invest indiscriminately, you could end up with an assortment of funds that do not match your financial needs. | Be clear about your investment objectives before deciding which funds are suitable for you. |
-
-  
-
-What are the risks?
--------------------
 
 Some of the risks associated with investing in unit trusts include the following:
 
@@ -69,10 +54,10 @@ Some of the risks associated with investing in unit trusts include the following
 
 &nbsp;
 
-### Checklist
+#### Checklist
 
-Are funds suitable for you?
----------------------------
+#### Are funds suitable for you?
+
 
 Investing in funds may not be for everyone. Before you invest, make sure that you:
 
@@ -89,8 +74,7 @@ Investing in funds may not be for everyone. Before you invest, make sure that yo
     *   As funds are exposed to market ups and downs, investors who stay invested long enough may be better able to ride out the downturns.
     *   You should have adequate financial resources so that you won’t have to liquidate your funds during a market downturn. If you need to convert your investments to cash in the short-term to meet specific needs, some funds may not be suitable for you.
 
-Types of funds
---------------
+#### Types of Funds
 
 There are different types of funds available, each with its own investment objective and investment approach or strategy.
 
@@ -108,22 +92,22 @@ Risk and return profile
 
 Passive or active management
 
-Investing in a fund
--------------------
+#### Investing in a fund
+
 
 Funds are available from financial institutions and online financial platforms.
 
 You can invest in funds using cash, or via the&nbsp;[Supplementary Retirement Scheme (SRS)](https://www.mof.gov.sg/schemes/individuals/supplementary-retirement-scheme)&nbsp;or the&nbsp;[Central Provident Fund Investment Scheme (CPFIS)](https://www.cpf.gov.sg/member/business-partners/cpf-investment-scheme).
 
-### What you can invest in
+#### What you can invest in
 
 The list of funds authorised or recognised by MAS for sale to retail investors is available on the website via&nbsp;[OPERA](https://eservices.mas.gov.sg/opera/), the electronic repository for public offers of investments.
 
 Singapore-constituted funds are known as “authorised funds” while foreign funds are known as “recognised funds”.
 
-### Note
+#### Note
 
-When recommending a fund, your&nbsp;[financial adviser](../../../starter-packs/seeking-financial-advice.html)&nbsp;is required to disclose to you the key features of the product including the following:
+When recommending a fund, your financial advisor is required to disclose to you the key features of the product including the following:
 
 *   Nature and aim of the product
 *   Benefits of the product
@@ -133,8 +117,8 @@ When recommending a fund, your&nbsp;[financial adviser](../../../starter-packs/s
 *   Share of fees and commissions due to the financial adviser
 *   Warnings, exclusions and disclaim
 
-If you change your mind: right to cancel
-----------------------------------------
+#### If you change your mind: right to cancel
+
 
 You can change your mind about your fund purchase&nbsp;**within 7 calendar days.**
 
@@ -147,10 +131,10 @@ The right to cancel is&nbsp;**not available**&nbsp;if:
 *   You are making additional investments in a fund that you already own
 *   You purchased a recognised fund or a fund that is listed on the&nbsp;[Singapore Exchange](http://www.sgx.com/)
 
-Evaluating a fund's performance
--------------------------------
+#### Evaluating a fund's performance
 
-You should monitor your fund regularly to ensure that it continues to meet your objectives. Do read the fund manager's&nbsp;[regular fund reports](unit-trusts-making-sense-of-fund-documents-and-reports.html)&nbsp;to keep abreast of how your fund is doing.
+
+You should monitor your fund regularly to ensure that it continues to meet your objectives. Do read the fund manager's regular fund reports to keep abreast of how your fund is doing.
 
 There are the main ways of evaluating the performance of your fund.
 
@@ -164,8 +148,7 @@ Performance relative to risk taken
 
 ### Checklist
 
-Key questions to ask before investing
--------------------------------------
+Key questions to ask befo
 
 Funds differ in terms of investment objectives, strategies, risks and costs. Before you invest, consider the following:
 
@@ -205,12 +188,6 @@ However, if you do not need financial advice, you may consider buying the fund t
 
 *   Find out about alternative investment products and compare their risk-return profile and features with the product introduced to you.
     
-*   Assess all the fees and charges that you will incur in buying and holding a fund before deciding whether to invest in it. Compare the fees and charges that will be incurred by (i) different funds with the same investment objectives or approach, and (ii) the same fund through different channels.&nbsp;&nbsp;&nbsp;
+*   Assess all the fees and charges that you will incur in buying and holding a fund before deciding whether to invest in it. Compare the fees and charges that will be incurred by (i) different funds with the same investment objectives or approach, and (ii) the same fund through different channels.
     
 
-Other questions you may have
-----------------------------
-
-What is the Trust Deed and Role of Trustee?
-
-What happens if a fund is terminated?
