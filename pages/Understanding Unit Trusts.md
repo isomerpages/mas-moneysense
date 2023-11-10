@@ -82,7 +82,7 @@ The investment objective may be capital appreciation or to generate income. The 
 
 Funds with the same investment objective may use different investment strategies to achieve the same goal. You should ensure that the fund manager’s investment style is in line with your own investment objectives.
 
-When choosing a fund, consider the following:
+**When choosing a fund, consider the following:**
 
 What assets it invests in
 
@@ -189,5 +189,3 @@ However, if you do not need financial advice, you may consider buying the fund t
 *   Find out about alternative investment products and compare their risk-return profile and features with the product introduced to you.
     
 *   Assess all the fees and charges that you will incur in buying and holding a fund before deciding whether to invest in it. Compare the fees and charges that will be incurred by (i) different funds with the same investment objectives or approach, and (ii) the same fund through different channels.
-    
-
