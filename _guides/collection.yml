@@ -2,10 +2,5 @@ collections:
   guides:
     output: true
     order:
-      - Investments/.keep
-      - Investments/What is investing?.md
-      - Investments/Financial goals at different life stages.md
-      - Investments/An introduction to types of investment​s.md
-      - Investments/Managing investment risk.md
       - Retirement/Introduction to planning for retirement.md
       - Retirement/.keep
