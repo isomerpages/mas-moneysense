@@ -1,6 +1,4 @@
 collections:
   guides:
     output: true
-    order:
-      - Retirement/Introduction to planning for retirement.md
-      - Retirement/.keep
+    order: []
