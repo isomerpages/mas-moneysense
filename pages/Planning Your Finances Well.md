@@ -2,6 +2,7 @@
 title: Planning Your Finances Well
 permalink: /planning-your-finances-well/
 description: ""
+variant: markdown
 ---
 ![Are Your Planning Your Finances](/images/Are%20You%20Planning%20Your%20Finances/planning%20your%20finances.jfif)
 
@@ -18,7 +19,7 @@ From January 2024, this Guide will be available in six customised formats to bet
 ![](/images/streamlined%20basic%20financial%20planning%20guide%20(circulate%20on%2026%20sep%202023)%20(002).jpg)
 
 ###### Download:
-[Basic financial planning guide, along with additional information](/files/streamlined%20basic%20financial%20planning%20guide.pdf)
+[Basic financial planning guide, along with additional information](/files/Streamlined_Basic_Financial_Planning_Guide__circulate_on_26_Sep_2023_.pdf)
 
 [Frequently Asked Questions for consumers](/files/faqs%20for%20consumers%20on%20basic%20financial%20planning%20(for%207%20oct%202023).pdf)
 
