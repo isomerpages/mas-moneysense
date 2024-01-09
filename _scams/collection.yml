@@ -2,6 +2,7 @@ collections:
   scams:
     output: true
     order:
+      - "Money Lock feature: Keeping your money out of scammers’ reach.md"
       - 4 Tips to stay safe when using electronic payments.md
       - How to spot an investment scam.md
       - Phishing scam.md
