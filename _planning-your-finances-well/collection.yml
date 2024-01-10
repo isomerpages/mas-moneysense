@@ -1,4 +1,5 @@
 collections:
   planning-your-finances-well:
     output: true
-    order: []
+    order:
+      - Supporting dependants.md
