@@ -8,7 +8,7 @@ variant: markdown
 
 With so many tips on financial planning out there, it can be hard to ascertain if you are on the right track, especially if you do not have a financial adviser. 
 
-To help Singaporeans proactive identify and plug gaps in their financial planning, the Monetary Authority of Singapore and MoneySense, together with the CPF Board, Association of Banks in Singapore, Association of FInancial Advisers (Singapore) and Life Insurance Association, have developed a Basic Financial Planning Guide with rules of thumb to support individuals taking proactive steps to address their savings, insurance, and investment needs. 
+To help Singaporeans identify and plug gaps in their finances, the Monetary Authority of Singapore and MoneySense, together with the CPF Board, Association of Banks in Singapore, Association of Financial Advisers (Singapore) and Life Insurance Association, have developed a Basic Financial Planning Guide with rules of thumb to support individuals taking proactive steps to address their savings, insurance, and investment needs. 
 
 
 ### Basic Financial Planning Guide
