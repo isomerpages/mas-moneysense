@@ -6,13 +6,10 @@ variant: markdown
 ---
 ![Are Your Planning Your Finances](/images/Are%20You%20Planning%20Your%20Finances/planning%20your%20finances.jfif)
 
-The Monetary Authority of Singapore (MAS) and MoneySense, in collaboration with CPF Board and finance industry associations, have developed a Basic Financial Planning Guide to help Singaporeans take simple steps to enhance their financial well-being. 
-
 With so many tips on financial planning out there, it can be hard to ascertain if you are on the right track, especially if you do not have a financial adviser. 
 
-To help Singaporeans proactive identify and plug gaps in their financial planning, MAS and MoneySense, together with the CPF Board, Association of Banks in Singapore, Association of FInancial Advisers (Singapore) and Life Insurance Association, have developed a Basic Financial Planning Guide with rules of thumb to support individuals taking proactive steps to address their savings, insurance, and investment needs. 
+To help Singaporeans proactive identify and plug gaps in their financial planning, the Monetary Authority of Singapore and MoneySense, together with the CPF Board, Association of Banks in Singapore, Association of FInancial Advisers (Singapore) and Life Insurance Association, have developed a Basic Financial Planning Guide with rules of thumb to support individuals taking proactive steps to address their savings, insurance, and investment needs. 
 
-From January 2024, this Guide will be available in six customised formats to better match the specific needs of individuals at different life stages. 
 
 ### Basic Financial Planning Guide
 
