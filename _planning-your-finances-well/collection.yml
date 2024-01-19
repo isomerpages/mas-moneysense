@@ -1,5 +1,4 @@
 collections:
   planning-your-finances-well:
     output: true
-    order:
-      - Golden years.md
+    order: []
