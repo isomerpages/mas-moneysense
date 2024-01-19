@@ -2,5 +2,4 @@ collections:
   planning-your-finances-well:
     output: true
     order:
-      - Supporting dependants.md
       - Golden years.md
