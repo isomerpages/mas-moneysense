@@ -16,8 +16,8 @@ for your desired lifestyle in your golden years.</p>
 <p>English</p>
 </li>
 <li>
-<p>即将退休人士的基本财务规划指南, Panduan Asas Perancangan Kewangan untuk Pra-pesara, அடிப்படைநி
-தி தி ட்டமி டல் வழி கா ட்டிஓய்வுக்கு முந்தை யவர்கள்</p>
+<p>即将退休人士的基本财务规划指南, Panduan Asas Perancangan Kewangan untuk Pra-pesara, அடிப்படை
+நிதி திட்டமிடல் வழிகாட்டி ஓய்வுக்கு முந்தையவர்கள்</p>
 </li>
 </ul>
 <p></p>
@@ -28,7 +28,7 @@ for your desired lifestyle in your golden years.</p>
 </li>
 <li>
 <p>退休之后的基本财务规划指南, Panduan Asas Perancangan Kewangan untuk Hari-hari Tua,
-அடிப்படைநி தி தி ட்டமி டல் வழி கா ட்டிபொ ற்கா லம்
+அடிப்படை நிதி திட்டமிடல் வழிகாட்டி பொற்காலம்
 <br>
 </p>
 </li>
