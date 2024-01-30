@@ -13,23 +13,23 @@ for your desired lifestyle in your golden years.</p>
 <p>If you are approaching retirement, download our guide in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>English</p>
+<p><a href="/files/Basic Financial Planning Guide/_English__Pre_Retirees.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+</p>
 </li>
 <li>
-<p>即将退休人士的基本财务规划指南, Panduan Asas Perancangan Kewangan untuk Pra-pesara, அடிப்படை
-நிதி திட்டமிடல் வழிகாட்டி ஓய்வுக்கு முந்தையவர்கள்</p>
+<p><a href="/files/Basic Financial Planning Guide/Vernacular___Pre_Retirees.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese, Malay, Tamil</a>
+</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p>If you are retired, download our guide in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>English</p>
+<p><a href="/files/Basic Financial Planning Guide/_English__Golden_Years.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+</p>
 </li>
 <li>
-<p>退休之后的基本财务规划指南, Panduan Asas Perancangan Kewangan untuk Hari-hari Tua,
-அடிப்படை நிதி திட்டமிடல் வழிகாட்டி பொற்காலம்
-<br>
+<p><a href="/files/Basic Financial Planning Guide/Vernacular___Golden_Years.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese, Malay, Tamil</a>
 </p>
 </li>
 </ul>
