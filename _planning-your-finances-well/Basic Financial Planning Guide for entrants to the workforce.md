@@ -22,5 +22,8 @@ your long-term goals!</p>
 <p><a href="/files/Basic Financial Planning Guide/Vernacular___Fresh_Entrants.pdf" rel="noopener noreferrer nofollow" target="_blank">职场新人的基本财务规划指南, Panduan Asas Perancangan Kewangan untuk Peserta Baharu Tenaga Kerja, அடிப்படைநி தி தி ட்டமி டல் வழி கா ட்டிபணி யி டத்தி ல் புதி தா க நுழை ந்தவர்</a>
 </p>
 </li>
+<li>
+<p>அடிப்படை நிதி திட்டமிடல் வழிகாட்டி பணியிடத்தில் புதிதாக நுழைந்தவர்</p>
+</li>
 </ul>
 <p></p>
