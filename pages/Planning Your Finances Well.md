@@ -20,8 +20,8 @@ life stages.</p>
 <p>Download your Guide (also available in Chinese, Malay, and Tamil) below!</p>
 <h3>Basic Financial Planning Guide</h3>
 <h4>For those new to the workforce</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/first-job/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_business_people.jpg"></a>
-<h4>For those supporting dependants</h4><a class="isomer-image-wrapper" href="/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg"></a>
-<h4>For those approaching retirement</h4><a class="isomer-image-wrapper" href="/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
+<h4>For those supporting dependants</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg"></a>
+<h4>For those approaching retirement</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
 <p><a href="/files/Basic Financial Planning Guide/FAQs_for_consumers_on_Basic_Financial_Planning__finalised_.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions for consumers</a>
 </p>
 <h3>More resources on financial planning</h3>
