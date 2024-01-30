@@ -24,8 +24,7 @@ life stages.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_business_people.jpg">
 </div>
 <h4>For those supporting dependants</h4><a class="isomer-image-wrapper" href="/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg"></a>
-<h4>For those approaching retirement</h4>
-<p></p><a class="isomer-image-wrapper" href="/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
+<h4>For those approaching retirement</h4><a class="isomer-image-wrapper" href="/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
 <p><a href="/files/faqs%20for%20consumers%20on%20basic%20financial%20planning%20(for%207%20oct%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions for consumers</a>
 </p>
 <h3>More resources on financial planning</h3>
