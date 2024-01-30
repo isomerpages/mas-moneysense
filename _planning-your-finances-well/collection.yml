@@ -2,5 +2,6 @@ collections:
   planning-your-finances-well:
     output: true
     order:
+      - Basic Financial Planning Guide for those nearing retirement.md
       - Basic Financial Planning Guide for those with dependants.md
       - Basic Financial Planning Guide for entrants to the workforce.md
