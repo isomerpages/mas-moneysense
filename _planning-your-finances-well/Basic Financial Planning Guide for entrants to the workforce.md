@@ -15,7 +15,7 @@ your long-term goals!</p>
 <p>Download our Guide in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Basic Financial Planning Guide/_English__Fresh_Entrant.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+<p><a href="/files/Basic Financial Planning Guide/english__fresh_entrant.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </li>
 <li>

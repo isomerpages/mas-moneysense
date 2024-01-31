@@ -13,7 +13,7 @@ for your desired lifestyle in your golden years.</p>
 <p>If you are approaching retirement, download our guide in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Basic Financial Planning Guide/_English__Pre_Retirees.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+<p><a href="/files/Basic Financial Planning Guide/english__pre_retirees.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </li>
 <li>
@@ -25,7 +25,7 @@ for your desired lifestyle in your golden years.</p>
 <p>If you are retired, download our guide in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Basic Financial Planning Guide/_English__Golden_Years.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+<p><a href="/files/Basic Financial Planning Guide/english__golden_years.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </li>
 <li>
