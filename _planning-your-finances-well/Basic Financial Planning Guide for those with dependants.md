@@ -14,7 +14,7 @@ will help you navigate the challenges!</p>
 <p>If you are starting a family, download our Guide in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Basic Financial Planning Guide/_English__Working_Adult__Starting_a_family_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+<p><a href="/files/Basic Financial Planning Guide/english__working_adult__starting_a_family_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </li>
 <li>
@@ -26,7 +26,7 @@ will help you navigate the challenges!</p>
 <p>If you are supporting aged parents, download our Guide in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Basic Financial Planning Guide/_English__Working_Adult__Supporting_aged_parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+<p><a href="/files/Basic Financial Planning Guide/english__working_adult__supporting_aged_parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </li>
 <li>
@@ -39,7 +39,7 @@ will help you navigate the challenges!</p>
 in</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Basic Financial Planning Guide/_English____Working_Adult__Children__parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+<p><a href="/files/Basic Financial Planning Guide/english____working_adult__children__parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
 </p>
 </li>
 <li>
