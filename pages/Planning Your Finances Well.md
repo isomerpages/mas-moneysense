@@ -4,4 +4,52 @@ permalink: /planning-your-finances-well/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Are Your Planning Your Finances" src="/images/Are%20You%20Planning%20Your%20Finances/planning%20your%20finances.jfif"></div><p>With so many tips on financial planning out there, it can be hard to ascertain if you are on the right track, especially if you do not have a financial adviser.</p><p>To help Singaporeans identify and plug gaps in their finances, the Monetary Authority of Singapore and MoneySense, together with the CPF Board, Association of Banks in Singapore, Association of Financial Advisers (Singapore) and Life Insurance Association, have developed a Basic Financial Planning Guide. It contains rules of thumb to support individuals taking proactive steps to address their savings, insurance, and investment needs at different life stages.</p><p>Download your Guide below!</p><h3>Basic Financial Planning Guide</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/streamlined basic financial planning guide (circulate on 26 sep 2023) (002).jpg"></div><h4>Find out more:</h4><p><a href="/files/streamlined basic financial planning guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Basic financial planning guide and additional information</a></p><p><a href="/files/faqs%20for%20consumers%20on%20basic%20financial%20planning%20(for%207%20oct%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions for consumers</a></p><h3>More resources on financial planning</h3><h5>Emergency Funds:</h5><p>Set aside <strong>at least three to six months’</strong> worth of expenses</p><p>(Read more: <a href="/managing-your-money/" rel="noopener noreferrer nofollow" target="_blank">Managing your finances</a>)</p><h5>Protection: Obtain insurance protection for:</h5><ul data-tight="true" class="tight"><li><p>Death &amp; Total Permanent Disability: <strong>9x annual income</strong></p></li><li><p>Critical illness: <strong>4x annual income</strong></p></li><li><p><strong>Spend at most 15%</strong> of income on insurance protection</p></li></ul><p>(Read more: <a href="/insurance-basics/" rel="noopener noreferrer nofollow" target="_blank">Insurance</a>)</p><h5>Investments:</h5><ul data-tight="true" class="tight"><li><p><strong>Invest at least 10%</strong> of income for retirement and other financial goals</p></li></ul><p>(Read more: <a href="/investments/types-of-investments/" rel="noopener noreferrer nofollow" target="_blank">Investments</a>)</p><h5>Make your will and CPF nomination, and appoint trusted persons</h5><p>(Read more: <a href="/legacy-planning/planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Legacy planning</a>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Are Your Planning Your Finances" src="/images/Are%20You%20Planning%20Your%20Finances/planning%20your%20finances.jfif">
+</div>
+<p>With so many tips on financial planning out there, it can be hard to ascertain
+if you are on the right track, especially if you do not have a financial
+adviser.</p>
+<p>To help Singaporeans identify and plug gaps in their finances, the Monetary
+Authority of Singapore and MoneySense, together with the CPF Board, Association
+of Banks in Singapore, Association of Financial Advisers (Singapore) and
+Life Insurance Association, have developed a Basic Financial Planning Guide.
+It contains rules of thumb to support individuals taking proactive steps
+to address their savings, insurance, and investment needs at different
+life stages.</p>
+<p>Download your Guide (also available in Chinese, Malay, and Tamil) below!</p>
+<h3>Basic Financial Planning Guide</h3>
+<h4>For those new to the workforce</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/first-job/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_business_people.jpg"></a>
+<h4>For those supporting dependants</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg"></a>
+<h4>For those approaching retirement</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
+<p><a href="/files/Basic Financial Planning Guide/FAQs_for_consumers_on_Basic_Financial_Planning__finalised_.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions for consumers</a>
+</p>
+<h3>More resources on financial planning</h3>
+<h5>Emergency Funds:</h5>
+<p>Set aside <strong>at least three to six months’</strong> worth of expenses</p>
+<p>(Read more: <a href="/managing-your-money/" rel="noopener noreferrer nofollow" target="_blank">Managing your finances</a>)</p>
+<h5>Protection: Obtain insurance protection for:</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Death &amp; Total Permanent Disability: <strong>9x annual income</strong>
+</p>
+</li>
+<li>
+<p>Critical illness: <strong>4x annual income</strong>
+</p>
+</li>
+<li>
+<p><strong>Spend at most 15%</strong> of income on insurance protection</p>
+</li>
+</ul>
+<p>(Read more: <a href="/insurance-basics/" rel="noopener noreferrer nofollow" target="_blank">Insurance</a>)</p>
+<h5>Investments:</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Invest at least 10%</strong> of income for retirement and other
+financial goals</p>
+</li>
+</ul>
+<p>(Read more: <a href="/investments/types-of-investments/" rel="noopener noreferrer nofollow" target="_blank">Investments</a>)</p>
+<h5>Make your will and CPF nomination, and appoint trusted persons</h5>
+<p>(Read more: <a href="/legacy-planning/planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Legacy planning</a>)</p>
