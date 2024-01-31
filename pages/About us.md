@@ -45,4 +45,4 @@ Governance
 
 MoneySense programmes are overseen by the MoneySense Council.
 
-The Council is co-chaired by the [Monetary Authority of Singapore](http://www.mas.gov.sg/) and the [Ministry of Manpower](http://mom.gov.sg/), and comprises representatives from various government agencies and the industry.
+The Council is co-chaired by the [Monetary Authority of Singapore](http://www.mas.gov.sg/) and the [Ministry of Manpower](http://mom.gov.sg/), and comprises representatives from various government agencies as well as the financial industry, academia and media.
