@@ -46,7 +46,7 @@ available in Chinese, Malay, and Tamil)!</p>
 <p><strong>Click <a href="/planning-your-finances-well/support-dependants/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
 </p>
 </blockquote>
-<h4>For those approaching retirement </h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
+<h4>For those approaching retirement</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pre-retirees (55 - 64 years old)</p>
