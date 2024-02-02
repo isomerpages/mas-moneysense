@@ -12,7 +12,7 @@ image: /images/2018 MoneySense website images/business_people_greeting.jpg
 <p>You are in the pink of health and taking your first steps into the working
 world. This is the best time to start building a strong foundation for
 your long-term goals!</p>
-<p>If you have <strong>just started working (19 - 29 years old)</strong>,
+<p>If you have <strong>just started working </strong>(19 - 29 years old),
 download our Guide in</p>
 <ul data-tight="true" class="tight">
 <li>
