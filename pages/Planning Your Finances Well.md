@@ -51,7 +51,7 @@ available in Chinese, Malay, and Tamil)!</p>
 </li>
 </ul>
 <p></p>
-<p>Find out more: <a href="/files/Basic Financial Planning Guide/FAQs_for_consumers_on_Basic_Financial_Planning__finalised_.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions for consumers</a>
+<p>Have questions? Learn more <a href="/files/Basic Financial Planning Guide/FAQs_for_consumers_on_Basic_Financial_Planning__finalised_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h3>More resources on financial planning</h3>
 <h5>Emergency Funds:</h5>
@@ -82,3 +82,4 @@ financial goals</p>
 <p>(Read more: <a href="/investments/types-of-investments/" rel="noopener noreferrer nofollow" target="_blank">Investments</a>)</p>
 <h5>Make your will and CPF nomination, and appoint trusted persons</h5>
 <p>(Read more: <a href="/legacy-planning/planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Legacy planning</a>)</p>
+<p></p>
