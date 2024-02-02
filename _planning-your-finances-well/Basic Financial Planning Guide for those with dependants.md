@@ -11,7 +11,8 @@ image: /images/2018 MoneySense website images/young_family_ipad.jpg
 </div>
 <p>You have loved ones looking to you for support. A solid financial plan
 will help you navigate the challenges!</p>
-<p>If you are starting a family, download our Guide in</p>
+<p>If you are <strong>starting a family </strong>(25 - 34 years old), download
+our Guide in</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Basic Financial Planning Guide/english__working_adult__starting_a_family_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
@@ -23,7 +24,8 @@ will help you navigate the challenges!</p>
 <p></p>
 </li>
 </ul>
-<p>If you are supporting aged parents, download our Guide in</p>
+<p>If you are <strong>supporting aged parents </strong>(35 - 59 years old),
+download our Guide in</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Basic Financial Planning Guide/english__working_adult__supporting_aged_parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
@@ -35,8 +37,8 @@ will help you navigate the challenges!</p>
 </li>
 </ul>
 <p></p>
-<p>If you are supporting your own family and aged parents, download our Guide
-in</p>
+<p>If you are <strong>supporting your own family and aged parents </strong>(35
+- 59 years old), download our Guide in</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Basic Financial Planning Guide/english____working_adult__children__parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>

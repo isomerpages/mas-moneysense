@@ -20,17 +20,16 @@ life stages.</p>
 <p>Check out the Guides below that could be more tailored to your needs (also
 available in Chinese, Malay, and Tamil)!</p>
 <h3>Basic Financial Planning Guide</h3>
-<h4>For those new to the workforce</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/first-job/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_business_people.jpg"></a>
+<h4><a href="/planning-your-finances-well/first-job/" rel="noopener noreferrer nofollow" target="_blank">For those new to the workforce</a></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/business_people_greeting.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Young working adult (19 - 29 years old)</p>
 </li>
 </ul>
-<blockquote>
-<p>Click <a href="/planning-your-finances-well/first-job/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-</blockquote>
-<h4>For those supporting dependants</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg"></a>
+<h4><a href="/planning-your-finances-well/support-dependants/" rel="noopener noreferrer nofollow" target="_blank">For those supporting dependants</a></h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/family_park.jpg"></a>
 <ul data-tight="true" class="tight">
 <li>
 <p>Starting a family (25 - 34 years old)</p>
@@ -42,11 +41,10 @@ available in Chinese, Malay, and Tamil)!</p>
 <p>Have kids and supporting aged parents (35 - 59 years old)</p>
 </li>
 </ul>
-<blockquote>
-<p>Click <a href="/planning-your-finances-well/support-dependants/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-</blockquote>
-<h4>For those approaching retirement</h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
+<h4><a href="/planning-your-finances-well/retirement/" rel="noopener noreferrer nofollow" target="_blank">For those approaching retirement</a></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/couple_pruning_plants.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pre-retirees (55 - 64 years old)</p>
@@ -55,12 +53,8 @@ available in Chinese, Malay, and Tamil)!</p>
 <p>Retired (65 years and above)</p>
 </li>
 </ul>
-<blockquote>
-<p>Click <a href="/planning-your-finances-well/retirement/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-</blockquote>
 <p></p>
-<p>Find out more: <a href="/files/Basic Financial Planning Guide/FAQs_for_consumers_on_Basic_Financial_Planning__finalised_.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions for consumers</a>
+<p>Have questions? Learn more <a href="/files/Basic Financial Planning Guide/FAQs_for_consumers_on_Basic_Financial_Planning__finalised_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h3>More resources on financial planning</h3>
 <h5>Emergency Funds:</h5>
@@ -91,3 +85,4 @@ financial goals</p>
 <p>(Read more: <a href="/investments/types-of-investments/" rel="noopener noreferrer nofollow" target="_blank">Investments</a>)</p>
 <h5>Make your will and CPF nomination, and appoint trusted persons</h5>
 <p>(Read more: <a href="/legacy-planning/planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Legacy planning</a>)</p>
+<p></p>

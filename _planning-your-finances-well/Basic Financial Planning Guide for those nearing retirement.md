@@ -10,7 +10,8 @@ image: /images/2018 MoneySense website images/couple_pruning_plants.jpg
 </div>
 <p>Start thinking about your future income and expenses now, as you plan
 for your desired lifestyle in your golden years.</p>
-<p>If you are approaching retirement, download our guide in</p>
+<p>If you are <strong>approaching retirement </strong>(55 - 64 years old),
+download our guide in</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Basic Financial Planning Guide/english__pre_retirees.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
@@ -22,7 +23,8 @@ for your desired lifestyle in your golden years.</p>
 <p></p>
 </li>
 </ul>
-<p>If you are retired, download our guide in</p>
+<p>If you are <strong>retired </strong>(65 years old and older), download
+our guide in</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Basic Financial Planning Guide/english__golden_years.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
