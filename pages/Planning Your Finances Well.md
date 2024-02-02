@@ -26,7 +26,7 @@ available in Chinese, Malay, and Tamil)!</p>
 <p>Young working adult (19 - 29 years old)</p>
 </li>
 </ul>
-<h4><a href="/planning-your-finances-well/support-dependants/" rel="noopener noreferrer nofollow" target="_blank">For those supporting dependants</a></h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg"></a>
+<h4><a href="/planning-your-finances-well/support-dependants/" rel="noopener noreferrer nofollow" target="_blank">For those supporting dependants</a></h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/support-dependants/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/family_park.jpg"></a>
 <ul data-tight="true" class="tight">
 <li>
 <p>Starting a family (25 - 34 years old)</p>
@@ -38,7 +38,10 @@ available in Chinese, Malay, and Tamil)!</p>
 <p>Have kids and supporting aged parents (35 - 59 years old)</p>
 </li>
 </ul>
-<h4><a href="/planning-your-finances-well/retirement/" rel="noopener noreferrer nofollow" target="_blank"> For those approaching retirement</a></h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/retirement/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_couple_laptop.jpg"></a>
+<h4><a href="/planning-your-finances-well/retirement/" rel="noopener noreferrer nofollow" target="_blank">For those approaching retirement</a></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/couple_pruning_plants.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pre-retirees (55 - 64 years old)</p>
