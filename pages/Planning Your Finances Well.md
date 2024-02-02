@@ -20,7 +20,10 @@ life stages.</p>
 <p>Check out the Guides below that could be more tailored to your needs (also
 available in Chinese, Malay, and Tamil)!</p>
 <h3>Basic Financial Planning Guide</h3>
-<h4><a href="/planning-your-finances-well/first-job/" rel="noopener noreferrer nofollow" target="_blank">For those new to the workforce</a></h4><a class="isomer-image-wrapper" href="/planning-your-finances-well/first-job/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_business_people.jpg"></a>
+<h4><a href="/planning-your-finances-well/first-job/" rel="noopener noreferrer nofollow" target="_blank">For those new to the workforce</a></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/business_people_greeting.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Young working adult (19 - 29 years old)</p>
