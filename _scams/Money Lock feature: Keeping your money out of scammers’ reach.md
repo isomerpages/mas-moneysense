@@ -49,10 +49,14 @@ the UOB TMRW app or online and transfer the amount you’d like locked. To
 access your locked funds, visit a UOB branch with your NRIC or passport.</p>
 </li>
 </ul>
-<h3>Safeguarding your CPF savings</h3>
-<h3>If you are a CPF member aged 55 or older and have no immediate plans to withdraw your CPF savings, you are encouraged to safeguard your CPF savings by activating the CPF Withdrawal Lock to disable online CPF withdrawals. You can do so via the CPF account settings after logging on to the CPF website using your Singpass. </h3>
+<h4>Safeguarding your CPF savings</h4>
+<p>If you are a CPF member aged 55 or older and have no immediate plans to
+withdraw your CPF savings, you are encouraged to safeguard your CPF savings
+by activating the CPF Withdrawal Lock to disable online CPF withdrawals.
+You can do so via the CPF account settings after logging on to the CPF
+website using your Singpass.</p>
 <p>When you need to withdraw your CPF, you can enable online withdrawals
-again via the CPF account settings. For you security, this will be subject
+again via the CPF account settings. For your security, this will be subject
 to Singpass Face Verification and a 12-hour cooling period. Members who
 do not wish to enable online withdrawals again can withdraw in-person at
 CPF Service Centres.</p>
