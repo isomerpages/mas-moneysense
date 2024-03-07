@@ -53,8 +53,8 @@ access your locked funds, visit a UOB branch with your NRIC or passport.</p>
 <p>If you are a CPF member aged 55 or older and have no immediate plans to
 withdraw your CPF savings, you are encouraged to safeguard your CPF savings
 by activating the CPF Withdrawal Lock to disable online CPF withdrawals.
-You can do so via the CPF account settings after logging on to the CPF
-website using your Singpass.</p>
+You can do so via the <a href="https://www.cpf.gov.sg/member/ds/account-settings" rel="noopener noreferrer nofollow" target="_blank">CPF account settings</a> after
+logging on to the CPF website using your Singpass.</p>
 <p>When you need to withdraw your CPF, you can enable online withdrawals
 again via the CPF account settings. For your security, this will be subject
 to Singpass Face Verification and a 12-hour cooling period. Members who
@@ -63,10 +63,9 @@ CPF Service Centres.</p>
 <p>To safeguard members’ basic retirement adequacy, amounts up to the Basic
 Retirement Sum are automatically reserved for retirement and cannot be
 withdrawn. CPF Board has also introduced a default Daily Withdrawal Limit
-of $2,000 for all members aged 55 or older, as part of a suite of anti-scam
-measures. Members can adjust this limit via the CPF account settings. All
-limit increases are subject to Singpass Face Verification and a 12-hour
-cooling period.</p>
+of $2,000 for all members aged 55 or older, as part of <a href="https://www.cpf.gov.sg/member/faq/general-information---useful-tips/protection-against-scams/new-anti-scam-security-measures-available-to-cpf-members" rel="noopener noreferrer nofollow" target="_blank">a suite of anti-scam measures</a>.
+Members can adjust this limit via the CPF account settings. All limit increases
+are subject to Singpass Face Verification and a 12-hour cooling period.</p>
 <h4>Keep safe against scams&nbsp;</h4>
 <p>Avoiding scams starts with adopting good cyber hygiene habits. Follow
 these rules:&nbsp;</p>
