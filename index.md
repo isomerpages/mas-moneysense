@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Money Matters Made Simple
-description: Brief site description here
+title: Money Matters Made Simple | MoneySense
+description: MoneySense is Singapore’s national financial education programme,
+  providing practical, unbiased, and trusted resources to help Singaporeans
+  manage money wisely.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
