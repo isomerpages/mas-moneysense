@@ -1,7 +1,10 @@
 ---
 title: 3 Traps to avoid when you go shopping
 permalink: /3-traps-to-avoid-when-you-go-shopping/
-description: ""
+description: Uncover the truth behind 'buy now, pay later' schemes and avoid
+  financial pitfalls. Learn how to resist impulse buying and overcome FOMO while
+  shopping online.
+variant: tiptap
 ---
 ![3 traps to avoid when shopping](/images/In%20The%20Spotlight/3%20traps%20to%20avoid%20when%20shopping.jfif)
 Many of us are enticed by the loud advertisements on shopping events, especially when it comes to the last few months of the year – think 10.10 Sale, 11.11 Sale, Black Friday & Cyber Monday.

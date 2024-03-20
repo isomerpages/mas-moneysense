@@ -1,7 +1,10 @@
 ---
 title: Determine your retirement needs
 permalink: /legacy-planning/retirement-needs/
-description: ""
+description: Calculate your retirement needs in Singapore considering your
+  lifestyle, inflation, investments, and expected lifespan. Plan wisely for a
+  secure future.
+variant: tiptap
 ---
 ![](/images/couple.jfif)
 

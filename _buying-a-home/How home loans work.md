@@ -1,7 +1,10 @@
 ---
 title: How home loans work
 permalink: /how-home-loans-work/
-description: ""
+description: Discover how HDB loans work - including the requirements,
+  eligibility, interest rates, repayment options and refinancing for your
+  property in Singapore.
+variant: tiptap
 ---
 ![](/images/how%20home%20loans%20work.jfif)
 

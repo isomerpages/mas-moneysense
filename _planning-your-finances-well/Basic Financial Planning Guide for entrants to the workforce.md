@@ -2,7 +2,9 @@
 title: Basic Financial Planning Guide for entrants to the workforce
 permalink: /planning-your-finances-well/first-job/
 variant: tiptap
-description: Basic Financial Planning Guide for those in their first job
+description: Empower your financial journey as an Entry-Level salaried employee
+  now. Access our Basic Financial Planning Guide tailored for entrants to the
+  workforce.
 image: /images/2018 MoneySense website images/business_people_greeting.jpg
 ---
 <p></p>

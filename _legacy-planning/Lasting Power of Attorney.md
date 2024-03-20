@@ -1,7 +1,10 @@
 ---
 title: Lasting Power of Attorney
 permalink: /legacy-planning/lpa/
-description: ""
+description: Learn about Lasting Power of Attorney (LPA) and appoint trusted
+  individuals to act on your behalf in case of mental incapacity. Plan for the
+  future wisely.
+variant: tiptap
 ---
 ![](/images/lasting-power-of-attorney.jfif)
 

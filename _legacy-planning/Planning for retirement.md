@@ -1,7 +1,10 @@
 ---
 title: Planning for retirement
 permalink: /legacy-planning/planning-for-retirement/
-description: ""
+description: Discover why starting early is crucial for retirement planning in
+  Singapore. Learn how to assess your financial situation and increase your
+  savings effectively.
+variant: tiptap
 ---
 ![](/images/couple.jfif)
 

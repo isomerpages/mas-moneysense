@@ -2,7 +2,9 @@
 title: Basic Financial Planning Guide for those with dependants
 permalink: /planning-your-finances-well/support-dependants/
 variant: tiptap
-description: Basic Financial Planning Guide for those with dependants
+description: Navigate your family's financial challenges together with
+  MoneySense's basic financial planning guide for families. Secure and protect
+  your loved ones today.
 image: /images/2018 MoneySense website images/young_family_ipad.jpg
 ---
 <p></p>

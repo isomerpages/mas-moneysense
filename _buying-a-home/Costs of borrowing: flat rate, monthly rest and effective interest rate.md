@@ -1,7 +1,10 @@
 ---
 title: "Costs of borrowing: flat rate, monthly rest and effective interest rate"
 permalink: /costs-of-borrowing-flat-rate-monthly-rest-and-effective-interest-rate/
-description: ""
+description: Learn what is effective interest rate (EIR) and discover how it
+  impacts loan costs. Understand the repayment schedules, frequency, and
+  comparing loan packages.
+variant: tiptap
 ---
 ![cost of borrowing](/images/cost%20of%20borrowing.jfif)
 

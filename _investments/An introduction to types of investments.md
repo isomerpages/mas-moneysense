@@ -1,7 +1,10 @@
 ---
 title: An introduction to types of investments
 permalink: /investments/types-of-investments/
-description: ""
+description: Discover the basics of investment in Singapore, including types of
+  assets and starting essentials. Make informed decisions for your financial
+  future now.
+variant: tiptap
 ---
 ![](/images/Are%20You%20Planning%20Your%20Finances/managing-your-money.jfif)
 

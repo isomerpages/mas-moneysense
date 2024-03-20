@@ -1,7 +1,10 @@
 ---
 title: What is a will?
 permalink: /legacy-planning/will/
-description: ""
+description: Discover the importance of a will. Learn what is a will, its
+  components and legal requirements. Ensure your assets are distributed
+  according to your wishes.
+variant: tiptap
 ---
 ![](/images/critical-illness-insurance.jfif)
 

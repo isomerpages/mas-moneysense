@@ -1,7 +1,9 @@
 ---
 title: About us
 permalink: /about-us/
-description: ""
+description: Empowering Singaporeans through practical, unbiased, and relevant
+  financial education. Join MoneySense for trusted resources on Singapore
+  financial literacy.
 variant: markdown
 ---
 Who we are

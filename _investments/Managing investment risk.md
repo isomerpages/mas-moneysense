@@ -1,7 +1,10 @@
 ---
 title: Managing investment risk
 permalink: /investments/investment-risk/
-description: ""
+description: Learn about managing investment risks, diversification,
+  correlation, asset allocation and dollar-cost averaging to make informed
+  investment decisions.
+variant: tiptap
 ---
 ![](/images/Are%20You%20Planning%20Your%20Finances/buying-direct-purchase-insurance.jfif)
 

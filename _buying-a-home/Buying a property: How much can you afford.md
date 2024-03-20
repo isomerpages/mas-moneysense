@@ -1,7 +1,10 @@
 ---
 title: "Buying a property: How much can you afford"
 permalink: /buying-a-property-how-much-can-you-afford/
-description: ""
+description: Discover how much you can borrow for a housing loan in Singapore.
+  Understand the assessment criteria including MSR, TDSR, and LTV limits for HDB
+  and bank loans.
+variant: tiptap
 ---
 ![Buying a property](/images/buying%20a%20property.jfif)
 

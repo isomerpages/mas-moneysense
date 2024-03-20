@@ -1,7 +1,10 @@
 ---
 title: The real cost of instalment payment plans
 permalink: /buy-now-pay-later/real-cost-instalment-payment-plan/
-description: ""
+description: Discover the differences between in-house and credit card
+  instalment plans. Learn about the hidden costs and make informed decisions on
+  your purchases.
+variant: tiptap
 ---
 ![instalment payment plans](/images/In%20The%20Spotlight/instalment%20payment%20plans.jfif)
 

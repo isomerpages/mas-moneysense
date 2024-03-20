@@ -2,7 +2,9 @@
 title: Basic Financial Planning Guide for those nearing retirement
 permalink: /planning-your-finances-well/retirement/
 variant: tiptap
-description: Basic Financial Planning Guide for those nearing retirement
+description: Prepare for a comfortable golden years with our retirement planning
+  guide. Download now for expert advice and insights in English, Chinese, Malay,
+  and Tamil.
 image: /images/2018 MoneySense website images/couple_pruning_plants.jpg
 ---
 <div class="isomer-image-wrapper">

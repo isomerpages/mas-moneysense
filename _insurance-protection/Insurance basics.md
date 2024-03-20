@@ -1,7 +1,10 @@
 ---
 title: Insurance basics
 permalink: /insurance-basics/
-description: ""
+description: Understand the various types of insurance policies in Singapore and
+  how they can protect you. Make informed decisions to safeguard your financial
+  future.
+variant: tiptap
 ---
 ![](/images/Are%20You%20Planning%20Your%20Finances/insurance-basics.jfif)
 

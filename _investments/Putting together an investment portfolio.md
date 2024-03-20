@@ -1,7 +1,10 @@
 ---
 title: Putting together an investment portfolio
 permalink: /investments/investment-portfolio/
-description: ""
+description: Empower your investment journey with essential considerations. Dive
+  into questions on risk, goals, diversification, and portfolio performance for
+  success.
+variant: tiptap
 ---
 ![](/images/Are%20You%20Planning%20Your%20Finances/managing-your-money.jfif)
 
