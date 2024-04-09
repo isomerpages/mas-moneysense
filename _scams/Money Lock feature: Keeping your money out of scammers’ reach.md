@@ -28,25 +28,19 @@ payments, NETS transactions or ATM withdrawals.&nbsp;&nbsp;</p>
 is the $1,000. They will not be able to spend or transfer out the $4,000
 that has been “locked-up”.&nbsp;</p>
 <h4>How to set it up&nbsp;</h4>
-<p>The three local banks, DBS, OCBC, and UOB, offer this “Money Locking”
-feature.&nbsp;&nbsp;</p>
-<p>Instructions for setting up:&nbsp;</p>
+<p>Find instructions for setting up the "Money Locking" feature for:&nbsp;</p>
 <ul>
 <li>
-<p>DBS: <a href="https://www.dbs.com.sg/personal/deposits/bank-with-ease/digivault" rel="noopener noreferrer nofollow" target="_blank">Apply for a digiVault account</a> via
-the Digibank app and transfer the amount you’d like locked. To access your
-locked funds, visit a DBS bank branch with your NRIC or passport.</p>
+<p><a href="https://www.dbs.com.sg/personal/deposits/bank-with-ease/digivault" rel="noopener noreferrer nofollow" target="_blank">DBS</a>
+</p>
 </li>
 <li>
-<p>OCBC: <a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/ocbc-moneylock.page" rel="noopener noreferrer nofollow" target="_blank">Activate the Money Lock feature</a> feature
-via the OCBC Digital app or Internet Banking to lock funds in an existing
-current or savings account. To access your locked funds, visit any OCBC
-ATM or branch with a valid ATM/debit/credit card and PIN.</p>
+<p><a href="https://www.ocbc.com/personal-banking/security/secure-banking-ways/ocbc-moneylock.page" rel="noopener noreferrer nofollow" target="_blank">OCBC</a>
+</p>
 </li>
 <li>
-<p>UOB: <a href="https://www.uob.com.sg/personal/save/lockaway-account.page" rel="noopener noreferrer nofollow" target="_blank">Open a LockAway account</a> via
-the UOB TMRW app or online and transfer the amount you’d like locked. To
-access your locked funds, visit a UOB branch with your NRIC or passport.</p>
+<p><a href="https://www.uob.com.sg/personal/save/lockaway-account.page" rel="noopener noreferrer nofollow" target="_blank">UOB</a>
+</p>
 </li>
 </ul>
 <h4>Safeguarding your CPF savings</h4>
