@@ -83,32 +83,44 @@ on other factors?</p>
 <h4>How much can you borrow?</h4>
 <p>HDB and the lenders will assess how much you can borrow for a home loan
 in the following ways:</p>
-<p><strong>Mortgage servicing ratio (MSR)</strong>
+<p><strong>Mortgage Servicing Ratio (MSR)</strong>
 </p>
 <p>MSR indicates the proportion of your gross monthly income that is used
 to service your mortgage.</p>
-<p>MSR= Monthly mortgage repayment/Gross monthly income</p>
-<p>Your monthly HDB or Executive Condominium (EC) loan installment must not
+<p>MSR = Monthly mortgage repayment/ Gross monthly income</p>
+<p>Your monthly HDB or Executive Condominium (EC) loan instalment must not
 exceed 30% of your gross monthly income. This applies if you are buying
-a HDB flat, or EC where the minimum occupation period of the EC has not
+a HDB flat or EC where the minimum occupation period of the EC has not
 expired.</p>
-<p><strong>Total debt servicing ratio (TDSR)</strong>
+<p><strong>Total Debt Servicing Ratio (TDSR)</strong>
 </p>
 <p>TDSR indicates the proportion of your gross monthly income used to service
 all your monthly debt repayments. If you are taking a loan to buy a property,
 you will need to meet the TDSR rules.</p>
-<p>TDSR=Total monthly debt payments / Gross monthly income</p>
+<p>TDSR =Total monthly debt payments/ Gross monthly income</p>
 <p>Your total monthly debt commitments (e.g. mortgage payments, car payments
 and credit card payments) should not exceed the TDSR threshold of 55%.
 You may find out more about how the TDSR is computed <a href="https://www.mas.gov.sg/regulation/explainers/tdsr-for-property-loans/calculating-tdsr" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Loan-to-value limits</strong> The loan-to-value(LTV) limit determines
-the maximum amount you can borrow for a housing loan.</p>
-<p>LTV= Loan amount/ Property value</p>
+<p><strong>Loan-To-Value (LTV) Limit</strong> 
+</p>
+<p>The LTV limit determines the maximum amount you can borrow for a housing
+loan.</p>
+<p>LTV = Loan amount/ Property value</p>
 <p>Lenders will consider the following before granting the LTV:</p>
-<p>*All existing loans and credit facilities</p>
-<p>*Tenure of the loan</p>
-<p>*Monthly repayment instalment as a proportion of gross monthly income</p>
-<p>*Any discount, rebate or other benefits given</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All existing loans and credit facilities</p>
+</li>
+<li>
+<p>Tenure of the loan</p>
+</li>
+<li>
+<p>Monthly repayment instalment as a proportion of gross monthly income</p>
+</li>
+<li>
+<p>Any discount, rebate or other benefits given</p>
+</li>
+</ul>
 <p>The LTV limits for individuals change depending on the number of outstanding
 housing loans a borrower has. For <strong>bank loans</strong> on residential
 properties, the following LTV limits apply:</p>
@@ -116,13 +128,13 @@ properties, the following LTV limits apply:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Outstanding housing loans</p>
+<p>Outstanding Housing Loans</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LTV limit</p>
+<p>LTV Limit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Minimum cash downpayment</p>
+<p>Minimum Cash Downpayment</p>
 </th>
 </tr>
 <tr>
