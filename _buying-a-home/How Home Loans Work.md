@@ -34,7 +34,7 @@ and save on the interest as well.</p>
 <hr>
 <p>An HDB loan or home loan is money borrowed from HDB or the bank to help
 you buy your property. For HDB flats, you may also be able to tap on housing
-loans at a&nbsp;<a href="https://www.hdb.gov.sg/cs/infoweb/news-and-publications/publications/hdbspeaks/housing-loan-at-a-concessionary-interest-rate" rel="noopener noreferrer nofollow" target="_blank">concessionary interest rate</a>,
+loans at a&nbsp;<a href="https://www.hdb.gov.sg/residential/servicing-your-hdb-housing-loan/loan-matters/interest-rate" rel="noopener noreferrer nofollow" target="_blank">concessionary interest rate</a>,
 subject to HDB's criteria.</p>
 <p>With a home loan:</p>
 <ul data-tight="true" class="tight">
@@ -106,13 +106,19 @@ rate).</p>
 <p>After a fixed rate period, interest becomes variable.</p>
 </li>
 </ul>
-<p><strong>Floating or variable rate loans</strong>
+<p><strong>Floating or Variable Rate Loans</strong>
 </p>
-<p>*Rate varies and is usually tied to a reference rate e.g. CPF Ordinary
+<ul data-tight="true" class="tight">
+<li>
+<p>Rate varies and is usually tied to a reference rate e.g. CPF Ordinary
 Account, Singapore Interbank Offered Rate (SIBOR), Singapore Swap Offered
 Rate (SOR) or a rate determined by the bank (e.g. internal board rate).</p>
-<p>*If the reference rate goes up, the interest payable will increase and
+</li>
+<li>
+<p>If the reference rate goes up, the interest payable will increase and
 vice versa.</p>
+</li>
+</ul>
 <p>The reference rate can change at any time, depending on the prevailing
 market conditions. Banks must inform you in advance (usually 30 days) before
 they change the interest rate on your housing loan.</p>
@@ -136,7 +142,7 @@ later</p>
 <p><strong>Note:</strong>&nbsp;A promotional rate is lower than the rate
 for the remainder of the loan. Make sure you know how much your monthly
 payments will increase when the promotional period is over.</p>
-<h4>How interest is computed</h4>
+<h4>How Interest is Computed</h4>
 <hr>
 <p>The common method of calculating interest is monthly reducing (monthly
 rest).</p>
@@ -176,7 +182,7 @@ and the effective interest rate that you will end up paying for your loan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monthly Installment</p>
+<p>Monthly Instalment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$2,760</p>
@@ -194,7 +200,7 @@ and the effective interest rate that you will end up paying for your loan.</p>
 <p>Even if you are eligible for a bigger loan or a longer loan tenure, do
 not take it up unless you are sure you will have the resources to fund
 it.</p>
-<h4>What you can do: Pre-pay your home loan</h4>
+<h4>What You Can Do: Pre-pay Your Home Loan</h4>
 <p>You can consider making a lump sum pre-payment on your home loan to reduce
 your monthly payments and save on interest over the long run. Be sure to
 check if there are any penalties first.</p>
@@ -246,13 +252,13 @@ make a one-time partial prepayment:</p>
 rises to 5% per annum and remains at that level for the remaining loan
 tenure of 25 years. Subject to the terms and conditions of your home loan
 — check with your lender.</p>
-<h4>All about your loan</h4>
+<h4>All About Your Loan</h4>
 <hr>
 <p>Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet
 for more details about your home loan.</p>
 <h4>HDB Loan Eligibility Letter</h4>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
-you can borrow, you will need to apply for an&nbsp;<a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/hdb-loan-eligibility-hle-letter" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE)</a>&nbsp;letter.</p>
+you can borrow, you will need to apply for an&nbsp;<a href="https://safe.menlosecurity.com/https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE)</a>&nbsp;letter.</p>
 <p>HLE helps you plan for your home purchase by giving you information on
 how much you can borrow, the monthly repayments, the amount of cash you
 need and other terms and conditions.</p>
