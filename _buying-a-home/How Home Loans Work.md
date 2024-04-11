@@ -354,7 +354,7 @@ compare:</p>
 payable.</p>
 </li>
 <li>
-<p>The advertised rates and effective interest rate (EIR) for the packages.</p>
+<p>The advertised rates and Effective Interest Rate (EIR) for the packages.</p>
 </li>
 </ul>
 <p>Your instalment amounts and interest rates will likely change if you change
@@ -363,7 +363,7 @@ property fact sheet to explain the key features of the loan package. Take
 this opportunity to ask questions such as the penalty fees for early loan
 repayment, or bundled products, such as mortgagee interest policy, and
 compare with other loan packages to understand the differences.</p>
-<p><strong>3. Read the fine print</strong>
+<p><strong>3. Read the Fine Print</strong>
 </p>
 <p>Before committing to a refinanced housing loan package:</p>
 <ul data-tight="true" class="tight">
@@ -375,7 +375,7 @@ compare with other loan packages to understand the differences.</p>
 to you when you refinance your housing loan.</p>
 </li>
 </ul>
-<h2>What if you can't pay?</h2>
+<h2>What If You Can't Pay?</h2>
 <p>If you have trouble keeping up with your monthly payments, approach your
 mortgagee quickly (HDB or the bank). HDB may be able to better advise you
 on alternative options while the bank may be able to help you restructure
