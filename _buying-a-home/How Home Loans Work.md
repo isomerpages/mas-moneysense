@@ -94,10 +94,18 @@ interest rate is revised in line with the revision of CPF interest rates.</p>
 <p>Here's how they compare:</p>
 <p><strong>Fixed-rate Loans</strong>
 </p>
-<p>*Rate is fixed and will not change for the first few years (promotional
+<ul data-tight="true" class="tight">
+<li>
+<p>Rate is fixed and will not change for the first few years (promotional
 rate).</p>
-<p>*Rate does not change even when market rates fall.</p>
-<p>*After a fixed rate period, interest becomes variable.</p>
+</li>
+<li>
+<p>Rate does not change even when market rates fall.</p>
+</li>
+<li>
+<p>After a fixed rate period, interest becomes variable.</p>
+</li>
+</ul>
 <p><strong>Floating or variable rate loans</strong>
 </p>
 <p>*Rate varies and is usually tied to a reference rate e.g. CPF Ordinary
