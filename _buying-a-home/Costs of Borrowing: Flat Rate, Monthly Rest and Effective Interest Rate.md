@@ -36,14 +36,14 @@ loan period than for a shorter loan period.</p>
 <h4>How Interest Rates are Calculated</h4>
 <p>Not all loans work the same way. Learn about flat and monthly rest rates,
 and how they affect interest calculations.</p>
-<h5>Flat rate</h5>
+<h5>Flat Rate</h5>
 <p>With a flat rate, interest payments are calculated based on the original
 loan amount. The monthly interest stays the same throughout, even though
 your outstanding loan reduces over time.</p>
 <p>A flat rate is commonly used for car loans and personal term loans.</p>
-<h5>Car loan</h5>
+<h5>Car Loan</h5>
 <p>Below is a calculation for a $90,000 car loan at 2.5% interest per annum
-flat rate. Notice that you'll end up paying more interest for a 7-year
+flat rate. Notice that you will end up paying more interest for a 7-year
 loan than for a 5-year loan.</p>
 <table>
 <tbody>
@@ -52,10 +52,10 @@ loan than for a 5-year loan.</p>
 <p>Payments</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>5-year loan</p>
+<p>5-year Loan</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>7-year loan</p>
+<p>7-year Loan</p>
 </th>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ loan than for a 5-year loan.</p>
 </tr>
 </tbody>
 </table>
-<h5>Monthly rest rate</h5>
+<h5>Monthly Rest Rate</h5>
 <p>With monthly rest, interest is calculated based on the outstanding balance
 of the loan. As you pay down your outstanding loan amount every month,
 the interest also reduces over time.</p>
