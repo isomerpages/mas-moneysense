@@ -97,11 +97,11 @@ loan than for a 5-year loan.</p>
 <p>With monthly rest, interest is calculated based on the outstanding balance
 of the loan. As you pay down your outstanding loan amount every month,
 the interest also reduces over time.</p>
-<p>Monthly rest is commonly used for home loans.</p>
-<h5>Loan on monthly rest</h5>
+<p>Monthly Rest Rate is commonly used for home loans.</p>
+<h5>Loan on Monthly Rest</h5>
 <p>Say you have a $600,000 loan payable over 20 years at a fixed rate of
-3.5% per annum, and you have to make 240 equal monthly repayments of $3,480.</p>
-<p>Here's what your payment schedule might look like for the first 5 years.
+3.5% per annum and you have to make 240 equal monthly repayments of $3,480.</p>
+<p>Here's what your payment schedule might look like for the first five years.
 Notice that the interest portion of the payment reduces as time goes on.</p>
 <table>
 <tbody>
@@ -227,7 +227,7 @@ Notice that the interest portion of the payment reduces as time goes on.</p>
 </tr>
 </tbody>
 </table>
-<h5>Fixed versus floating rate</h5>
+<h5>Fixed versus Floating Rate</h5>
 <p>For a fixed rate monthly rest, the interest rate stays the same for a
 period of time known as the lock-in period.</p>
 <p>For a floating rate, the interest rate can move up or down. If interest
