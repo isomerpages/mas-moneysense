@@ -58,9 +58,9 @@ and is co-funded — up to 75 per cent — by the government.</p>
 packages offered by some gynaecologists that cover regular consultancy
 charges and basic medication. Read the details of the maternity packages
 carefully to find out what is not included.</p>
-<h4>Delivery charges</h4>
+<h4>Delivery Charges</h4>
 <p>The cost of delivery packages also varies depending on the type of delivery,
-choice of hospital, and the length of stay. Broadly, delivery by C-section
+choice of hospital and the length of stay. Broadly, delivery by C-section
 costs more; and private hospital stays are more expensive.</p>
 <p><strong>See also:</strong>
 </p>
@@ -70,7 +70,7 @@ costs more; and private hospital stays are more expensive.</p>
 </p>
 </li>
 </ul>
-<h4>Do you already have maternity benefits?</h4>
+<h4>Do You Already Have Maternity Benefits?</h4>
 <p>If you have a health insurance policy, find out if it covers pre- and
 post- delivery visits to the doctor. Some health insurance plans include
 extended maternity benefits. The benefits may include delivery, complications
@@ -90,11 +90,11 @@ and neonatal cover.</p>
 <p>Read the terms and conditions carefully</p>
 </li>
 </ul>
-<h4>Buy life insurance</h4>
+<h4>Buy Life Insurance</h4>
 <p>Newborns who are registered as Singapore Citizens at birth are automatically
 insured under MediShield Life.&nbsp;Think about life insurance to help
 provide for your family should something unexpected happen to you.</p>
-<h4>Paying for your child’s changing needs</h4>
+<h4>Paying For Your Child’s Changing Needs</h4>
 <hr>
 <p>Having a child changes your world. You may need to cut back on your personal
 expenses and set aside more money for your child’s needs as she or he grows.</p>
