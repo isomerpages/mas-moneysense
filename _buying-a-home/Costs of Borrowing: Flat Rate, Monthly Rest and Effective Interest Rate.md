@@ -315,10 +315,10 @@ the least.</p>
 <p>However, you may not always want to choose the loan with the lowest EIR.
 For instance, if you intend to repay early, you may take a loan with a
 higher EIR, but without any early repayment penalty.</p>
-<h4>Deciding on a repayment plan</h4>
-<p>Apart from the interest, you'll also need to consider your ability to
+<h4>Deciding on a Repayment Plan</h4>
+<p>Apart from the interest, you will also need to consider your ability to
 meet the monthly repayment when choosing the loan tenure.</p>
-<p>Generally, a shorter loan tenure means less interest overall, but a higher
+<p>Generally, a shorter loan tenure means less interest overall but a higher
 monthly repayment (and vice versa). Are you able to keep up the payments
 for the entire loan period?</p>
 <p>To help you decide, ask your bank for a <strong>repayment schedule</strong>.
@@ -327,17 +327,17 @@ interest payable).</p>
 <p><strong>Note:</strong> If you take up a floating-rate loan, keep in mind
 that <strong>interest rates can go up</strong>. Even small increases can
 make a big difference in the total amount you pay, so plan accordingly.</p>
-<h4>Other costs of loans</h4>
+<h4>Other Costs of Loans</h4>
 <p>Loans may come with other costs such as fees, charges and third-party
 costs, which could add up. You may need to factor these into your calculations.</p>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Fees and charges</p>
+<p>Fees and Charges</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>What it's for</p>
+<p>What It Is For</p>
 </th>
 </tr>
 <tr>
@@ -393,7 +393,7 @@ costs, which could add up. You may need to factor these into your calculations.<
 <p>Early repayment charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Early repayment charge For paying part or the whole loan earlier than
+<p>Early repayment charge for paying part or the whole loan earlier than
 originally agreed.</p>
 </td>
 </tr>
