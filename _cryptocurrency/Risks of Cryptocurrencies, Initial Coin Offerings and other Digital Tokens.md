@@ -46,22 +46,22 @@ or ICO.</p>
 with claims such as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Raising funds to develop a new blockchain-based, decentralised platform.</p>
+<p>Raising funds to develop a new blockchain-based, decentralised platform</p>
 </li>
 <li>
 <p>Providing exciting opportunities to invest in technology, business or
-assets.</p>
+assets</p>
 </li>
 <li>
 <p>Tokens that can be used to exchange for attractive benefits or monetary
-returns.</p>
+returns</p>
 </li>
 <li>
-<p>Tokens that can be used to pay for goods and services offered on the platform.</p>
+<p>Tokens that can be used to pay for goods and services offered on the platform</p>
 </li>
 <li>
 <p>Appreciation of token value over time due to reasons such as limited number
-of tokens.</p>
+of tokens</p>
 </li>
 </ul>
 <p>Buyers typically pay for the new tokens by transferring commonly transacted
