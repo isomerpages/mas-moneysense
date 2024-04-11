@@ -33,10 +33,10 @@ on the type of plan, their total cost can be much higher.</p>
 </ul>
 <h4>Types of Instalment Plans</h4>
 <p>There are generally two types of instalment plans:</p>
-<p><strong>In-house instalment payment plan</strong> - The store offers to
+<p><strong>In-house Instalment Payment Plan</strong> - The store offers to
 extend credit to the customer. In these plans, the store can usually repossess
 the item should the customer fail to pay their instalments.</p>
-<p><strong>Instalment payment plan offered by a credit card company</strong> -
+<p><strong>Instalment Payment Plan offered by a credit card company</strong> -
 Credit is offered as a deal between a credit card issuer and a merchant
 as an incentive for customers to use that credit card. <strong>Here's how they compare:</strong>
 </p>
@@ -44,10 +44,10 @@ as an incentive for customers to use that credit card. <strong>Here's how they c
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>In-house instalment payment plan</p>
+<p>In-house Instalment Payment Plan</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Instalment payment plan offered by a credit card company</p>
+<p>Instalment Payment Plan offered by a credit card company</p>
 </th>
 </tr>
 <tr>
