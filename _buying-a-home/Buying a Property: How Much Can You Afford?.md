@@ -18,7 +18,7 @@ variant: tiptap
 payments.</p>
 </li>
 <li>
-<p>If you are buying a HDB flat, you may qualify for a HDB loan.</p>
+<p>If you are buying an HDB flat, you may qualify for an HDB loan.</p>
 </li>
 <li>
 <p>How much you can borrow will depend on your lender’s assessment and rules
@@ -175,9 +175,9 @@ properties, the following LTV limits apply:</p>
 <p>Apply the lowest LTV limit if the loan tenure exceeds 30 years (or 25
 years for HDB flats) or the loan period extends beyond the borrower's age
 of 65 years.</p>
-<h4>Getting a HDB Loan</h4>
-<p>If you are buying a HDB flat, you may qualify for a loan from the HDB.
-With a HDB loan, you may borrow up to 85% of the purchase price or the
+<h4>Getting an HDB Loan</h4>
+<p>If you are buying an HDB flat, you may qualify for a loan from the HDB.
+With an HDB loan, you may borrow up to 85% of the purchase price or the
 property’s valuation price. This depends on which is lower, subject to
 HDB’s credit assessment.</p>
 <p>The amount of HDB loan granted depends on:</p>
@@ -199,10 +199,10 @@ you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/co
 <p>The HLE helps you plan for your home purchase by giving you information
 on how much you can borrow, the monthly repayments, the amount of cash
 you need and other terms and conditions.</p>
-<p>Note: A HDB loan comes with certain eligibility criteria such as an income
+<p>Note: An HDB loan comes with certain eligibility criteria such as an income
 ceiling. Check if you qualify.</p>
 <h4>HDB Loan versus Bank Loan</h4>
-<p>If you are choosing between a HDB loan and bank loan for financing your
+<p>If you are choosing between an HDB loan and bank loan for financing your
 HDB flat, the key differences to consider include the downpayment, interest
 rate and flexibility to pay off your loan early.</p>
 <p>Compare the two loan types below:</p>
