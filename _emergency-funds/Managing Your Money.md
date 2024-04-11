@@ -140,7 +140,7 @@ another addition to the family.</p>
 <p>Opt for the bus or train instead of taxis</p>
 </li>
 <li>
-<p>Stop buying items you don’t need</p>
+<p>Stop buying items you do not need</p>
 </li>
 <li>
 <p>Have more home-cooked meals instead of eating out</p>
