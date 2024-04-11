@@ -175,15 +175,23 @@ properties, the following LTV limits apply:</p>
 <p>Apply the lowest LTV limit if the loan tenure exceeds 30 years (or 25
 years for HDB flats) or the loan period extends beyond the borrower's age
 of 65 years.</p>
-<h4>Getting an HDB loan</h4>
-<p>If you are buying an HDB flat, you may qualify for a loan from the HDB.
-With an HDB loan, you may borrow up to 85% of the purchase price or the
+<h4>Getting a HDB Loan</h4>
+<p>If you are buying a HDB flat, you may qualify for a loan from the HDB.
+With a HDB loan, you may borrow up to 85% of the purchase price or the
 property’s valuation price. This depends on which is lower, subject to
 HDB’s credit assessment.</p>
 <p>The amount of HDB loan granted depends on:</p>
-<p>*The buyer's age</p>
-<p>*Monthly income</p>
-<p>*Financial standing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The buyer's age</p>
+</li>
+<li>
+<p>Monthly income</p>
+</li>
+<li>
+<p>Financial standing</p>
+</li>
+</ul>
 <h4>Are you eligible?</h4>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
 you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE) letter</a>
