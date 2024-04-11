@@ -266,11 +266,11 @@ need and other terms and conditions.</p>
 <p>An HDB loan comes with certain eligibility criteria such as an income
 ceiling. <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" rel="noopener noreferrer nofollow" target="_blank">Check if you qualify.</a>
 </p>
-<h4>Property loan fact sheet</h4>
+<h4>Property Loan Fact Sheet</h4>
 <p>Before you sign up for a home loan with a bank, the bank must provide
 you with a property loan fact sheet.</p>
 <p>It highlights how possible increases in interest rates will affect your
-monthly instalments, and contains the key features of the loan, including:</p>
+monthly instalments and contains the key features of the loan, including:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Loan amount and tenure</p>
@@ -296,7 +296,7 @@ monthly instalments, and contains the key features of the loan, including:</p>
 </ul>
 <p>Ask your bank to take you through the fact sheet so that you know what
 you are committing to when you take up the loan.</p>
-<h4>Refinancing and repricing</h4>
+<h4>Refinancing and Repricing</h4>
 <hr>
 <p>Refinancing means switching from your existing home loan to a new lender
 with lower interest rates. Refinancing at your current bank is called repricing,
@@ -305,7 +305,7 @@ or conversion.</p>
 by refinancing, particularly if your lock-in period is over.</p>
 <p>Note: HDB flat buyers are not allowed to refinance their existing bank
 loan with an HDB loan.</p>
-<h4>Before you refinance</h4>
+<h4>Before You Refinance</h4>
 <p>Before refinancing, consider if you are better off:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -319,9 +319,9 @@ loan with an HDB loan.</p>
 </li>
 </ul>
 <p>Go through these steps to check and compare your options:</p>
-<p><strong>1. Check with your current bank</strong>
+<p><strong>1. Check with your Current Bank</strong>
 </p>
-<p>Ask your existing bank for repricing options, before checking with other
+<p>Ask your existing bank for repricing options before checking with other
 banks. Check whether the lock-in period still applies to your loan. If
 so, certain penalties may apply.</p>
 <p>Ask your bank the following questions:</p>
@@ -343,7 +343,7 @@ long is it and what charges are involved?</p>
 <p>Can you show me how I will be better off with the refinanced package?</p>
 </li>
 </ul>
-<p><strong>2. Compare loan packages</strong>
+<p><strong>2. Compare Loan Packages</strong>
 </p>
 <p>It's always a good idea to compare the repriced loan from your current
 bank with other refinancing packages to see if you should switch. You should
