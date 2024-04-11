@@ -233,7 +233,7 @@ period of time known as the lock-in period.</p>
 <p>For a floating rate, the interest rate can move up or down. If interest
 rate moves up, your interest expense will be higher. Do factor this in
 when deciding if you can afford a loan.</p>
-<h5>Effective interest rate (EIR) - what your loan actually costs</h5>
+<h5>Effective Interest Rate (EIR) - What Your Loan Actually Costs</h5>
 <p>The true cost of your loan is known as the effective interest rate (EIR),
 which may be higher than the advertised rate because of the way interest
 is calculated.</p>
