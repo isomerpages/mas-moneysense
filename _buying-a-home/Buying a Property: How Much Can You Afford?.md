@@ -25,21 +25,21 @@ payments.</p>
 such as the Total Debt Servicing Ratio (TDSR) and Loan-To-Value (LTV) limit.</p>
 </li>
 </ul>
-<h4>What can you afford?</h4>
+<h4>What Can You Afford?</h4>
 <p>Buying a home is a huge milestone and a long-term financial commitment.
-So make sure you buy a home that you can afford in the long run. You'll
+Make sure you buy a home that you can afford in the long run. You will
 need to have enough resources to pay for upfront costs, ongoing homeownership
 expenses and monthly loan instalments.</p>
-<h5>Upfront costs</h5>
+<h5>Upfront Costs</h5>
 <p>These include the option fee, downpayment, stamp duty, legal cost, agent's
 commission and fees, renovation and other miscellaneous costs.</p>
-<h5>Ongoing expenses</h5>
+<h5>Ongoing Expenses</h5>
 <p>There are some ongoing expenses which cannot be paid with your CPF savings.
-You'll need to set aside enough money for:</p>
+You will need to set aside enough money for:</p>
 <p>Monthly expenses (property taxes, fire and mortgage insurance, conservancy
-and management service fees). Future interest rate hikes if you're taking
+and management service fees). Future interest rate hikes if you are taking
 up a floating rate loan. Possible drop in property value and the original
-LTV ratio is exceeded. You may have to dip into your savings if you're
+LTV ratio is exceeded. You may have to dip into your savings if you are
 not prepared.</p>
 <h5>Monthly loan instalments</h5>
 <p>A home loan is usually repaid in monthly instalments. Each monthly instalment
