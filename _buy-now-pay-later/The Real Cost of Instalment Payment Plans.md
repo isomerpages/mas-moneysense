@@ -98,7 +98,7 @@ That is almost 66% more than the sale price of $5,200 and almost 33% more
 than the original price of $6,500.</p>
 <p>In some cases, the interest you pay could end up being more than the purchase
 price itself!</p>
-<h4>Zero-interest instalment payment plans</h4>
+<h4>Zero-interest Instalment Payment Plans</h4>
 <p>Interest-free instalment plans offered by credit card companies allow
 you to pay the same price as someone who pays the whole sum upfront in
 cash – but only if you pay the instalment in full and on time.</p>
@@ -110,28 +110,28 @@ you have to settle the charge fully.</p>
 <ul>
 <li>
 <p>You will need to keep paying the monthly instalments even if the merchant
-winds up</p>
+winds up.</p>
 </li>
 <li>
 <p>Although the instalment plan itself is interest-free, if you miss a payment,
-you will incur credit card interest charges</p>
+you will incur credit card interest charges.</p>
 </li>
 <li>
-<p>You may not be able to cancel the card until you make all the payments</p>
+<p>You may not be able to cancel the card until you make all the payments.</p>
 </li>
 <li>
 <p>Refunds or exchanges may not be allowed once the bank approves the instalment
-plan</p>
+plan.</p>
 </li>
 <li>
 <p>You may have to pay a penalty fee if you decide to opt out of the monthly
-instalment plan and repay it sooner</p>
+instalment plan and repay it sooner.</p>
 </li>
 <li>
-<p>The unpaid portion of the instalment is counted as a debt in your name</p>
+<p>The unpaid portion of the instalment is counted as a debt in your name.</p>
 </li>
 </ul>
-<h4>The bottom line</h4>
+<h4>The Bottom line</h4>
 <p>That deceptively low monthly payment may end up costing you much more
 in the long run. So consider saving up for a purchase, instead of taking
 on an instalment plan.</p>
