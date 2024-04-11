@@ -22,15 +22,15 @@ tempted to spend it.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Spending pattern</p>
+<p>Spending Pattern</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>When salary comes in, it goes to:</p>
+<p>When salary comes in, it goes to</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Save first and spend what's left.</p>
+<p>Save first and spend what's left</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Savings first, must-pay bills, lifestyle expenses</p>
@@ -38,11 +38,11 @@ tempted to spend it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spend first and maybe, save later.</p>
+<p>Spend first and maybe, save later</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Must-pay bills and lifestyle expenses first. Savings, if there's money
-left</p>
+<p>Must-pay bills and lifestyle expenses first</p>
+<p>Savings, if there's money left</p>
 </td>
 </tr>
 </tbody>
@@ -55,7 +55,7 @@ left for savings.</p>
 <div class="iframe-wrapper">
 <iframe height="520" width="585" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AqBtGINDZxA"></iframe>
 </div>
-<h3>How do you spend?</h3>
+<h3>How Do You Spend?</h3>
 <p>Before you start tracking your spending, take an honest look at how you
 spend your money.</p>
 <h5>Needs versus wants</h5>
