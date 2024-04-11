@@ -267,7 +267,7 @@ will vary depending on the repayment schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 repayment of $1,200 after a year</p>
+<p>1 Repayment of $1,200 after a year</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20.0%</p>
@@ -275,7 +275,7 @@ will vary depending on the repayment schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 repayments of $600 every 6 months</p>
+<p>2 Repayments of $600 every 6 months</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27.8%</p>
@@ -283,7 +283,7 @@ will vary depending on the repayment schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 repayments of $300 every 3 months</p>
+<p>4 Repayments of $300 every 3 months</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>34.6%</p>
@@ -291,7 +291,7 @@ will vary depending on the repayment schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 repayments of $200 every 2 months</p>
+<p>6 Repayments of $200 every 2 months</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>37.7%</p>
@@ -299,7 +299,7 @@ will vary depending on the repayment schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 repayments of $100 after 1 month</p>
+<p>12 Repayments of $100 after 1 month</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>41.3%</p>
@@ -307,7 +307,7 @@ will vary depending on the repayment schedule:</p>
 </tr>
 </tbody>
 </table>
-<h4>Comparing loans</h4>
+<h4>Comparing Loans</h4>
 <p>Ask your bank for the advertised and effective interest rates. You can
 use EIR to compare different loan packages to find out which one costs
 the least.</p>
