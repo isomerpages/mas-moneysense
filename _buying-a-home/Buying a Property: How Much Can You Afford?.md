@@ -41,27 +41,45 @@ and management service fees). Future interest rate hikes if you are taking
 up a floating rate loan. Possible drop in property value and the original
 LTV ratio is exceeded. You may have to dip into your savings if you are
 not prepared.</p>
-<h5>Monthly loan instalments</h5>
+<h5>Monthly Loan Instalments</h5>
 <p>A home loan is usually repaid in monthly instalments. Each monthly instalment
 consists of a principal repayment and interest payment.</p>
 <p>The size of your monthly instalment depends on how much you have borrowed,
 the loan tenure, the interest rate of the loan and how interest is computed.</p>
-<h4>Things to note:</h4>
-<p>*For the same amount of money borrowed, a longer loan tenure means your
+<h4>Things to Note</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>For the same amount of money borrowed, a longer loan tenure means your
 monthly payment is smaller but your total interest paid is higher.</p>
-<p>*Take note of the cap on the amount you can use from your CPF savings
-for your home loan.</p>
-<p>*Ask your lender for a repayment schedule.</p>
+</li>
+<li>
+<p>Take note of the cap on the amount you can use from your CPF savings for
+your home loan.</p>
+</li>
+<li>
+<p>Ask your lender for a repayment schedule.</p>
+</li>
+</ul>
 <h4>How much do you have now?</h4>
 <p>Take a look at what you currently have. Do you have enough money to see
 you through all the costs involved in buying a home?</p>
 <p>Your available resources could come from your:</p>
-<p>*Cash savings (to meet upfront payments and keep up with repayments in
-case of income loss)</p>
-<p>*CPF Ordinary Account savings</p>
-<p>*Sales proceeds (net of outstanding loan) from your current home, if any</p>
-<p>*Income. Do you have a steady income or is it commission-based and dependent
+<ul data-tight="true" class="tight">
+<li>
+<p>Cash savings - to meet upfront payments and keep up with repayments in
+case of income loss</p>
+</li>
+<li>
+<p>CPF Ordinary Account savings</p>
+</li>
+<li>
+<p>Sales proceeds (net of outstanding loan) from your current home, if any</p>
+</li>
+<li>
+<p>Income - Do you have a steady income or is it commission-based and dependent
 on other factors?</p>
+</li>
+</ul>
 <h4>How much can you borrow?</h4>
 <p>HDB and the lenders will assess how much you can borrow for a home loan
 in the following ways:</p>
