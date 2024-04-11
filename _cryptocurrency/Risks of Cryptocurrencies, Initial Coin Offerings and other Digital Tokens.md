@@ -70,15 +70,16 @@ fiat currency to a bank account provided by the seller.</p>
 <h4>Risks Involving Digital Tokens</h4>
 <hr>
 <p>Cryptocurrencies are not regulated by MAS. They are not legal tender or
-securities. Persons that buy or sell cryptocurrencies, or facilitate the
+securities. Persons that buy or sell cryptocurrencies or facilitate the
 exchange of cryptocurrencies may be regulated under the Payment Services
 Act 2019 for money-laundering and terrorism financing risk only.</p>
-<p>Offers of digital tokens that are securities may be regulated or exempted
+<p>Offers of Digital Tokens that are securities may be regulated or exempted
 under the Securities and Futures Act, e.g. if they are offered to accredited
 or institutional investors only, or are exempted small offers and private
 placements. These exemptions come with specific conditions such as advertising
 restrictions.</p>
-<p>Here are some risks involving digital tokens you should be aware of:</p>
+<p>Here are some risks involving Digital Tokens which you should be aware
+of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Foreign and online operators.</strong>&nbsp;It is difficult to
@@ -99,14 +100,14 @@ are too wide.</p>
 </li>
 <li>
 <p><strong>It is possible to lose every cent.</strong>&nbsp;The value of
-digital tokens is usually highly speculative and not transparent. The traded
+Digital Tokens is usually highly speculative and not transparent. The traded
 price can fluctuate greatly in a short time and can become zero overnight.</p>
 </li>
 <li>
 <p><strong>Investments promising high returns.</strong>&nbsp;Be wary. Investments
 with higher promised returns come with higher risks and could potentially
 be fraudulent. Schemes that offer high referral commissions would increase
-operating costs, which could lower the chances of achieving the promised
+operating costs which could lower the chances of achieving the promised
 returns.</p>
 </li>
 <li>
@@ -119,12 +120,12 @@ or the trading of the token.</p>
 </li>
 <li>
 <p><strong>Risk of losing private key.</strong>&nbsp;If you lose your private
-key, you lose access to your digital tokens. If someone hacks into your
+key, you lose access to your Digital Tokens. If someone hacks into your
 digital wallet or otherwise knows of your private key, that person gains
-access to your digital tokens.</p>
+access to your Digital Tokens.</p>
 </li>
 </ul>
-<h4>Is it regulated?</h4>
+<h4>Is It Regulated?</h4>
 <hr>
 <p><strong>There is no legislative protection.</strong>&nbsp;Remember, MAS
 will not be able to help you in any way if you lose money from dealing
