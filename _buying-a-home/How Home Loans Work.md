@@ -52,7 +52,7 @@ remaining purchase price to the seller</p>
 <p>Interest is charged from the first disbursement</p>
 </li>
 </ul>
-<h4>Who is eligible for a home loan?</h4>
+<h4>Who is Eligible for a Home Loan?</h4>
 <hr>
 <p>HDB and the banks will have their own eligibility criteria for prospective
 borrowers. These include:</p>
@@ -71,13 +71,13 @@ borrowers. These include:</p>
 </li>
 <li>
 <p>Fulfilment of the Monetary Authority of Singapore’s property loan rules
-and HDB's/the bank’s internal credit requirements</p>
+and HDB's/ the bank’s internal credit requirements</p>
 </li>
 </ul>
 <p>If you are self-employed or do not have a regular income, you must demonstrate
 the ability to service monthly instalments to be eligible for a loan. Each
 lender will assess your eligibility based on its criteria.</p>
-<h4>Types of home loans</h4>
+<h4>Types of Home Loans</h4>
 <hr>
 <p>HDB offers a concessionary loan for HDB buyers only, at an interest rate
 that is pegged at 0.1% above the CPF Ordinary Account interest rate. This
@@ -92,7 +92,7 @@ interest rate is revised in line with the revision of CPF interest rates.</p>
 </li>
 </ul>
 <p>Here's how they compare:</p>
-<p><strong>Fixed-rate loans</strong>
+<p><strong>Fixed-rate Loans</strong>
 </p>
 <p>*Rate is fixed and will not change for the first few years (promotional
 rate).</p>
