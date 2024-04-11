@@ -2,7 +2,7 @@ collections:
   buying-a-home:
     output: true
     order:
-      - "Buying a property: How much can you afford.md"
+      - "Buying a Property: How Much Can You Afford?.md"
       - How home loans work.md
       - "Costs of borrowing: flat rate, monthly rest and effective interest
         rate.md"
