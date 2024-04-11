@@ -22,18 +22,18 @@ decisions.</p>
 <h4>Plan and Prioritise</h4>
 <hr>
 <p>Review your financial situation and financial plans. Draw up a fresh budget
-for the household to prioritise your spending, so as to accommodate new
+for the household to prioritise your spending so as to accommodate new
 expenses for your baby — doctor's visits for mummy and baby, baby's daily
-necessities, and perhaps even fun activities for your little one, etc.
-Revise your financial plan to cater for your child's longer term needs,
-such as tertiary education.</p>
-<h4>Do your research</h4>
+necessities and perhaps even fun activities for your little one, etc. Revise
+your financial plan to cater for your child's longer term needs such as
+tertiary education.</p>
+<h4>Do Your Research</h4>
 <hr>
-<p>Talk to professionals, your friends, and family members to have an idea
+<p>Talk to professionals, your friends and family members to have an idea
 of what it would cost to pay for your child's needs. Don't let the information
-alarm you, but see it as a way to help you prepare for what's to come.</p>
+alarm you but see it as a way to help you prepare for what's to come.</p>
 <p>You should also read up the&nbsp;<a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/marriage-and-parenthood-schemes" rel="noopener noreferrer nofollow" target="_blank">various government help schemes</a>&nbsp;available,
-including the Enhanced Baby Bonus, Enhanced MediSave Grant for Newborns,
+including the Enhanced Baby Bonus, Enhanced MediSave Grant for Newborns
 and subsidies for centre-based infant and child care.</p>
 <p>If need be, you can also use your MediSave to pay for:</p>
 <ul data-tight="true" class="tight">
@@ -50,10 +50,10 @@ and intra-uterine insemination (IUI), is also available at public hospitals
 and is co-funded — up to 75 per cent — by the government.</p>
 </li>
 </ul>
-<h4>What to expect when you're expecting</h4>
+<h4>What To Expect When You Are Expecting</h4>
 <hr>
-<p>Here are a few things to note when you're expecting:</p>
-<h4>Maternity packages and consultation charges</h4>
+<p>Here are a few things to note when you are expecting:</p>
+<h4>Maternity Packages and Consultation Charges</h4>
 <p>Consultation and delivery charges vary. You may want to consider pre-natal
 packages offered by some gynaecologists that cover regular consultancy
 charges and basic medication. Read the details of the maternity packages
