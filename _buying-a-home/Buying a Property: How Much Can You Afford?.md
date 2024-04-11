@@ -199,10 +199,10 @@ you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/co
 <p>The HLE helps you plan for your home purchase by giving you information
 on how much you can borrow, the monthly repayments, the amount of cash
 you need and other terms and conditions.</p>
-<p>Note: An HDB loan comes with certain eligibility criteria such as an income
+<p>Note: A HDB loan comes with certain eligibility criteria such as an income
 ceiling. Check if you qualify.</p>
-<h4>HDB loan versus bank loan</h4>
-<p>If you're choosing between an HDB loan and bank loan for financing your
+<h4>HDB Loan versus Bank Loan</h4>
+<p>If you are choosing between a HDB loan and bank loan for financing your
 HDB flat, the key differences to consider include the downpayment, interest
 rate and flexibility to pay off your loan early.</p>
 <p>Compare the two loan types below:</p>
@@ -243,7 +243,7 @@ rate and flexibility to pay off your loan early.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mortgage servicing ratio</p>
+<p>Mortgage Servicing Ratio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30%</p>
@@ -254,7 +254,7 @@ rate and flexibility to pay off your loan early.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Total debt servicing ratio</p>
+<p>Total Debt Servicing Ratio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N.A</p>
@@ -268,10 +268,10 @@ rate and flexibility to pay off your loan early.</p>
 <p>Interest Rates</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pegged at 0.1% above the prevailing CPF interest rate &amp; reviewed quarterly</p>
+<p>Pegged at 0.1% above the prevailing CPF interest rate and reviewed quarterly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fixed/Floating</p>
+<p>Fixed/ Floating</p>
 </td>
 </tr>
 <tr>
@@ -304,7 +304,7 @@ rate and flexibility to pay off your loan early.</p>
 <p>No penalty for early repayment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May incur fees for *Early repayment and/or *Refinancing within lock-in
+<p>May incur fees for *Early repayment and/ or *Refinancing within lock-in
 period</p>
 </td>
 </tr>
