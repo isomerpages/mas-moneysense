@@ -78,23 +78,23 @@ only.</p>
 </tbody>
 </table>
 <p>Let's look at these two types of plans in-depth.</p>
-<h4>In-house instalment payment plans</h4>
+<h4>In-house Instalment Payment Plans</h4>
 <p>For in-house plans, merchants typically charge a flat interest rate of
 11% to 27% for a repayment period of up to 72 months. Plans can be offered
 even for small purchases.</p>
-<h5>Take note: the cost is much higher than it seems</h5>
+<h5>Take note: the cost is much higher than it seems!</h5>
 <p>Even though you are only paying a small instalment each month, the final
 cost of the item is much higher after taking the interest into account.
 **</p>
-<p>Example Suppose you walk into a store and see a 65-inch Ultra HD 4K TV
-marked down from $6,500 to $5,200. That's 20% off the original price. It's
-still a big amount, so the salesperson offers you an instalment plan of
-just <strong>$44.90 per week</strong>, over 48 months.</p>
-<p>Seems like a good deal? Let's do the maths:</p>
+<p>For example, suppose you walk into a store and see a 65-inch Ultra HD
+4K TV marked down from $6,500 to $5,200. That's 20% off the original price.
+It's still a big amount. So, the salesperson offers you an instalment plan
+of just <strong>$44.90 per week</strong>, over 48 months.</p>
+<p>Seems like a good deal? Let's do the math:</p>
 <p>What you pay per month: $44.90 x 4 = $179.60 Total paid after 48 months:
 $8,620.80 Total interest paid (on sale price of $5,200): $3,420.80</p>
 <p>After 48 months, that TV will end up costing you <strong>$8,620.80</strong>.
-That is almost 66% more than the sale price of $5,200, and almost 33% more
+That is almost 66% more than the sale price of $5,200 and almost 33% more
 than the original price of $6,500.</p>
 <p>In some cases, the interest you pay could end up being more than the purchase
 price itself!</p>
