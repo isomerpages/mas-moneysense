@@ -101,7 +101,7 @@ you will need to meet the TDSR rules.</p>
 <p>Your total monthly debt commitments (e.g. mortgage payments, car payments
 and credit card payments) should not exceed the TDSR threshold of 55%.
 You may find out more about how the TDSR is computed <a href="https://www.mas.gov.sg/regulation/explainers/tdsr-for-property-loans/calculating-tdsr" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Loan-To-Value (LTV) Limit</strong> 
+<p><strong>Loan-To-Value (LTV) Limit</strong>
 </p>
 <p>The LTV limit determines the maximum amount you can borrow for a housing
 loan.</p>
@@ -145,7 +145,7 @@ properties, the following LTV limits apply:</p>
 <p>75% or 55%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5% (for LTV of 75%) , 10%(for LTV of 55%)</p>
+<p>5% (for LTV of 75%), 10% (for LTV of 55%)</p>
 </td>
 </tr>
 <tr>
@@ -173,8 +173,8 @@ properties, the following LTV limits apply:</p>
 </tbody>
 </table>
 <p>Apply the lowest LTV limit if the loan tenure exceeds 30 years (or 25
-years for HDB flats), or the loan period extends beyond the borrower's
-age of 65 years.</p>
+years for HDB flats) or the loan period extends beyond the borrower's age
+of 65 years.</p>
 <h4>Getting an HDB loan</h4>
 <p>If you are buying an HDB flat, you may qualify for a loan from the HDB.
 With an HDB loan, you may borrow up to 85% of the purchase price or the
