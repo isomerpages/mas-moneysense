@@ -67,7 +67,7 @@ of tokens</p>
 cryptocurrencies e.g. Bitcoin or Ether, to a wallet address provided by
 the seller. Buyers may also be able to pay for the new tokens by transferring
 fiat currency to a bank account provided by the seller.</p>
-<h4>Risks involving digital tokens</h4>
+<h4>Risks Involving Digital Tokens</h4>
 <hr>
 <p>Cryptocurrencies are not regulated by MAS. They are not legal tender or
 securities. Persons that buy or sell cryptocurrencies, or facilitate the
