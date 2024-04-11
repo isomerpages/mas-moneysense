@@ -58,20 +58,20 @@ left for savings.</p>
 <h3>How Do You Spend?</h3>
 <p>Before you start tracking your spending, take an honest look at how you
 spend your money.</p>
-<h5>Needs versus wants</h5>
-<p>Needs are the essentials of life. These are things you can’t live without,
+<h5>Needs versus Wants</h5>
+<p>Needs are the essentials of life. These are things you cannot live without,
 like food or utilities.</p>
 <p>Wants are the things you desire. They could be more expensive (but not
 necessarily better) substitutes for your needs or just non-essential items,
 like a new pair of shoes to add to your collection.</p>
 <p>As a guideline, always prioritise spending on your needs over your wants:
 What you want can wait until you have met your goals!</p>
-<p>For example, think about something you bought recently:</p>
-<p>Do you know how much you spent on it? Was it a need or want? Was it an
-essential item or was it bought on impulse? Do you usually buy at first
-sight? Or do you compare prices to see if you're getting the best deal?
-You should take steps to curb your spending if it is keeping you from achieving
-your goals.</p>
+<p>For example, think about something you bought recently. Do you know how
+much you spent on it? Was it a need or want? Was it an essential item or
+was it bought on impulse? Do you usually buy at first sight? Or do you
+compare prices to see if you are getting the best deal?</p>
+<p>You should take steps to curb your spending if it is keeping you from
+achieving your goals.</p>
 <div class="iframe-wrapper">
 <iframe height="520" width="585" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OmzRi54QQ1w"></iframe>
 </div>
