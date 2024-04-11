@@ -234,7 +234,7 @@ period of time known as the lock-in period.</p>
 rate moves up, your interest expense will be higher. Do factor this in
 when deciding if you can afford a loan.</p>
 <h5>Effective Interest Rate (EIR) - What Your Loan Actually Costs</h5>
-<p>The true cost of your loan is known as the effective interest rate (EIR),
+<p>The true cost of your loan is known as the Effective interest rate (EIR),
 which may be higher than the advertised rate because of the way interest
 is calculated.</p>
 <p>*For flat rate loans, the EIR is higher than the advertised rate because
