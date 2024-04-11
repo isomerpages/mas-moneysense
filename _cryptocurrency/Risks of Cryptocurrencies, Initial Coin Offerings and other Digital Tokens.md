@@ -53,11 +53,10 @@ with claims such as:</p>
 assets</p>
 </li>
 <li>
-<p>Tokens that can be used to exchange for attractive benefits or monetary
-returns</p>
+<p>Exchanging for attractive benefits or monetary returns</p>
 </li>
 <li>
-<p>Tokens that can be used to pay for goods and services offered on the platform</p>
+<p>Paying for goods and services offered on the platform</p>
 </li>
 <li>
 <p>Appreciation of token value over time due to reasons such as limited number
