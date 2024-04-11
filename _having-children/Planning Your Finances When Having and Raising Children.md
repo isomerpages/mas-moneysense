@@ -183,7 +183,7 @@ the extra premiums first.</p>
 </ul>
 <p>Be careful not to cut back on your savings for retirement or healthcare
 insurance. You need to take care of yourself as well.</p>
-<h4>Getting help</h4>
+<h4>Getting Help</h4>
 <hr>
 <p>There are a range of government schemes to help you defray the cost of
 having and raising your child.</p>
