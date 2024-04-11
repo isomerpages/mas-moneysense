@@ -141,8 +141,8 @@ report it to the police immediately.</p>
 facilitate the exchange of cryptocurrencies may be regulated under the
 Payment Services Act 2019. However, they are not required to protect your
 cryptocurrency and are not required to ensure that each cryptocurrency
-transaction is processed properly.&nbsp;The MAS regulates cryptocurrency
-service providers under the Payment Services Act 2019 mainly for money-laundering
+transaction is processed properly.&nbsp;MAS regulates cryptocurrency service
+providers under the Payment Services Act 2019 mainly for money-laundering
 and terrorism financing risk only.</p>
 <h4>Note</h4>
 <p>Your cryptocurrency service provider is required by law to give this risk
@@ -150,8 +150,8 @@ warning to you.</p>
 <h4>For Licensees</h4>
 <p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
 </p>
-<p>The MAS requires us to provide this risk warning to you as a customer
-of a Digital Payment Token (DPT) service provider.</p>
+<p>MAS requires us to provide this risk warning to you as a customer of a
+Digital Payment Token (DPT) service provider.</p>
 <p>Before you pay your DPT service provider any money or DPT, you should
 be aware of the following.</p>
 <p>1. Your DPT service provider is licensed by MAS to provide DPT services.
@@ -167,8 +167,8 @@ of the money you put into such tokens.</p>
 <h4>For Exempted Payment Service Providers</h4>
 <p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
 </p>
-<p>The MAS requires us to provide this risk warning to you as a customer
-of a digital payment token (DPT) service provider.</p>
+<p>MAS requires us to provide this risk warning to you as a customer of a
+digital payment token (DPT) service provider.</p>
 <p>Before you pay your DPT service provider any money or DPT, you should
 be aware of the following.</p>
 <p>1. Your DPT service provider is exempted by MAS from holding a licence
@@ -189,7 +189,7 @@ warning of such incidents.</p>
 <p>If you suspect that an investment offer could be fraudulent or misused
 for other unlawful activities, report it to the Police.</p>
 <h4><em>Checklist</em></h4>
-<h4>Protect yourself</h4>
+<h4>Protect Yourself</h4>
 <hr>
 <p>Before making any investment decision:</p>
 <ul data-tight="true" class="tight">
@@ -215,7 +215,7 @@ understand the investment opportunity fully</p>
 on itself or its scheme is true</p>
 </li>
 <li>
-<p><strong>Confirm</strong>, before investing, the seller's or its representative’s
+<p><strong>Confirm</strong> before investing the seller's or its representative’s
 credentials by checking MAS'&nbsp;<a href="https://eservices.mas.gov.sg/fid" rel="noopener noreferrer nofollow" target="_blank">Financial Institutions Directory</a>,&nbsp;
 <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer nofollow" target="_blank">Register of Representatives</a>&nbsp;and&nbsp;<a href="http://www.mas.gov.sg/IAL.aspx" rel="noopener noreferrer nofollow" target="_blank">Investor Alert List</a>
 </p>
