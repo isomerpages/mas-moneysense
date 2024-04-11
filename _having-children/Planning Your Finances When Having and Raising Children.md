@@ -98,7 +98,7 @@ provide for your family should something unexpected happen to you.</p>
 <hr>
 <p>Having a child changes your world. You may need to cut back on your personal
 expenses and set aside more money for your child’s needs as she or he grows.</p>
-<h4>From birth to 18 months</h4>
+<h4>From Birth to 18 Months</h4>
 <p>You will need to pay for your baby’s basic needs such as:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -118,15 +118,15 @@ expenses and set aside more money for your child’s needs as she or he grows.</
 <p><strong><em>Start saving up during the pregnancy to buy these items.</em></strong>
 </p>
 <p>Later on, you may need to buy other items such as a baby stroller and
-car seat. What it costs you will depend on whether you buy new or branded
-items, or make use of hand-me-downs. On top of these, you may need infant
-care or nanny care.</p>
+car seat. What it costs will depend on whether you buy new or branded items,
+or make use of hand-me-downs. On top of these, you may need infant care
+or nanny care.</p>
 <p>Some tips to help you manage costs at this age:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Plan a budget.</strong>&nbsp;Cut down some expenses by asking
-your family and friends for hand-me-downs. Children grow quickly! So items
-like clothes, toys, car seats, and bathtubs are rarely worn out.</p>
+your family and friends for hand-me-downs. Children grow quickly! So, items
+like clothes, toys, car seats and bathtubs are rarely worn out.</p>
 </li>
 <li>
 <p><strong>Identify needs and wants.</strong>&nbsp;Even if you wish to give
@@ -142,8 +142,8 @@ family members in childcare.</p>
 get.</p>
 </li>
 </ul>
-<h4>From toddler to teens</h4>
-<p>University may seem far away when your children are toddlers. But it's
+<h4>From Toddler to Teens</h4>
+<p>University may seem far away when your children are toddlers. But it is
 never too early to start saving for their school fees and university education.
 The earlier you begin, the more time you have for your money to compound
 and grow.</p>
@@ -163,10 +163,10 @@ towards goals like paying for your child’s university education.</p>
 </li>
 <li>
 <p><strong>Buy health insurance for your children</strong>&nbsp;if you want
-more than what MediShield Life provides</p>
+more than what MediShield Life provides.</p>
 </li>
 </ul>
-<h4>Staying at home?</h4>
+<h4>Staying at Home?</h4>
 <p>If you or your spouse decides to stop work or to work part-time, you will
 need to adjust your budget to deal with the loss of income.</p>
 <ul data-tight="true" class="tight">
