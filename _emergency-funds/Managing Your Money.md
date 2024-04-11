@@ -88,11 +88,11 @@ is coming from and going.</p>
 <p>Live within your means and meet your basic living expenses</p>
 </li>
 <li>
-<p>Track your spending, so you can put aside money for your long-term and
-short-term goals</p>
+<p>Track your spending so that you can put aside money for your long-term
+and short-term goals</p>
 </li>
 <li>
-<p>Control your money, so that it does not end up controlling you</p>
+<p>Control your money so that it does not end up controlling you</p>
 </li>
 </ul>
 <p>If you have an existing budget, review it from time to time to make sure
@@ -102,9 +102,9 @@ to guide you.</p>
 <p>Here are a few tips to get you started on preparing a budget:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Work out your total monthly income. Include income you can count on (basic
-salary, rental income). Do not include any money you are not sure you will
-earn (e.g. bonuses and commissions).</p>
+<p>Work out your total monthly income. Include income you can count on (e.g.
+basic salary, rental income). Do not include any money you are not sure
+you will earn (e.g. bonuses and commissions).</p>
 </li>
 <li>
 <p>Set aside a fixed amount of savings every month. Save first: Aim to save
@@ -114,7 +114,7 @@ built up emergency savings, save up for the other goals you have in life.</p>
 </li>
 <li>
 <p>Make a list of all monthly expenses. Include taxes, debts (any credit
-facility, like loan repayments or credit card balances), transportation,
+facility like loan repayments or credit card balances), transportation,
 utilities, shopping, food and necessities. If you have children and elderly
 parents who are dependent on you, include their allowance or financial
 help. Add in amounts set aside for insurance premiums, investments and
@@ -122,7 +122,7 @@ savings.</p>
 </li>
 <li>
 <p>Set up a budget and follow it in a disciplined manner. Expenses may be
-budgeted but we need not spend it if we don't need to.</p>
+budgeted but we need not spend it if we do not need to.</p>
 </li>
 <li>
 <p>Monitor your budget regularly to see if you are on track. Adjust your
@@ -130,7 +130,7 @@ budget if, for example, you get a pay rise or get a pay cut or if you have
 another addition to the family.</p>
 </li>
 </ol>
-<h3>If you're spending too much</h3>
+<h3>If You are Spending Too Much</h3>
 <p>Look for ways to reduce your expenses. Here are some ideas:</p>
 <ul data-tight="true" class="tight">
 <li>
