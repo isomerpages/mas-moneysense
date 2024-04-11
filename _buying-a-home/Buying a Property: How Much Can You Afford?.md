@@ -60,7 +60,7 @@ your home loan.</p>
 <p>Ask your lender for a repayment schedule.</p>
 </li>
 </ul>
-<h4>How much do you have now?</h4>
+<h4>How Much Do You Have Now?</h4>
 <p>Take a look at what you currently have. Do you have enough money to see
 you through all the costs involved in buying a home?</p>
 <p>Your available resources could come from your:</p>
@@ -80,7 +80,7 @@ case of income loss</p>
 on other factors?</p>
 </li>
 </ul>
-<h4>How much can you borrow?</h4>
+<h4>How Much Can You Borrow?</h4>
 <p>HDB and the lenders will assess how much you can borrow for a home loan
 in the following ways:</p>
 <p><strong>Mortgage Servicing Ratio (MSR)</strong>
@@ -192,7 +192,7 @@ HDB’s credit assessment.</p>
 <p>Financial standing</p>
 </li>
 </ul>
-<h4>Are you eligible?</h4>
+<h4>Are You Eligible?</h4>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
 you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE) letter</a>
 </p>
