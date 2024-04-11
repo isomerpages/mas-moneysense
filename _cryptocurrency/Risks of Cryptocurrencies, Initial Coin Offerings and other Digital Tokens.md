@@ -132,17 +132,17 @@ will not be able to help you in any way if you lose money from dealing
 with digital tokens that are not products regulated by MAS. This includes
 situations where the digital token service is provided by an entity regulated
 by MAS, but where the digital token is not regulated by MAS.</p>
-<p>If you choose to deal with an&nbsp;<a href="https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons" rel="noopener noreferrer nofollow" target="_blank">unregulated person or entity</a>&nbsp;or
+<p>If you choose to deal with an&nbsp;<a href="https://www.moneysense.gov.sg/dealing-with-unregulated-persons/" rel="noopener noreferrer nofollow" target="_blank">unregulated person or entity</a>&nbsp;or
 invest in unregulated products, you will not be protected under MAS regulations.
-If you suspect that an investment scheme involving digital tokens could
+If you suspect that an investment scheme involving Digital Tokens could
 be fraudulent or is being misused for any illicit activity, you should
 report it to the police immediately.</p>
 <p>As for cryptocurrencies, persons that buy or sell cryptocurrencies, or
 facilitate the exchange of cryptocurrencies may be regulated under the
 Payment Services Act 2019. However, they are not required to protect your
-cryptocurrency, and are not required to ensure that each cryptocurrency
-transaction is processed properly.&nbsp;MAS regulates cryptocurrency service
-providers under the Payment Services Act 2019 mainly for money-laundering
+cryptocurrency and are not required to ensure that each cryptocurrency
+transaction is processed properly.&nbsp;The MAS regulates cryptocurrency
+service providers under the Payment Services Act 2019 mainly for money-laundering
 and terrorism financing risk only.</p>
 <h4>Note</h4>
 <p>Your cryptocurrency service provider is required by law to give this risk
@@ -150,9 +150,8 @@ warning to you.</p>
 <h4>For Licensees</h4>
 <p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
 </p>
-<p>The Monetary Authority of Singapore (MAS) requires us to provide this
-risk warning to you as a customer of a digital payment token (DPT) service
-provider.</p>
+<p>The MAS requires us to provide this risk warning to you as a customer
+of a Digital Payment Token (DPT) service provider.</p>
 <p>Before you pay your DPT service provider any money or DPT, you should
 be aware of the following.</p>
 <p>1. Your DPT service provider is licensed by MAS to provide DPT services.
@@ -168,9 +167,8 @@ of the money you put into such tokens.</p>
 <h4>For Exempted Payment Service Providers</h4>
 <p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
 </p>
-<p>The Monetary Authority of Singapore (MAS) requires us to provide this
-risk warning to you as a customer of a digital payment token (DPT) service
-provider.</p>
+<p>The MAS requires us to provide this risk warning to you as a customer
+of a digital payment token (DPT) service provider.</p>
 <p>Before you pay your DPT service provider any money or DPT, you should
 be aware of the following.</p>
 <p>1. Your DPT service provider is exempted by MAS from holding a licence
