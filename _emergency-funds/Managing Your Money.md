@@ -77,7 +77,7 @@ achieving your goals.</p>
 </div>
 <p>A simple way to track your spending is by using a budgeting app. Or you
 could jot down what you spent, when and how much you paid for it.</p>
-<h3>Setting a budget</h3>
+<h3>Setting a Budget</h3>
 <p>A budget is a good savings and spending plan. It can help you manage your
 savings, income, spending, debt and other liabilities prudently. Setting
 up a budget is also a great way to get a quick snapshot of where your money
