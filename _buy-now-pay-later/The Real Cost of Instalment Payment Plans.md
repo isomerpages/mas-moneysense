@@ -131,9 +131,9 @@ instalment plan and repay it sooner.</p>
 <p>The unpaid portion of the instalment is counted as a debt in your name.</p>
 </li>
 </ul>
-<h4>The Bottom line</h4>
+<h4>The Bottom Line</h4>
 <p>That deceptively low monthly payment may end up costing you much more
-in the long run. So consider saving up for a purchase, instead of taking
+in the long run. So, consider saving up for a purchase instead of taking
 on an instalment plan.</p>
 <p>If you are already on an instalment plan, think carefully before committing
 to another one. The overlapping instalment payments can quickly add up
