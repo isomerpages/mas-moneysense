@@ -92,7 +92,7 @@ a list of items instead of going shopping as and when you need something.</p>
 <p>A small adjustment you could make to your online shopping routine is to
 carefully go through your shopping cart. Are you sure you want to buy all
 the items? Are there hidden charges?</p>
-<h4>The Bottomline</h4>
+<h4>The Bottom Line</h4>
 <p>Knowing how retailers go all out to persuade you to part with more money
 is bagging a deal in itself. After all, that money you did not spend because
 you saw through their tricks can be put to better use, such as saving or
