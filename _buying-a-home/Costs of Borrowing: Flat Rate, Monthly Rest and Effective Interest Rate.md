@@ -234,19 +234,25 @@ period of time known as the lock-in period.</p>
 rate moves up, your interest expense will be higher. Do factor this in
 when deciding if you can afford a loan.</p>
 <h5>Effective Interest Rate (EIR) - What Your Loan Actually Costs</h5>
-<p>The true cost of your loan is known as the Effective interest rate (EIR),
+<p>The true cost of your loan is known as the Effective Interest Rate (EIR)
 which may be higher than the advertised rate because of the way interest
 is calculated.</p>
-<p>*For flat rate loans, the EIR is higher than the advertised rate because
+<ul data-tight="true" class="tight">
+<li>
+<p>For flat rate loans, the EIR is higher than the advertised rate because
 the same rate (advertised rate) is applied throughout the loan period,
 based on the original loan amount.</p>
-<p>*For monthly rest loans, the advertised rate is the same as the EIR, because
+</li>
+<li>
+<p>For monthly rest loans, the advertised rate is the same as the EIR, because
 interest is calculated based on the reduced balance of the loan.</p>
+</li>
+</ul>
 <p>Also, note that that the <strong>frequency of payments</strong> may also
-affect the EIR. Think about 2 loans with the same principal amount, interest
+affect the EIR. Think about two loans with the same principal amount, interest
 and duration. The loan with smaller, more frequent instalments will be
 more costly than one with fewer but larger instalments.</p>
-<h5>Example: How payment frequency affects EIR</h5>
+<h5>Example: How Payment Frequency Affects EIR</h5>
 <p>For a $1,000 loan, repayable over a year with interest of $200, the EIR
 will vary depending on the repayment schedule:</p>
 <table>
