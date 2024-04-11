@@ -214,7 +214,7 @@ having and raising your child.</p>
 <p><em>Find out more about enhancements in</em>&nbsp;<a href="https://www.madeforfamilies.gov.sg/marriage/your-home-matters-new/housing-schemes-and-grants" rel="noopener noreferrer nofollow" target="_blank">housing,</a>&nbsp;
 <a href="https://www.madeforfamilies.gov.sg/support-measures/managing-work-and-family-life/family-friendly-workplaces" rel="noopener noreferrer nofollow" target="_blank">workplace support</a>, <em>and</em>&nbsp;<a href="https://www.madeforfamilies.gov.sg/parental-leave-and-benefits" rel="noopener noreferrer nofollow" target="_blank">support for parents.</a>
 </p>
-<h4>Paying for university</h4>
+<h4>Paying for University</h4>
 <hr>
 <p>Saving for a child's university education should be one of your priorities
 as a parent. The cost can be hefty. Apart from school or tuition fees,
