@@ -33,7 +33,7 @@ over them to create a maze of caves and tunnels to crawl around and hide
 in. They spent endless hours making up adventures with their friends or
 playing hide and seek. Going to the zoo and museums, splash playgrounds,
 and reading books at the library were also things we did regularly.</p>
-<h4>Are there any advantages to minimising spending on activities for your children? Wouldn’t they feel like they’re missing out?</h4>
+<h4>Are There Any Advantages To Minimising Spending On Activities For Your Children? Would They Feel Like They Are Missing Out?</h4>
 <p>For me, yes, there are advantages – I save more! Okay, seriously, I never
 asked how they felt, but they have never complained about missing out –
 well, at least not when they were younger. As they got older, they learnt
