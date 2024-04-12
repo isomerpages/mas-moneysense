@@ -35,34 +35,34 @@ playing hide and seek. Going to the zoo and museums, splash playgrounds,
 and reading books at the library were also things we did regularly.</p>
 <h4>Are There Any Advantages To Minimising Spending On Activities For Your Children? Would They Feel Like They Are Missing Out?</h4>
 <p>For me, yes, there are advantages – I save more! Okay, seriously, I never
-asked how they felt, but they have never complained about missing out –
+asked how they felt but they have never complained about missing out –
 well, at least not when they were younger. As they got older, they learnt
-about tradeoffs and that it simply wasn’t possible to have everything they
-wanted – especially when they were old enough to work legally.</p>
-<h4>The thing is, it’s possible to have fun for less. And it’s fun to see how little kids imagine and explore the world through their made-up games.</h4>
+about tradeoffs and that it simply was not possible to have everything
+they wanted – especially when they were old enough to work legally.</p>
+<h4>It is possible to have fun for less and it is fun to see how little children imagine and explore the world through their made-up games.</h4>
 <p>There is no better way to understand the value of a dollar than if you
 earn it yourself. It is also a sure way to learn about getting on with
 others. Of the holiday jobs I have done, I remember my days as a waitress
 best with equal measures of cringing and pride about earning my own money.
-So it’s all about balance. There are, of course, things you have to pay
+So, it is all about balance. There are, of course, things you have to pay
 for – entrance fees to museums, Gardens by the Bay, indoor playgrounds,
-laser tag. And there were things the kids knew we were saving up for, like
-an education at university or an overseas holiday.</p>
+laser tag. And there were things the children knew we were saving up for,
+like an education at university or an overseas holiday.</p>
 <h4>Was this approach something you discussed with your husband very early on? What were your considerations at that time?</h4>
 <p>My husband and I are quite similar in that we have always been budget-conscious.
-We had simple childhoods: He played basketball at school; I liked books
+We had simple childhoods: he played basketball at school; I liked books
 and exploring nearby building sites, climbing up and down half-built homes.
-Back then, we didn’t have the choices our kids have today and we made the
-most of whatever was around, including hand-me downs.</p>
+Back then, we did not have the choices our children have today and we made
+the most of whatever was around, including hand-me downs.</p>
 <h4>Can you share with other parents out there how to communicate this idea to their children?</h4>
-<p>It’s easier if you start shaping expectations young. Explain that money
-is a limited resource – something that we work hard to earn, so we don’t
+<p>It is easier if you start shaping expectations young. Explain that money
+is a limited resource – something that we work hard to earn, so we do not
 want to spend it frivolously. Make use of one or two opportunities to demonstrate
-delayed gratification, trade-offs and shopping for value. Our kids also
-watch and mirror what we do. And we shouldn’t have double standards. If
-you walk around picking up little toiletries, beauty products and treats
-for yourself, you can’t really turn around and say “no” when they pick
-something up for themselves too. Kids don’t miss anything, so be consistent
+delayed gratification, trade-offs and shopping for value. Our children
+also watch and mirror what we do. And we should not have double standards.
+If you walk around picking up little toiletries, beauty products and treats
+for yourself, you cannot really turn around and say “no” when they pick
+something up for themselves too. Children do not miss anything, so be consistent
 in your spending behaviour.</p>
 <p>Hooi Min is a mother of two girls, 18 and 21. She and her husband believe
 that baking a cake together as a family during birthdays is better than
