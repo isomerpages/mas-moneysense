@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Insurance Basics.md
-      - Understanding health insurance.md
+      - Understanding Health Insurance.md
       - Understanding Integrated Shield Plans.md
       - Understanding life insurance.md
       - "Life insurance: Comparing term and bundled products.md"
