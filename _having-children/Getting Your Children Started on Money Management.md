@@ -103,22 +103,22 @@ your child save towards it</p>
 <li>
 <p>Investing - for money to grow on its own. Take the opportunity to open
 a bank account for your child. Update the passbook and tell your child
-about interest, deposits, and loans</p>
+about interest, deposits and loans</p>
 </li>
 </ul>
 <p>This exercise will help your child develop good money habits.</p>
-<p>And since your child has saved some money, an equally important lesson
-is to let them make decisions on what to do with the kitty. Making choices,
+<p>Since your child has saved some money, an equally important lesson is
+to let them make decisions on what to do with the kitty. Making choices
 and bearing the consequences is part of their journey to making smarter
 financial decisions.</p>
 <p>Your child will also learn to look beyond his or her own needs and care
 for others.</p>
-<h5>6. Know the difference between needs and wants</h5>
+<h5>6. Know The Difference Between Needs And Wants</h5>
 <p>With older children, introduce the concept of “needs versus wants” together
 with learning how to spend only what they save. Use every opportunity to
 impart this knowledge.</p>
 <h5>Example</h5>
-<p><strong>When you’re shopping for groceries:</strong>
+<p><strong>When you are shopping for groceries:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -146,21 +146,21 @@ bill</p>
 </ul>
 <p>This will make your children more conscious of the amount that they are
 spending. Encourage them to decipher between what they really want and
-what they're simply choosing on a whim.</p>
-<h5>7. Show your child how to spend wisely</h5>
+what they are simply choosing on a whim.</p>
+<h5>7. Show Your Child How To Spend Wisely</h5>
 <p>A great way to teach your children the concept of living within their
 means is to tell them that they can only spend after they have saved. If
 they are buying a big item, they should save up for it.</p>
-<p>When your children asks for something in the store:</p>
+<p>When your children ask for something in the store:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Explain to them that it is not free, and someone has to pay for it</p>
+<p>Explain to them that it is not free and someone has to pay for it</p>
 </li>
 <li>
 <p>Suggest that they use the savings in their money boxes if they genuinely
 want the item</p>
 </li>
 </ul>
-<p>Younger children will need visual representations of the concept. So allow
-them to see the money, hold it, pay for an item at the checkout counter,
+<p>Younger children will need visual representations of the concept. So,
+allow them to see the money, hold it, pay for an item at the checkout counter
 and receive the receipt along with the item.</p>
