@@ -211,7 +211,7 @@ does not cover policies issued by overseas branches of a registered life
 insurer incorporated in Singapore.</p>
 <p>Singapore Deposit Insurance Corporation (SDIC) provides protection for
 guaranteed benefits of life insurance policies, subject to applicable limits.</p>
-<p>For example, individual life and voluntary group life policies, there
+<p>For example, for individual life and voluntary group life policies, there
 is a limit of S$500,000 for the guaranteed sum assured and S$100,000 for
 the guaranteed surrender value per life assured per insurer.</p>
 <p>What does "per life assured per insurer" mean? If you have several life
@@ -219,5 +219,5 @@ insurance policies with an insurance company, the limits will apply on
 the total combined benefits of your insurance policies and not individually.</p>
 <p>For individual and voluntary group annuities, there is also a limit of
 S$100,000 for the aggregated commuted value of guaranteed benefits per
-life assured per insurer. However, policy owners making claims under accident
-and health (A&amp;H) policies will be fully compensated.</p>
+life assured per insurer. However, policy owners making claims under Accident
+and Health (A&amp;H) policies will be fully compensated.</p>
