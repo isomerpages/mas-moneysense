@@ -46,7 +46,7 @@ or regulatory bodies suspect that your account is used for money laundering.</p>
 <p>You will typically be asked to click on a link to verify your account.
 The URL will then bring you to a fake website that looks exactly like your
 bank’s login page. The criminals will be able to steal your login username,
-login passwords, and OTP when you key in these details into the fake website.</p>
+login passwords and OTP when you key in these details into the fake website.</p>
 <p>With your stolen credentials, the criminals will be able to access your
 online banking accounts and perform unauthorised transactions on them.</p>
 <h4>To Protect Yourself From Falling Prey To Phishing, Remember The Following:</h4>
@@ -69,7 +69,7 @@ ID, password, or OTP.</p>
 address bar.</p>
 </li>
 <li>
-<p>Install firewall, and anti-virus and anti-spyware in your computer. Update
+<p>Install firewall, anti-virus and anti-spyware in your computer. Update
 them regularly.</p>
 </li>
 <li>
