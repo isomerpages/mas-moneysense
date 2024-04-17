@@ -61,7 +61,7 @@ your retirement age from the age you expect to live to.</p>
 years respectively. Given the current retirement age of 63 years and re-employment
 age of 68, you should aim to build up retirement savings that can last
 at least 20 to 30 years.</p>
-<h3>Working out your estimated needs</h3>
+<h3>Working Out Your Estimated Needs</h3>
 <p>Based on your projected retirement lifestyle, try to work out how much
 you will need per month when you retire.</p>
 <p>If your estimate looks challenging to save up for, explore a more cost-effective
@@ -70,9 +70,9 @@ lifestyle.</p>
 two-thirds of your last drawn monthly salary.</p>
 <p>Work out how much you need and then estimate in more detail how ready
 you are for retirement.</p>
-<h3>Calculate your retirement income needs</h3>
+<h3>Calculate Your Retirement Income Needs</h3>
 <p>There are two ways to estimate the funds needed for a comfortable retirement.</p>
-<h4>Income replacement ratio method</h4>
+<h4>Income Replacement Ratio Method</h4>
 <p>This method recognises that most people will be spending less on certain
 expenses during retirement. As a guide, aim for two-thirds to three-quarters
 of your income to live comfortably.</p>
@@ -85,21 +85,21 @@ $48,000 per year, and your desired retirement age is 62:</p>
 </li>
 <li>
 <p>Years in retirement (life expectancy - retirement age): <strong>Men</strong>:
-83 - 62 = 21; <strong>Women</strong> 88 - 62 = 26</p>
+83 - 63 = 20; <strong>Women</strong> 88 - 63 = 25</p>
 </li>
 <li>
-<p>Total retirement income needed: <strong>Men</strong>: $36,000 x 21 = $756,000; <strong>Women</strong>:
-$36,000 x 26 = $936,000</p>
+<p>Total retirement income needed: <strong>Men</strong>: $36,000 x 21 = $720,000; <strong>Women</strong>:
+$36,000 x 25 = $900,000</p>
 </li>
 </ul>
-<h4>Adjusted expense method</h4>
+<h4>Adjusted Expense Method</h4>
 <p>You can estimate what you will need to retire comfortably by using your
 current level of expenses, compounded yearly to the retirement age with
 an appropriate inflation rate.</p>
 <p>With this method, you need to examine your spending habits. Certain expenses
 may increase, some decrease, while others vary as you grow older. So, it
 is important to review your expenses before and during retirement.</p>
-<p>If you need $2,000 per month at retirement, and your desired retirement
+<p>If you need $2,000 per month at retirement and your desired retirement
 age is 62:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,7 +107,7 @@ age is 62:</p>
 </p>
 </li>
 <li>
-<p>Years in retirement (life expectancy - retirement age): <strong>Men</strong>:
+<p>Years in retirement (life expectancy - desired retirement age): <strong>Men</strong>:
 83 - 62 = 21; <strong>Women</strong> 88 - 62 = 26</p>
 </li>
 <li>
@@ -115,5 +115,5 @@ age is 62:</p>
 $24,000 x 26 = $624,000</p>
 </li>
 </ul>
-<p>Note: When doing your actual calculations, you'll need to take into account
-inflation and your expected investment returns.</p>
+<p>Note: When doing your actual calculations, you will need to take into
+account inflation and your expected investment returns.</p>
