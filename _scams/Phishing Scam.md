@@ -7,20 +7,33 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/phishing.jfif">
 </div>
-<p>Phishing is a way of obtaining sensitive personal information such as
-account details, PIN and password through the internet. Anyone with these
-details can perform unauthorized transactions on your account. Find out
-how to protect yourself from phishing attempts.</p>
+<p>Phishing (pronounced as "fishing") is a way of obtaining sensitive personal
+information such as account details, PIN and password through the internet.
+Anyone with these details can perform unauthorized transactions on your
+account. Find out how to protect yourself from phishing attempts.</p>
 <h4>Key Takeaways</h4>
-<p>What is phishing and how to protect yourself. Be alert to phishing attempts.
-Note that your bank will not ask you for your personal details over emails.
-Don't click on any link or open attachments in suspicious emails that appear
-to be from your bank. If you think you have become a victim of phishing,
-contact your bank immediately.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What is phishing and how to protect yourself.</p>
+</li>
+<li>
+<p>Be alert to phishing attempts.</p>
+</li>
+<li>
+<p>Note that your bank will not ask you for your personal details over emails.</p>
+</li>
+<li>
+<p>Do not click on any link or open attachments in suspicious emails that
+appear to be from your bank.</p>
+</li>
+<li>
+<p>If you think you have become a victim of phishing, contact your bank immediately.</p>
+</li>
+</ul>
 <h4>How To Avoid Phishing Attacks</h4>
-<p>Phishing (pronounced as "fishing") is a common technique used by criminals
-to trick you into giving away your personal information. They could do
-this by using emails, SMS, or phone calls.</p>
+<p>Phishing is a common technique used by criminals to trick you into giving
+away your personal information. They could do this by using emails, SMS,
+or phone calls.</p>
 <p>If you fall prey to phishing and have given your personal information
 and online banking credentials, criminals may use the information to access
 your online banking accounts and transfer money out of your bank accounts.</p>
