@@ -104,7 +104,7 @@ the money in your bank accounts.</p>
 <ul>
 <li>
 <p>Government officials or bank officers will NEVER call you to ask you for
-your personal information, such as your online banking credentials.</p>
+your personal information such as your online banking credentials.</p>
 </li>
 <li>
 <p>When in doubt, always hang up the phone.</p>
