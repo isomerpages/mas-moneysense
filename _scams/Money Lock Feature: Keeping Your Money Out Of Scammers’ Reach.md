@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1064.jpeg">
 </div>
-<p><strong>Your bank may offer a “Money Locking” feature, which stops scammers from digitally transferring your money out of your bank account. To access money that has been locked up, you need to visit a bank branch to verify your identity or do it through an ATM.&nbsp;&nbsp;</strong>
+<p><strong>Your bank may offer a “Money Locking” feature which stops scammers from digitally transferring your money out of your bank account. To access money that has been locked up, you need to visit a bank branch to verify your identity or do it through an ATM.&nbsp;&nbsp;</strong>
 </p>
 <p></p>
 <p>Practising cyber hygiene is vital to avoid getting scammed. To guard against
@@ -19,7 +19,7 @@ the “locked-up” amount, you may need to visit a bank branch or ATM.</p>
 <p>There may be processing time for unlocking these funds. You should therefore
 think carefully about how much you should lock. Take stock of your recurring
 expenses and near-term needs before making your decision.</p>
-<h4>How it works&nbsp;</h4>
+<h4>How It Works&nbsp;</h4>
 <p>Let’s say you have $5,000 in your bank account but only need $1,000 for
 your day-to-day or regular expenses. You may “lock up” $4,000, leaving
 $1,000 that you can use for services such as PayNow, transfers like GIRO
@@ -27,7 +27,7 @@ payments, NETS transactions or ATM withdrawals.&nbsp;&nbsp;</p>
 <p>Should scammers gain access to your account, the most they can access
 is the $1,000. They will not be able to spend or transfer out the $4,000
 that has been “locked-up”.&nbsp;</p>
-<h4>How to set it up&nbsp;</h4>
+<h4>How To Set It Up&nbsp;</h4>
 <p>Find instructions for setting up the "Money Locking" feature for:&nbsp;</p>
 <ul>
 <li>
@@ -43,7 +43,7 @@ that has been “locked-up”.&nbsp;</p>
 </p>
 </li>
 </ul>
-<h4>Safeguarding your CPF savings</h4>
+<h4>Safeguarding Your CPF Savings</h4>
 <p>If you are a CPF member aged 55 or older and have no immediate plans to
 withdraw your CPF savings, you are encouraged to safeguard your CPF savings
 by activating the CPF Withdrawal Lock to disable online CPF withdrawals.
@@ -60,10 +60,10 @@ withdrawn. CPF Board has also introduced a default Daily Withdrawal Limit
 of $2,000 for all members aged 55 or older, as part of <a href="https://www.cpf.gov.sg/member/faq/general-information---useful-tips/protection-against-scams/new-anti-scam-security-measures-available-to-cpf-members" rel="noopener noreferrer nofollow" target="_blank">a suite of anti-scam measures</a>.
 Members can adjust this limit via the CPF account settings. All limit increases
 are subject to Singpass Face Verification and a 12-hour cooling period.</p>
-<h4>Keep safe against scams&nbsp;</h4>
+<h4>Keep Safe Against Scams&nbsp;</h4>
 <p>Avoiding scams starts with adopting good cyber hygiene habits. Follow
 these rules:&nbsp;</p>
-<p><strong>Secure your devices&nbsp;</strong>
+<p><strong>Secure Your Devices&nbsp;</strong>
 </p>
 <ul>
 <li>
@@ -76,7 +76,7 @@ these rules:&nbsp;</p>
 <p>Only download applications from the official app store&nbsp;</p>
 </li>
 </ul>
-<p><strong>Secure your passwords&nbsp;&nbsp;</strong>
+<p><strong>Secure Your Passwords&nbsp;&nbsp;</strong>
 </p>
 <ul>
 <li>
