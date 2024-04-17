@@ -23,7 +23,7 @@ at little or no risk.</p>
 Authority of Singapore (MAS).</p>
 </li>
 </ul>
-<h4>Check For Red Flags </h4>
+<h4>Check For Red Flags</h4>
 <hr>
 <p>Scammers use sophisticated tactics to get you to part with your money.
 There are red flags you can watch out for to steer clear of investment
@@ -64,7 +64,7 @@ accolades or simply large investment profits to gain trust.</p>
 <p>Some use testimonials from "satisfied customers" to shore up their credibility.</p>
 <p>You should approach claims with healthy skepticism. Where possible, verify
 the claims with an independent third party.</p>
-<h4>Check That The Entity Is Regulated </h4>
+<h4>Check That The Entity Is Regulated</h4>
 <p>Some investment scams may even claim to be regulated by the relevant authorities
 to mislead you.</p>
 <p>Confirm such claims by checking the resources on the Monetary Authority
@@ -87,7 +87,7 @@ misperceived as being licensed or authorised by MAS</p>
 </ul>
 <p>Remember, dealing with an unregulated entity means giving up the safeguards
 offered under the laws administered by MAS.</p>
-<h4>CHECK ON THE COMPANY'S BACKGROUND</h4>
+<h4>Check On The Company's Background</h4>
 <p>Do not be too quick to believe everything you are told. Verify information
 provided by the entity about themselves or the investment opportunity,
 such as the background of representatives and the entity's track record.</p>
