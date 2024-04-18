@@ -140,7 +140,7 @@ address</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singaporean/Singapore Permanent Resident</strong>&nbsp;</p>
+<p><strong>Singaporean/ Singapore Permanent Resident</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Foreigner</strong>&nbsp;</p>
@@ -170,16 +170,16 @@ address</p>
 </tr>
 </tbody>
 </table>
-<h2><strong>How to open a CDP account</strong></h2>
+<h2><strong>How To Open A CDP Account</strong></h2>
 <p>Before opening a CDP account, you must ensure that you fulfill certain
 eligibility criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Have a savings or current bank account with one of the following banks:
-Citibank, DBS/POSB, HSBC, Maybank, OCBC, Standard Chartered Bank, UOB</p>
+Citibank, DBS/ POSB, HSBC, Maybank, OCBC, Standard Chartered Bank, UOB</p>
 </li>
 <li>
-<p>Aged 18 years old and above</p>
+<p>Be 18 years old and above</p>
 </li>
 <li>
 <p>Are <u>not</u> an un-discharged bankrupt</p>
@@ -201,21 +201,19 @@ passport [for NSF]</p>
 <p>Bank statement from any of the MAS licensed banks;</p>
 </li>
 <li>
-<p>Central Provident Fund (CPF) statement;</p>
+<p>Central Provident Fund (CPF) statement; or</p>
 </li>
 <li>
 <p>Latest Notice of Assessment of your personal income tax.</p>
 </li>
 </ul>
-<h2><strong>Receiving dividend payments and cash entitlements</strong></h2>
-<p>From September 2020, CDP will stop paying dividend payments or other cash
-distributions through cheques. Instead the amounts will be credited directly
-into your designated bank account.</p>
-<p>&nbsp;</p>
-<p>You need to set up your designated bank account by September if you want
-to receive your dividends or cash distributions on schedule. Otherwise,
-these amounts will be reflected in your CDP statements but the funds will
-not reach you.</p>
+<h2><strong>Receiving Dividend Payments And Cash Entitlements</strong></h2>
+<p>Since September 2020, CDP has stopped paying dividend payments or other
+cash distributions through cheques. Instead, the amounts will be credited
+directly into your designated bank account.</p>
+<p>You need to set up your designated bank account if you want to receive
+your dividends or cash distributions on schedule. Otherwise, these amounts
+will be reflected in your CDP statements but the funds will not reach you.</p>
 <p>You can set up your designated bank account by:</p>
 <p>1. Calling 6535 7511<strong> </strong>(Select your language option, then
 Option 5)</p>
@@ -232,10 +230,7 @@ Option 5)</p>
 </li>
 </ul>
 <p>2. Visiting SGX Investor Portal</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>You will need:</p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CDP Internet account</p>
@@ -246,15 +241,13 @@ Option 5)</p>
 </ul>
 <p>Dividends or cash distributions in foreign currencies will be automatically
 converted to SGD before they are credited to you.</p>
-<h2><strong>How can I start trading?</strong></h2>
+<h2><strong>How Can I Start Trading?</strong></h2>
 <p>Once you have set up an account with your preferred securities broking
 firm, they will link up your trading account to your CDP account. Once
 your trading account has been successfully linked (which may take up to
 two weeks), you will be able to start trading.</p>
-<p>&nbsp;</p>
-<h2><strong>Customer Account Review (CAR) and Customer Knowledge Assessment (CKA)</strong></h2>
-<p>&nbsp;</p>
-<p>Specified Investment Products (SIPs) are complex investment products.
+<h2><strong>Customer Account Review (CAR) And Customer Knowledge Assessment (CKA)</strong></h2>
+<p>&nbsp;Specified Investment Products (SIPs) are complex investment products.
 If you wish to trade in listed SIPs, your securities broking firm has to
 conduct a Customer Account Review (CAR) to ascertain whether you have the
 relevant knowledge or experience to understand the risks and features of
