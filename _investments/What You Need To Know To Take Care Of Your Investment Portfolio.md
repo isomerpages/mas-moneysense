@@ -4,6 +4,10 @@ permalink: /what-you-need-to-know-to-take-care-of-your-investment-portfolio/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interest Graph" src="/images/interest_graph6cff.jpg">
+</div>
 <p><strong>No matter what your financial goals are – whether you are investing for growth, income, or security – it is important to regularly review the state and financial health of your portfolio.</strong>
 </p>
 <p>Because market conditions can change drastically over time, and when they
@@ -71,28 +75,31 @@ This was the case in May 2019 when the index fell 9.1%.</p>
 might change – for instance, between early 2000 and May 2019, the index
 rose just under 60 per cent. Much therefore depends on the time frame of
 your investment horizon.</p>
-<h3><strong>Economic indicators</strong></h3>
+<h3><strong>Economic Indicators</strong></h3>
 <p>Economic indicators are statistics that allow us to judge the health of
 the economy. This is important because of the impact that economic growth
-has on corporate earnings, which is ultimately the main driver of stock
+has on corporate earnings which is ultimately the main driver of stock
 prices. Indicators can be divided into three categories – leading indicators
 which are used for forecasting the future, lagging indicators that measure
 the past, and coincident indicators that are ongoing.</p>
-<h3><strong>Leading indicators</strong></h3>
+<p><strong>Leading Indicators</strong>
+</p>
 <p>These are those indicators that usually change before the economy as a
 whole changes. For example, the stock market usually anticipates an economic
 expansion or contraction by anything from 6 months to one year. Another
 example is the Consumer Confidence Index or CCI which surveys consumers
 about their own expectations on where the economy is headed.</p>
 <p>&nbsp;</p>
-<h3><strong>Lagging indicators</strong></h3>
+<p><strong>Lagging Indicators</strong>
+</p>
 <p>These indicators change after the economy changes, usually after a time
 lag of a few months. For example, the unemployment rate (which tends to
 improve or decline only after the economy has expanded or contracted),
 corporate profits, and exports. The most common of course, is Gross Domestic
 Product or GDP, which is the sum of an economy’s total output over a given
 period of time.</p>
-<h3><strong>Coincident indicators</strong></h3>
+<p><strong>Coincident Indicators</strong>
+</p>
 <p><strong>&nbsp;</strong>Coincident economic indicators change around the
 same time as when the economy changes, so they provide information on the
 current state. Payroll data for instance, can give an idea of employment
@@ -100,7 +107,7 @@ patterns and labour skills that are&nbsp;in demand today.</p>
 <p>Analysts usually look at all three types of indicators in order to see
 where an economy has been, where it might be now, and how it might be expected
 to change in the future.</p>
-<h3><strong>Other useful indicators</strong></h3>
+<h3><strong>Other Useful Indicators</strong></h3>
 <p>There are several other indicators that could prove helpful. In looking
 at the economic outlook, the Purchasing Managers’ Index&nbsp;or PMI which
 gauges manufacturing activity, and the Consumer Price Index or CPI, which
