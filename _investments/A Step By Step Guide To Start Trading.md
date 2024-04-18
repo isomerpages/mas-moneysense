@@ -41,16 +41,13 @@ the trading account with.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>Your buy and sell orders for shares and other types of securities are
-submitted through a securities broking firm. If the trade is executed,
-you pay a commission either to the firm or its dealer.</p>
-<p>&nbsp;</p>
+<p>You buy and sell orders for shares and other types of securities are submitted
+through a securities broking firm. If the trade is executed, you pay a
+commission either to the firm or its dealer.</p>
 <p>Securities broking firms provide traditional broker-assisted services
 as well as online trading platforms for self-trade.</p>
-<p>&nbsp;</p>
-<p>These are the&nbsp;10 securities broking firms who are members of the
-Singapore Exchange you can choose from:</p>
-<p>&nbsp;</p>
+<p>&nbsp;These are the&nbsp;10 securities broking firms who are members of
+the Singapore Exchange which you can choose from:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CGS-CIMB Securities International Pte. Ltd.</p>
@@ -89,7 +86,7 @@ Singapore Exchange you can choose from:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singaporean/Singapore Permanent Resident</strong>&nbsp;</p>
+<p><strong>Singaporean/ Singapore Permanent Resident</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Foreigner</strong>&nbsp;</p>
@@ -99,19 +96,19 @@ Singapore Exchange you can choose from:</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Completed Trading Account Application Form;</p>
+<p>Completed Trading Account Application Form</p>
 </li>
 <li>
-<p>Completed CDP Linkage Form;</p>
+<p>Completed CDP Linkage Form</p>
 </li>
 <li>
-<p>Copy of NRIC;</p>
+<p>Copy of NRIC</p>
 </li>
 <li>
 <p>Copy of 11B and Passport [For NSF]</p>
 </li>
 <li>
-<p>Copy of supporting document reflecting your name and residential/mailing
+<p>Copy of supporting document reflecting your name and residential/ mailing
 address</p>
 </li>
 </ul>
@@ -119,16 +116,16 @@ address</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Completed Trading Account Application Form;</p>
+<p>Completed Trading Account Application Form</p>
 </li>
 <li>
-<p>Completed CDP Linkage Form;</p>
+<p>Completed CDP Linkage Form</p>
 </li>
 <li>
 <p>Copy of IC or Passport</p>
 </li>
 <li>
-<p>Copy of supporting document reflecting your name and residential/mailing
+<p>Copy of supporting document reflecting your name and residential/ mailing
 address</p>
 <p>&nbsp;</p>
 </li>
