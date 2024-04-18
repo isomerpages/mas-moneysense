@@ -50,19 +50,19 @@ and my financial plans?</p>
 <p></p>
 </li>
 <li>
-<p><strong>Does the recommended product meet my needs?</strong> 
+<p><strong>Does the recommended product meet my needs?</strong>
 </p>
 <p>Which benefits are guaranteed and which are not?</p>
 </li>
 <li>
-<p><strong>What is the potential return?</strong> 
+<p><strong>What is the potential return?</strong>
 </p>
 <p>Is it realistic? What is the maximum I could lose?
 <br>Be careful of verbal promises and guarantees of high returns. Insist on
 written confirmation of any guaranteed returns or benefits.</p>
 </li>
 <li>
-<p><strong>Should I invest with my CPF savings?</strong> 
+<p><strong>Should I invest with my CPF savings?</strong>
 </p>
 <p>If so, how does the return offered by the product compare with interest
 rates earned in my CPF accounts?</p>
@@ -82,14 +82,12 @@ guaranteed and risk-free.</p>
 contracts, warnings, exclusions and disclaimers, and terms and conditions?</p>
 </li>
 <li>
-<p><strong>Are there other products that offer similar benefits and risks?</strong> How
-does the product compare with these alternative products?</p>
+<p><strong>Are there other products that offer similar benefits and risks?</strong> 
+</p>
+<p>How does the product compare with these alternative products?</p>
 </li>
 </ol>
-<h2></h2>
-<h3></h3>
-<h2><strong>10 questions to ask your FA representative</strong></h2>
-<h2></h2>
+<h2><strong>10 Questions To Ask Your FA Representative</strong></h2>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Why is this product suitable for me?</strong> 
@@ -103,8 +101,9 @@ are guaranteed and which are not? Are there alternative products that offer
 similar benefits? How do they compare?</p>
 </li>
 <li>
-<p><strong>What instruments does the product invest in?</strong> How risky
-are these underlying instruments?</p>
+<p><strong>What instruments does the product invest in?</strong> 
+</p>
+<p>How risky are these underlying instruments?</p>
 </li>
 <li>
 <p><strong>Ask the FA representative about their risk profiling method</strong> and
