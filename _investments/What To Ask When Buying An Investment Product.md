@@ -106,9 +106,10 @@ similar benefits? How do they compare?</p>
 <p>How risky are these underlying instruments?</p>
 </li>
 <li>
-<p><strong>Ask the FA representative about their risk profiling method</strong> and
-basis for the eventual risk profile. Is the product suitable for my risk
-profile? Is this product low, medium or high risk?</p>
+<p><strong>Ask the FA representative about their risk profiling method</strong>  <strong>and basis for the eventual risk profile.</strong> 
+</p>
+<p>Is the product suitable for my risk profile? Is this product low, medium
+or high risk?</p>
 </li>
 <li>
 <p><strong>How much do I need to commit?</strong> 
@@ -116,12 +117,11 @@ profile? Is this product low, medium or high risk?</p>
 if I find that I am unable to make the payment? What are the fees and charges?</p>
 </li>
 <li>
-<p>If the FA representative recommends investing with CPF monies, ask <strong>"How do the returns compare with interest rates earned by monies in your CPF accounts?</strong>"
-<br>
-</p>
+<p>If the FA representative recommends investing with CPF monies, ask <strong>"How do the returns compare with interest rates earned by monies in your CPF accounts?</strong>"</p>
 <h3><strong>Tip</strong></h3>
 <p>CPF monies currently earn a minimum interest of 2.5% and 4% per annum,
 respectively. This is both guaranteed and risk-free.</p>
+<p></p>
 </li>
 <li>
 <p><strong>How long must I stay invested?</strong> 
@@ -130,7 +130,7 @@ some or all of my investments earlier?</p>
 </li>
 <li>
 <p><strong>Is the FA representative regulated by the Monetary Authority of Singapore (MAS)?</strong> 
-<br>Check if he is listed on the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">MAS Register of Representatives</a>.</p>
+<br>Check if he/ she is listed on the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">MAS Register of Representatives</a>.</p>
 </li>
 <li>
 <p><strong>How is my investment monitored?<br></strong>What reports and updates
