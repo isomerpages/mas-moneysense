@@ -82,7 +82,7 @@ guaranteed and risk-free.</p>
 contracts, warnings, exclusions and disclaimers, and terms and conditions?</p>
 </li>
 <li>
-<p><strong>Are there other products that offer similar benefits and risks?</strong> 
+<p><strong>Are there other products that offer similar benefits and risks?</strong>
 </p>
 <p>How does the product compare with these alternative products?</p>
 </li>
@@ -101,7 +101,7 @@ are guaranteed and which are not? Are there alternative products that offer
 similar benefits? How do they compare?</p>
 </li>
 <li>
-<p><strong>What instruments does the product invest in?</strong> 
+<p><strong>What instruments does the product invest in?</strong>
 </p>
 <p>How risky are these underlying instruments?</p>
 </li>
