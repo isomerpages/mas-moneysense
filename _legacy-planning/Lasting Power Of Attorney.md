@@ -51,60 +51,16 @@ face difficulties trying to:</p>
 deputy before they are authorised to make decisions and act on your behalf.</p>
 <p>Compared to making an LPA, the deputyship application process will not
 only take longer to complete but will also cost more.</p>
-<h3>Which LPA Form Should You Use?</h3>
-<p>There are two LPA forms, with LPA Form 1 being the most widely used:</p>
-<h5>LPA Form 1</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>A standard version that allows donors to grant general powers with basic
-restrictions to donees</p>
-</li>
-<li>
-<p>98% of Singapore Citizens who have made an LPA used this form</p>
-</li>
-</ul>
-<h5>LPA Form 2</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>For donors who wish to grant customised and specific powers to their donees</p>
-</li>
-<li>
-<p>The Annex to Part 3 of this form has to be drafted by a lawyer</p>
-</li>
-</ul>
-<h3>Making An LPA Using Form 1</h3>
-<p>To make an LPA using Form 1,&nbsp;<a href="https://www.msf.gov.sg/opg/AnalyticsReports/LPA_Form_1_2020.pdf" rel="noopener noreferrer nofollow" target="_blank">download the form</a>&nbsp;and
-follow these steps:</p>
-<p><strong>1. Choose one or more donees</strong>
+<h3>Three Steps To Make An LPA </h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LPA.png">
+</div>
+<p><sub>Infographics from Office of the Public Guardian.</sub>
 </p>
-<p>Choose your donees wisely. Choose what decision powers to grant to them.
-If you have more than one donee, decide how they are to act.</p>
-<p><strong>2. Get the LPA Certificate issued</strong>
-</p>
-<p>See an LPA Certificate Issuer. This critical safeguard ensures that you
-do not make an LPA under pressure or duress. You can approach a professional
-from one of these groups to issue an LPA certificate:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Accredited medical practitioner</p>
-</li>
-<li>
-<p>Lawyer</p>
-</li>
-<li>
-<p>Psychiatrist</p>
-</li>
-</ul>
-<p>The top 10 most visited accredited medical practitioners charge fees ranging
-from $25 to $80. Most charge $50 for the service.</p>
-<p><strong>3. Submit your LPA</strong>
-</p>
-<p>Submit your completed LPA application to the&nbsp;<a href="https://www.msf.gov.sg/opg" rel="noopener noreferrer nofollow" target="_blank">Office of the Public Guardian online</a>.</p>
-<p>Not sure how to fill up Form 1 or make an advance care plan?&nbsp;Try
-this self-guided&nbsp;<a href="https://www.mylegacy.gov.sg/lpa-acp-tool/" rel="noopener noreferrer nofollow" target="_blank">tool</a>&nbsp;which will
-help you do so.</p>
-<h5>Note</h5>
-<p><strong>Application fees are waived until 31 March 2026</strong>. To encourage
-more Singaporeans to pre-plan, the Office of the Public Guardian has extended
-the LPA application fee waiver for Singaporeans making an LPA Form 1 to
-31&nbsp;March 2026.</p>
+<h4>Click here to apply for <a href="https://opg-eservice.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">LPA</a>.</h4>
+<p>All LPAs must be made and submitted via the Office of the Public Guardian
+Online (OPGO).</p>
+<p>Information on exceptional situations where hardcopy LPA may be used can
+be found <a href="https://www.msf.gov.sg/what-we-do/opg/opg-online-(opgo)/for-donors-and-donees" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
