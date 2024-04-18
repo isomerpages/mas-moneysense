@@ -4,10 +4,9 @@ permalink: /what-to-ask-when-buying-an-investment-product/
 variant: tiptap
 description: ""
 ---
-<p><strong>A checklist of important questions to ask yourself and your financial advisory (FA) representative before you buy an investment product.</strong>
+<p><strong>A checklist of important questions to ask yourself and your Financial Advisory (FA) representative before you buy an investment product.</strong>
 </p>
-<p><strong>Key takeaways</strong>
-</p>
+<h4><strong>Key Takeaways</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Set your investment goals before meeting your FA representative.</strong>
@@ -18,17 +17,17 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong>Never invest in something you don't understand.</strong>
+<p><strong>Never invest in something you do not understand.</strong>
 </p>
 </li>
 </ul>
-<h2><strong>What to ask before buying</strong></h2>
-<p>Investment products, such as shares, bonds, structured deposits, unit
-trusts, and investment-linked insurance, carry risks. Knowing what you're
-buying is the best way to navigate the risks. Here are a few things you
-should ask before investing in them.</p>
+<h2><strong>What To Ask Before Buying</strong></h2>
+<p>Investment products such as shares, bonds, structured deposits, unit trusts
+and investment-linked insurance carry risks. Knowing what you are buying
+is the best way to navigate the risks. Here are a few things you should
+ask before investing in them.</p>
 <p>Print and use this list when you meet your FA representative.</p>
-<h2><strong>10 questions to ask yourself</strong></h2>
+<h2><strong>10 Questions To Ask Yourself</strong></h2>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Is the FA representative regulated by the Monetary Authority of Singapore (MAS)?<br></strong>Check
@@ -43,41 +42,42 @@ or grow my savings? How much do I need and when do I need this?</p>
 after setting aside money for my daily needs and for emergencies?</p>
 </li>
 <li>
-<p><strong>What is my appetite for risk?</strong>
+<p><strong>What is my appetite for risk?</strong> 
 <br>How much can I afford to lose without overly impacting my financial situation
-and my financial plans?
-<br>
-</p>
+and my financial plans?</p>
 <h3><strong>Tip</strong></h3>
 <p>Understand yourself better with the <a href="https://www.cpf.gov.sg/content/dam/web/member/growing-your-savings/documents/Risk_Tolerance_Questionaire.pdf" rel="noopener noreferrer" target="_blank">Risk Tolerance Questionnaire</a>.</p>
+<p></p>
 </li>
 <li>
-<p><strong>Does the recommended product meet my needs?</strong> Which benefits
-are guaranteed and which are not?</p>
+<p><strong>Does the recommended product meet my needs?</strong> 
+</p>
+<p>Which benefits are guaranteed and which are not?</p>
 </li>
 <li>
-<p><strong>What is the potential return?</strong> Is it realistic? What is
-the maximum I could lose?
+<p><strong>What is the potential return?</strong> 
+</p>
+<p>Is it realistic? What is the maximum I could lose?
 <br>Be careful of verbal promises and guarantees of high returns. Insist on
 written confirmation of any guaranteed returns or benefits.</p>
 </li>
 <li>
-<p><strong>Should I invest with my CPF savings?</strong> If so, how does the
-return offered by the product compare with interest rates earned in my
-CPF accounts?
-<br>
+<p><strong>Should I invest with my CPF savings?</strong> 
 </p>
+<p>If so, how does the return offered by the product compare with interest
+rates earned in my CPF accounts?</p>
 <h3><strong>Tip</strong></h3>
 <p>Money in your CPF Ordinary Account and Special Account currently earn
 a minimum interest of 2.5% and 4% per annum, respectively. This is both
 guaranteed and risk-free.</p>
+<p></p>
 </li>
 <li>
-<p><strong>When does the investment pay out?</strong>
+<p><strong>When does the investment pay out?</strong> 
 <br>Can I afford to stay invested for that duration? Do I need the money earlier?</p>
 </li>
 <li>
-<p><strong>Have I read all the documents?</strong>
+<p><strong>Have I read all the documents?</strong> 
 <br>Do I understand the prospectus, product summary or product highlight sheet,
 contracts, warnings, exclusions and disclaimers, and terms and conditions?</p>
 </li>
@@ -92,7 +92,7 @@ does the product compare with these alternative products?</p>
 <h2></h2>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Why is this product suitable for me?</strong>
+<p><strong>Why is this product suitable for me?</strong> 
 <br>What type of product is this? Is it a life insurance policy, unit trust,
 or structured deposit? Is it primarily for savings, investment or insurance
 protection?</p>
@@ -112,7 +112,7 @@ basis for the eventual risk profile. Is the product suitable for my risk
 profile? Is this product low, medium or high risk?</p>
 </li>
 <li>
-<p><strong>How much do I need to commit?</strong>
+<p><strong>How much do I need to commit?</strong> 
 <br>Does it require a one-time payment or regular payments? What will happen
 if I find that I am unable to make the payment? What are the fees and charges?</p>
 </li>
@@ -125,12 +125,12 @@ if I find that I am unable to make the payment? What are the fees and charges?</
 respectively. This is both guaranteed and risk-free.</p>
 </li>
 <li>
-<p><strong>How long must I stay invested?</strong>
+<p><strong>How long must I stay invested?</strong> 
 <br>What are the fees and charges? What are the penalties if I decide to liquidate
 some or all of my investments earlier?</p>
 </li>
 <li>
-<p><strong>Is the FA representative regulated by the Monetary Authority of Singapore (MAS)?</strong>
+<p><strong>Is the FA representative regulated by the Monetary Authority of Singapore (MAS)?</strong> 
 <br>Check if he is listed on the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">MAS Register of Representatives</a>.</p>
 </li>
 <li>
