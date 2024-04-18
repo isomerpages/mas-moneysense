@@ -11,12 +11,12 @@ variant: tiptap
 <p>A good job and a dream income could still be insufficient if we do not
 know how to handle our money. The key to being financially secure is not
 how much money we make but how well we manage it.</p>
-<h3>Start by Saving First</h3>
+<h3>Start By Saving First</h3>
 <p>Saving first and spending later is a good way to increase your savings.
 It is a commitment to save a fixed amount every time you get paid. You
 should keep this amount in a separate bank account so that you are not
 tempted to spend it.</p>
-<h5>Save First versus Spend First</h5>
+<h5>Save First Versus Spend First</h5>
 <p>Here's the difference between the two spending patterns:</p>
 <table>
 <tbody>
@@ -30,7 +30,7 @@ tempted to spend it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Save first and spend what's left</p>
+<p>Save first and spend what is left</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Savings first, must-pay bills, lifestyle expenses</p>
@@ -42,7 +42,7 @@ tempted to spend it.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Must-pay bills and lifestyle expenses first</p>
-<p>Savings, if there's money left</p>
+<p>Savings, if there is money left</p>
 </td>
 </tr>
 </tbody>
@@ -77,7 +77,7 @@ achieving your goals.</p>
 </div>
 <p>A simple way to track your spending is by using a budgeting app. Or you
 could jot down what you spent, when and how much you paid for it.</p>
-<h3>Setting a Budget</h3>
+<h3>Setting A Budget</h3>
 <p>A budget is a good savings and spending plan. It can help you manage your
 savings, income, spending, debt and other liabilities prudently. Setting
 up a budget is also a great way to get a quick snapshot of where your money
@@ -130,7 +130,7 @@ budget if, for example, you get a pay rise or get a pay cut or if you have
 another addition to the family.</p>
 </li>
 </ol>
-<h3>If You are Spending Too Much</h3>
+<h3>If You Are Spending Too Much</h3>
 <p>Look for ways to reduce your expenses. Here are some ideas:</p>
 <ul data-tight="true" class="tight">
 <li>
