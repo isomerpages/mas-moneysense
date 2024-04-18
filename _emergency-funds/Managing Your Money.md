@@ -25,7 +25,7 @@ tempted to spend it.</p>
 <p>Spending Pattern</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>When salary comes in, it goes to</p>
+<p>When Salary comes in, it goes to</p>
 </th>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ left for savings.</p>
 <h3>How Do You Spend?</h3>
 <p>Before you start tracking your spending, take an honest look at how you
 spend your money.</p>
-<h5>Needs versus Wants</h5>
+<h5>Needs Versus Wants</h5>
 <p>Needs are the essentials of life. These are things you cannot live without,
 like food or utilities.</p>
 <p>Wants are the things you desire. They could be more expensive (but not
@@ -96,8 +96,7 @@ and short-term goals</p>
 </li>
 </ul>
 <p>If you have an existing budget, review it from time to time to make sure
-it still works. If you are new to budgeting, use the Budget Calculator
-to guide you.</p>
+it still works.</p>
 <h5>Checklist</h5>
 <p>Here are a few tips to get you started on preparing a budget:</p>
 <ol data-tight="true" class="tight">
