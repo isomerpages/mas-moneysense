@@ -2,12 +2,12 @@ collections:
   insurance-protection:
     output: true
     order:
-      - Insurance basics.md
-      - Understanding health insurance.md
+      - Insurance Basics.md
+      - Understanding Health Insurance.md
       - Understanding Integrated Shield Plans.md
-      - Understanding life insurance.md
-      - "Life insurance: Comparing term and bundled products.md"
-      - Understanding term insurance.md
-      - Understanding whole life insurance.md
-      - Understanding critical illness insurance.md
+      - Understanding Life Insurance.md
+      - Understanding Term Insurance.md
+      - "Life Insurance: Comparing Term and Bundled Products.md"
+      - Understanding Whole Life Insurance.md
+      - Understanding Critical Illness Insurance.md
       - Buying Direct Purchase Insurance.md

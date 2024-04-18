@@ -2,8 +2,8 @@ collections:
   scams:
     output: true
     order:
-      - "Money Lock feature: Keeping your money out of scammers’ reach.md"
-      - 4 Tips to stay safe when using electronic payments.md
-      - How to spot an investment scam.md
-      - Phishing scam.md
-      - Dealing with unregulated persons.md
+      - "Money Lock Feature: Keeping Your Money Out Of Scammers’ Reach.md"
+      - 4 Tips To Stay Safe When Using Electronic Payments.md
+      - How To Spot An Investment Scam.md
+      - Phishing Scam.md
+      - Dealing With Unregulated Persons.md
