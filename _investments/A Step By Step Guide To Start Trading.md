@@ -11,15 +11,15 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1. Open a cash trading account with a securities broking firm and link it to a CDP account</strong>
+<p><strong>1. Open a cash trading account with a securities broking firm and link it to a Central Depository (CDP) Account</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Transactions on your stocks and securities listed on Singapore Exchange
-(SGX) will be deposited to your Central Depository Account (CDP). In other
-words, purchases of your stocks and securities listed on SGX that you have
-purchased will be deposited into this account. It serves as safe keeping
-of your stocks and securities you have purchased.</p>
+(SGX) will be deposited to your CDP. In other words, purchases of your
+stocks and securities listed on SGX that you have purchased will be deposited
+into this account. It serves as safe keeping of your stocks and securities
+you have purchased.</p>
 <p>This account also provides integrated clearing, settlement and depository
 functions for account holders.</p>
 <p>After you have opened your trading account, you can place your order for
