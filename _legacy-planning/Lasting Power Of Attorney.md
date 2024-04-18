@@ -51,7 +51,7 @@ face difficulties trying to:</p>
 deputy before they are authorised to make decisions and act on your behalf.</p>
 <p>Compared to making an LPA, the deputyship application process will not
 only take longer to complete but will also cost more.</p>
-<h3>Three Steps To Make An LPA </h3>
+<h3>Three Steps To Make An LPA</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LPA.png">
