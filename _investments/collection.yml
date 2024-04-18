@@ -2,6 +2,7 @@ collections:
   investments:
     output: true
     order:
+      - What To Ask When Buying An Investment Product.md
       - An introduction To Types Of Investments.md
       - What You Need To Know To Take Care Of Your Investment Portfolio.md
       - Putting Together An Investment Portfolio.md
