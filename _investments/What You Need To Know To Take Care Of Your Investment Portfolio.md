@@ -84,12 +84,11 @@ which are used for forecasting the future, lagging indicators that measure
 the past, and coincident indicators that are ongoing.</p>
 <p><strong>Leading Indicators</strong>
 </p>
-<p>These are those indicators that usually change before the economy as a
-whole changes. For example, the stock market usually anticipates an economic
-expansion or contraction by anything from 6 months to one year. Another
+<p>These are indicators that usually change before the economy as a whole
+changes. For example, the stock market usually anticipates an economic
+expansion or contraction by anything from six months to one year. Another
 example is the Consumer Confidence Index or CCI which surveys consumers
 about their own expectations on where the economy is headed.</p>
-<p>&nbsp;</p>
 <p><strong>Lagging Indicators</strong>
 </p>
 <p>These indicators change after the economy changes, usually after a time
@@ -100,10 +99,10 @@ Product or GDP, which is the sum of an economy’s total output over a given
 period of time.</p>
 <p><strong>Coincident Indicators</strong>
 </p>
-<p><strong>&nbsp;</strong>Coincident economic indicators change around the
-same time as when the economy changes, so they provide information on the
-current state. Payroll data for instance, can give an idea of employment
-patterns and labour skills that are&nbsp;in demand today.</p>
+<p>Coincident economic indicators change around the same time as when the
+economy changes. So, they provide information on the current state. Payroll
+data for instance, can give an idea of employment patterns and labour skills
+that are&nbsp;in demand today.</p>
 <p>Analysts usually look at all three types of indicators in order to see
 where an economy has been, where it might be now, and how it might be expected
 to change in the future.</p>
@@ -112,15 +111,15 @@ to change in the future.</p>
 at the economic outlook, the Purchasing Managers’ Index&nbsp;or PMI which
 gauges manufacturing activity, and the Consumer Price Index or CPI, which
 measures inflation, are commonly used.</p>
-<p>&nbsp;At the industry level, analysts tend to look at averages to form
-the basis of comparison. For example, if the average industry level borrowing
-as a proportion of total assets is 40% and a company that is being studied
+<p>At the industry level, analysts tend to look at averages to form the basis
+of comparison. For example, if the average industry level borrowing as
+a proportion of total assets is 40% and a company that is being studied
 from that industry has a figure of 50%, then that company does not compare
 well. It might therefore be a good idea to find out reasons for the difference.</p>
 <p>Indicators can give investors a useful&nbsp;gauge of how the economy or
 stock market is doing and how this might impact your investments, though
 much depends on your personal circumstances, including your investment
-goals, risk appetite, and investment horizon. For example, a retired couple
+goals, risk appetite and investment horizon. For example, a retired couple
 living on a combination of annuity payouts and long-term government bond
 interest income might realistically look for different things than a stock
 market trader who rides the waves of the business cycles.</p>
