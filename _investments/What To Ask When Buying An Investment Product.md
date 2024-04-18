@@ -106,7 +106,7 @@ similar benefits? How do they compare?</p>
 <p>How risky are these underlying instruments?</p>
 </li>
 <li>
-<p><strong>Ask the FA representative about their risk profiling method</strong>  <strong>and basis for the eventual risk profile.</strong> 
+<p><strong>Ask the FA representative about their risk profiling method</strong>  <strong>and basis for the eventual risk profile.</strong>
 </p>
 <p>Is the product suitable for my risk profile? Is this product low, medium
 or high risk?</p>
@@ -144,5 +144,5 @@ fees and charges?</p>
 </li>
 </ol>
 <h3><strong>Tip</strong></h3>
-<p>By all means, ask more questions if you're still unsure about the product
+<p>By all means, ask more questions if you are still unsure about the product
 your FA representative is recommending.</p>
