@@ -247,22 +247,18 @@ firm, they will link up your trading account to your CDP account. Once
 your trading account has been successfully linked (which may take up to
 two weeks), you will be able to start trading.</p>
 <h2><strong>Customer Account Review (CAR) And Customer Knowledge Assessment (CKA)</strong></h2>
-<p>&nbsp;Specified Investment Products (SIPs) are complex investment products.
+<p>Specified Investment Products (SIPs) are complex investment products.
 If you wish to trade in listed SIPs, your securities broking firm has to
 conduct a Customer Account Review (CAR) to ascertain whether you have the
 relevant knowledge or experience to understand the risks and features of
 such complex product structures or derivatives before you are allowed to
-trade. Find out more on CAR from <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">MoneySense</a>&nbsp;or
-<a href="https://onlineeducation.sgx.com/specifiedinvestmentproducts/" rel="noopener noreferrer nofollow" target="_blank">SGX</a>.</p>
-<p>&nbsp;</p>
+trade. Find out more on CAR from <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">MoneySense</a>.</p>
 <p>For trading in unlisted SIPs, you are required to pass the Customer Knowledge
 Assessment (CKA). This assessment is a requirement by Monetary Authority
 of Singapore (MAS) for you to have the relevant knowledge or experience
 to understand the risks and features of the unlisted SIPs. Your securities
 broking firm will require you to produce your CKA assessment results.</p>
-<p>&nbsp;</p>
-<p>MAS put in these measures to protect you and safeguard your interests.
-Find out more on CKA at the <a href="https://sips.abs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ABS</a>&nbsp;website.</p>
-<p>&nbsp;</p>
-<p><strong>Remember, do not invest in products you do not understand.</strong>
+<p>&nbsp;MAS has put in these measures to protect you and safeguard your
+interests. Find out more on CKA at the <a href="https://sips.abs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">ABS</a>&nbsp;website.</p>
+<p><strong>Remember, do not invest in products that you do not understand.</strong>
 </p>
