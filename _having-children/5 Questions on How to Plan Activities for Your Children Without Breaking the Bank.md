@@ -21,6 +21,9 @@ cakes! Be the one who teaches them to ride bikes, running alongside them
 to coach them or catch them if they fall. Do not outsource what you can
 do with them. They will remember the fun you had together for years to
 come.</p>
+<p>Let's hear from Hooi Min, a mother of two girls. She and her husband believe
+that baking a cake together as a family during birthdays is better than
+buying gifts for one another.</p>
 <h4>What Did Your Children Typically Do During the Holidays? Where did You Get Your Activity Ideas From?</h4>
 <p>When my girls were little – they are 18 and 21 now – holidays were about
 playdates. They liked having friends over and going over to their friends’
@@ -64,6 +67,4 @@ If you walk around picking up little toiletries, beauty products and treats
 for yourself, you cannot really turn around and say “no” when they pick
 something up for themselves too. Children do not miss anything, so be consistent
 in your spending behaviour.</p>
-<p>Hooi Min is a mother of two girls, 18 and 21. She and her husband believe
-that baking a cake together as a family during birthdays is better than
-buying gifts for one another.</p>
+<p></p>
