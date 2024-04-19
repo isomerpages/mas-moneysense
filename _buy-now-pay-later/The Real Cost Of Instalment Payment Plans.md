@@ -82,7 +82,7 @@ only.</p>
 <p>For in-house plans, merchants typically charge a flat interest rate of
 11% to 27% for a repayment period of up to 72 months. Plans can be offered
 even for small purchases.</p>
-<h5>Take note: The Cost Is Much Higher Than It Seems!</h5>
+<h5>Take Note: The Cost Is Much Higher Than It Seems!</h5>
 <p>Even though you are only paying a small instalment each month, the final
 cost of the item is much higher after taking the interest into account.</p>
 <p>For example, suppose you walk into a store and see a 65-inch Ultra HD
@@ -101,7 +101,7 @@ price itself!</p>
 <p>Interest-free instalment plans offered by credit card companies allow
 you to pay the same price as someone who pays the whole sum upfront in
 cash – but only if you pay the instalment in full and on time.</p>
-<h4>Take note: your obligation is to the bank</h4>
+<h4>Take Note: Your Obligation Is To The Bank</h4>
 <p>With an instalment plan, your payment obligation is to the credit card
 issuer, not the merchant. Once you charge something to your credit card,
 you have to settle the charge fully.</p>
