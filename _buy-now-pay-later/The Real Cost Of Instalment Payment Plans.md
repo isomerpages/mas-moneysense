@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="instalment payment plans" src="/images/In%20The%20Spotlight/instalment%20payment%20plans.jfif">
 </div>
-<p><strong>Instalment plans aren't all the same. Find out the difference between in-house instalment payment plans and instalment payment plans offered by credit card companies, and the hidden costs of each.</strong>
+<p><strong>Instalment plans are not all the same. Find out the difference between in-house instalment payment plans and instalment payment plans offered by credit card companies, and the hidden costs of each.</strong>
 </p>
 <h4>Key Takeaways</h4>
 <ul>
@@ -31,7 +31,7 @@ purchase into smaller monthly payments on your credit card. However, depending
 on the type of plan, their total cost can be much higher.</p>
 </li>
 </ul>
-<h4>Types of Instalment Plans</h4>
+<h4>Types Of Instalment Plans</h4>
 <p>There are generally two types of instalment plans:</p>
 <p><strong>In-house Instalment Payment Plan</strong> - The store offers to
 extend credit to the customer. In these plans, the store can usually repossess
@@ -82,7 +82,7 @@ only.</p>
 <p>For in-house plans, merchants typically charge a flat interest rate of
 11% to 27% for a repayment period of up to 72 months. Plans can be offered
 even for small purchases.</p>
-<h5>Take note: the cost is much higher than it seems!</h5>
+<h5>Take note: The Cost Is Much Higher Than It Seems!</h5>
 <p>Even though you are only paying a small instalment each month, the final
 cost of the item is much higher after taking the interest into account.
 **</p>
