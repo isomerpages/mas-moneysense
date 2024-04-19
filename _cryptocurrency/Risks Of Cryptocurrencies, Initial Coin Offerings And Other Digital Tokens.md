@@ -34,7 +34,7 @@ token".&nbsp;Examples include Bitcoin and Ethereum.</p>
 </li>
 <li>
 <p><strong>As a money-making opportunity.</strong>&nbsp;This could be an
-opportunity to participate in a new technology business, and/ or receive
+opportunity to participate in a new technology business and/ or receive
 future returns. This type of token is commonly called an Initial Coin Offering
 or ICO.</p>
 </li>
