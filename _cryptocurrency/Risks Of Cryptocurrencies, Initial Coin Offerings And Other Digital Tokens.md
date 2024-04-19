@@ -19,7 +19,7 @@ from token-related scams.</p>
 <p>Be aware of the risks of Initial Coin Offerings (ICOs).</p>
 </li>
 </ul>
-<h4>What are Digital Tokens, Cryptocurrencies and ICOs</h4>
+<h4>What Are Digital Tokens, Cryptocurrencies And ICOs</h4>
 <p>A Digital Token is a cryptographically-secured representation of the token-holder’s
 rights to receive a benefit or to perform specified functions.</p>
 <p>Tokens are a string of computer codes. They are usually issued in pairs
@@ -39,7 +39,7 @@ future returns. This type of token is commonly called an Initial Coin Offering
 or ICO.</p>
 </li>
 </ul>
-<h4>How an ICO Works</h4>
+<h4>How An ICO Works</h4>
 <hr>
 <p>An ICO is a public sale of a new Digital Token.</p>
 <p>Sellers typically set out their business proposals in a “white paper”
