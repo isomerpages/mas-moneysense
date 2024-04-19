@@ -84,12 +84,11 @@ only.</p>
 even for small purchases.</p>
 <h5>Take note: The Cost Is Much Higher Than It Seems!</h5>
 <p>Even though you are only paying a small instalment each month, the final
-cost of the item is much higher after taking the interest into account.
-**</p>
+cost of the item is much higher after taking the interest into account.</p>
 <p>For example, suppose you walk into a store and see a 65-inch Ultra HD
-4K TV marked down from $6,500 to $5,200. That's 20% off the original price.
-It's still a big amount. So, the salesperson offers you an instalment plan
-of just <strong>$44.90 per week</strong>, over 48 months.</p>
+4K TV marked down from $6,500 to $5,200. That is 20% off the original price.
+It is still a big amount. So, the salesperson offers you an instalment
+plan of just <strong>$44.90 per week</strong>, over 48 months.</p>
 <p>Seems like a good deal? Let's do the math:</p>
 <p>What you pay per month: $44.90 x 4 = $179.60 Total paid after 48 months:
 $8,620.80 Total interest paid (on sale price of $5,200): $3,420.80</p>
