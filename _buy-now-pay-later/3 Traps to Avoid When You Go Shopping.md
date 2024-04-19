@@ -23,7 +23,7 @@ have only afforded a $600 mobile phone with our budget.</p>
 pay by instalments at some point in our lives, such as for our home.</p>
 <p>The key is to keep your purchases to what you can afford because instalment
 plans are loans and do not reduce the cost of your purchases. It may be
-an “interest-fee” way to make that unexpected purchase but if you miss
+an “interest-free” way to make that unexpected purchase but if you miss
 any payment, there will be late fees or charges (making the purchase even
 more expensive).</p>
 <p>Unless you are certain you can and will repay on schedule, it is better
