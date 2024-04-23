@@ -111,8 +111,8 @@ rate).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Rate varies and is usually tied to a reference rate e.g. CPF Ordinary
-Account, Singapore Interbank Offered Rate (SIBOR), Singapore Swap Offered
-Rate (SOR) or a rate determined by the bank (e.g. internal board rate).</p>
+Account, Singapore Overnight Rate Average (SORA) or a rate determined by
+the bank (e.g. internal board rate).</p>
 </li>
 <li>
 <p>If the reference rate goes up, the interest payable will increase and
