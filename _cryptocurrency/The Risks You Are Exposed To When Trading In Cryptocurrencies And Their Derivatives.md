@@ -1,5 +1,5 @@
 ---
-title: The Risks You are Exposed to When Trading in Cryptocurrencies and their
+title: The Risks You Are Exposed To When Trading In Cryptocurrencies And Their
   Derivatives
 permalink: /the-risks-you-are-exposed-to-when-trading-in-cryptocurrencies-and-their-derivatives/
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: Needs versus Wants (VIDEO)
+title: Needs Versus Wants (VIDEO)
 permalink: /buy-now-pay-later/needs-versus-wants/
 description: Needs are the essentials of life. Wants are the things you desire.
   Take a look at this brief guide on how to prioritise your needs over wants for

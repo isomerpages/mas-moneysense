@@ -1,5 +1,5 @@
 ---
-title: 3 Traps to Avoid When You Go Shopping
+title: 3 Traps To Avoid When You Go Shopping
 permalink: /3-traps-to-avoid-when-you-go-shopping/
 description: Uncover the truth behind 'buy now, pay later' schemes and avoid
   financial pitfalls. Learn how to resist impulse buying and overcome FOMO while
@@ -13,7 +13,7 @@ variant: tiptap
 especially when it comes to the last few months of the year – think 10.10
 Sale, 11.11 Sale, Black Friday &amp; Cyber Monday.</p>
 <p>There just seems to be so many bargains to be scored! But are there, really?</p>
-<h4>Giving the Appearance of Affordability – Buy Now, Pay Later</h4>
+<h4>Giving The Appearance Of Affordability – Buy Now, Pay Later</h4>
 <p>Instalment payment plans or Buy Now, Pay Later options may make pricier
 options&nbsp;<em>appear</em>&nbsp;affordable by spreading out payments.
 Instead of paying $1,200 now for a mobile phone, paying $400 each time
@@ -23,7 +23,7 @@ have only afforded a $600 mobile phone with our budget.</p>
 pay by instalments at some point in our lives, such as for our home.</p>
 <p>The key is to keep your purchases to what you can afford because instalment
 plans are loans and do not reduce the cost of your purchases. It may be
-an “interest-fee” way to make that unexpected purchase but if you miss
+an “interest-free” way to make that unexpected purchase but if you miss
 any payment, there will be late fees or charges (making the purchase even
 more expensive).</p>
 <p>Unless you are certain you can and will repay on schedule, it is better
@@ -52,7 +52,7 @@ price (e.g. additional costs if I miss payment)?</p>
 </ul>
 <p>Usually, leaving the store or website and waiting for three days before
 making a purchase will give you clear answers.</p>
-<h4>Preying on the Fear of Missing Out (FOMO)</h4>
+<h4>Preying On The Fear Of Missing Out (FOMO)</h4>
 <p>With online shopping, the temptation to splurge has become a daily struggle
 for many.</p>
 <p>E-commerce platforms feature flash sales or daily deals, coupled with
@@ -74,7 +74,7 @@ negligible savings.</p>
 use it to their advantage by pushing similar or complementary products
 your way. Ditch your shopping apps and turn on the private or incognito
 feature on your browser when you next shop online to cut out temptations!</p>
-<h4>Counting on Penny-wise Behaviour</h4>
+<h4>Counting On Penny-wise Behaviour</h4>
 <p>Ever wondered why there are usually three sizes of popcorn, iced latte
 or fries?</p>
 <p>Merchants are not being thoughtful about differing appetites. The medium

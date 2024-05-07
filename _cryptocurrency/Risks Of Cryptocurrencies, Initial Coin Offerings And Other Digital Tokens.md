@@ -1,5 +1,5 @@
 ---
-title: Risks of Cryptocurrencies, Initial Coin Offerings and other Digital Tokens
+title: Risks Of Cryptocurrencies, Initial Coin Offerings And Other Digital Tokens
 permalink: /risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens/
 description: ""
 variant: tiptap
@@ -19,7 +19,7 @@ from token-related scams.</p>
 <p>Be aware of the risks of Initial Coin Offerings (ICOs).</p>
 </li>
 </ul>
-<h4>What are Digital Tokens, Cryptocurrencies and ICOs</h4>
+<h4>What Are Digital Tokens, Cryptocurrencies And ICOs</h4>
 <p>A Digital Token is a cryptographically-secured representation of the token-holder’s
 rights to receive a benefit or to perform specified functions.</p>
 <p>Tokens are a string of computer codes. They are usually issued in pairs
@@ -34,12 +34,12 @@ token".&nbsp;Examples include Bitcoin and Ethereum.</p>
 </li>
 <li>
 <p><strong>As a money-making opportunity.</strong>&nbsp;This could be an
-opportunity to participate in a new technology business, and/ or receive
+opportunity to participate in a new technology business and/ or receive
 future returns. This type of token is commonly called an Initial Coin Offering
 or ICO.</p>
 </li>
 </ul>
-<h4>How an ICO Works</h4>
+<h4>How An ICO Works</h4>
 <hr>
 <p>An ICO is a public sale of a new Digital Token.</p>
 <p>Sellers typically set out their business proposals in a “white paper”
