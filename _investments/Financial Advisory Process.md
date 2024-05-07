@@ -326,4 +326,34 @@ sign anything unless you have read and understood the document.</p>
 situation and recommend products based on what you provide. So, make sure
 the information you give is full and accurate.</p>
 <h4>What To Do After Your Meeting</h4>
+<p><strong>Check and keep all records</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Make sure the documents reflect your financial situation.</p>
+</li>
+<li>
+<p>Read the completed FNA and contact your advisor if there are any inconsistencies,
+or if you have further questions.</p>
+</li>
+<li>
+<p>Consider the recommendation carefully and whether it suits your needs.</p>
+</li>
+</ul>
+<p><strong>Track your investment and review your needs</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The FNA only provides reviews of your financial needs at one point in
+time. Your financial situation can change. For example, when you get married,
+have a child, or there is a change in your income.</p>
+</li>
+<li>
+<p>It is essential that the financial products continue to meet your needs.
+So, review your financial situation regularly to take these changes into
+consideration.</p>
+</li>
+</ul>
+<p><strong>Pay your insurance premiums on time –</strong> Otherwise, your
+policy may lapse.</p>
 <p></p>
