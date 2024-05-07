@@ -233,6 +233,54 @@ other financial products or the current product.</p>
 <h2><strong>Checklists</strong></h2>
 <p>Be prepared when you meet your FA representative. Use these checklists
 to go through what to do and ask before, during and after your meeting.</p>
-<p>Meeting your FA rep</p>
-<p>What to do during your meeting</p>
-<p>What to do after your meeting</p>
+<h4>Meeting Your FA Rep</h4>
+<p><strong>Think about your financial goals and needs</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ensure your family is financially sufficient in the event of unforeseen
+events up until your youngest child can start work (protection need)</p>
+</li>
+<li>
+<p>Protect your income if you are injured or fall ill (protection need)</p>
+</li>
+<li>
+<p>Save for your child’s university education (savings goal)</p>
+</li>
+<li>
+<p>Retire by a certain age (savings goal)</p>
+</li>
+</ul>
+<p><strong>(If you want to invest and build savings) Ask yourself how much risk you are prepared to and can afford to take</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Is it important that you do not lose any of the money you invested?</p>
+</li>
+<li>
+<p>Can you afford to lose some of, if not all the money, even if the product
+offers higher returns?</p>
+</li>
+<li>
+<p>When would you need the money that you are planning to save or invest?</p>
+</li>
+</ul>
+<p><strong>Gather your personal details</strong>
+</p>
+<p>You will most likely be asked for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Your income, borrowings and savings and cashflow</p>
+</li>
+<li>
+<p>Any insurance policies or other financial products that you already have</p>
+</li>
+<li>
+<p>Details of your partner, children and any other dependents (e.g. age at
+which they are no longer dependent on you)</p>
+</li>
+</ul>
+<h4>What To Do During Your Meeting</h4>
+<p></p>
+<h4>What To Do After Your Meeting</h4>
+<p></p>
