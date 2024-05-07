@@ -281,6 +281,49 @@ which they are no longer dependent on you)</p>
 </li>
 </ul>
 <h4>What To Do During Your Meeting</h4>
+<p>It is essential to understand what is discussed during your meeting with
+your FA representative. Use this checklist to help you.</p>
+<p><strong>Take notes of what is said –</strong> This is so you do not have
+to rely on your memory later.</p>
+<p><strong>Ask about anything that you do not understand</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Check through the information to make sure what you have provided has
+been accurately documented.</p>
+</li>
+<li>
+<p>You should be comfortable that your ability to afford the product or take
+risks is not over-stated.</p>
+</li>
+</ul>
+<p><strong>Ask for the basis of recommendation and any explanation of the product in writing</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The proposal must state why the product is suitable for you. This will
+help minimise any misunderstanding between you and your FA representative.</p>
+</li>
+<li>
+<p>It will also be useful when you review your financial plans for the future.</p>
+</li>
+</ul>
+<p><strong>Ask what you can do if you are not satisfied with the product</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Is there is a free-look or cancellation period? If so, find out the period
+within which you can cancel your purchase.</p>
+</li>
+<li>
+<p>Ask about the procedures for doing so, costs involved, and terms and conditions.</p>
+</li>
+</ul>
+<p><strong>Do not be pressured into signing up on the spot –</strong> Do not
+sign anything unless you have read and understood the document.</p>
 <p></p>
+<p><strong>NOTE: </strong>Your FA representative will assess your financial
+situation and recommend products based on what you provide. So, make sure
+the information you give is full and accurate.</p>
 <h4>What To Do After Your Meeting</h4>
 <p></p>
