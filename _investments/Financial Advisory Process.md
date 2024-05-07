@@ -65,21 +65,70 @@ you will be responsible for ensuring the suitability of the product.</p>
 <h3><strong>3. Provide All Documents Needed</strong></h3>
 <p>Your FA representative must give you the full details of the products
 that he or she is recommending. You should receive the following documents:</p>
-<p>For insurance</p>
-<p>For investments</p>
-<h3><strong>4. Review your policy</strong></h3>
+<h4><strong>For Insurance</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Documentation of the FNA</strong> – Contains the information you
+shared with your FA representative and the basis of the recommendation.</p>
+</li>
+<li>
+<p><strong>Cover page</strong> – A document highlighting the key information
+from the policy illustration and the product summary.</p>
+</li>
+<li>
+<p><strong>Product summary</strong> – An overview of the features, exclusions,
+limitations, fees and charges of the recommended product.</p>
+</li>
+<li>
+<p><strong>Product highlights</strong> – For Investment-linked insurance policies
+(ILPs). It describes the key features and risks of the relevant ILP sub-fund.</p>
+</li>
+<li>
+<p><strong>Policy illustration</strong> – Provides the benefits or projected
+amounts payable in a claim or early termination of the policy. Including
+total cash values and death benefits, premiums and cost of distribution
+and charges. Cost of distribution includes the commission the insurer pays
+to your FA representative or agent. The illustrations are projections,
+and you may not actually get the returns set out.</p>
+</li>
+<li>
+<p><strong>Bundled product disclosure document</strong> – For bundled insurance
+products. It sets out the principal features of the bundled product and
+contrasts against the most comparable term life insurance product. Consumers
+can consider buying, at lower cost, a term life product for insurance protection,
+and investing the difference in premiums on their own.</p>
+</li>
+<li>
+<p><strong>Other documents</strong> – A copy of <a href="https://www.lia.org.sg/media/1389/ygtli_english_jul2018.pdf" rel="noopener noreferrer" target="_blank">Your Guide to Life Insurance</a> and
+a checklist to confirm that you have received and read the relevant documents.</p>
+</li>
+</ul>
+<h4>For Investments</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Documentation of the FNA</strong> – Similar to FNA for insurance
+products.</p>
+</li>
+<li>
+<p><strong>Product information</strong> – FIs are required to disclose the
+features, risks, and costs of investment products to you. Depending on
+the product you are considering to invest in, you may receive documents
+such as a prospectus or product highlights sheet.</p>
+</li>
+</ul>
+<h3><strong>4. Review Your Policy</strong></h3>
 <p>Your FA representative should contact you to review your policy or your
-investment portfolio with you regularly, in order to help you see if your
+investment portfolio with you regularly in order to help you see if your
 needs are being met.</p>
 <p>If your objectives, personal or financial circumstances have changed,
 e.g. you have difficulty keeping up with your premium payments, you should
 approach your FA representative for advice.</p>
-<h2><strong>What you should do</strong></h2>
+<h2><strong>What You Should Do</strong></h2>
 <p>Your financial information will help your FA representative recommend
 a suitable product.</p>
 <p>Without accurate and complete information, your FA representative may
-not be able to fully assess your financial situation and needs. If you're
-not comfortable to provide your details, ask them how this will affect
+not be able to fully assess your financial situation and needs. If you
+are not comfortable to provide your details, ask them how this will affect
 the recommendation.</p>
 <p>When you meet your FA representative</p>
 <p>While going through an FNA</p>
