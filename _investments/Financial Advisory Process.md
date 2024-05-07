@@ -130,13 +130,106 @@ a suitable product.</p>
 not be able to fully assess your financial situation and needs. If you
 are not comfortable to provide your details, ask them how this will affect
 the recommendation.</p>
-<p>When you meet your FA representative</p>
-<p>While going through an FNA</p>
-<p>Reviewing the recommendation</p>
-<p>
-<br>
+<h4>When you meet your FA representative</h4>
+<p>At the first meeting, ask the FA representative to provide you with:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Their name</p>
+</li>
+<li>
+<p>Name of the company they represent</p>
+</li>
+<li>
+<p>Type of financial advisory service that they are authorised to provide</p>
+</li>
+<li>
+<p>Type of investment or insurance products they are authorised to provide
+advice on</p>
+</li>
+</ul>
+<p>Use the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Register of Representatives</a> and
+<a href="https://eservices.mas.gov.sg/fid" rel="noopener noreferrer" target="_blank">Financial Institutions Directory</a>to check if the FA representative
+and the company are authorised to provide financial advisory services.</p>
+<h4>While going through an FNA</h4>
+<p><strong>Do:</strong>
 </p>
-<p>After buying insurance or investing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Provide complete and accurate information.</strong> Be clear about
+your goals and risk tolerance. Fully and accurately disclose any pre-existing
+medical conditions you may have.</p>
+</li>
+<li>
+<p><strong>Understand what you are buying.</strong> Do not rush into buying
+on the spot. Take time to understand the recommendation, how it addresses
+your needs and the financial commitments required of you.</p>
+</li>
+<li>
+<p><strong>Ask questions.</strong> Prepare your questions in advance (or use
+the checklists below).</p>
+</li>
+<li>
+<p><strong>Check all information before signing.</strong> Make sure your personal
+details, e.g. education level, income, language proficiency, and risk profile
+are accurate.</p>
+</li>
+</ul>
+<p><strong>Don't:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Feel obligated to sign or buy anything on the spot. If you are not sure
+of the recommendation, take time to think about it. If necessary, discuss
+it with your family and friends first.</p>
+</li>
+<li>
+<p>Lose sight of your financial goals and the reasons why you want to <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/assessing-your-insurance-needs.html" rel="noopener noreferrer nofollow" target="_blank">buy insurance</a> or
+<a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages.html" rel="noopener noreferrer nofollow" target="_blank">invest</a>in the first place.</p>
+</li>
+</ul>
+<h4>Reviewing The Recommendation</h4>
+<p>You should discuss the recommendation with your FA representative and
+assess if it meets your needs. If you are not happy, you may ask them to
+show you something else. Do not feel compelled to buy the product, even
+if there is a 14-day free-look period for some products.</p>
+<p><strong>If you disagree with the recommendation</strong>, tell your FA
+representative what you really need. For example, if you want protection
+coverage and not investment, be clear about this. Otherwise, you may end
+up paying for something you do not need or want. Do ask for other recommendations.</p>
+<p>If you decide not to take up their offer and choose to buy a different
+product, it is your responsibility to check if the product you selected
+suits you.</p>
+<p></p>
+<h4>After Buying Insurance Or Investing</h4>
+<p><strong>If you change your mind,</strong> remember that you should do so
+within the <strong>free-look period</strong>. You can go back to the product
+provider to inform them. The free-look period enables you to cancel your
+policy for any reason.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Insurance: 14 days from the date you receive your policy documents</p>
+</li>
+<li>
+<p>Investment: 7 days from the point of investment</p>
+</li>
+</ul>
+<p>Remember to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Pay your insurance premiums on time</strong> to prevent a policy
+lapse.</p>
+</li>
+<li>
+<p><strong>Review your policy when your circumstances change</strong>, e.g.
+if you are having another child. You can go back to your FA representative
+for advice.</p>
+</li>
+<li>
+<p><strong>Review your portfolio regularly</strong> – if your objectives are
+not being met, you may want to save more or invest more whether through
+other financial products or the current product.</p>
+</li>
+</ul>
 <h2><strong>Checklists</strong></h2>
 <p>Be prepared when you meet your FA representative. Use these checklists
 to go through what to do and ask before, during and after your meeting.</p>
