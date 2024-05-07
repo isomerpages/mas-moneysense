@@ -2,7 +2,6 @@ collections:
   investments:
     output: true
     order:
-      - "Financial Advice: Who You Could Be Dealing With.md"
       - An introduction To Types Of Investments.md
       - What To Ask When Buying An Investment Product.md
       - What You Need To Know To Take Care Of Your Investment Portfolio.md
@@ -11,3 +10,4 @@ collections:
       - "Unit Trusts: Making Sense Of Fund Documents And Reports.md"
       - A Step By Step Guide To Start Trading.md
       - Financial Advisory Process.md
+      - "Financial Advice: Who You Could Be Dealing With.md"
