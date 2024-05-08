@@ -8,10 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/businessmen_pointing_charts6cff.jpg">
 </div>
-<p><strong>Find out how exchange traded funds (ETFs) work and what you should know if you are thinking of investing in one.</strong>
+<p><strong>Find out how Exchange Traded Funds (ETFs) work and what you should know if you are thinking of investing in one.</strong>
 </p>
-<p><strong>Key takeaways</strong>
-</p>
+<h4><strong>Key Takeaways</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>ETFs are investment funds listed and traded on a stock exchange.</strong>
@@ -22,15 +21,15 @@ description: ""
 </p>
 </li>
 <li>
-<p><strong>Many ETFs listed on SGX are complex structures involving the use of derivatives. Such ETFs are classified as Specified Investment Products</strong>
+<p><strong>Many ETFs listed on SGX are complex structures involving the use of derivatives. Such ETFs are classified as Specified Investment Products (SIPs).</strong>
 </p>
 </li>
 </ul>
-<h2><strong>What it is</strong></h2>
+<h2><strong>What It Is</strong></h2>
 <p>Exchange traded funds (ETFs) are investment funds that are listed and
 traded on a stock exchange. Your money is pooled with money from other
 investors and invested according to the ETF's stated investment objective.</p>
-<h2><strong>How it works</strong></h2>
+<h2><strong>How It Works</strong></h2>
 <p>An ETF typically aims to produce a return that tracks or replicates a
 specific index such as a stock index or commodity index.</p>
 <p>Such index tracking ETFs are passively managed by ETF managers and do
@@ -40,19 +39,19 @@ funds.</p>
 <p>ETFs may have complex structures. They may be structured as cash-based
 ETFs or as synthetic ETFs, which involve the use of derivatives.
 <br>
-<br><strong>Note:</strong> Many ETFs have been categorised as <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Products (SIPs)</a>.
-You will need to meet certain requirements to invest in them. Check with
-your financial institution whether the product you are considering is an
-SIP.</p>
-<h2><strong>Returns of ETFs</strong></h2>
+<br><strong>Note:</strong> Many ETFs have been categorised as Specified Investment
+Products (SIPs). You will need to meet certain requirements to invest in
+them. Check with your financial institution whether the product you are
+considering is an SIP.</p>
+<h2><strong>Returns Of ETFs</strong></h2>
 <p>You invest in an ETF by buying units in the ETF. There is capital gain
 when the price of the units rises above the price paid for them. Some ETFs
 also pay dividends.</p>
-<h2><strong>What’s the most you can lose?</strong></h2>
+<h2><strong>What Is The Most You Can Lose?</strong></h2>
 <p>ETFs are not principal-guaranteed. You may lose all or a substantial amount
 of the money you invested in certain situations. The risks of investing
 in ETFs are described in the prospectus and product highlights sheet.</p>
-<h2><strong>Why invest in ETFs?</strong></h2>
+<h2><strong>Why Invest In ETFs?</strong></h2>
 <p>There are many ETFs to choose from. If you buy an ETF which tracks a stock
 index, you gain exposure to the performance of the index. For example,
 investing in an ETF that tracks the Straits Times Index (STI) provides
@@ -76,7 +75,7 @@ ETFs throughout the trading day</p>
 </li>
 </ul>
 <h3><strong>Checklist</strong></h3>
-<h2><strong>Are ETFs suitable for you?</strong></h2>
+<h2><strong>Are ETFs Suitable For You?</strong></h2>
 <p>Investing in ETFs may not be for everyone. Before you invest, make sure
 that you:</p>
 <ul data-tight="true" class="tight">
@@ -101,14 +100,14 @@ the derivative defaults.</p>
 </li>
 <li>
 <p>A longer time horizon is generally preferred to ride out short-term price
-fluctuations. But depending on the investor’s investment objective, some
-ETFs may be suitable for short term trading.</p>
+fluctuations. However, depending on the investor’s investment objective,
+some ETFs may be suitable for short term trading.</p>
 </li>
 <li>
 <p>Are familiar with the ETF manager and the ETF’s track record.</p>
 </li>
 </ul>
-<h2><strong>What are the risks?</strong></h2>
+<h2><strong>What Are The Risks?</strong></h2>
 <p>Common risks associated with ETFs include the following</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -118,7 +117,7 @@ ETFs may be suitable for short term trading.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Market risk</strong>
+<p><strong>Market Risk</strong>
 </p>
 <p></p>
 </td>
@@ -138,14 +137,14 @@ stocks of the STI.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tracking error</strong>
+<p><strong>Tracking Error</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Changes in an ETF’s NAV may not exactly correspond to price changes of
-the index</p>
+<p>Changes in an ETF’s Net Asset Value (NAV) may not exactly correspond to
+price changes of the index</p>
 </li>
 <li>
 <p>In cash-based ETFs, the manager may not be able to buy or sell the component
@@ -161,7 +160,7 @@ add to tracking error.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Foreign exchange risks</strong>
+<p><strong>Foreign Exchange Risks</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +178,7 @@ assets.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Liquidity risk</strong>
+<p><strong>Liquidity Risk</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +196,7 @@ making it difficult for you to sell your ETF units.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ETF’s traded price not reflective of NAV per unit</strong>
+<p><strong>ETF’s traded price not reflective of Net Asset Value (NAV) per unit</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,7 +227,7 @@ and does not return the securities.</p>
 </tr>
 </tbody>
 </table>
-<h2><strong>Types of ETFs: Cash-based vs. synthetic</strong></h2>
+<h2><strong>Types Of ETFs: Cash-based vs. Synthetic</strong></h2>
 <p>There are different ways to structure an ETF even if its investment objective
 is to track the same underlying index.</p>
 <h3><strong>Cash-based ETF</strong></h3>
