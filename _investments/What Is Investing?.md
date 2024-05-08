@@ -36,17 +36,17 @@ description: ""
 <p>Your basic health and life insurance policies in place</p>
 </li>
 </ul>
-<h2><strong>Why invest?</strong></h2>
+<h2><strong>Why Invest?</strong></h2>
 <p>Investing is an opportunity to grow your savings so that you can achieve
-your financial goals, whether it's for your home, your children’s education
+your financial goals, whether it is for your home, your children’s education
 or your own retirement. The earlier you start, the better!</p>
 <p>Investing will generally help you generate better returns than saving
-in a bank, but at the same time all investments come with risks. It is
+in a bank but at the same time, all investments come with risks. It is
 possible that you will lose some or even all of the money you have invested.</p>
 <p>This is why you should equip yourself with the necessary investing knowledge
 and information before you start.</p>
-<h2><strong>Basic terms and concepts</strong></h2>
-<p>Here are a few terms that you'll find useful before you start investing:</p>
+<h2><strong>Basic Terms And Concepts</strong></h2>
+<p>Here are a few terms that you will find useful before you start investing:</p>
 <p><strong>Asset allocation –</strong> This is about deciding what proportions
 to allocate to different asset classes within your investment portfolio
 to balance risk and return, in keeping with your goals, risk appetite and
@@ -78,7 +78,7 @@ may be less than you expected. Investment risk can refer to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Lower than expected returns, for example, due to share price volatility
-or the underperformance of a fund</p>
+or the underperformance of a fund.</p>
 </li>
 <li>
 <p>The possibility of losing the money invested, e.g. when a bond issuer
