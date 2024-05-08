@@ -10,8 +10,7 @@ description: ""
 </div>
 <p><strong>Understand how bonds work and the things to look out for if you are thinking of investing in them.</strong>
 </p>
-<p><strong>Key takeaways</strong>
-</p>
+<h4><strong>Key Takeaways</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>When you invest in bonds, you are lending money to the bond issuer at an agreed interest rate for a set period of time.</strong>
@@ -26,11 +25,11 @@ description: ""
 </p>
 </li>
 </ul>
-<h2><strong>What it is</strong></h2>
+<h2><strong>What It Is</strong></h2>
 <p>A bond is a debt security. It is a form of borrowing. Governments and
 companies issue bonds to raise funds (borrow money). When you invest in
 bonds, you are lending money to the issuer for a fixed period of time.</p>
-<h2><strong>How it works</strong></h2>
+<h2><strong>How It Works</strong></h2>
 <p>Most bonds pay a regular stream of income throughout their life, also
 known as a coupon. Coupon rates are typically expressed as a percentage
 of the principal amount, which is also known as the “face” or “par” value.
@@ -58,7 +57,7 @@ through the life of the bond, the price of the bond may vary.</p>
 higher or lower than the price you initially paid</p>
 </li>
 </ul>
-<h2><strong>Are bonds suitable for you?</strong></h2>
+<h2><strong>Are Bonds Suitable For You?</strong></h2>
 <p>Bonds may be attractive for investors who desire a source of regular income,
 or are looking to diversify their portfolio of investment assets.
 <br>
