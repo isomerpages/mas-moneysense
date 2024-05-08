@@ -308,7 +308,7 @@ the risks.</p>
 it matures. Bond prices fluctuate depending on the perceived credit quality
 of the issuer and market conditions. However, you may lose all of your
 investment if the issuer defaults on its bond or winds up or is liquidated.</p>
-<h2><strong>What are the risks?</strong></h2>
+<h2><strong>What Are The Risks?</strong></h2>
 <p>Common risks associated with bonds include the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -318,7 +318,7 @@ investment if the issuer defaults on its bond or winds up or is liquidated.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Default risk</strong>
+<p><strong>Default Risk</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -336,7 +336,7 @@ the financial situation of the issuer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Interest rate risk</strong>
+<p><strong>Interest Rate Risk</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +354,7 @@ with shorter maturity dates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Liquidity and market risk</strong>
+<p><strong>Liquidity And Market Risk</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,7 +374,7 @@ be harder for you to sell the bond or you may have to sell at a loss.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Call risk or early redemption risk</strong>
+<p><strong>Call Risk Or Early Redemption Risk</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -410,8 +410,6 @@ to total equity does not exceed a certain ratio</p>
 of the bond which should be disclosed in the offer document given to you.
 When a default happens, you may lose all or a substantial part of your
 investment.</p>
-<p><strong>Find out more:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/what-happens-when-a-bond-defaults.html" rel="noopener noreferrer nofollow" target="_blank">What happens when a bond defaults</a>
-</p>
 <h2><strong>Buying A Bond</strong></h2>
 <p>You can buy a bond at issuance, through a public offer. You will pay the
 face value of the bond.</p>
@@ -430,9 +428,9 @@ price at the time of sale.</p>
 <p>If you sell the bond at a price higher than what you paid, you can make
 a capital gain. Likewise, you could also suffer a loss if you sell at a
 lower price.</p>
-<h2><strong>Types of bonds</strong></h2>
+<h2><strong>Types Of Bonds</strong></h2>
 <p>Here are some examples of bond investments available in Singapore.</p>
-<p><strong>Singapore Government Securities and Savings Bonds</strong>
+<p><strong>Singapore Government Securities And Savings Bonds</strong>
 </p>
 <p>In Singapore, you can choose from <a href="https://www.mas.gov.sg/bonds-and-bills/Singapore-Government-Bonds-Information-for-Individuals" rel="noopener noreferrer" target="_blank">Singapore Government Securities (SGS)</a> and
 <a href="https://www.mas.gov.sg/bonds-and-bills/Singapore-Savings-Bonds" rel="noopener noreferrer" target="_blank">Singapore Savings Bonds (SSBs)</a>. These are backed by the Singapore
@@ -491,7 +489,7 @@ market.
 </tr>
 </tbody>
 </table>
-<p><strong>Corporate bonds</strong>
+<p><strong>Corporate Bonds</strong>
 </p>
 <p>Corporate bonds are issued by companies. They usually pay out higher interest
 rates than government bonds because they generally carry more risk.</p>
@@ -513,16 +511,16 @@ buy shares, paying the normal brokerage fees.</p>
 and losing part or all of your investment, in return for higher yields.</p>
 </li>
 </ul>
-<p><strong>Perpetual securities</strong>
+<p><strong>Perpetual Securities</strong>
 </p>
-<p><a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/understanding-perpetual-securities.html" rel="noopener noreferrer nofollow" target="_blank">Perpetual securities</a>,
-otherwise referred to as “perps”, are hybrid securities issued without
-a maturity date.</p>
-<p><strong>Bond funds and ETFs</strong>
+<p>Perpetual Securities, otherwise referred to as “perps”, are hybrid securities
+issued without a maturity date.</p>
+<p><strong>Bond Funds And Exchange Traded Funds (ETFs)</strong>
 </p>
 <p>Investing in bond funds and <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-etfs-understanding-exchange-traded-funds.html" rel="noopener noreferrer nofollow" target="_blank">exchange traded funds (ETFs)</a> is
 usually more practical than investing directly in all the bonds that the
-fund holds. Some ETFs are <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Products (SIPs)</a>.</p>
+fund holds. Some ETFs are <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Products (SIPs)</a>
+</p>
 <p></p>
 <p>Bond ETFs typically aim to track the performance of bond indices. They
 may invest in a portfolio of bonds, or replicate that exposure through
