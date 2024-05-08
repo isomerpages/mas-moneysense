@@ -519,13 +519,12 @@ issued without a maturity date.</p>
 </p>
 <p>Investing in bond funds and <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-etfs-understanding-exchange-traded-funds.html" rel="noopener noreferrer nofollow" target="_blank">exchange traded funds (ETFs)</a> is
 usually more practical than investing directly in all the bonds that the
-fund holds. Some ETFs are <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Products (SIPs)</a>
-</p>
+fund holds. Some ETFs are Specified Investment Products.</p>
 <p></p>
 <p>Bond ETFs typically aim to track the performance of bond indices. They
-may invest in a portfolio of bonds, or replicate that exposure through
-the use of derivative products like swaps. Different bond ETFs may adopt
-varying strategies</p>
+may invest in a portfolio of bonds or replicate that exposure through the
+use of derivative products like swaps. Different bond ETFs may adopt varying
+strategies</p>
 <p>Advantages:</p>
 <ul data-tight="true" class="tight">
 <li>
