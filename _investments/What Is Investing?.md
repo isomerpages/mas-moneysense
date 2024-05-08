@@ -98,7 +98,7 @@ the market is favourable for you.</p>
 losses and fees. Transaction costs such as sales charges, brokerage charges,
 and manager fees will reduce the returns to you.</p>
 <p><strong>Portfolio –</strong> The pool of investments you own.</p>
-<h2><strong>Things to consider</strong></h2>
+<h2><strong>Things To Consider</strong></h2>
 <p>With so many types of investments to choose from, it helps to take a closer
 look at your personal financial situation to see what suits you best.</p>
 <p>Here are a few things to think about as you make your plans:</p>
