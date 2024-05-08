@@ -517,7 +517,7 @@ and losing part or all of your investment, in return for higher yields.</p>
 issued without a maturity date.</p>
 <p><strong>Bond Funds And Exchange Traded Funds (ETFs)</strong>
 </p>
-<p>Investing in bond funds and <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-etfs-understanding-exchange-traded-funds.html" rel="noopener noreferrer nofollow" target="_blank">exchange traded funds (ETFs)</a> is
+<p>Investing in bond funds and <a href="https://www.moneysense.gov.sg/guide-to-exchange-traded-funds-etfs-understanding-etfs/" rel="noopener noreferrer nofollow" target="_blank">Exchange Traded Funds (ETFs)</a> is
 usually more practical than investing directly in all the bonds that the
 fund holds. Some ETFs are Specified Investment Products.</p>
 <p></p>
