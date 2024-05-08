@@ -58,7 +58,7 @@ higher or lower than the price you initially paid</p>
 </li>
 </ul>
 <h2><strong>Are Bonds Suitable For You?</strong></h2>
-<p>Bonds may be attractive for investors who desire a source of regular income,
+<p>Bonds may be attractive for investors who desire a source of regular income
 or are looking to diversify their portfolio of investment assets.
 <br>
 <br>You should consider the suitability of an investment in bonds in light
@@ -82,7 +82,7 @@ a financial adviser) changes in economic or other factors that may affect
 the issuer or the bonds</p>
 </li>
 </ul>
-<h2><strong>Why bonds have different coupon rates</strong></h2>
+<h2><strong>Why Bonds Have Different Coupon Rates</strong></h2>
 <p>The coupon rates for different bonds will vary based on the credit quality
 of the issuer and the credit rating.</p>
 <p><strong>Credit quality of the issuer</strong>
@@ -220,7 +220,7 @@ that already knows them.</p>
 <p>For such unrated issuers and bonds, you should consider other measures
 of the issuer’s creditworthiness and the characteristics of the bonds when
 deciding whether to invest in the issuer’s bonds.</p>
-<h2><strong>What to consider before investing</strong></h2>
+<h2><strong>What To Consider Before Investing</strong></h2>
 <p>Credit ratings have their limitations and should not be your sole consideration
 when deciding whether a bond should be included in your investment portfolio.</p>
 <p>They are only statements of opinion by the relevant credit rating agency
@@ -235,7 +235,7 @@ if the company is able to meet its debt obligations, including the bond
 you may be considering.</p>
 <p>One way is to look at the company’s solvency ratios such as interest coverage
 ratios and other credit metrics.</p>
-<p><strong>Credit metrics</strong>
+<p><strong>Credit Metrics</strong>
 </p>
 <p>Some useful financial credit metrics that you could look out for are:</p>
 <ul data-tight="true" class="tight">
@@ -251,7 +251,7 @@ more than twice the amount of debt compared with equity.</p>
 of a company to pay its debt using operating income. A higher ratio suggests
 that the company may have more difficulty servicing its debt. A declining
 ratio is better than an increasing one because it implies the company is
-paying off its debt and/or growing earnings.</p>
+paying off its debt and/ or growing earnings.</p>
 </li>
 <li>
 <p><strong>Interest coverage ratio –</strong> Reflects how many times the
@@ -277,7 +277,7 @@ well-managed business should exhibit positive free cash flows consistently.</p>
 </ul>
 <p>You should compare the credit metrics of an issuer with that of other
 similar entities, as financial ratios vary across industries.</p>
-<p><strong>Tenure of the bond</strong>
+<p><strong>Tenure Of The Bond</strong>
 </p>
 <p>Bonds from the same issuer with longer tenures tend to provide higher
 coupon rates than bonds with lower tenures. This is to compensate the investors
@@ -289,7 +289,7 @@ back (redeem) the bond before its maturity date. The issuer may specify
 a price at which it will call (or redeem) the bonds. If a bond is called
 when prevailing interest rates are lower than at the time you bought it,
 you will be exposed to reinvestment risks.</p>
-<p><strong>Government bonds versus corporate bonds</strong>
+<p><strong>Government Bonds Versus Corporate Bonds</strong>
 </p>
 <p>For any particular country, the safest and highest credit quality bonds
 are usually its government bonds, followed by quasi-government or government
@@ -303,7 +303,7 @@ lower credit-quality or non-rated bonds.
 any one security. Individual investments can go up or down in value. Investing
 in different products is usually a good strategy to diversify and reduce
 the risks.</p>
-<h2><strong>What is the most you can lose?</strong></h2>
+<h2><strong>What Is The Most You Can Lose?</strong></h2>
 <p>You may lose a part of your invested amount if you sell your bonds before
 it matures. Bond prices fluctuate depending on the perceived credit quality
 of the issuer and market conditions. However, you may lose all of your
@@ -395,14 +395,14 @@ maturity date.</p>
 <p><strong>Note:</strong> The terms and conditions for different bonds can
 differ greatly. Always read and understand the terms carefully before investing
 in any bonds.</p>
-<h2><strong>When a bond defaults</strong></h2>
+<h2><strong>When A Bond Defaults</strong></h2>
 <p>An “event of default” could happen when an issuer:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Fails to pay interest or principal on the payment due date</p>
 </li>
 <li>
-<p>Fails to observe financial covenants, such as ensuring that the net borrowings
+<p>Fails to observe financial covenants such as ensuring that the net borrowings
 to total equity does not exceed a certain ratio</p>
 </li>
 </ul>
