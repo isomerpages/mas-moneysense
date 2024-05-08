@@ -104,9 +104,9 @@ look at your personal financial situation to see what suits you best.</p>
 <p>Here are a few things to think about as you make your plans:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Your goals –</strong> What are your <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages.html" rel="noopener noreferrer nofollow" target="_blank">financial goals</a>?
-Are you looking for a regular income? To grow your savings quickly? Or
-to preserve your savings?</p>
+<p><strong>Your goals –</strong> What are your financial goals? Are you looking
+for a regular income? To grow your savings quickly? Or to preserve your
+savings?</p>
 </li>
 <li>
 <p><strong>Your investment horizon –</strong> When do you need the money?
@@ -114,7 +114,7 @@ Will you need to be able to convert your investment to cash quickly, or
 are you able to hold your funds in the investment for the long term?</p>
 </li>
 <li>
-<p><strong>Your risk appetite –</strong> Can you withstand losses? <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/managing-investment-risk.html" rel="noopener noreferrer nofollow" target="_blank">What level of risk</a> are
+<p><strong>Your risk appetite –</strong> Can you withstand losses? <a href="https://www.moneysense.gov.sg/investments/investment-risk/" rel="noopener noreferrer nofollow" target="_blank">What level of risk</a> are
 you comfortable with? Is your investment portfolio sufficiently diversified?</p>
 </li>
 </ul>
