@@ -412,7 +412,7 @@ When a default happens, you may lose all or a substantial part of your
 investment.</p>
 <p><strong>Find out more:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/what-happens-when-a-bond-defaults.html" rel="noopener noreferrer nofollow" target="_blank">What happens when a bond defaults</a>
 </p>
-<h2><strong>Buying a bond</strong></h2>
+<h2><strong>Buying A Bond</strong></h2>
 <p>You can buy a bond at issuance, through a public offer. You will pay the
 face value of the bond.</p>
 <p>You can also buy a bond on the secondary market (after issuance), as long
