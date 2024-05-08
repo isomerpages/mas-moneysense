@@ -420,9 +420,7 @@ as there is a seller for it. This can be done through the <a href="http://www.sg
 <p>If you buy on the secondary market, the price you pay for the bond depends
 on the prevailing market price. You will also need to pay transaction fees,
 such as brokerage fees.</p>
-<p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/buying-bonds-and-perps-in-sizes-of-200000-or-more.html" rel="noopener noreferrer nofollow" target="_blank">Buying bonds and perps in sizes of $200,000 or more</a>
-</p>
-<h2><strong>Selling a bond</strong></h2>
+<h2><strong>Selling A Bond</strong></h2>
 <p>You can hold the bond to maturity. You can expect to be repaid the principal
 amount of the bond at maturity provided that the bond issuer does not default.
 <br>
