@@ -536,5 +536,5 @@ For more information, you may refer the <a href="https://governanceforstakeholde
 investment time horizon, compared with other investment options?</p>
 <p><strong>Last but not least, if you find that you do not understand the REIT or are not comfortable with its structure and risks, do not invest in it.</strong>
 </p>
-<p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-shares-what-you-need-to-know-before-you-invest.html" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: What you need to know before you invest</a>
+<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/guide-to-shares-what-you-need-to-know-before-you-invest/" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: What you need to know before you invest</a>
 </p>
