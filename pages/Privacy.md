@@ -4,7 +4,7 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<h2><strong><u>Privacy Statement</u></strong></h2>
+<h2><strong><u>Privacy  Statement</u></strong></h2>
 <h2>Statement of Commitment and Assurance&nbsp;</h2>
 <p>We are committed to protecting your privacy and sensitive to privacy issues
 on the Internet. We will treat any information that we receive from you
