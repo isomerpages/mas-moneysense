@@ -39,7 +39,7 @@ lot of shares (excluding transaction costs).</p>
 can be risky and can lead to unlimited losses depending on the positions
 taken.</p>
 <p></p>
-<p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-shares-what-you-need-to-know-before-you-invest.html" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: What you need to know before you invest</a>
+<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/guide-to-shares-what-you-need-to-know-before-you-invest/" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: What you need to know before you invest</a>
 </p>
 <h2><strong>Before you invest</strong></h2>
 <p>With so many shares to choose from, it pays to do your due diligence.
