@@ -11,21 +11,21 @@ If you invest in a unit trust or fund, your money is pooled with money from othe
 
 A unit trust is a fund which adopts a trust structure; not all funds use a trust structure. In this guide, the term “fund” will also refer to a unit trust.
 
-#### Unit trusts versus ILPs
+#### Unit Trusts Versus Investment-linked Policies (ILPs)
 
-Investment-linked insurance policies (ILPs) are another way to invest in funds. The difference between these and unit trusts is that ILPs combine life insurance coverage and investment components. Your premiums are used to pay for units in sub-funds of your choice, and some of the units are then sold to pay for insurance and other charges.
+Investment-linked Insurance Policies (ILPs) are another way to invest in funds. The difference between these and unit trusts is that ILPs combine life insurance coverage and investment components. Your premiums are used to pay for units in sub-funds of your choice, and some of the units are then sold to pay for insurance and other charges.
 
 If your main goal is investment, you may wish to consider unit trusts. Sometimes, the ILP sub-fund that you are interested in may also be offered as a unit trust (i.e. without insurance coverage).
 
 
 
-#### How it works
+#### How It Works
 
 In Singapore, local and foreign funds offered to retail investors are regulated as collective investment schemes. A fund manager manages the unit trust or fund. They are paid a management fee from the fund, typically based on a percentage of the assets they manage.
 
 
 
-#### Returns from unit trusts
+#### Returns From Unit Trusts
 
 
 You invest in a fund by buying units in the fund. There is a capital gain when the price of the units rises above the price you paid for the fund. Some funds pay dividends.
@@ -34,19 +34,19 @@ The price of each unit is based on the fund’s net asset value (NAV) divided by
 
 
 
-#### What's the most you can lose?
+#### What Is The Most You Can Lose?
 
 
 **Funds are not principal or capital-guaranteed.**&nbsp;You may lose a substantial amount of the money you invested in certain situations. The risks of investing in the fund are described in the product offering documents such as the prospectus and the product highlights sheet.
 
 **Fees can also reduce your returns.**&nbsp;Fees are usually payable regardless of how well or poorly the fund performs. Even if your fund’s value has been fairly stable, the fees you pay will, over time, reduce the value of your investment.
 
-#### Why invest in funds?
+#### Why Invest In Funds?
 
 
 Funds invest in a diversified range of assets. A fund’s diversified portfolio means risks can be better spread over the assets in the fund. 
 
-#### What are the risks?
+#### What Are The Risks?
 
 
 Some of the risks associated with investing in unit trusts include the following:
@@ -56,7 +56,7 @@ Some of the risks associated with investing in unit trusts include the following
 
 #### Checklist
 
-#### Are funds suitable for you?
+#### Are Funds Suitable For You?
 
 
 Investing in funds may not be for everyone. Before you invest, make sure that you:
@@ -74,7 +74,7 @@ Investing in funds may not be for everyone. Before you invest, make sure that yo
     *   As funds are exposed to market ups and downs, investors who stay invested long enough may be better able to ride out the downturns.
     *   You should have adequate financial resources so that you won’t have to liquidate your funds during a market downturn. If you need to convert your investments to cash in the short-term to meet specific needs, some funds may not be suitable for you.
 
-#### Types of Funds
+#### Types Of Funds
 
 There are different types of funds available, each with its own investment objective and investment approach or strategy.
 
@@ -92,14 +92,14 @@ Risk and return profile
 
 Passive or active management
 
-#### Investing in a fund
+#### Investing In A Fund
 
 
 Funds are available from financial institutions and online financial platforms.
 
 You can invest in funds using cash, or via the&nbsp;[Supplementary Retirement Scheme (SRS)](https://www.mof.gov.sg/schemes/individuals/supplementary-retirement-scheme)&nbsp;or the&nbsp;[Central Provident Fund Investment Scheme (CPFIS)](https://www.cpf.gov.sg/member/business-partners/cpf-investment-scheme).
 
-#### What you can invest in
+#### What You Can Invest In
 
 The list of funds authorised or recognised by MAS for sale to retail investors is available on the website via&nbsp;[OPERA](https://eservices.mas.gov.sg/opera/), the electronic repository for public offers of investments.
 
@@ -117,7 +117,7 @@ When recommending a fund, your financial advisor is required to disclose to you 
 *   Share of fees and commissions due to the financial adviser
 *   Warnings, exclusions and disclaim
 
-#### If you change your mind: right to cancel
+#### If You Change Your Mind: Right to Cancel
 
 
 You can change your mind about your fund purchase&nbsp;**within 7 calendar days.**
@@ -131,7 +131,7 @@ The right to cancel is&nbsp;**not available**&nbsp;if:
 *   You are making additional investments in a fund that you already own
 *   You purchased a recognised fund or a fund that is listed on the&nbsp;[Singapore Exchange](http://www.sgx.com/)
 
-#### Evaluating a fund's performance
+#### Evaluating A Fund's Performance
 
 
 You should monitor your fund regularly to ensure that it continues to meet your objectives. Do read the fund manager's regular fund reports to keep abreast of how your fund is doing.
