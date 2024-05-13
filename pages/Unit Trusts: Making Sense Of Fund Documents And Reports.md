@@ -4,6 +4,10 @@ permalink: /unit-trusts-making-sense-of-fund-documents-and-reports/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/discussing_graph6cff.jpg">
+</div>
 <p><strong>When you buy a unit trust or fund, you will receive documents such as a prospectus, product highlights sheet and annual reports. Find out what to look out for in the documents and how to use the information.</strong>
 </p>
 <h4><strong>Key Takeaways</strong></h4>
