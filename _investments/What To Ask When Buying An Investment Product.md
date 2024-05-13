@@ -4,6 +4,10 @@ permalink: /what-to-ask-when-buying-an-investment-product/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_woman_consultation6cff.jpg">
+</div>
 <p><strong>A checklist of important questions to ask yourself and your Financial Advisory (FA) representative before you buy an investment product.</strong>
 </p>
 <h4><strong>Key Takeaways</strong></h4>
