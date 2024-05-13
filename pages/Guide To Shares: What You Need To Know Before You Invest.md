@@ -10,8 +10,7 @@ description: ""
 </div>
 <p><strong>Get an understanding of what shares are and how they work before you start investing in them.</strong>
 </p>
-<p><strong>Key takeaways</strong>
-</p>
+<h4><strong>Key Takeaways </strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Shareholders earn returns when they receive dividends or if they sell their shares when the price of the shares gain in value.</strong>
@@ -22,13 +21,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h2><strong>What are shares?</strong></h2>
+<h2><strong>What Are Shares?</strong></h2>
 <p>A company offers its shares to investors to raise money. The company may
 need such funds for reasons such as to grow its business, acquire new assets
 or to remain solvent.</p>
-<h2><strong>How it works</strong></h2>
+<h2><strong>How It Works</strong></h2>
 <p>When you buy a company’s shares, you become a shareholder of the company.</p>
-<h3><strong>Shareholder's returns: Dividends and capital gains</strong></h3>
+<h3><strong>Shareholder's Returns: Dividends And Capital Gains</strong></h3>
 <p>As shareholder, you may earn returns when you receive dividends or if
 you decide to sell your shares above the price you bought them at.</p>
 <p>However, a company may not have sufficient profits to pay out dividends,
@@ -48,7 +47,7 @@ future earning potential, etc.)</p>
 </ul>
 <p>However, not all shares react in the same way to the same set of economic,
 market or business conditions.</p>
-<h3><strong>Classes of shares</strong></h3>
+<h3><strong>Classes Of Shares</strong></h3>
 <p>There are broadly two classes of shares – ordinary or common shares, and
 preference or preferred shares. In this guide, we use “shares” to refer
 to ordinary shares.</p>
