@@ -4,6 +4,10 @@ permalink: /guide-to-shares-how-to-invest/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_ipad_charts6cff.jpg">
+</div>
 <p><strong>If you're thinking of investing in Singapore-listed shares, find out what you need to do before and after you invest, including doing your due diligence and monitoring your investments.</strong>
 </p>
 <p><strong>Key takeaways</strong>
