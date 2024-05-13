@@ -51,7 +51,7 @@ market or business conditions.</p>
 <p>There are broadly two classes of shares – ordinary or common shares and
 preference or preferred shares. In this guide, we use “shares” to refer
 to ordinary shares.</p>
-<p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-shares-dual-class-shares.html" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: Dual class shares</a>
+<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/guide-to-shares-dual-class-shares/" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: Dual class shares</a>
 </p>
 <h3><strong>Your Rights As A Shareholder</strong></h3>
 <p>Ordinary shareholders have a right to attend and vote at general meetings.</p>
