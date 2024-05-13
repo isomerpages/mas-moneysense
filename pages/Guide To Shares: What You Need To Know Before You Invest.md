@@ -10,7 +10,7 @@ description: ""
 </div>
 <p><strong>Get an understanding of what shares are and how they work before you start investing in them.</strong>
 </p>
-<h4><strong>Key Takeaways </strong></h4>
+<h4><strong>Key Takeaways</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Shareholders earn returns when they receive dividends or if they sell their shares when the price of the shares gain in value.</strong>
@@ -48,17 +48,17 @@ future earning potential, etc.)</p>
 <p>However, not all shares react in the same way to the same set of economic,
 market or business conditions.</p>
 <h3><strong>Classes Of Shares</strong></h3>
-<p>There are broadly two classes of shares – ordinary or common shares, and
+<p>There are broadly two classes of shares – ordinary or common shares and
 preference or preferred shares. In this guide, we use “shares” to refer
 to ordinary shares.</p>
 <p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-shares-dual-class-shares.html" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: Dual class shares</a>
 </p>
-<h3><strong>Your rights as a shareholder</strong></h3>
+<h3><strong>Your Rights As A Shareholder</strong></h3>
 <p>Ordinary shareholders have a right to attend and vote at general meetings.</p>
 <p>If the company you have invested in is wound up or liquidated, you are
 entitled to any assets that remain after all liabilities (e.g. debt owed
 to creditors) of the company have been paid.</p>
-<h2><strong>What’s the most you can lose?</strong></h2>
+<h2><strong>What Is The Most You Can Lose?</strong></h2>
 <p>Apart from market driven price fluctuations, a company's share price will
 be under pressure if the company performs badly or gets into serious financial
 difficulties.</p>
@@ -68,7 +68,7 @@ creditors before they are able to receive any assets that have not already
 been exhausted to pay creditors.</p>
 <p>In the worst-case scenario, a shareholder may lose up to the amount invested
 in the company.</p>
-<h3><strong>Trading halts or suspensions</strong></h3>
+<h3><strong>Trading Halts Or Suspensions</strong></h3>
 <p>Listed companies may also request a trading halt or trading suspension
 for the purpose of disseminating material information to the investing
 public.</p>
@@ -79,7 +79,7 @@ you will not be able to buy or sell the company’s shares through the stock
 exchange.</p>
 <p>As an investor, you should not overlook rights issues and other corporate
 actions.</p>
-<h2><strong>Corporate actions</strong></h2>
+<h2><strong>Corporate Actions</strong></h2>
 <p>Companies may carry out various corporate actions such as bonus or rights
 issues and share buybacks. As a shareholder, you should find out how these
 corporate actions will affect you.</p>
@@ -93,7 +93,7 @@ general meeting to vote (or to vote by proxy) on the listed company’s proposed
 resolutions. You should take the time to read and understand any documents
 provided by the listed company before attending such general meetings to
 vote, or voting by proxy.</p>
-<h3><strong>Rights issues: how they affect you</strong></h3>
+<h3><strong>Rights Issues: How They Affect You</strong></h3>
 <p>In a rights issue, the company gives existing shareholders the right to
 purchase newly-created shares within a specified time period, usually at
 a discount to the current trading price.</p>
@@ -120,11 +120,11 @@ to their existing shareholdings.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>If you don't want to invest more money into the company, it will mean
+<p>If you do not want to invest more money into the company, it will mean
 that your existing holdings are diluted.</p>
 </li>
 <li>
-<p>The company’s earnings per share (EPS) will decrease, since there are
+<p>The company’s Earnings Per Share (EPS) will decrease, since there are
 more shares after a rights issue exercise.</p>
 </li>
 </ul>
@@ -132,42 +132,40 @@ more shares after a rights issue exercise.</p>
 </tr>
 </tbody>
 </table>
-<p>It might seem that being able to buy additional shares in a company you're
-already vested in is a good deal. But before deciding what to do with your
-rights, you should understand the company’s plan for spending the money
-raised, and evaluate what it means for its future prospects.</p>
-<h2><strong>General meetings</strong></h2>
+<p>It might seem that being able to buy additional shares in a company you
+are already vested in is a good deal. However, before deciding what to
+do with your rights, you should understand the company’s plan for spending
+the money raised and evaluate what it means for its future prospects.</p>
+<h2><strong>General Meetings</strong></h2>
 <p>Ordinary shareholders have a right to attend and vote at general meetings
 on matters such as major acquisitions or disposals, or the appointment
 of directors.</p>
 <p>A general meeting provides a forum for you to engage the company’s board
-or senior management, and voice your views on matters affecting the company.</p>
+or senior management and voice your views on matters affecting the company.</p>
 <p>If you are unable to attend a general meeting, you can vote by proxy by
 following instructions provided by the company.</p>
-<h2><strong>Common terms</strong></h2>
-<p>Here are a few common terms you might encounter if you're investing in
+<h2><strong>Common Terms</strong></h2>
+<p>Here are a few common terms you might encounter if you are investing in
 shares:</p>
-<p>Companies seeking to list on the SGX normally make an initial public offering
+<p>Companies seeking to list on the SGX normally make an Initial Public Offering
 (IPO) of its shares. You can subscribe to an IPO through internet banking,
 bank ATMs or hardcopy subscription forms. In connection with the offering,
 the company has to prepare a prospectus that is registered by MAS.</p>
-<p></p>
-<h4>Blue chips, growth stocks, cyclical stocks etc.</h4>
+<h4>Blue Chips, Growth Stocks, Cyclical Stocks etc.</h4>
 <p>Shares are often sorted into categories based on the characteristics they
 have. Some shares may be referred to as blue chips (big, stable companies
-with strong track records), or be perceived to have growth or cyclical
-tendencies.</p>
+with strong track records) or be perceived to have growth or cyclical tendencies.</p>
 <p>Such categorisation is based on market convention and may change over
 time.</p>
-<h4>Market capitalisation</h4>
+<h4>Market Capitalisation</h4>
 <p>A company’s market capitalisation is the total market value of its shares.
 Shares may also be sorted by market capitalisation; for example, small
 caps, mid-caps and large caps.</p>
 <p>What constitutes a small, mid or large cap depends on the particular market
 you are interested in. Stocks with smaller market capitalisation may be
-newer companies, and not very well researched.</p>
+newer companies and not very well researched.</p>
 <h2><strong>Checklist</strong></h2>
-<h2><strong>Are shares suitable for you?</strong></h2>
+<h2><strong>Are Shares Suitable For You?</strong></h2>
 <p>Share investing may not be suitable for everyone. Before you invest, make
 sure that you:</p>
 <ul data-tight="true" class="tight">
