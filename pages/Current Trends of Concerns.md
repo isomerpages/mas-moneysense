@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <ul>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2019/7/4-tips-to-stay-safe-when-using-e-payments?sc_lang=en" rel="noopener noreferrer nofollow" target="_blank">moneysense.gov.sg/articles/2019/7/4-tips-to-stay-safe-when-using-e-payments?sc_lang=en</a>
+<p><a href="https://www.moneysense.gov.sg/4-tips-to-stay-safe-when-using-e-payments/" rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/4-tips-to-stay-safe-when-using-e-payments/</a>
 </p>
 </li>
 <li>
