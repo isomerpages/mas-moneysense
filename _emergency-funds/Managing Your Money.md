@@ -16,9 +16,13 @@ how much money we make but how well we manage it.</p>
 It is a commitment to save a fixed amount every time you get paid. You
 should keep this amount in a separate bank account so that you are not
 tempted to spend it.</p>
-<h5>Save First Versus Spend First</h5>
+<h4>Save First Versus Spend First</h4>
 <p>Here's the difference between the two spending patterns:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -58,7 +62,7 @@ left for savings.</p>
 <h3>How Do You Spend?</h3>
 <p>Before you start tracking your spending, take an honest look at how you
 spend your money.</p>
-<h5>Needs Versus Wants</h5>
+<h4>Needs Versus Wants</h4>
 <p>Needs are the essentials of life. These are things you cannot live without,
 like food or utilities.</p>
 <p>Wants are the things you desire. They could be more expensive (but not
@@ -97,7 +101,7 @@ and short-term goals</p>
 </ul>
 <p>If you have an existing budget, review it from time to time to make sure
 it still works.</p>
-<h5>Checklist</h5>
+<h3>Checklist</h3>
 <p>Here are a few tips to get you started on preparing a budget:</p>
 <ol data-tight="true" class="tight">
 <li>
