@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p><strong>Look beyond the advertised interest rate. Learn about different types of loans and what factors affect how much interest you will end up paying.</strong>
 </p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Loans are not free money and must be repaid with interest.</p>
@@ -33,10 +33,10 @@ the interest rate, consider the processing fees, legal costs and other
 charges due to late or non-payment.</p>
 <p>Remember, for the same amount borrowed, you pay more interest for a longer
 loan period than for a shorter loan period.</p>
-<h4>How Interest Rates are Calculated</h4>
+<h3>How Interest Rates are Calculated</h3>
 <p>Not all loans work the same way. Learn about flat and monthly rest rates,
 and how they affect interest calculations.</p>
-<h5>Flat Rate</h5>
+<h4>Flat Rate</h4>
 <p>With a flat rate, interest payments are calculated based on the original
 loan amount. The monthly interest stays the same throughout, even though
 your outstanding loan reduces over time.</p>
@@ -45,7 +45,12 @@ your outstanding loan reduces over time.</p>
 <p>Below is a calculation for a $90,000 car loan at 2.5% interest per annum
 flat rate. Notice that you will end up paying more interest for a 7-year
 loan than for a 5-year loan.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -93,7 +98,7 @@ loan than for a 5-year loan.</p>
 </tr>
 </tbody>
 </table>
-<h5>Monthly Rest Rate</h5>
+<h4>Monthly Rest Rate</h4>
 <p>With monthly rest, interest is calculated based on the outstanding balance
 of the loan. As you pay down your outstanding loan amount every month,
 the interest also reduces over time.</p>
@@ -103,7 +108,15 @@ the interest also reduces over time.</p>
 3.5% per annum and you have to make 240 equal monthly repayments of $3,480.</p>
 <p>Here's what your payment schedule might look like for the first five years.
 Notice that the interest portion of the payment reduces as time goes on.</p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -227,13 +240,13 @@ Notice that the interest portion of the payment reduces as time goes on.</p>
 </tr>
 </tbody>
 </table>
-<h5>Fixed versus Floating Rate</h5>
+<h3>Fixed versus Floating Rate</h3>
 <p>For a fixed rate monthly rest, the interest rate stays the same for a
 period of time known as the lock-in period.</p>
 <p>For a floating rate, the interest rate can move up or down. If interest
 rate moves up, your interest expense will be higher. Do factor this in
 when deciding if you can afford a loan.</p>
-<h5>Effective Interest Rate (EIR) - What Your Loan Actually Costs</h5>
+<h3>Effective Interest Rate (EIR) - What Your Loan Actually Costs</h3>
 <p>The true cost of your loan is known as the Effective Interest Rate (EIR)
 which may be higher than the advertised rate because of the way interest
 is calculated.</p>
@@ -255,7 +268,11 @@ more costly than one with fewer but larger instalments.</p>
 <h5>Example: How Payment Frequency Affects EIR</h5>
 <p>For a $1,000 loan, repayable over a year with interest of $200, the EIR
 will vary depending on the repayment schedule:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -307,7 +324,7 @@ will vary depending on the repayment schedule:</p>
 </tr>
 </tbody>
 </table>
-<h4>Comparing Loans</h4>
+<h3>Comparing Loans</h3>
 <p>Ask your bank for the advertised and effective interest rates. You can
 use EIR to compare different loan packages to find out which one costs
 the least.</p>
@@ -315,7 +332,7 @@ the least.</p>
 <p>However, you may not always want to choose the loan with the lowest EIR.
 For instance, if you intend to repay early, you may take a loan with a
 higher EIR, but without any early repayment penalty.</p>
-<h4>Deciding on a Repayment Plan</h4>
+<h3>Deciding on a Repayment Plan</h3>
 <p>Apart from the interest, you will also need to consider your ability to
 meet the monthly repayment when choosing the loan tenure.</p>
 <p>Generally, a shorter loan tenure means less interest overall but a higher
@@ -327,10 +344,14 @@ interest payable).</p>
 <p><strong>Note:</strong> If you take up a floating-rate loan, keep in mind
 that <strong>interest rates can go up</strong>. Even small increases can
 make a big difference in the total amount you pay, so plan accordingly.</p>
-<h4>Other Costs of Loans</h4>
+<h3>Other Costs of Loans</h3>
 <p>Loans may come with other costs such as fees, charges and third-party
 costs, which could add up. You may need to factor these into your calculations.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
