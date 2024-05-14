@@ -55,14 +55,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2018/11/the-real-cost-of-instalment-payment-plans" rel="noopener noreferrer nofollow" target="_blank">The real cost of instalment payment plans (moneysense.gov.sg)</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/buy-now-pay-later/real-cost-instalment-payment-plan/</a>
 </p>
 </li>
 </ul>
 <h3>Inflation</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2011/8/monetary-authority-of-singapore---educational-video-on-inflation" rel="noopener noreferrer nofollow" target="_blank">What is inflation? (moneysense.gov.sg)</a> [video]</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/what-is-inflation/</a>
+</p>
 </li>
 </ul>
 <p></p>
