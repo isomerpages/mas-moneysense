@@ -35,7 +35,7 @@ to assess what you need and what you can afford.</p>
 <p>Start by assessing how much insurance protection to buy. If you are also
 looking to invest for a financial goal, you need to assess how much savings
 to build and the time you have to achieve this (your investment horizon).</p>
-<h4>Your Protection Needs</h4>
+<h3>Your Protection Needs</h3>
 <p><strong>What do you want to protect against?</strong> You could protect
 your dependents' needs upon your death. You could also protect you and
 your dependents' needs should you become totally and permanently disabled.</p>
@@ -56,7 +56,7 @@ starts working and becomes self-reliant? Do you have parents to support?</p>
 <p>Do you already have some savings to rely on?</p>
 </li>
 </ul>
-<h4>Your Savings And Investment Goals</h4>
+<h3>Your Savings And Investment Goals</h3>
 <p><strong>What are your financial goals?</strong> Paying for your children's
 education or saving for retirement? Note the time frame or investment horizon.
 How much will you need to retire comfortably?</p>
@@ -67,7 +67,7 @@ need the money and how much capital you have will help you make better
 decisions.</p>
 <p><strong>What other savings and investments do you have?</strong> How will
 the insurance product fit in with what you already have?</p>
-<h4>Affordability</h4>
+<h3>Affordability</h3>
 <p><strong>Can you afford the premiums?</strong>
 </p>
 <p>Buying life insurance is a long-term commitment and it is important to
@@ -85,7 +85,7 @@ you can afford.</p>
 from a Financial Advisory (FA) representative.</p>
 <p>Direct purchase insurance products are available at lower cost if you
 are prepared to do this on your own.</p>
-<h3>Before You Buy</h3>
+<p>Before You Buy</p>
 <p>Before you purchase an insurance product, here are a few things you should
 do:</p>
 <p><strong>Give all the required information</strong>
