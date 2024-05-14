@@ -53,7 +53,12 @@ prices between two parties.</p>
 </li>
 </ul>
 <h3>Common Investment Products</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,7 +68,7 @@ prices between two parties.</p>
 <p>What It Is</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>What It Is Good or</p>
+<p>What It Is Good For</p>
 </th>
 </tr>
 <tr>
@@ -159,5 +164,5 @@ understand these products.</p>
 <p>This is done through a Customer Account Review (CAR) if you wish to open
 an account to trade SIPs listed on an exchange, or a Customer Knowledge
 Assessment (CKA) if you wish to invest in an unlisted SIPs.</p>
-<p><strong>Note: Remember,  do not invest in products you do not fully understand.</strong>
+<p><strong>Note: Remember, do not invest in products you do not fully understand.</strong>
 </p>
