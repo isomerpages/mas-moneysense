@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p><strong>Find out about the types of home loans available and how interest is calculated, and learn about repayments and refinancing.</strong>
 </p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The HDB Loan Eligibility (HLE) letter and property loan fact sheet contain
@@ -30,7 +30,7 @@ period ends (differs by loan package).</p>
 and save on the interest as well.</p>
 </li>
 </ul>
-<h4>What is a Home Loan?</h4>
+<h3>What Is A Home Loan?</h3>
 <hr>
 <p>An HDB loan or home loan is money borrowed from HDB or the bank to help
 you buy your property. For HDB flats, you may also be able to tap on housing
@@ -52,7 +52,7 @@ remaining purchase price to the seller</p>
 <p>Interest is charged from the first disbursement</p>
 </li>
 </ul>
-<h4>Who is Eligible for a Home Loan?</h4>
+<h3>Who is Eligible for a Home Loan?</h3>
 <hr>
 <p>HDB and the banks will have their own eligibility criteria for prospective
 borrowers. These include:</p>
@@ -77,7 +77,7 @@ and HDB's/ the bank’s internal credit requirements</p>
 <p>If you are self-employed or do not have a regular income, you must demonstrate
 the ability to service monthly instalments to be eligible for a loan. Each
 lender will assess your eligibility based on its criteria.</p>
-<h4>Types of Home Loans</h4>
+<h3>Types Of Home Loans</h3>
 <hr>
 <p>HDB offers a concessionary loan for HDB buyers only, at an interest rate
 that is pegged at 0.1% above the CPF Ordinary Account interest rate. This
@@ -142,7 +142,7 @@ later</p>
 <p><strong>Note:</strong>&nbsp;A promotional rate is lower than the rate
 for the remainder of the loan. Make sure you know how much your monthly
 payments will increase when the promotional period is over.</p>
-<h4>How Interest is Computed</h4>
+<h3>How Interest Is Computed</h3>
 <hr>
 <p>The common method of calculating interest is monthly reducing (monthly
 rest).</p>
@@ -150,7 +150,13 @@ rest).</p>
 and the effective interest rate that you will end up paying for your loan.</p>
 <p>To illustrate, here's what happens to the monthly instalment for an S$800,000
 30-year loan at different interest rates using monthly rest method:</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -200,7 +206,7 @@ and the effective interest rate that you will end up paying for your loan.</p>
 <p>Even if you are eligible for a bigger loan or a longer loan tenure, do
 not take it up unless you are sure you will have the resources to fund
 it.</p>
-<h4>What You Can Do: Pre-pay Your Home Loan</h4>
+<h3>What You Can Do: Pre-pay Your Home Loan</h3>
 <p>You can consider making a lump sum pre-payment on your home loan to reduce
 your monthly payments and save on interest over the long run. Be sure to
 check if there are any penalties first.</p>
@@ -208,7 +214,12 @@ check if there are any penalties first.</p>
 </p>
 <p>If you have an outstanding home loan of $800,000 over 25 years, and you
 make a one-time partial prepayment:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -252,11 +263,11 @@ make a one-time partial prepayment:</p>
 rises to 5% per annum and remains at that level for the remaining loan
 tenure of 25 years. Subject to the terms and conditions of your home loan
 — check with your lender.</p>
-<h4>All About Your Loan</h4>
+<h3>All About Your Loan</h3>
 <hr>
 <p>Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet
 for more details about your home loan.</p>
-<h4>HDB Loan Eligibility Letter</h4>
+<h3>HDB Loan Eligibility Letter</h3>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
 you can borrow, you will need to apply for an&nbsp;<a href="https://safe.menlosecurity.com/https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE)</a>&nbsp;letter.</p>
 <p>HLE helps you plan for your home purchase by giving you information on
@@ -266,7 +277,7 @@ need and other terms and conditions.</p>
 <p>An HDB loan comes with certain eligibility criteria such as an income
 ceiling. <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" rel="noopener noreferrer nofollow" target="_blank">Check if you qualify.</a>
 </p>
-<h4>Property Loan Fact Sheet</h4>
+<h3>Property Loan Fact Sheet</h3>
 <p>Before you sign up for a home loan with a bank, the bank must provide
 you with a property loan fact sheet.</p>
 <p>It highlights how possible increases in interest rates will affect your
@@ -296,7 +307,7 @@ monthly instalments and contains the key features of the loan, including:</p>
 </ul>
 <p>Ask your bank to take you through the fact sheet so that you know what
 you are committing to when you take up the loan.</p>
-<h4>Refinancing and Repricing</h4>
+<h3>Refinancing and Repricing</h3>
 <hr>
 <p>Refinancing means switching from your existing home loan to a new lender
 with lower interest rates. Refinancing at your current bank is called repricing,
@@ -375,7 +386,7 @@ compare with other loan packages to understand the differences.</p>
 to you when you refinance your housing loan.</p>
 </li>
 </ul>
-<h2>What If You Can't Pay?</h2>
+<h3>What If You Cannot Pay?</h3>
 <p>If you have trouble keeping up with your monthly payments, approach your
 mortgagee quickly (HDB or the bank). HDB may be able to better advise you
 on alternative options while the bank may be able to help you restructure
@@ -389,7 +400,7 @@ charge allows HDB or the bank to sell your home and use the sales proceeds
 to pay off what you owe the bank.</p>
 <p>The CPF Board is entitled to the remaining sales proceeds to recover what
 has been deducted from your CPF OA.</p>
-<h4>Tip</h4>
+<h3>Tip</h3>
 <p>If you are using CPF to service your housing instalments, it makes sense
 to pay off the loan&nbsp;<strong>by the CPF withdrawal age of 55,</strong>&nbsp;due
 to the lower CPF contributions from age 50 onwards. With lower contributions
