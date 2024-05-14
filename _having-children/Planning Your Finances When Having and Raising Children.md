@@ -19,7 +19,7 @@ need to set aside extra savings when a tot (or a few) joins you, but it
 is all doable with planning and the discipline to make sound financial
 decisions.</p>
 <p>Before you start a family, you and your spouse should:</p>
-<h4>Plan and Prioritise</h4>
+<h3>Plan and Prioritise</h3>
 <hr>
 <p>Review your financial situation and financial plans. Draw up a fresh budget
 for the household to prioritise your spending so as to accommodate new
@@ -27,7 +27,7 @@ expenses for your baby — doctor's visits for mummy and baby, baby's daily
 necessities and perhaps even fun activities for your little one, etc. Revise
 your financial plan to cater for your child's longer term needs such as
 tertiary education.</p>
-<h4>Do Your Research</h4>
+<h3>Do Your Research</h3>
 <hr>
 <p>Talk to professionals, your friends and family members to have an idea
 of what it would cost to pay for your child's needs. Don't let the information
@@ -50,7 +50,7 @@ and intra-uterine insemination (IUI), is also available at public hospitals
 and is co-funded — up to 75 per cent — by the government.</p>
 </li>
 </ul>
-<h4>What To Expect When You Are Expecting</h4>
+<h3>What To Expect When You Are Expecting</h3>
 <hr>
 <p>Here are a few things to note when you are expecting:</p>
 <h4>Maternity Packages and Consultation Charges</h4>
@@ -94,7 +94,7 @@ and neonatal cover.</p>
 <p>Newborns who are registered as Singapore Citizens at birth are automatically
 insured under MediShield Life.&nbsp;Think about life insurance to help
 provide for your family should something unexpected happen to you.</p>
-<h4>Paying For Your Child’s Changing Needs</h4>
+<h3>Paying For Your Child’s Changing Needs</h3>
 <hr>
 <p>Having a child changes your world. You may need to cut back on your personal
 expenses and set aside more money for your child’s needs as she or he grows.</p>
@@ -183,7 +183,7 @@ the extra premiums first.</p>
 </ul>
 <p>Be careful not to cut back on your savings for retirement or healthcare
 insurance. You need to take care of yourself as well.</p>
-<h4>Getting Help</h4>
+<h3>Getting Help</h3>
 <hr>
 <p>There are a range of government schemes to help you defray the cost of
 having and raising your child.</p>
@@ -214,7 +214,7 @@ having and raising your child.</p>
 <p><em>Find out more about enhancements in</em>&nbsp;<a href="https://www.madeforfamilies.gov.sg/marriage/your-home-matters-new/housing-schemes-and-grants" rel="noopener noreferrer nofollow" target="_blank">housing,</a>&nbsp;
 <a href="https://www.madeforfamilies.gov.sg/support-measures/managing-work-and-family-life/family-friendly-workplaces" rel="noopener noreferrer nofollow" target="_blank">workplace support</a>, <em>and</em>&nbsp;<a href="https://www.madeforfamilies.gov.sg/parental-leave-and-benefits" rel="noopener noreferrer nofollow" target="_blank">support for parents.</a>
 </p>
-<h4>Paying for University</h4>
+<h3>Paying for University</h3>
 <hr>
 <p>Saving for a child's university education should be one of your priorities
 as a parent. The cost can be hefty. Apart from school or tuition fees,
