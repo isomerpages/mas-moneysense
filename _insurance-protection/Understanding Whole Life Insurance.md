@@ -9,7 +9,7 @@ variant: tiptap
 </div>
 <p>Whole life insurance provides life-long protection. It is available in
 different forms such as participating and non-participating policies.</p>
-<h4>Participating Whole Life Policies</h4>
+<h3>Participating Whole Life Policies</h3>
 <p>Participating whole life policies share in the profits of the company’s
 participating fund. Your share of the profit is paid in the form of bonuses
 or dividends to your policy.</p>
@@ -19,7 +19,7 @@ dividends which have been declared will be paid in addition to the sum
 assured.</p>
 <p>Whole life policies have cash values which will build up after a minimum
 period, and this differs from product to product.</p>
-<h4>Non-participating Whole Life Policies</h4>
+<h3>Non-participating Whole Life Policies</h3>
 <p>Non-participating whole life policies have guaranteed claims benefits
 and cash values.</p>
 <p>Compare participating and non-participating whole life policies. Decide
