@@ -19,7 +19,7 @@ it is a good idea to imbue in them a habit of saving by letting them use
 money boxes personally or letting them handle money on outings.</p>
 <p>Remember, everyday activities that show (not tell) the benefits of good
 money management have a more lasting impact!</p>
-<h4>7 Handy Tips on Teaching Your Children about Money</h4>
+<h3>7 Handy Tips on Teaching Your Children about Money</h3>
 <hr>
 <h5>1. Start Talking About Money</h5>
 <p>Children can start grasping the concept of money from as young as three
