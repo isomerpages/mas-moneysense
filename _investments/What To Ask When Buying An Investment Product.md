@@ -10,7 +10,7 @@ description: ""
 </div>
 <p><strong>A checklist of important questions to ask yourself and your Financial Advisory (FA) representative before you buy an investment product.</strong>
 </p>
-<h4><strong>Key Takeaways</strong></h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Set your investment goals before meeting your FA representative.</strong>
@@ -25,13 +25,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h2><strong>What To Ask Before Buying</strong></h2>
+<h3>What To Ask Before Buying</h3>
 <p>Investment products such as shares, bonds, structured deposits, unit trusts
 and investment-linked insurance carry risks. Knowing what you are buying
 is the best way to navigate the risks. Here are a few things you should
 ask before investing in them.</p>
 <p>Print and use this list when you meet your FA representative.</p>
-<h2><strong>10 Questions To Ask Yourself</strong></h2>
+<h3>10 Questions To Ask Yourself</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Is the FA representative regulated by the Monetary Authority of Singapore (MAS)?<br></strong>Check
@@ -49,7 +49,7 @@ after setting aside money for my daily needs and for emergencies?</p>
 <p><strong>What is my appetite for risk?</strong> 
 <br>How much can I afford to lose without overly impacting my financial situation
 and my financial plans?</p>
-<h3><strong>Tip</strong></h3>
+<h3>Tip</h3>
 <p>Understand yourself better with the <a href="https://www.cpf.gov.sg/content/dam/web/member/growing-your-savings/documents/Risk_Tolerance_Questionaire.pdf" rel="noopener noreferrer" target="_blank">Risk Tolerance Questionnaire</a>.</p>
 <p></p>
 </li>
@@ -70,7 +70,7 @@ written confirmation of any guaranteed returns or benefits.</p>
 </p>
 <p>If so, how does the return offered by the product compare with interest
 rates earned in my CPF accounts?</p>
-<h3><strong>Tip</strong></h3>
+<h3>Tip</h3>
 <p>Money in your CPF Ordinary Account and Special Account currently earn
 a minimum interest of 2.5% and 4% per annum, respectively. This is both
 guaranteed and risk-free.</p>
@@ -91,7 +91,7 @@ contracts, warnings, exclusions and disclaimers, and terms and conditions?</p>
 <p>How does the product compare with these alternative products?</p>
 </li>
 </ol>
-<h2><strong>10 Questions To Ask Your FA Representative</strong></h2>
+<h3>10 Questions To Ask Your FA Representative</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Why is this product suitable for me?</strong> 
@@ -122,7 +122,7 @@ if I find that I am unable to make the payment? What are the fees and charges?</
 </li>
 <li>
 <p>If the FA representative recommends investing with CPF monies, ask <strong>"How do the returns compare with interest rates earned by monies in your CPF accounts?</strong>"</p>
-<h3><strong>Tip</strong></h3>
+<h3>Tip</h3>
 <p>CPF monies currently earn a minimum interest of 2.5% and 4% per annum,
 respectively. This is both guaranteed and risk-free.</p>
 <p></p>
@@ -147,6 +147,6 @@ my FA representative of my decision to return the product? Are there any
 fees and charges?</p>
 </li>
 </ol>
-<h3><strong>Tip</strong></h3>
+<h3>Tip</h3>
 <p>By all means, ask more questions if you are still unsure about the product
 your FA representative is recommending.</p>
