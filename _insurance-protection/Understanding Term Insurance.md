@@ -15,7 +15,11 @@ of time. For example, if you want to be covered until your youngest child
 completes university or is financially self-reliant.</p>
 <h3>How It Works</h3>
 <p>Here is a snapshot of the features and benefits:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
