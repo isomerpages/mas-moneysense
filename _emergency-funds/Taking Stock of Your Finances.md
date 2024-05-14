@@ -55,7 +55,7 @@ if you need to cut back.</p>
 <p>Now that we have a good idea of what we spend our money on, let's take
 a look at how we can manage our money to meet our needs and goals.</p>
 <h3>Checklist</h3>
-<h5>Are You Spending Within Your Means?</h5>
+<h4>Are You Spending Within Your Means?</h4>
 <p>Use this checklist to take stock of your spending habits. Can you answer
 'yes' to all of these? If so, your spending habits are healthy!</p>
 <ul data-tight="true" class="tight">
