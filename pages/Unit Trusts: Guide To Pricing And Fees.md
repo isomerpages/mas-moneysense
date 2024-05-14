@@ -14,14 +14,14 @@ and the product highlights sheet.</p>
 <p>You can get updated valuations of your fund from the daily newspapers
 and the&nbsp;<a href="http://www.fundsingapore.com/screener/basic_search" rel="noopener noreferrer nofollow" target="_blank">FundSingapore.com</a>&nbsp;website.
 Most funds in Singapore allow daily buying and selling of units.</p>
-<h4>How The Price Is Determined</h4>
+<h2>How The Price Is Determined</h2>
 <p>The price of each unit is based on the fund’s&nbsp;<strong>Net Asset Value (NAV)</strong>&nbsp;divided
 by the number of units outstanding.</p>
 <p>The NAV is the market value of the fund's net assets (investments, cash
 and other assets minus expenses, payables and other liabilities). The NAV
 is usually computed daily to reflect changes in the prices of the investments
 held by the fund</p>
-<h4>Bid And Offer Pricing</h4>
+<h2>Bid And Offer Pricing</h2>
 <p>In the “bid and offer pricing” method, the subscription charge is added
 to the NAV per unit, while the redemption charge is deducted from the NAV
 per unit.</p>
@@ -39,11 +39,11 @@ prices of fund’s units reflects subscription (sales) and redemption charges
 (if any)</p>
 </li>
 </ul>
-<h4>Single Pricing</h4>
+<h2>Single Pricing</h2>
 <p>The fund provides a single quote that reflects the NAV per unit. The subscription
 charges are deducted from the amount invested before the units are allocated.
 Any redemption charge will be deducted from the redemption proceeds.</p>
-<h4>Fees And Charges</h4>
+<h2>Fees And Charges</h2>
 <p>Fees can reduce the returns from your unit trusts. Fees are usually payable
 regardless of how well or poorly the fund performs. For your fund to grow
 in value, the returns must be greater than the fees and charges incurred.</p>
@@ -51,7 +51,7 @@ in value, the returns must be greater than the fees and charges incurred.</p>
 service the distributor offers you, and the costs of the fund manager managing
 the underlying investments in the fund.</p>
 <p>There are two broad categories of fees:</p>
-<h4>One-off Fees And Charges</h4>
+<h3>One-off Fees And Charges</h3>
 <p>These fees are usually charged once per transaction when you subscribe
 into or redeem a fund. Typically, these fees are paid to the distributor
 and may be negotiable between you and the distributor.</p>
@@ -150,19 +150,19 @@ fees or switching fees for transactions if you are on a wrap account.</p>
 </tr>
 </tbody>
 </table>
-<h4>Recurrent Fees And Charges</h4>
+<h3>Recurrent Fees And Charges</h3>
 <p>There are two types of recurring fees;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Fees that are payable by you;</p>
+<p>Fees that are payable by you; and</p>
 </li>
 <li>
 <p>Fees that the fund manager and other parties charge the fund for providing
 their services.</p>
 </li>
 </ol>
-<p>| <strong>Fees that are payable by you</strong>&nbsp; | | Platform Fees
-| &nbsp;</p>
+<h2><strong>Fees That Are Payable By You&nbsp; </strong></h2>
+<h4>Platform Fees</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>This is incurred if you buy funds through a fund platform or buy funds
@@ -182,7 +182,7 @@ some of your fund holdings (typically the best-performing ones) would be
 sold off to pay the platform fees.</p>
 </li>
 </ul>
-<p>| | Wrap fees | &nbsp;</p>
+<h4>Wrap Fees&nbsp;</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Payable to the distributor if you sign up for a wrap account.</p>
@@ -195,7 +195,8 @@ of the distributor. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>Payable to the distributor.</p>
 </li>
 </ul>
-<p>| | <strong>Fees charged to the fund</strong> | | Management fees | &nbsp;</p>
+<h2><strong>Fees Charged To The Fund</strong> </h2>
+<h3>Management Fees  &nbsp;</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Payable to the fund manager for managing the fund.</p>
@@ -211,7 +212,7 @@ so that the distributor would provide ongoing advice/service to you. This
 amount paid to the distributor is also known as a trailer fee.</p>
 </li>
 </ul>
-<p>| | &nbsp;Others fees |</p>
+<h3>Other Fees</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Payable to the fund’s service provider such as the trustee, administrator,
@@ -219,10 +220,10 @@ custodian, accounting and valuation provider and auditor.</p>
 </li>
 </ul>
 <p>|</p>
-<p>The fees charged to the fund make up the&nbsp;<strong>total expense ratio (TER)</strong>.
-The TER is usually between 1.0% and 2.5% of the fund’s NAV, and should
-be disclosed in the fund’s factsheet.</p>
-<h4>Tip</h4>
+<p>The fees charged to the fund make up the&nbsp;<strong>Total Expense Ratio (TER)</strong>.
+The TER is usually between 1.0% and 2.5% of the fund’s NAV and should be
+disclosed in the fund’s factsheet.</p>
+<h2>Tip</h2>
 <ul>
 <li>
 <p>Assess a fund’s TER before deciding whether to invest in it. Use the TER
@@ -236,7 +237,7 @@ managed equivalent, if any, before deciding whether to invest in it, and
 vice versa.</p>
 </li>
 </ul>
-<h4>The Bottom Line</h4>
+<h2>The Bottom Line</h2>
 <p>Find out the maximum amount that the fund can levy for each charge. Ask
 for a clear breakdown of all the fees and charges that you expect to pay
 for your investment. Do note that charges that are not currently levied
