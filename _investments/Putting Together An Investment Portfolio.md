@@ -55,7 +55,13 @@ quickly. You may also like to earn an income from your savings.</p>
 <p>A simple way of focusing your objectives is to decide which category you
 fall into: growth, income or capital preservation.</p>
 <p>Here's a sample of what that might look like:</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -142,7 +148,7 @@ personal circumstances.</p>
 safety and returns.</p>
 <p>Consider dollar-cost averaging as a means to accumulate the assets you
 want</p>
-<h4>Things To Note</h4>
+<h3>Things To Note</h3>
 <p>Even within asset classes like bonds and equities, the individual securities
 could be of different quality.</p>
 <p>If you have high liquidity needs, you can still invest in higher-risk
