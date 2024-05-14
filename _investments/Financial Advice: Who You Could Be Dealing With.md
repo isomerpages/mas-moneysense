@@ -6,22 +6,21 @@ description: ""
 ---
 <p><strong>Learn about the different types of financial advisors and Financial Advisory (FA) representatives, and how to check if they are authorised to provide financial advice.</strong>
 </p>
-<h4><strong>Key Takeaways</strong></h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Make sure your financial advisor and FA representative are authorised to provide financial advice.</strong>
-</p>
+<p>Make sure your financial advisor and FA representative are authorised
+to provide financial advice.</p>
 </li>
 <li>
-<p><strong>Learn about the different types of financial advisers.</strong>
-</p>
+<p>Learn about the different types of financial advisers.</p>
 </li>
 </ul>
-<h2><strong>What Is Financial Advice?</strong></h2>
+<h3>What Is Financial Advice?</h3>
 <p>Financial advice is given when someone looks into your needs and financial
 situation and recommends you to purchase an investment or life insurance
 product.</p>
-<h2><strong>When To Seek Advice</strong></h2>
+<h3><strong>When To Seek Advice</strong></h3>
 <p>You may want to seek financial advice when you have a financial need or
 goal but do not know how to address it. Only authorised firms and individuals
 are allowed to give you financial advice on investments and life insurance
@@ -30,7 +29,7 @@ products.</p>
 Advisory (FA) representative will help you identify specific goals and
 develop a plan to achieve them over time. The plan may include buying life
 insurance or investment products.</p>
-<h2><strong>Buying A Product With And Without Advice</strong></h2>
+<h3><strong>Buying A Product With And Without Advice</strong></h3>
 <p>If you choose to receive financial advice, your FA representative must
 ensure that the product recommended is suitable for your needs, taking
 into account your financial objectives, investment horizon, risk profile
@@ -51,7 +50,7 @@ independent</p>
 the life of the contract</p>
 </li>
 </ul>
-<h2><strong>Who Can Give Financial Advice</strong></h2>
+<h3><strong>Who Can Give Financial Advice</strong></h3>
 <p>Only authorised firms and individuals are allowed to give you financial
 advice.</p>
 <p>FA representatives are appointed by licensed financial advisors, banks,
@@ -73,7 +72,7 @@ see if the FA firm is authorised by MAS to provide financial advisory services</
 see if the individual you are talking to is an FA representative</p>
 </li>
 </ul>
-<h2><strong>Types Of Financial Advisors</strong></h2>
+<h3>Types Of Financial Advisors</h3>
 <p>There are different types of financial institutions that can offer financial
 advice on investments and life insurance products. They could be licensed
 financial advisory firms, banks, insurance companies, insurance brokers
@@ -82,7 +81,7 @@ or brokerages.</p>
 arrangements or ownership links with product providers, some do not. It
 is important to understand the differences and decide which firm best suits
 your needs.</p>
-<h3><strong>Check With Your FA Representative</strong></h3>
+<h3>Check With Your FA Representative</h3>
 <p>Ask your FA representative whether the financial advisor he or she represents
 is confined to selling products of a restricted range of product providers.</p>
 <p>Examples would be:</p>
@@ -96,7 +95,7 @@ their products</p>
 only offers the products of that insurer</p>
 </li>
 </ul>
-<h3><strong>Independent Financial Advisors</strong></h3>
+<h3>Independent Financial Advisors</h3>
 <p>You may meet financial advisors that promote or advertise their services
 as being independent. What this generally means is that the firm has no
 financial or commercial links with product providers.</p>
