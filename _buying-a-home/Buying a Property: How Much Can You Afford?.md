@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p><strong>Buy a property within your means. Take stock of all your resources to see what you can afford and how much you can borrow, and get to know the differences between HDB loans and bank loans.</strong>
 </p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choose a home based on what you can afford in terms of upfront and ongoing
@@ -25,15 +25,15 @@ payments.</p>
 such as the Total Debt Servicing Ratio (TDSR) and Loan-To-Value (LTV) limit.</p>
 </li>
 </ul>
-<h4>What Can You Afford?</h4>
+<h3>What Can You Afford?</h3>
 <p>Buying a home is a huge milestone and a long-term financial commitment.
 Make sure you buy a home that you can afford in the long run. You will
 need to have enough resources to pay for upfront costs, ongoing homeownership
 expenses and monthly loan instalments.</p>
-<h5>Upfront Costs</h5>
+<h3>Upfront Costs</h3>
 <p>These include the option fee, downpayment, stamp duty, legal cost, agent's
 commission and fees, renovation and other miscellaneous costs.</p>
-<h5>Ongoing Expenses</h5>
+<h3>Ongoing Expenses</h3>
 <p>There are some ongoing expenses which cannot be paid with your CPF savings.
 You will need to set aside enough money for:</p>
 <p>Monthly expenses (property taxes, fire and mortgage insurance, conservancy
@@ -41,12 +41,12 @@ and management service fees). Future interest rate hikes if you are taking
 up a floating rate loan. Possible drop in property value and the original
 LTV ratio is exceeded. You may have to dip into your savings if you are
 not prepared.</p>
-<h5>Monthly Loan Instalments</h5>
+<h3>Monthly Loan Instalments</h3>
 <p>A home loan is usually repaid in monthly instalments. Each monthly instalment
 consists of a principal repayment and interest payment.</p>
 <p>The size of your monthly instalment depends on how much you have borrowed,
 the loan tenure, the interest rate of the loan and how interest is computed.</p>
-<h4>Things to Note</h4>
+<h3>Things to Note</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>For the same amount of money borrowed, a longer loan tenure means your
@@ -60,7 +60,7 @@ your home loan.</p>
 <p>Ask your lender for a repayment schedule.</p>
 </li>
 </ul>
-<h4>How Much Do You Have Now?</h4>
+<h3>How Much Do You Have Now?</h3>
 <p>Take a look at what you currently have. Do you have enough money to see
 you through all the costs involved in buying a home?</p>
 <p>Your available resources could come from your:</p>
@@ -80,7 +80,7 @@ case of income loss</p>
 on other factors?</p>
 </li>
 </ul>
-<h4>How Much Can You Borrow?</h4>
+<h3>How Much Can You Borrow?</h3>
 <p>HDB and the lenders will assess how much you can borrow for a home loan
 in the following ways:</p>
 <p><strong>Mortgage Servicing Ratio (MSR)</strong>
@@ -124,7 +124,12 @@ loan.</p>
 <p>The LTV limits for individuals change depending on the number of outstanding
 housing loans a borrower has. For <strong>bank loans</strong> on residential
 properties, the following LTV limits apply:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -175,7 +180,7 @@ properties, the following LTV limits apply:</p>
 <p>Apply the lowest LTV limit if the loan tenure exceeds 30 years (or 25
 years for HDB flats) or the loan period extends beyond the borrower's age
 of 65 years.</p>
-<h4>Getting an HDB Loan</h4>
+<h3>Getting an HDB Loan</h3>
 <p>If you are buying an HDB flat, you may qualify for a loan from the HDB.
 With an HDB loan, you may borrow up to 85% of the purchase price or the
 property’s valuation price. This depends on which is lower, subject to
@@ -192,7 +197,7 @@ HDB’s credit assessment.</p>
 <p>Financial standing</p>
 </li>
 </ul>
-<h4>Are You Eligible?</h4>
+<h3>Are You Eligible?</h3>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
 you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE) letter</a>
 </p>
@@ -201,12 +206,17 @@ on how much you can borrow, the monthly repayments, the amount of cash
 you need and other terms and conditions.</p>
 <p>Note: An HDB loan comes with certain eligibility criteria such as an income
 ceiling. Check if you qualify.</p>
-<h4>HDB Loan versus Bank Loan</h4>
+<h3>HDB Loan versus Bank Loan</h3>
 <p>If you are choosing between an HDB loan and bank loan for financing your
 HDB flat, the key differences to consider include the downpayment, interest
 rate and flexibility to pay off your loan early.</p>
 <p>Compare the two loan types below:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
