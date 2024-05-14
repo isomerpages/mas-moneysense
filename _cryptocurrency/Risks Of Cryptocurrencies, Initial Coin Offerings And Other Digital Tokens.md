@@ -9,7 +9,7 @@ variant: tiptap
 </div>
 <p>Find out how digital tokens work and what you should do to protect yourself
 from token-related scams.</p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cryptocurrencies are not regulated by the Monetary Authority of Singapore
@@ -19,7 +19,7 @@ from token-related scams.</p>
 <p>Be aware of the risks of Initial Coin Offerings (ICOs).</p>
 </li>
 </ul>
-<h4>What Are Digital Tokens, Cryptocurrencies And ICOs</h4>
+<h3>What Are Digital Tokens, Cryptocurrencies And ICOs</h3>
 <p>A Digital Token is a cryptographically-secured representation of the token-holder’s
 rights to receive a benefit or to perform specified functions.</p>
 <p>Tokens are a string of computer codes. They are usually issued in pairs
@@ -39,7 +39,7 @@ future returns. This type of token is commonly called an Initial Coin Offering
 or ICO.</p>
 </li>
 </ul>
-<h4>How An ICO Works</h4>
+<h3>How An ICO Works</h3>
 <hr>
 <p>An ICO is a public sale of a new Digital Token.</p>
 <p>Sellers typically set out their business proposals in a “white paper”
@@ -67,7 +67,7 @@ of tokens</p>
 cryptocurrencies e.g. Bitcoin or Ether, to a wallet address provided by
 the seller. Buyers may also be able to pay for the new tokens by transferring
 fiat currency to a bank account provided by the seller.</p>
-<h4>Risks Involving Digital Tokens</h4>
+<h3>Risks Involving Digital Tokens</h3>
 <hr>
 <p>Cryptocurrencies are not regulated by MAS. They are not legal tender or
 securities. Persons that buy or sell cryptocurrencies or facilitate the
@@ -125,7 +125,7 @@ digital wallet or otherwise knows of your private key, that person gains
 access to your Digital Tokens.</p>
 </li>
 </ul>
-<h4>Is It Regulated?</h4>
+<h3>Is It Regulated?</h3>
 <hr>
 <p><strong>There is no legislative protection.</strong>&nbsp;Remember, MAS
 will not be able to help you in any way if you lose money from dealing
@@ -144,10 +144,10 @@ cryptocurrency and are not required to ensure that each cryptocurrency
 transaction is processed properly.&nbsp;MAS regulates cryptocurrency service
 providers under the Payment Services Act 2019 mainly for money-laundering
 and terrorism financing risk only.</p>
-<h4>Note</h4>
+<h3>Note</h3>
 <p>Your cryptocurrency service provider is required by law to give this risk
 warning to you.</p>
-<h4>For Licensees</h4>
+<h3>For Licensees</h3>
 <p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
 </p>
 <p>MAS requires us to provide this risk warning to you as a customer of a
@@ -164,7 +164,7 @@ with the technology that DPT services are provided.</p>
 <p>3. You should be aware that the value of DPTs may fluctuate greatly. You
 should buy DPTs only if you are prepared to accept the risk of losing all
 of the money you put into such tokens.</p>
-<h4>For Exempted Payment Service Providers</h4>
+<h3>For Exempted Payment Service Providers</h3>
 <p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
 </p>
 <p>MAS requires us to provide this risk warning to you as a customer of a
@@ -188,7 +188,7 @@ MAS and the Commercial Affairs Department have issued several advisories
 warning of such incidents.</p>
 <p>If you suspect that an investment offer could be fraudulent or misused
 for other unlawful activities, report it to the Police.</p>
-<h4><em>Checklist</em></h4>
+<h3>Checklist</h3>
 <h4>Protect Yourself</h4>
 <hr>
 <p>Before making any investment decision:</p>
