@@ -21,37 +21,38 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2018/11/phishing-scam?sc_lang=en" rel="noopener noreferrer nofollow" target="_blank">moneysense.gov.sg/articles/2018/11/phishing-scam?sc_lang=en</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/phishing-scam/</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons?sc_lang=en" rel="noopener noreferrer nofollow" target="_blank">moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons?sc_lang=en</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/dealing-with-unregulated-persons/</a>
 </p>
 </li>
 </ul>
 <h3>Crypto</h3>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens?sc_lang=en" rel="noopener noreferrer nofollow" target="_blank">moneysense.gov.sg/articles/2018/10/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens?sc_lang=en</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens/</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2021/11/the-risks-you-are-exposed-to-when-trading-in-cryptocurrencies-and-their-derivatives?sc_lang=en" rel="noopener noreferrer nofollow" target="_blank">moneysense.gov.sg/articles/2021/11/the-risks-you-are-exposed-to-when-trading-in-cryptocurrencies-and-their-derivatives?sc_lang=en</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/the-risks-you-are-exposed-to-when-trading-in-cryptocurrencies-and-their-derivatives/</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2019/12/risks-of-trading-payment-token-derivatives?sc_lang=en" rel="noopener noreferrer nofollow" target="_blank">moneysense.gov.sg/articles/2019/12/risks-of-trading-payment-token-derivatives?sc_lang=en</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/risks-of-trading-payment-token-derivatives/</a>
 </p>
 </li>
 </ul>
 <h3>Buy Now, Pay Later (BNPL)</h3>
 <ul>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2021/1/3-traps-to-avoid-when-you-go-shopping?sc_lang=en" rel="noopener noreferrer nofollow" target="_blank">moneysense.gov.sg/articles/2021/1/3-traps-to-avoid-when-you-go-shopping?sc_lang=en</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/3-traps-to-avoid-when-you-go-shopping/</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/articles/2013/10/needs-versus-wants" rel="noopener noreferrer nofollow" target="_blank">Needs versus wants (moneysense.gov.sg)</a> [video]</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/buy-now-pay-later/needs-versus-wants/</a>
+</p>
 </li>
 <li>
 <p><a href="https://www.moneysense.gov.sg/articles/2018/11/the-real-cost-of-instalment-payment-plans" rel="noopener noreferrer nofollow" target="_blank">The real cost of instalment payment plans (moneysense.gov.sg)</a>
