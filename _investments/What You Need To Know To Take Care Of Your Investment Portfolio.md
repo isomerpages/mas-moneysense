@@ -22,7 +22,7 @@ earnings and therefore better share price performance.</p>
 <p>One way to take stock of your portfolio is through indicators that measure
 how markets and the economy are performing. This article will explore some
 of the more important of these indicators.</p>
-<h3><strong>Market Indicators</strong></h3>
+<h3>Market Indicators</h3>
 <p><strong>The Straits Times Index</strong>
 </p>
 <p>The most commonly-used and recognisable benchmark for the local stock
@@ -75,7 +75,7 @@ This was the case in May 2019 when the index fell 9.1%.</p>
 might change – for instance, between early 2000 and May 2019, the index
 rose just under 60 per cent. Much therefore depends on the time frame of
 your investment horizon.</p>
-<h3><strong>Economic Indicators</strong></h3>
+<h3>Economic Indicators</h3>
 <p>Economic indicators are statistics that allow us to judge the health of
 the economy. This is important because of the impact that economic growth
 has on corporate earnings which is ultimately the main driver of stock
@@ -106,7 +106,7 @@ that are&nbsp;in demand today.</p>
 <p>Analysts usually look at all three types of indicators in order to see
 where an economy has been, where it might be now, and how it might be expected
 to change in the future.</p>
-<h3><strong>Other Useful Indicators</strong></h3>
+<h3>Other Useful Indicators</h3>
 <p>There are several other indicators that could prove helpful. In looking
 at the economic outlook, the Purchasing Managers’ Index&nbsp;or PMI which
 gauges manufacturing activity, and the Consumer Price Index or CPI, which
