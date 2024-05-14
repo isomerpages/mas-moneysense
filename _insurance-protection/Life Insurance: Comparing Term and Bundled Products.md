@@ -64,7 +64,11 @@ for the riders and the premiums could increase with age.</p>
 <p>Compare both types of products as each product fulfils a specific purpose.
 Decide what features and benefits match your needs and buy the product
 that best meets them.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -122,7 +126,11 @@ that best meets them.</p>
 </tbody>
 </table>
 <h1></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -182,7 +190,11 @@ cash value of the policy.</p>
 </tbody>
 </table>
 <h1></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -242,7 +254,11 @@ cash value of the policy.</p>
 </tbody>
 </table>
 <h1></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
