@@ -253,19 +253,22 @@ goals.</p>
 </li>
 </ul>
 <p></p>
-<h4>Read More: Approaching Your Retirement Years In </h4>
+<h4>Read More: Approaching Your Retirement Years In</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>English</p>
 </li>
 <li>
-<p>Mandarin</p>
+<p><a href="/files/MoneySense_Retirement_Booklet__Mandarin____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mandarin</a>
+</p>
 </li>
 <li>
-<p>Malay</p>
+<p><a href="/files/MoneySense_Retirement_Booklet__Malay____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
+</p>
 </li>
 <li>
-<p>Tamil</p>
+<p><a href="/files/MoneySense_Retirement_Booklet__Tamil____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
+</p>
 </li>
 </ul>
 <p></p>
