@@ -4,6 +4,10 @@ permalink: /financial-advice-who-you-could-be-dealing-with/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/couple_agent_ipad6cff.jpg">
+</div>
 <p><strong>Learn about the different types of financial advisors and Financial Advisory (FA) representatives, and how to check if they are authorised to provide financial advice.</strong>
 </p>
 <h3>Key Takeaways</h3>
