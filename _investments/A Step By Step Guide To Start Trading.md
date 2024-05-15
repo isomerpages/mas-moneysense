@@ -4,6 +4,10 @@ permalink: /a-step-by-step-guide-to-start-trading/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/laptop_phone_shares6cff.jpg">
+</div>
 <p><strong>Before investing in listed investment products, you need to open a brokerage trading account with any securities broking firm to deposit or sell your stocks and securities.</strong>
 </p>
 <p>You can choose to:</p>
