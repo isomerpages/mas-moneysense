@@ -4,6 +4,10 @@ permalink: /financial-advisory-process/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/client_meeting_clipboard6cff.jpg">
+</div>
 <p><strong>Getting financial advice begins with a fact-finding process and an analysis of your needs. Find out what the Financial Advisory (FA) representative needs to do and what you can expect when you meet.</strong>
 </p>
 <h3>Key Takeaways</h3>
