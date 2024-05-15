@@ -4,10 +4,18 @@ permalink: /a-step-by-step-guide-to-start-trading/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/laptop_phone_shares6cff.jpg">
+</div>
 <p><strong>Before investing in listed investment products, you need to open a brokerage trading account with any securities broking firm to deposit or sell your stocks and securities.</strong>
 </p>
 <p>You can choose to:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,7 +90,11 @@ the Singapore Exchange which you can choose from:</p>
 </ul>
 <p><strong>What you will need to apply <u>online</u> for&nbsp;a trading account</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -136,7 +148,11 @@ address</p>
 </table>
 <p><strong>What you will need to apply <u>in person</u> for&nbsp;a trading account</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -170,7 +186,7 @@ address</p>
 </tr>
 </tbody>
 </table>
-<h2><strong>How To Open A CDP Account</strong></h2>
+<h3>How To Open A CDP Account</h3>
 <p>Before opening a CDP account, you must ensure that you fulfill certain
 eligibility criteria:</p>
 <ul data-tight="true" class="tight">
@@ -207,7 +223,7 @@ passport [for NSF]</p>
 <p>Latest Notice of Assessment of your personal income tax.</p>
 </li>
 </ul>
-<h2><strong>Receiving Dividend Payments And Cash Entitlements</strong></h2>
+<h3>Receiving Dividend Payments And Cash Entitlements</h3>
 <p>Since September 2020, CDP has stopped paying dividend payments or other
 cash distributions through cheques. Instead, the amounts will be credited
 directly into your designated bank account.</p>
@@ -241,12 +257,12 @@ Option 5)</p>
 </ul>
 <p>Dividends or cash distributions in foreign currencies will be automatically
 converted to SGD before they are credited to you.</p>
-<h2><strong>How Can I Start Trading?</strong></h2>
+<h3>How Can I Start Trading?</h3>
 <p>Once you have set up an account with your preferred securities broking
 firm, they will link up your trading account to your CDP account. Once
 your trading account has been successfully linked (which may take up to
 two weeks), you will be able to start trading.</p>
-<h2><strong>Customer Account Review (CAR) And Customer Knowledge Assessment (CKA)</strong></h2>
+<h3>Customer Account Review (CAR) And Customer Knowledge Assessment (CKA)</h3>
 <p>Specified Investment Products (SIPs) are complex investment products.
 If you wish to trade in listed SIPs, your securities broking firm has to
 conduct a Customer Account Review (CAR) to ascertain whether you have the

@@ -13,7 +13,7 @@ variant: tiptap
 especially when it comes to the last few months of the year – think 10.10
 Sale, 11.11 Sale, Black Friday &amp; Cyber Monday.</p>
 <p>There just seems to be so many bargains to be scored! But are there, really?</p>
-<h4>Giving The Appearance Of Affordability – Buy Now, Pay Later</h4>
+<h3>Giving The Appearance Of Affordability – Buy Now, Pay Later</h3>
 <p>Instalment payment plans or Buy Now, Pay Later options may make pricier
 options&nbsp;<em>appear</em>&nbsp;affordable by spreading out payments.
 Instead of paying $1,200 now for a mobile phone, paying $400 each time
@@ -52,7 +52,7 @@ price (e.g. additional costs if I miss payment)?</p>
 </ul>
 <p>Usually, leaving the store or website and waiting for three days before
 making a purchase will give you clear answers.</p>
-<h4>Preying On The Fear Of Missing Out (FOMO)</h4>
+<h3>Preying On The Fear Of Missing Out (FOMO)</h3>
 <p>With online shopping, the temptation to splurge has become a daily struggle
 for many.</p>
 <p>E-commerce platforms feature flash sales or daily deals, coupled with
@@ -74,7 +74,7 @@ negligible savings.</p>
 use it to their advantage by pushing similar or complementary products
 your way. Ditch your shopping apps and turn on the private or incognito
 feature on your browser when you next shop online to cut out temptations!</p>
-<h4>Counting On Penny-wise Behaviour</h4>
+<h3>Counting On Penny-wise Behaviour</h3>
 <p>Ever wondered why there are usually three sizes of popcorn, iced latte
 or fries?</p>
 <p>Merchants are not being thoughtful about differing appetites. The medium
@@ -92,7 +92,7 @@ a list of items instead of going shopping as and when you need something.</p>
 <p>A small adjustment you could make to your online shopping routine is to
 carefully go through your shopping cart. Are you sure you want to buy all
 the items? Are there hidden charges?</p>
-<h4>The Bottom Line</h4>
+<h3>The Bottom Line</h3>
 <p>Knowing how retailers go all out to persuade you to part with more money
 is bagging a deal in itself. After all, that money you did not spend because
 you saw through their tricks can be put to better use, such as saving or

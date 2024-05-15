@@ -4,29 +4,32 @@ permalink: /financial-advisory-process/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/client_meeting_clipboard6cff.jpg">
+</div>
 <p><strong>Getting financial advice begins with a fact-finding process and an analysis of your needs. Find out what the Financial Advisory (FA) representative needs to do and what you can expect when you meet.</strong>
 </p>
-<h4><strong>Key Takeaways</strong></h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Recommendations are based on what you disclose. So, be truthful about your financial situation and any medical conditions.</strong>
-</p>
+<p>Recommendations are based on what you disclose. So, be truthful about
+your financial situation and any medical conditions.</p>
 </li>
 <li>
-<p><strong>Know your goals, how much you can afford to spend and how much risk or loss you can take.</strong>
-</p>
+<p>Know your goals, how much you can afford to spend and how much risk or
+loss you can take.</p>
 </li>
 <li>
-<p><strong>If the recommendation does not feel right, you do not have to buy it.</strong>
-</p>
+<p>If the recommendation does not feel right, you do not have to buy it.</p>
 </li>
 </ul>
-<h2><strong>What The FA Representative Needs To Do</strong></h2>
+<h3>What The FA Representative Needs To Do</h3>
 <p>When you are meeting an FA representative for the first time, they will
 introduce themselves, the company they represent and the products they
 can sell you.</p>
 <p>After which, they will go through these steps:</p>
-<h3><strong>1. Assess Your Financial Situation And Needs</strong></h3>
+<h4>1. Assess Your Financial Situation And Needs</h4>
 <p>Your FA representative will ask you a series of questions about your finances,
 needs and goals. They need to gather enough information to assess your
 financial situation, protection needs and investment objectives. This fact-finding
@@ -42,14 +45,14 @@ duration of financial support for each dependent.</p>
 <p><strong>Note:</strong> If you are dealing with a digital advisory service,
 where there is no human intervention, you may not need to provide all the
 information described above.</p>
-<h4><strong>For Specified Investment Products</strong></h4>
+<h4>For Specified Investment Products</h4>
 <p>Your FA representative will also assess if you have the relevant knowledge
 and experience to buy (or trade) a <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Product (SIP)</a>,
 as you may be recommended such a product.</p>
-<h3><strong>Note</strong></h3>
+<h4>Note</h4>
 <p>If your FA representative finds that there are no financial gaps to be
 addressed, they may not recommend a product to you at this point.</p>
-<h3><strong>2. Make A Recommendation</strong></h3>
+<h3>2. Make A Recommendation</h3>
 <p>Your FA representative must have a reasonable basis for their recommendation.
 They must take into account your financial situation, particular needs
 and investment objectives.</p>
@@ -62,10 +65,10 @@ you are assessed to have not met the Customer Knowledge Assessment (for
 unlisted SIPs) or Customer Account Review (for listed SIPs). However, if
 you are interested in buying such a product although it was not recommended,
 you will be responsible for ensuring the suitability of the product.</p>
-<h3><strong>3. Provide All Documents Needed</strong></h3>
+<h3>3. Provide All Documents Needed</h3>
 <p>Your FA representative must give you the full details of the products
 that he or she is recommending. You should receive the following documents:</p>
-<h4><strong>For Insurance</strong></h4>
+<h4>For Insurance</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Documentation of the FNA</strong> – Contains the information you
@@ -116,21 +119,21 @@ the product you are considering to invest in, you may receive documents
 such as a prospectus or product highlights sheet.</p>
 </li>
 </ul>
-<h3><strong>4. Review Your Policy</strong></h3>
+<h3>4. Review Your Policy</h3>
 <p>Your FA representative should contact you to review your policy or your
 investment portfolio with you regularly in order to help you see if your
 needs are being met.</p>
 <p>If your objectives, personal or financial circumstances have changed,
 e.g. you have difficulty keeping up with your premium payments, you should
 approach your FA representative for advice.</p>
-<h2><strong>What You Should Do</strong></h2>
+<h3>What You Should Do</h3>
 <p>Your financial information will help your FA representative recommend
 a suitable product.</p>
 <p>Without accurate and complete information, your FA representative may
 not be able to fully assess your financial situation and needs. If you
 are not comfortable to provide your details, ask them how this will affect
 the recommendation.</p>
-<h4>When you meet your FA representative</h4>
+<h3>When you meet your FA representative</h3>
 <p>At the first meeting, ask the FA representative to provide you with:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -150,7 +153,7 @@ advice on</p>
 <p>Use the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Register of Representatives</a> and
 <a href="https://eservices.mas.gov.sg/fid" rel="noopener noreferrer" target="_blank">Financial Institutions Directory</a>to check if the FA representative
 and the company are authorised to provide financial advisory services.</p>
-<h4>While going through an FNA</h4>
+<h3>While going through an FNA</h3>
 <p><strong>Do:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -187,7 +190,7 @@ it with your family and friends first.</p>
 <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages.html" rel="noopener noreferrer nofollow" target="_blank">invest</a>in the first place.</p>
 </li>
 </ul>
-<h4>Reviewing The Recommendation</h4>
+<h3>Reviewing The Recommendation</h3>
 <p>You should discuss the recommendation with your FA representative and
 assess if it meets your needs. If you are not happy, you may ask them to
 show you something else. Do not feel compelled to buy the product, even
@@ -199,8 +202,7 @@ up paying for something you do not need or want. Do ask for other recommendation
 <p>If you decide not to take up their offer and choose to buy a different
 product, it is your responsibility to check if the product you selected
 suits you.</p>
-<p></p>
-<h4>After Buying Insurance Or Investing</h4>
+<h3>After Buying Insurance Or Investing</h3>
 <p><strong>If you change your mind,</strong> remember that you should do so
 within the <strong>free-look period</strong>. You can go back to the product
 provider to inform them. The free-look period enables you to cancel your
@@ -230,7 +232,7 @@ not being met, you may want to save more or invest more whether through
 other financial products or the current product.</p>
 </li>
 </ul>
-<h2><strong>Checklists</strong></h2>
+<h3>Checklist</h3>
 <p>Be prepared when you meet your FA representative. Use these checklists
 to go through what to do and ask before, during and after your meeting.</p>
 <h4>Meeting Your FA Rep</h4>

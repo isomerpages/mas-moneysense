@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p><strong>Instalment plans are not all the same. Find out the difference between in-house instalment payment plans and instalment payment plans offered by credit card companies, and the hidden costs of each.</strong>
 </p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul>
 <li>
 <p>In-house instalment payment plans offered by a store may charge high interest
@@ -31,7 +31,7 @@ purchase into smaller monthly payments on your credit card. However, depending
 on the type of plan, their total cost can be much higher.</p>
 </li>
 </ul>
-<h4>Types Of Instalment Plans</h4>
+<h3>Types Of Instalment Plans</h3>
 <p>There are generally two types of instalment plans:</p>
 <p><strong>In-house Instalment Payment Plan</strong> - The store offers to
 extend credit to the customer. In these plans, the store can usually repossess
@@ -40,7 +40,11 @@ the item should the customer fail to pay their instalments.</p>
 Credit is offered as a deal between a credit card issuer and a merchant
 as an incentive for customers to use that credit card. <strong>Here's how they compare:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,11 +82,11 @@ only.</p>
 </tbody>
 </table>
 <p>Let's look at these two types of plans in-depth.</p>
-<h4>In-house Instalment Payment Plans</h4>
+<h3>In-house Instalment Payment Plans</h3>
 <p>For in-house plans, merchants typically charge a flat interest rate of
 11% to 27% for a repayment period of up to 72 months. Plans can be offered
 even for small purchases.</p>
-<h5>Take Note: The Cost Is Much Higher Than It Seems!</h5>
+<h4>Take Note: The Cost Is Much Higher Than It Seems!</h4>
 <p>Even though you are only paying a small instalment each month, the final
 cost of the item is much higher after taking the interest into account.</p>
 <p>For example, suppose you walk into a store and see a 65-inch Ultra HD
@@ -97,7 +101,7 @@ That is almost 66% more than the sale price of $5,200 and almost 33% more
 than the original price of $6,500.</p>
 <p>In some cases, the interest you pay could end up being more than the purchase
 price itself!</p>
-<h4>Zero-interest Instalment Payment Plans</h4>
+<h3>Zero-interest Instalment Payment Plans</h3>
 <p>Interest-free instalment plans offered by credit card companies allow
 you to pay the same price as someone who pays the whole sum upfront in
 cash – but only if you pay the instalment in full and on time.</p>
@@ -130,7 +134,7 @@ instalment plan and repay it sooner.</p>
 <p>The unpaid portion of the instalment is counted as a debt in your name.</p>
 </li>
 </ul>
-<h4>The Bottom Line</h4>
+<h3>The Bottom Line</h3>
 <p>That deceptively low monthly payment may end up costing you much more
 in the long run. So, consider saving up for a purchase instead of taking
 on an instalment plan.</p>

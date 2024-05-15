@@ -61,7 +61,12 @@ to grow and the harder you'll have to work to reach your retirement goals.</p>
 <p>Example: Andy started saving $250 a month 30 years ago while Bob started
 saving $400 a month 20 years ago. Assume that their investments both grow
 at 4% a year:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -123,7 +128,7 @@ at 4% a year:</p>
 <p>Despite saving less per month and less in total, Andy ended up with a
 significantly greater amount of savings than Bob because he started out
 earlier. That's the power of compounding and having time work for you.</p>
-<h3>The effects of inflation</h3>
+<h3>The Effects Of Inflation</h3>
 <p>All of us have to cope with the impact of inflation. Consider how inflation
 affects your cost of living:</p>
 <ul data-tight="true" class="tight">
@@ -149,7 +154,7 @@ that:</p>
 <p>There is a chance that you may outlive your savings</p>
 </li>
 </ul>
-<h3>Rule of 72</h3>
+<h3>Rule Of 72</h3>
 <p>To get the approximated number of years it takes for the cost of living
 to double, divide 72 by the inflation rate. This is one easy way to compute
 how much you may need to save up in order to fund your retirement.</p>
@@ -157,7 +162,12 @@ how much you may need to save up in order to fund your retirement.</p>
 would double in 24 years. If you wish to retire in 24 years’ time, how
 much would you need to have then in order to be able to fund your retirement
 for 20 years?</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -216,7 +226,7 @@ for 20 years?</p>
 </tr>
 </tbody>
 </table>
-<h3>Building a retirement plan</h3>
+<h3>Building A Retirement Plan</h3>
 <p>What does it take to draw up a retirement plan? Here are the steps you'll
 need to go through:</p>
 <p><strong>Step 1: Define your retirement goals</strong>
@@ -240,6 +250,26 @@ goals.</p>
 </li>
 <li>
 <p>How can CPF help?</p>
+</li>
+</ul>
+<p></p>
+<h4>Read More: Approaching Your Retirement Years In</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MoneySense_Retirement_Booklet__English____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MoneySense_Retirement_Booklet__Mandarin____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mandarin</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MoneySense_Retirement_Booklet__Malay____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MoneySense_Retirement_Booklet__Tamil____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
+</p>
 </li>
 </ul>
 <p></p>

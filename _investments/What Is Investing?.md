@@ -4,9 +4,13 @@ permalink: /what-is-investing/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_ipad_charts6cff.jpg">
+</div>
 <p><strong>Get started on investing by learning about terms commonly used in investing and what you should think about before you start.</strong>
 </p>
-<h4><strong>Key Takeaways</strong></h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Investing helps you grow your money so that you can reach your financial goals</strong>
@@ -21,7 +25,7 @@ description: ""
 </p>
 </li>
 </ul>
-<h2><strong>Before You Start Investing</strong></h2>
+<h3>Before You Start Investing</h3>
 <p>You should have these in place before you start on your investing journey:
 <br>
 </p>
@@ -36,7 +40,7 @@ description: ""
 <p>Your basic health and life insurance policies in place</p>
 </li>
 </ul>
-<h2><strong>Why Invest?</strong></h2>
+<h3>Why Invest?</h3>
 <p>Investing is an opportunity to grow your savings so that you can achieve
 your financial goals, whether it is for your home, your children’s education
 or your own retirement. The earlier you start, the better!</p>
@@ -45,7 +49,7 @@ in a bank but at the same time, all investments come with risks. It is
 possible that you will lose some or even all of the money you have invested.</p>
 <p>This is why you should equip yourself with the necessary investing knowledge
 and information before you start.</p>
-<h2><strong>Basic Terms And Concepts</strong></h2>
+<h3>Basic Terms And Concepts</h3>
 <p>Here are a few terms that you will find useful before you start investing:</p>
 <p><strong>Asset allocation –</strong> This is about deciding what proportions
 to allocate to different asset classes within your investment portfolio
@@ -98,7 +102,7 @@ the market is favourable for you.</p>
 losses and fees. Transaction costs such as sales charges, brokerage charges,
 and manager fees will reduce the returns to you.</p>
 <p><strong>Portfolio –</strong> The pool of investments you own.</p>
-<h2><strong>Things To Consider</strong></h2>
+<h3>Things To Consider</h3>
 <p>With so many types of investments to choose from, it helps to take a closer
 look at your personal financial situation to see what suits you best.</p>
 <p>Here are a few things to think about as you make your plans:</p>

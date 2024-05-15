@@ -9,7 +9,7 @@ variant: tiptap
 </div>
 <p>Find out what Payment token derivatives are and what you should know if
 you plan to trade them.</p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Payment token derivatives are highly risky products.</p>
@@ -19,7 +19,7 @@ you plan to trade them.</p>
 token derivatives to be suitable for most retail investors to trade.</p>
 </li>
 </ul>
-<h4>What Are Digital Tokens?</h4>
+<h3>What Are Digital Tokens?</h3>
 <hr>
 <p>There are three main types of Digital Tokens:</p>
 <ul data-tight="true" class="tight">
@@ -36,7 +36,7 @@ token derivatives to be suitable for most retail investors to trade.</p>
 <p>The most commonly known are payment tokens which are used as a means of
 payment. Bitcoin, Ether and Litecoin are examples of payment tokens. They
 are not legal tender.</p>
-<h4>Risks Of Trading Payment Tokens And Their Derivatives</h4>
+<h3>Risks Of Trading Payment Tokens And Their Derivatives</h3>
 <hr>
 <p>Trading of payment tokens and their derivatives has largely been on unregulated
 markets where there have been allegations of fictitious trades and market
@@ -49,7 +49,7 @@ difficult to value. Their prices also tend to fluctuate very widely.</p>
 token derivatives. You must be prepared to lose more than the amount you
 put in due to the leveraged nature of derivatives such as futures.</p>
 <p></p>
-<h3><em>Checklist</em></h3>
+<h3>Checklist</h3>
 <p><strong>Protect Yourself</strong>
 </p>
 <hr>

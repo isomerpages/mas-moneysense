@@ -15,7 +15,7 @@ financial values to them, from when they are as young as three years old
 behaviour experts from Cambridge University).</p>
 <p>We’ve done the research for you and distilled three simple drills you
 can incorporate into your everyday interaction with your children.</p>
-<h4>Let The Children ‘Pay’</h4>
+<h3>Let The Children ‘Pay’</h3>
 <p>Pretend play is something many children enjoy. You might have seen them
 take care of a baby doll, whip up a storm in a toy kitchen, or play cashier.</p>
 <p>Letting them try paying for stuff in real life may be something they associate
@@ -32,7 +32,7 @@ it gives them practice with shopping for the best deal.</p>
 <p>Importantly, the concept of making choices is ingrained in them. Rather
 than tell them “we cannot afford it” (which in some cases, at least, is
 a lie), make them see that “we choose not to spend money like that”.</p>
-<h4>Allow Them To Make Good And Bad Decisions</h4>
+<h3>Allow Them To Make Good And Bad Decisions</h3>
 <p>If they are to learn about making choices, what better way than to really
 let them experience it.</p>
 <p>Something to consider: When your child goes to Primary 3 or so, consider
@@ -57,7 +57,7 @@ it less likely they will treasure what they have.</p>
 <p>when they get into trouble, they may instinctively expect to be helped.
 You do not want to set this tone for their financial future to spare your
 child a couple of hours of hunger.</p>
-<h4>Show Them, Do Not Tell Them</h4>
+<h3>Show Them, Do Not Tell Them</h3>
 <p>If you are always browsing online stores in your free time or splashing
 out on a new gadget the moment you lay your eyes on it, do not be surprised
 if your child does not pick up sound financial habits as quickly.</p>

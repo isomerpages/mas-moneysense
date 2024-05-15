@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p><strong>Cryptocurrencies and their derivatives are highly risky products and there are no MAS regulations that protect your money or cryptocurrencies. Find out what dangers you are exposed to when trading in such products.</strong>
 </p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cryptocurrencies and their derivatives are unregulated except for cryptocurrency

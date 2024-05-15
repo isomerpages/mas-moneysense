@@ -45,7 +45,7 @@ significant amount, or even all of my money?”</p>
 <h3>Managing Risk</h3>
 <p>All investments involve some measure of risk. You can use these three
 investment strategies to help you manage risk:</p>
-<h4>Diversification</h4>
+<h3>Diversification</h3>
 <p>Diversification refers to spreading your investments over a variety of
 assets with the aim that a portfolio of lowly-correlated assets does not
 all move in the same direction at the same time or even if they do move
@@ -67,7 +67,7 @@ countries (e.g. a portfolio of different shares or exchange-traded fund
 that tracks an index)</p>
 </li>
 </ul>
-<h4>Correlation</h4>
+<h3>Correlation</h3>
 <p>Assets that move together in the same direction are said to be correlated.
 One way to diversify is to combine assets which move randomly or in opposite
 ways. These assets can be described as being negatively correlated, or
@@ -81,7 +81,7 @@ used in construction, will drop. These two are positively correlated.</p>
 <p>However, industries dealing in healthcare will not be affected and hence
 the share price of a healthcare company will move independently or randomly
 – they are not correlated.</p>
-<h4>Asset Allocation</h4>
+<h3>Asset Allocation</h3>
 <p>Deciding how to distribute your investments is part of the asset allocation
 strategy. Here are five factors to consider before you decide on your asset
 allocation:</p>
@@ -107,7 +107,7 @@ mix regularly in order to maintain a balanced portfolio.</p>
 <p>Keep in mind that your investment objective, horizon and risk profile
 are likely to change as you go through different life stages. You will
 want to re-evaluate these from time to time.</p>
-<h4>Dollar-cost Averaging</h4>
+<h3>Dollar-cost Averaging</h3>
 <p>Market conditions are hard to predict. Trying to buy low and sell high
 can be challenging and most investors fail to sustain any significant returns
 this way.</p>

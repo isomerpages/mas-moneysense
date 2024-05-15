@@ -20,9 +20,13 @@ be terminated without your consent. For short-term policies, insurers may
 terminate your policies by informing you in advance.</p>
 <p>Be sure to buy a policy which fits your needs. Do note that a new policy
 may not give you the same coverage as before.</p>
-<h3>Types of Health Insurance Plans</h3>
+<h3>Types Of Health Insurance Plans</h3>
 <p>There are five types of health insurance plans.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
