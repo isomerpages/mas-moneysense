@@ -48,5 +48,6 @@ discuss them with your spouse first.</p>
 <h4>6. Sort Out The Important Things First</h4>
 <p>As you move on to the next stage of life, it's also time to review your
 health and life insurance.</p>
-<h4><a href="/files/Couples_Booklet___Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Read More: </a>Planning Your Finances Together</h4>
+<p></p>
+<h4>Read More: <a href="/files/Couples_Booklet___Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Planning Your Finances Together</a></h4>
 <p></p>
