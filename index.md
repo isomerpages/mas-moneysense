@@ -37,7 +37,6 @@ sections:
         at the heart of these milestones in life.
   - infopic:
       title: Institute for Financial Literacy
-      subtitle: Add an image and text
       id: infopic
       description: The Institute for Financial Literacy, the outreach arm of
         MoneySense, conducts free and unbiased financial education and training
