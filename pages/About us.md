@@ -80,4 +80,8 @@ the&nbsp;<a href="http://mom.gov.sg/" rel="noopener noreferrer nofollow" target=
 and comprises representatives from various government agencies as well
 as the financial industry, academia and media.</p>
 <p></p>
+<h3>Get The Latest News By Following Us On </h3>
+<h4>Facebook </h4>
+<h4>Instagram </h4>
+<h4>YouTube</h4>
 <p></p>
