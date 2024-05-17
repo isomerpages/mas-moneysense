@@ -4,5 +4,7 @@ links:
     url: /about-us/
   - title: Stay Updated
     url: /stay-updated/
-  - title: "Insurance "
+  - title: Insurance
     collection: insurance
+  - title: "Investments "
+    collection: investments
