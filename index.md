@@ -41,7 +41,7 @@ sections:
       description: The Institute for Financial Literacy, the outreach arm of
         MoneySense, conducts free and unbiased financial education and training
         programmes for the public.
-      button: IFL
+      button: Find Out More
       url: https://ifl.org.sg/
       image: /images/2018 MoneySense website images/IFL.png
       alt: IFL
