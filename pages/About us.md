@@ -81,7 +81,7 @@ and comprises representatives from various government agencies as well
 as the financial industry, academia and media.</p>
 <p></p>
 <h3>Get The Latest News By Following Us On</h3>
-<h4>Facebook</h4>
-<h4>Instagram</h4>
-<h4>YouTube</h4>
+<h4><a href="https://www.facebook.com/MoneySense/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a></h4>
+<h4><a href="https://www.instagram.com/moneysense_sg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></h4>
+<h4><a href="https://www.youtube.com/@moneysense_singapore" rel="noopener noreferrer nofollow" target="_blank">YouTube</a></h4>
 <p></p>
