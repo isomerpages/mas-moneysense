@@ -44,5 +44,4 @@ sections:
       button: Button Text
       url: https://ifl.org.sg/
       image: /images/2018 MoneySense website images/IFL.png
-      alt: Image alt text
 ---
