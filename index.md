@@ -36,7 +36,7 @@ sections:
       description: From buying a house to starting a family, solid financial plans are
         at the heart of these milestones in life.
   - infopic:
-      title: "Institute for Financial Literacy "
+      title: Institute for Financial Literacy
       id: infopic
       description: The Institute for Financial Literacy, the outreach arm of
         MoneySense, conducts free and unbiased financial education and training
