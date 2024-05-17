@@ -2,11 +2,9 @@ logo: /images/logo-moneysense-nobg.png
 links:
   - title: About Us
     url: /about-us/
-  - title: Stay Updated
-    url: /stay-updated/
   - title: Insurance
     collection: insurance
   - title: Investments
     collection: investments
-  - title: "Retirement "
+  - title: Retirement
     collection: legacy-planning
