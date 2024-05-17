@@ -6,5 +6,7 @@ links:
     url: /stay-updated/
   - title: Insurance
     collection: insurance
-  - title: "Investments "
+  - title: Investments
     collection: investments
+  - title: "Retirement "
+    collection: legacy-planning
