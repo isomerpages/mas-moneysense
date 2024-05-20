@@ -35,4 +35,14 @@ sections:
       image: /images/Homepage/navigating financial decisions.jfif
       description: From buying a house to starting a family, solid financial plans are
         at the heart of these milestones in life.
+  - infopic:
+      title: Institute for Financial Literacy
+      id: infopic
+      description: The Institute for Financial Literacy, the outreach arm of
+        MoneySense, conducts free and unbiased financial education and training
+        programmes for the public.
+      button: Find Out More
+      url: https://ifl.org.sg/
+      image: /images/2018 MoneySense website images/IFL.png
+      alt: IFL
 ---

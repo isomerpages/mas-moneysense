@@ -1,5 +1,5 @@
 collections:
-  insurance-protection:
+  insurance:
     output: true
     order:
       - Insurance Basics.md

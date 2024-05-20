@@ -79,3 +79,9 @@ a success. We work with a variety of partners from:</p>
 the&nbsp;<a href="http://mom.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Manpower</a>,
 and comprises representatives from various government agencies as well
 as the financial industry, academia and media.</p>
+<p></p>
+<h3>Get The Latest News By Following Us On</h3>
+<h4><a href="https://www.facebook.com/MoneySense/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a></h4>
+<h4><a href="https://www.instagram.com/moneysense_sg/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></h4>
+<h4><a href="https://www.youtube.com/@moneysense_singapore" rel="noopener noreferrer nofollow" target="_blank">YouTube</a></h4>
+<p></p>
