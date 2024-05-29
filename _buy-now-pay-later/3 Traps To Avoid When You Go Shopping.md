@@ -52,6 +52,25 @@ price (e.g. additional costs if I miss payment)?</p>
 </ul>
 <p>Usually, leaving the store or website and waiting for three days before
 making a purchase will give you clear answers.</p>
+<h3>BNPL Code Trustmark</h3>
+<p>If you find yourself needing to use a BNPL service, choose one that prioritises
+consumer protection and responsible lending. Look for BNPL providers that
+have the BNPL Code</p>
+<p>Trustmark – which indicates that the provider complies with the BNPL Code.
+The BNPL Code is designed to keep consumers safe and reduce their risk
+of getting into too much debt. Accredited BNPL providers have committed
+to implementing safeguards such as not charging compound interest on late
+payments, fair and clear disclosures, suspension of account upon default,
+voluntary exclusions, and financial hardship assistance.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BNPL.png">
+</div>
+<p>You can find more information about the BNPL Code on the Singapore FinTech
+Association's website <a href="https://singaporefintech.org/bnpl-code-of-conduct/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Opting for BNPL providers with the Trustmark can be a helpful step but
+the key to avoiding debt and maintaining financial health is to spend within
+your means and be fully aware of your repayment capabilities.</p>
 <h3>Preying On The Fear Of Missing Out (FOMO)</h3>
 <p>With online shopping, the temptation to splurge has become a daily struggle
 for many.</p>
