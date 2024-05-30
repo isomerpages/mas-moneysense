@@ -75,7 +75,7 @@ your credit card away until you have paid off the outstanding balance.</p>
 <p>If you make a partial payment or only pay the minimum sum due, <strong>interest will be charged</strong> on
 the unpaid balance. Interest will also be payable on any new purchases.</p>
 <h3><strong>Note</strong></h3>
-<p><a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/understanding-credit-card-interest-and-charges.html" rel="noopener noreferrer nofollow" target="_blank">Credit card interest</a> can
+<p><a href="https://www.moneysense.gov.sg/understanding-credit-card-interest-and-charges/" rel="noopener noreferrer nofollow" target="_blank">Credit card interest</a> can
 easily snowball. Use your credit card only when you can afford to pay for
 the purchases.</p>
 <h3><strong>Gifts And Rewards</strong></h3>
