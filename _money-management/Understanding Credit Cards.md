@@ -85,7 +85,7 @@ have different reward schemes. Specific terms and conditions may apply.
 For example, you may not be able to cancel your card within the first year
 after claiming a gift.</p>
 <h3><strong>Credit Card Instalment Plans</strong></h3>
-<p>When you buy something on a <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/the-real-cost-of-instalment-payment-plans.html" rel="noopener noreferrer nofollow" target="_blank">credit card instalment plan</a>,
+<p>When you buy something on a <a href="https://www.moneysense.gov.sg/buy-now-pay-later/real-cost-instalment-payment-plan/" rel="noopener noreferrer nofollow" target="_blank">credit card instalment plan</a>,
 you have to settle it in full. Which means that even if the merchant fails,
 you have to keep paying the monthly instalment until it is fully settled.</p>
 <ul data-tight="true" class="tight">
