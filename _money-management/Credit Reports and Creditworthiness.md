@@ -22,13 +22,13 @@ description: ""
 <p>Learn good money habits to ace your future credit report.</p>
 </li>
 </ul>
-<h3><strong>What is a credit bureau?</strong></h3>
+<h3><strong>What Is A Credit Bureau?</strong></h3>
 <p>A credit bureau is an agency that collects and stores information on your
 credit history, such as loans, credit card applications and repayment records.</p>
 <p>Information in the credit report is provided by members of the credit
 bureau such as banks and credit card companies, and obtained from public
 sources on bankruptcy.</p>
-<h3><strong>Approved credit bureaus</strong></h3>
+<h3><strong>Approved Credit Bureaus</strong></h3>
 <p>For banks and finance companies, only 2 credit bureaus are allowed to
 obtain such information in Singapore. They are <a href="https://www.creditbureau.com.sg/" rel="noopener noreferrer" target="_blank">Credit Bureau (Singapore)</a> and
 <a href="https://apps.experian.com.sg/dp-credit-rating/about-dp-credit-rating.asp" rel="noopener noreferrer" target="_blank">Experian Credit Bureau Singapore (ECBS)</a>.</p>
@@ -37,7 +37,7 @@ the central repository of data on borrowers’ loans and repayment records
 with licensed moneylenders. It allows licensed moneylenders to assess the
 creditworthiness of borrowers and help borrowers avoid borrowing beyond
 their means.</p>
-<h3><strong>What is a credit report?</strong></h3>
+<h3><strong>What Is A Credit Report?</strong></h3>
 <p>A credit report is a compilation of your credit payment history collected
 across all your banks. It is issued by a credit bureau to banks, finance
 companies and credit card companies when they make enquiries about you.
@@ -75,14 +75,14 @@ date the account was reported closed or terminated.</p>
 <p>Aggregated credit limits.</p>
 </li>
 </ul>
-<h3><strong>Why it matters</strong></h3>
+<h3><strong>Why It Matters</strong></h3>
 <p>The credit score on your report shows how likely you will repay your debts.</p>
 <p>Banks will assess your creditworthiness by looking at the credit score.
 The score helps them make better lending decisions when you apply for loans
 and credit cards.</p>
 <p>A good credit repayment history makes it easier for you to qualify for
 loans and credit cards in the future.</p>
-<h3><strong>Factors that affect your report</strong></h3>
+<h3><strong>Factors That Affect Your Report</strong></h3>
 <p>A number of different factors could affect your credit report:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -103,10 +103,10 @@ card unless you need it.</p>
 credit facilities within a short period, you may be overextending yourself.</p>
 </li>
 </ul>
-<h3><strong>How to get a copy of your report</strong></h3>
+<h3><strong>How To Get A Copy Of Your Report</strong></h3>
 <p>To check your credit score, contact <a href="https://www.creditbureau.com.sg/available-options.html" rel="noopener noreferrer" target="_blank">Credit Bureau Singapore</a> or
 <a href="https://apps.experian.com.sg/dp-credit-rating/about-dp-credit-rating.asp" rel="noopener noreferrer" target="_blank">Experian Credit Bureau Singapore (ECBS)</a>.</p>
-<h3><strong>If you disagree with your report</strong></h3>
+<h3><strong>If You Disagree With Your Report</strong></h3>
 <p>If you spot an error or disagree with some information in your credit
 report, write to the credit bureau about it. The credit bureau will:</p>
 <ul data-tight="true" class="tight">
@@ -125,7 +125,7 @@ is under investigation.</p>
 to all banks who have made enquiries on you in the past three months</p>
 </li>
 </ul>
-<h3><strong>Tips on keeping a good credit score</strong></h3>
+<h3><strong>Tips On Keeping A Good Credit Score</strong></h3>
 <p>To maintain a healthy credit score:</p>
 <ul data-tight="true" class="tight">
 <li>
