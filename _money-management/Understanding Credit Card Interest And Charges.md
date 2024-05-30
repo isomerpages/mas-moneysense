@@ -187,7 +187,7 @@ transaction fee to the card issuing bank. This is typically passed on to
 you as stated in the card's terms and conditions.</p>
 </li>
 </ul>
-<p><strong>Overseas transactions in SGD</strong>
+<p><strong>Overseas Transactions In SGD</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
