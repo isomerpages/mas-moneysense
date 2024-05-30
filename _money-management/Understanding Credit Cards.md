@@ -100,37 +100,37 @@ a credit card issuer and a merchant as an incentive for customers to use
 that credit card.</p>
 </li>
 </ul>
-<h2><strong>Applying for a credit card</strong></h2>
+<h3><strong>Applying For A Credit Card</strong></h3>
 <p>You can apply for a credit card from any credit card issuer or bank. If
-your application is accepted, you'll receive a card with a fixed credit
+your application is accepted, you will receive a card with a fixed credit
 limit.</p>
 <p>Before that, the credit card issuer or bank will assess your income and
 repayment ability by reviewing your credit report. Take a look at your
-<a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/credit-reports-and-creditworthiness.html" rel="noopener noreferrer nofollow" target="_blank">credit report</a>to see if it's accurate.</p>
+<a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/credit-reports-and-creditworthiness.html" rel="noopener noreferrer nofollow" target="_blank">credit report</a>to see if it is accurate.</p>
 <p>You will also sometimes see credit cards offered at roadshows and shopping
 malls. While the credit card promoter can help you fill out the form, the
 final decision to send in the application rests with you.</p>
-<h3><strong>Eligibility and credit limit</strong></h3>
+<h3><strong>Eligibility And Credit Limit</strong></h3>
 <p>To apply for a credit card, you must meet the bank's eligibility requirements,
 including a minimum annual income of $30,000.</p>
-<p>While you may meet the eligibility criteria, you will also be subject
+<p>While you may meet the eligibility criteria, you will also be subjected
 to the rules on unsecured credit limits from the Monetary Authority of
 Singapore.</p>
 <p><strong>Tips:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Don't apply for more cards than you need, even if they're free. Limit
+<p>Do not apply for more cards than you need, even if they are free. Limit
 the number of credit cards to your needs and repayment ability, and cancel
-cards you don't use.</p>
+cards that you do not use.</p>
 </li>
 <li>
 <p>A <strong>debit card</strong> limits your spending to what you have in your
-bank account. If you're not confident you can control your spending, it's
-a good alternative to a credit card.</p>
+bank account. If you are not confident that you can control your spending,
+it is a good alternative to a credit card.</p>
 </li>
 </ul>
-<h2><strong>If you lose your credit card or suspect fraud</strong></h2>
+<h3><strong>If You Lose Your Credit Card Or Suspect Fraud</strong></h3>
 <p>Call the bank immediately if your credit card is lost or stolen, or if
 there are unauthorised transactions. Note the time and date when you do
 so.</p>
