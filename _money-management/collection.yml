@@ -1,0 +1,4 @@
+collections:
+  money-management:
+    output: true
+    order: []
