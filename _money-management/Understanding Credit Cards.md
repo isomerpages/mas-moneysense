@@ -8,104 +8,94 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/woman_holding_card6cff.jpg">
 </div>
-<p><strong>A credit card lets you borrow up to the credit limit set on the card. Learn how credit cards work, tips for using your cards wisely, and how to avoid theft and fraud.</strong>
+<p><strong>A credit card lets you borrow up to the credit limit set on the card. Learn how credit cards work, tips for using your cards wisely and how to avoid theft and fraud.</strong>
 </p>
-<p><strong>Key takeaways</strong>
-</p>
+<h3><strong>Key Takeaways</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>A credit card lets you purchase items and pay for them later.</strong>
-</p>
+<p>A credit card lets you purchase items and pay for them later.</p>
 </li>
 <li>
-<p><strong>Missing a payment can trigger hefty interest charges and late payment fees.</strong>
-</p>
+<p>Missing a payment can trigger hefty interest charges and late payment
+fees.</p>
 </li>
 <li>
-<p><strong>Paying late or missing payments will hurt your credit standing.</strong>
-</p>
+<p>Paying late or missing payments will hurt your credit standing.</p>
 </li>
 <li>
-<p><strong>Guard your credit cards like cash to keep them safe.</strong>
-</p>
+<p>Guard your credit cards like cash to keep them safe.</p>
 </li>
 </ul>
-<h2><strong>What is a credit card?</strong></h2>
+<h3><strong>What Is A Credit Card?</strong></h3>
 <p>A credit card is a form of borrowing and allows you to borrow up to the
 credit limit set for your card. Whatever you charge to your credit card
 is called the outstanding or unpaid balance. It represents what you owe.</p>
 <p>You can pay your outstanding monthly balance in full, make a partial payment
 or pay the minimum sum. However, a high interest charge (25% to 29% per
 annum) will apply on the balance and any new transactions charged.</p>
-<h2><strong>Key features</strong></h2>
+<h3><strong>Key Features</strong></h3>
 <p>The key features of credit cards include the following:</p>
-<p><strong>Annual fees</strong>
+<p><strong>Annual Fees</strong>
 </p>
 <p>This is a membership fee which you have to pay for the use of the credit
 card.</p>
-<p><strong>Monthly statement</strong>
+<p><strong>Monthly Statement</strong>
 </p>
 <p>Your bank will send you a monthly statement (i.e. bill) with details of
 your credit card spending for the month. Check your statement carefully
-to keep track of how much you've spent. Let your bank know if there are
-transactions which you do not recognise, or if anything is unclear.</p>
+to keep track of how much you had spent. Let your bank know if there are
+transactions which you do not recognise or if anything is unclear.</p>
 <p>The <strong>payment due date</strong> is the date by which the bank must
 receive the money to pay your credit card bill in full, to avoid incurring
 interest and late charges.</p>
 <p><strong>View:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/-/media/moneysense/images/content-graphics-infographics/credit-card-statement.jpg" rel="noopener noreferrer nofollow" target="_blank">Sample credit card statement</a>
 </p>
-<p><strong>Foreign currency transactions</strong>
+<p><strong>Foreign Currency Transactions</strong>
 </p>
 <p>Overseas purchases will be converted to Singapore dollars in your statement.
 The foreign exchange rates used may vary from day to day and from bank
 to bank. They usually include currency conversion charges or other administrative
 fees. Check with your bank for their rates.</p>
-<p><strong>Free credit period before the due date</strong>
+<p><strong>Free Credit Period Before The Due Date</strong>
 </p>
 <p>When you receive your credit card bill each month, you are given 20 to
 25 days to pay it (by the due date) before the bank starts charging interest
 and late fees. This period is known as the free credit period.</p>
-<p><strong>Minimum sum for payments</strong>
+<p><strong>Minimum Sum For Payments</strong>
 </p>
 <p>Paying the minimum sum due on your credit card means the rest of your
 balance will incur interest charges. The minimum sum is usually 3% to 5%
-of the unpaid balance, or a specified amount, e.g. $50, whichever is higher.</p>
-<p></p>
+of the unpaid balance or a specified amount, e.g. $50, whichever is higher.</p>
 <h3><strong>Note</strong></h3>
 <p>If you are really unable to pay your bill in full, pay at least the minimum
 sum by the due date to avoid late payment charges. Then <strong>pay off the balance as quickly as possible.</strong> Put
 your credit card away until you have paid off the outstanding balance.</p>
 <p></p>
-<p><strong>Interest charge on unpaid balances</strong>
-</p>
+<h3><strong>Interest Charge On Unpaid Balances</strong></h3>
 <p>If you make a partial payment or only pay the minimum sum due, <strong>interest will be charged</strong> on
 the unpaid balance. Interest will also be payable on any new purchases.</p>
-<p></p>
 <h3><strong>Note</strong></h3>
 <p><a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/understanding-credit-card-interest-and-charges.html" rel="noopener noreferrer nofollow" target="_blank">Credit card interest</a> can
 easily snowball. Use your credit card only when you can afford to pay for
 the purchases.</p>
-<p></p>
-<p><strong>Gifts and rewards</strong>
-</p>
+<h3><strong>Gifts And Rewards</strong></h3>
 <p>You may get gifts, cashback and bonus points when you chalk up your credit
 card spending. Compare how bonus points are calculated as different banks
 have different reward schemes. Specific terms and conditions may apply.
 For example, you may not be able to cancel your card within the first year
 after claiming a gift.</p>
-<p><strong>Credit card instalment plans</strong>
-</p>
+<h3><strong>Credit Card Instalment Plans</strong></h3>
 <p>When you buy something on a <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/the-real-cost-of-instalment-payment-plans.html" rel="noopener noreferrer nofollow" target="_blank">credit card instalment plan</a>,
 you have to settle it in full. Which means that even if the merchant fails,
 you have to keep paying the monthly instalment until it is fully settled.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>In-house instalment payment plan:</strong> The store offers to
+<p><strong>In-house Instalment Payment Plan:</strong> The store offers to
 extend credit to the customer. In these plans, the store can usually repossess
 the item should the customer fail to pay their instalments.</p>
 </li>
 <li>
-<p><strong>Instalment payment plan:</strong> Credit is offered as a deal between
+<p><strong>Instalment Payment Plan:</strong> Credit is offered as a deal between
 a credit card issuer and a merchant as an incentive for customers to use
 that credit card.</p>
 </li>
