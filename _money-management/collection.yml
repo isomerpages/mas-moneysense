@@ -2,4 +2,5 @@ collections:
   money-management:
     output: true
     order:
+      - Understanding Credit Card Interest And Charges.md
       - Understanding Credit Cards.md
