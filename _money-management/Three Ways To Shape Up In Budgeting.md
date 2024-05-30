@@ -15,7 +15,7 @@ it is actually one way to shape up in budgeting.</p>
 <p>To recap, <strong>needs</strong> are things you cannot live without, like
 food or utilities; <strong>wants</strong> are things you desire, like a new
 pair of shoes, and yes, that Netflix subscription.</p>
-<h2><strong>Save When you spend</strong></h2>
+<h3><strong>Save When You Spend</strong></h3>
 <p>So, if you're always <strong>keeping an eye out for discounts on essentials</strong>,
 you're shaving spending from your budget.</p>
 <p>For example, you could choose the right supermarket to pick up your groceries.
@@ -29,7 +29,7 @@ price in your area! The app currently covers about 3,000 common household
 and grocery items, such as milk, rice, and eggs, being sold at most of
 the major supermarket chains. Hawker food prices will also be shown in
 the app.</p>
-<h2><strong>Where's your money going?</strong></h2>
+<h3><strong>Where Is Your Money Going?</strong></h3>
 <p>You could be in a job of your dreams, drawing a handsome salary, but are
 you leaking money?</p>
 <p>Sit down for an honest talk with yourself from time to time: Are you reading
@@ -45,7 +45,7 @@ way to handle your money. The key to being financially secure is not how
 much money we make, but how well we manage it.</p>
 <p>Study your bills carefully every few months and you might <strong>find unnecessary spending you can cut </strong>without
 even noticing any difference in your lifestyle!</p>
-<h2><strong>Challenge someone</strong></h2>
+<h3><strong>Challenge Someone</strong></h3>
 <p>Keeping to a budget can seem joyless at times. After all, you are delaying
 gratification.</p>
 <p>But know that budgeting gets easier with time. The longer you keep to
@@ -60,8 +60,7 @@ journey, regardless of how much your paycheck grows. It also means it's
 never too late to start!</p>
 <p></p>
 <h3><strong>Checklist</strong></h3>
-<p></p>
-<h3><strong>How to prepare a budget</strong></h3>
+<h4><strong>How To Prepare A Budget</strong></h4>
 <p>Here are a few tips to get you started (you can use our <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/financial-tools/budget-calculator.html" rel="noopener noreferrer nofollow" target="_blank">Budget Calculator</a>&nbsp;to
 guide you):</p>
 <ol data-tight="true" class="tight">
