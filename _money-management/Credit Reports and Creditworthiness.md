@@ -29,7 +29,7 @@ credit history, such as loans, credit card applications and repayment records.</
 bureau such as banks and credit card companies, and obtained from public
 sources on bankruptcy.</p>
 <h3><strong>Approved Credit Bureaus</strong></h3>
-<p>For banks and finance companies, only 2 credit bureaus are allowed to
+<p>For banks and finance companies, only two credit bureaus are allowed to
 obtain such information in Singapore. They are <a href="https://www.creditbureau.com.sg/" rel="noopener noreferrer" target="_blank">Credit Bureau (Singapore)</a> and
 <a href="https://apps.experian.com.sg/dp-credit-rating/about-dp-credit-rating.asp" rel="noopener noreferrer" target="_blank">Experian Credit Bureau Singapore (ECBS)</a>.</p>
 <p>For licensed moneylenders, the <a href="https://www.mlcb.com.sg/" rel="noopener noreferrer" target="_blank">Moneylenders Credit Bureau (MLCB)</a> is
@@ -60,13 +60,13 @@ on credit card bills.</p>
 credit bureau.</p>
 </li>
 <li>
-<p>Bankruptcy records, if any – displayed for 5 years from the date of discharge.
-If you are able to repay your debts in full, the Bankruptcy Order will
-be annulled and your bankruptcy record will be removed immediately.</p>
+<p>Bankruptcy records, if any – displayed for five years from the date of
+discharge. If you are able to repay your debts in full, the Bankruptcy
+Order will be annulled and your bankruptcy record will be removed immediately.</p>
 </li>
 <li>
-<p>Closed or terminated credit accounts – displayed for 3 years from the
-date the account was reported closed or terminated.</p>
+<p>Closed or terminated credit accounts – displayed for three years from
+the date the account was reported closed or terminated.</p>
 </li>
 <li>
 <p>Aggregated outstanding balances.</p>
