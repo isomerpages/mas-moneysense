@@ -91,11 +91,11 @@ open or active that provide you with a credit facility.</p>
 </li>
 <li>
 <p><strong>Credit history -</strong> Long-established credit history shows
-that you're a reliable borrower.</p>
+that you are a reliable borrower.</p>
 </li>
 <li>
 <p><strong>Enquiry activity -</strong> Too many new applications or enquiries
-show that you're trying to take on more debt. Don't apply for a new credit
+show that you are trying to take on more debt. Do not apply for a new credit
 card unless you need it.</p>
 </li>
 <li>
@@ -115,7 +115,7 @@ report, write to the credit bureau about it. The credit bureau will:</p>
 </li>
 <li>
 <p>Post a notice in your credit report that the data is being disputed and
-is under investigation.</p>
+is under investigation</p>
 </li>
 <li>
 <p>Inform you of the outcome</p>
@@ -136,7 +136,7 @@ to all banks who have made enquiries on you in the past three months</p>
 then</p>
 </li>
 <li>
-<p>Avoid too many sources of credit. It's easier to keep track of your repayments
+<p>Avoid too many sources of credit. It is easier to keep track of your repayments
 when you have fewer credit facilities</p>
 </li>
 </ul>
