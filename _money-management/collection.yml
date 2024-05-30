@@ -1,4 +1,5 @@
 collections:
   money-management:
     output: true
-    order: []
+    order:
+      - The Real Cost Of Instalment Payment Plans.md
