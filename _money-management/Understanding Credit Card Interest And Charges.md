@@ -209,7 +209,7 @@ charged by the card company (Mastercard or Visa) to the card issuing bank.</p>
 SGD) at overseas ATMs.</p>
 </li>
 </ul>
-<h2><strong>The bottom line</strong></h2>
-<p>The longer you take to pay off your credit cards, the more interest you'll
-have to pay in the end. So, use your credit card for what it's intended
+<h3><strong>The Bottom Line</strong></h3>
+<p>The longer you take to pay off your credit cards, the more interest you
+will have to pay in the end. So, use your credit card for what it is intended
 for – short-term payments, not long-term loans.</p>
