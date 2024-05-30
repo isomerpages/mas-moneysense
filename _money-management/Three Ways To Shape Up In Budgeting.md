@@ -16,11 +16,11 @@ it is actually one way to shape up in budgeting.</p>
 food or utilities; <strong>wants</strong> are things you desire, like a new
 pair of shoes, and yes, that Netflix subscription.</p>
 <h3><strong>Save When You Spend</strong></h3>
-<p>So, if you're always <strong>keeping an eye out for discounts on essentials</strong>,
-you're shaving spending from your budget.</p>
-<p>For example, you could choose the right supermarket to pick up your groceries.
-Or, shop online, when there are deals for certain products you buy regularly.</p>
-<p>Now, there's a new way to save money on groceries like a pro (without
+<p>So, if you are always <strong>keeping an eye out for discounts on essentials</strong>,
+you are shaving spending from your budget.</p>
+<p>For example, you could choose the right supermarket to pick up your groceries
+or shop online when there are deals for certain products you buy regularly.</p>
+<p>Now, there is a new way to save money on groceries like a pro (without
 exposing your inner Aunty.)</p>
 <p>The Consumers Association of Singapore (CASE) has launched a mobile app
 called <a href="https://www.case.org.sg/beyond-100000-downloads-heres-a-sneak-peek-at-whats-coming-for-price-kaki" rel="noopener noreferrer nofollow" target="_blank">Price Kaki </a>,
