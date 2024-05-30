@@ -145,11 +145,11 @@ then to paying the outstanding balance. So, out of the minimum sum of $50,
 after deducting to pay for interest due, only what is left is used to pay
 down the outstanding balance.</p>
 <h3><strong>Late Fee And Finance Charges</strong></h3>
-<p>If you don't pay the minimum sum by the due date, the bank can impose
+<p>If you do not pay the minimum sum by the due date, the bank can impose
 a late fee and finance charges. This amount attracts interest on your next
 bill.</p>
 <p>The late fee is often a flat $100, regardless of the size of the bill.</p>
-<h2><strong>Other costs of credit cards</strong></h2>
+<h3><strong>Other Costs Of Credit Cards</strong></h3>
 <p>Even if you pay your credit card bill in full every month, having a credit
 card can come with other fees and charges. These include:</p>
 <ul data-tight="true" class="tight">
@@ -161,15 +161,15 @@ card can come with other fees and charges. These include:</p>
 a new one</p>
 </li>
 <li>
-<p><strong>Cash advances/withdrawal fee –</strong> Getting cash by drawing
+<p><strong>Cash advances/ Withdrawal fee –</strong> Getting cash by drawing
 down from the credit limit</p>
 </li>
 </ul>
-<h3><strong>International transaction fees</strong></h3>
+<h3><strong>International Transaction Fees</strong></h3>
 <p>Credit cards have made it easier for you to buy things overseas and online.
 However, you should be aware of the many fees associated with transacting
 with merchants located overseas.</p>
-<p><strong>Transactions in foreign currency</strong>
+<p><strong>Transactions In Foreign Currency</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
