@@ -10,68 +10,66 @@ description: ""
 </div>
 <p><strong>Credit cards should not be used as a long-term credit facility. Learn about credit card interest and other fees and charges, and the consequences of rolling over your balance.</strong>
 </p>
-<h3><strong>Key takeaways</strong></h3>
+<h3><strong>Key Takeaways</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Unpaid credit card debt can snowball out of control</strong>
-</p>
+<p>Unpaid credit card debt can snowball out of control.</p>
 </li>
 <li>
-<p><strong>If you pay your credit card bill in full and on time, you won't get charged interest</strong>
-</p>
+<p>If you pay your credit card bill in full and on time, you will not get
+charged interest.</p>
 </li>
 <li>
-<p><strong>The longer you owe the bank, the more interest you'll have to pay</strong>
-</p>
+<p>The longer you owe the bank, the more interest you will have to pay.</p>
 </li>
 </ul>
-<h2><strong>What a credit card is and isn't</strong></h2>
+<h3><strong>What A Credit Card Is And Is Not</strong></h3>
 <p>A credit card allows you to charge up to the credit limit set on the card.
 The outstanding balance represents what you owe. Interest is charged on
-the balance if you don't pay in full and choose to pay only the minimum
+the balance if you do not pay in full and choose to pay only the minimum
 amount due in your monthly statement.</p>
 <p>If you have a credit card, you probably know how useful it can be, so
 much so that we often forget:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A credit card is a form of borrowing</p>
+<p>A credit card is a form of borrowing; and</p>
 </li>
 <li>
-<p>Outstanding balance incurs high interest charges if it's not paid back
-in full</p>
+<p>Outstanding balance incurs high interest charges if it is not paid back
+in full.</p>
 </li>
 </ul>
 <p>So while credit cards are convenient for cashless payment of goods and
 services, they should not be used as a long-term credit facility.</p>
-<h2><strong>Credit card interest</strong></h2>
-<p>The good news is that you don't have to pay any interest if you pay credit
+<h3><strong>Credit Card Interest</strong></h3>
+<p>The good news is that you do not have to pay any interest if you pay credit
 card bills <strong>in full</strong> before the due date.</p>
-<p>But if you're unable to pay your credit card bill, you need to know that:</p>
+<p>However, if you are unable to pay your credit card bill, you need to know
+that:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Interest is charged on a daily basis for the outstanding amount</p>
+<p>Interest is charged on a daily basis for the outstanding amount.</p>
 </li>
 <li>
 <p>Any interest not settled by the next payment due date will also attract
-interest in the next statement</p>
+interest in the next statement.</p>
 </li>
 <li>
 <p>Interest will also be charged on any new purchases until full settlement
-is received</p>
+is received.</p>
 </li>
 </ul>
 <p>In short, any unpaid amount on your current bill will be rolled over to
 the next bill, and charged an interest on top of that. The debt can easily
 snowball.</p>
-<h2><strong>How credit card debt can snowball</strong></h2>
+<h3><strong>How Credit Card Debt Can Snowball</strong></h3>
 <p>Think that paying the minimum sum is good enough? Think again!</p>
-<p></p>
-<h3><strong>A debt of $5,000 could take more than 14 years to pay off</strong></h3>
+<h4><strong>A debt of $5,000 could take more than 14 years to pay off!</strong></h4>
 <p>Assume you have a credit card bill of $5,000 with Bank X. Credit card
 interest is fixed at 25% per year and the minimum sum is $50 per month.</p>
 <p>The table below illustrates what happens when you only pay the minimum
 sum. Under this scenario, by the time the debt is fully paid off, you would
-have paid almost 3 times your initial debt!</p>
+have paid almost three times your initial debt!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -80,7 +78,7 @@ have paid almost 3 times your initial debt!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Initial debt</strong>
+<p><strong>Initial Debt</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +87,7 @@ have paid almost 3 times your initial debt!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Monthly minimum sum payment</strong>
+<p><strong>Monthly Minimum Sum Payment</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +96,7 @@ have paid almost 3 times your initial debt!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Interest rate for overdue outstanding debt</strong>
+<p><strong>Interest Rate For Overdue Outstanding Debt</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +105,7 @@ have paid almost 3 times your initial debt!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time taken to pay off all debts</strong>
+<p><strong>Time Taken To Pay Off All Debts</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +115,7 @@ have paid almost 3 times your initial debt!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Total amount paid eventually</strong>
+<p><strong>Total Amount Paid Eventually</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,26 +125,26 @@ have paid almost 3 times your initial debt!</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>What happens if you don't pay the minimum sum</strong></h3>
-<p>If you are not able to pay the minimum sum for 2 consecutive months:</p>
+<h3><strong>What Happens If You Do Not Pay The Minimum Sum</strong></h3>
+<p>If you are not able to pay the minimum sum for two consecutive months:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You will not be able to obtain new unsecured credit facilities</p>
+<p>You will not be able to obtain new unsecured credit facilities.</p>
 </li>
 <li>
-<p>Your overdue credit lines will also be suspended</p>
+<p>Your overdue credit lines will also be suspended.</p>
 </li>
 <li>
 <p>Late payments could also negatively affect your credit scores with the
-credit bureaus</p>
+credit bureaus.</p>
 </li>
 </ul>
 <h3><strong>Note</strong></h3>
 <p>The minimum payment always goes towards paying the interest charge first,
 then to paying the outstanding balance. So, out of the minimum sum of $50,
-after deducting to pay for interest due, only what's left is used to pay
+after deducting to pay for interest due, only what is left is used to pay
 down the outstanding balance.</p>
-<h2><strong>Late fee and finance charges</strong></h2>
+<h3><strong>Late Fee And Finance Charges</strong></h3>
 <p>If you don't pay the minimum sum by the due date, the bank can impose
 a late fee and finance charges. This amount attracts interest on your next
 bill.</p>
