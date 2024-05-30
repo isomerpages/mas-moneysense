@@ -106,7 +106,7 @@ your application is accepted, you will receive a card with a fixed credit
 limit.</p>
 <p>Before that, the credit card issuer or bank will assess your income and
 repayment ability by reviewing your credit report. Take a look at your
-<a href="https://www.moneysense.gov.sg/credit-reports-and-creditworthiness/" rel="noopener noreferrer nofollow" target="_blank">credit report</a>to see if it is accurate.</p>
+<a href="https://www.moneysense.gov.sg/credit-reports-and-creditworthiness/" rel="noopener noreferrer nofollow" target="_blank">credit card</a>to see if it is accurate.</p>
 <p>You will also sometimes see credit cards offered at roadshows and shopping
 malls. While the credit card promoter can help you fill out the form, the
 final decision to send in the application rests with you.</p>
