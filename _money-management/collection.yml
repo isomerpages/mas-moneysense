@@ -2,6 +2,6 @@ collections:
   money-management:
     output: true
     order:
-      - Credit Reports and Creditworthiness.md
       - Understanding Credit Cards.md
       - Understanding Credit Card Interest And Charges.md
+      - Credit Reports and Creditworthiness.md
