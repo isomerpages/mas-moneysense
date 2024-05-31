@@ -39,8 +39,9 @@ credit cards, you are paying on credit. When you use a debit card, the
 purchase amount is drawn from your own bank account.</p>
 <p>Fees may be charged for debit cards. There may be an annual fee, a replacement
 fee for lost cards and a fee for withdrawals made abroad.</p>
-<p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/understanding-credit-cards.html" rel="noopener noreferrer nofollow" target="_blank">Understanding credit cards</a>
+<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/understanding-credit-cards/" rel="noopener noreferrer nofollow" target="_blank">Understanding Credit Cards </a>
 </p>
+<p></p>
 <h3><strong>Risks And Safeguards</strong></h3>
 <p>Although banks in Singapore have replaced magnetic stripe-only debit cards
 with chip cards, magnetic stripes are still used overseas.</p>
