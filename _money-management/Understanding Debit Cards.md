@@ -39,16 +39,15 @@ credit cards, you are paying on credit. When you use a debit card, the
 purchase amount is drawn from your own bank account.</p>
 <p>Fees may be charged for debit cards. There may be an annual fee, a replacement
 fee for lost cards and a fee for withdrawals made abroad.</p>
-<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/understanding-credit-cards/" rel="noopener noreferrer nofollow" target="_blank">Understanding Credit Cards </a>
+<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/understanding-credit-cards/" rel="noopener noreferrer nofollow" target="_blank">Understanding Credit Cards</a>
 </p>
-<p></p>
 <h3><strong>Risks And Safeguards</strong></h3>
 <p>Although banks in Singapore have replaced magnetic stripe-only debit cards
 with chip cards, magnetic stripes are still used overseas.</p>
 <p>Here are a few ways to protect yourself:</p>
 <h4><strong>Activate Transaction Alerts</strong></h4>
-<p>Chip technology can reduce the risks of cloning, but the magnetic stripe
-part on your debit card can still be cloned or skimmed. Make sure you've
+<p>Chip technology can reduce the risks of cloning but the magnetic stripe
+part on your debit card can still be cloned or skimmed. Make sure you have
 activated transaction alerts.</p>
 <h4><strong>Check If The Correct Amount Is Debited</strong></h4>
 <p>Some small-value purchases do not need a signature. Ask for a receipt
@@ -58,12 +57,12 @@ your bank quickly to see if it can help to reverse the transaction.</p>
 <h4><strong>Be Careful When Transacting Online</strong></h4>
 <p>Your debit card details may be captured by intercepting your online transactions.
 Criminals will then use the details to perform card-not-present transactions
-such as online or mail-order/telephone-order transactions.</p>
+such as online or mail-order/ telephone-order transactions.</p>
 <h4><strong>Shop On 3D Secure Websites</strong></h4>
 <p>A One-Time Password (OTP) is needed before completing the purchase. This
 step ensures that the person making the purchase is the rightful owner
 of the debit card used. Notify your bank immediately if you received an
-OTP but didn't make the transaction.</p>
+OTP but did not make the transaction.</p>
 <h3><strong>Lost Or Stolen Cards</strong></h3>
 <p>If you lose your debit card, let the card issuer know immediately. If
 it is stolen, make a police report and inform the card issuer. The maximum
