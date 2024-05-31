@@ -13,25 +13,23 @@ description: ""
 <h3><strong>Key Takeaways</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>You can use a debit card to withdraw money from an ATM.</strong>
-</p>
+<p>You can use a debit card to withdraw money from an ATM.</p>
 </li>
 <li>
-<p><strong>You can also use it like a credit card for Point-of-Sale (POS) transactions.</strong>
-</p>
+<p>You can also use it like a credit card for Point-of-Sale (POS) transactions.</p>
 </li>
 <li>
-<p><strong>Unlike credit cards, the amount is immediately deducted from your bank account, so you can't spend more than what you have in your account.</strong>
-</p>
+<p>Unlike credit cards, the amount is immediately deducted from your bank
+account, so you cannot spend more than what you have in your account.</p>
 </li>
 </ul>
 <h3><strong>What Is A Debit Card?</strong></h3>
 <p>Debit cards are like ATM cards. You can use it to buy goods and services.
-You can also use your debit card with your personal identification number
+You can also use your debit card with your Personal Identification Number
 (PIN) to withdraw cash from your bank account at your bank’s ATMs.</p>
 <h3><strong>How It Works</strong></h3>
 <p>When you shop with your debit card or ATM card, the transaction amount
-is immediately deducted from your bank account. You can't spend more than
+is immediately deducted from your bank account. You cannot spend more than
 what's in your account.</p>
 <p>Unlike ATM cards, debit cards have a VISA or MasterCard branding. More
 often, you may not need to sign the receipt for purchases below a certain
