@@ -243,7 +243,7 @@ around.</p>
 it.</p>
 </li>
 <li>
-<p>Keep a record of your card numbers, expiration dates, and the phone number
+<p>Keep a record of your card numbers, expiration dates and the phone number
 and address of the bank in a secure place.</p>
 </li>
 <li>
