@@ -2,8 +2,8 @@ collections:
   money-management:
     output: true
     order:
-      - Understanding Debit Cards.md
       - Three Ways To Shape Up In Budgeting.md
       - Understanding Credit Cards.md
       - Understanding Credit Card Interest And Charges.md
       - Credit Reports and Creditworthiness.md
+      - Understanding Debit Cards.md
