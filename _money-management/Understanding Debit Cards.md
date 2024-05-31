@@ -155,7 +155,7 @@ magnetic stripe technology.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Migrating ATM cards to the more secure chip technology</p>
+<p>Migrating ATM cards to the more secure chip technology.</p>
 </li>
 <li>
 <p>Providing SMS alerts when transaction exceeds a certain amount.</p>
@@ -170,7 +170,6 @@ that do not need signature.
 <br><strong>Risk of cloning/ card skimming</strong> arising from the use of
 magnetic stripe technology.
 <br>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -182,7 +181,7 @@ magnetic stripe-only cards with chip cards and providing transaction alerts.</p>
 </li>
 </ul>
 <p><strong>Risk of card details compromise</strong> through intercepted card-not-present
-transactions, like online or mail-order/telephone-order transactions.</p>
+transactions, like online or mail-order/ telephone-order transactions.</p>
 </td>
 </tr>
 <tr>
