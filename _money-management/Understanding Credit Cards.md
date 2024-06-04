@@ -48,8 +48,7 @@ transactions which you do not recognise or if anything is unclear.</p>
 <p>The <strong>payment due date</strong> is the date by which the bank must
 receive the money to pay your credit card bill in full, to avoid incurring
 interest and late charges.</p>
-<p><strong>View:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/-/media/moneysense/images/content-graphics-infographics/credit-card-statement.jpg" rel="noopener noreferrer nofollow" target="_blank">Sample credit card statement</a>
-</p>
+<p></p>
 <p><strong>Foreign Currency Transactions</strong>
 </p>
 <p>Overseas purchases will be converted to Singapore dollars in your statement.
