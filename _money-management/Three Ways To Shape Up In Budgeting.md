@@ -61,8 +61,7 @@ never too late to start!</p>
 <p></p>
 <h3><strong>Checklist</strong></h3>
 <h4><strong>How To Prepare A Budget</strong></h4>
-<p>Here are a few tips to get you started (you can use our <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/financial-tools/budget-calculator.html" rel="noopener noreferrer nofollow" target="_blank">Budget Calculator</a>&nbsp;to
-guide you):</p>
+<p>Here are a few tips to get you started:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Work out your total monthly income</strong>. Include income you
