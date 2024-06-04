@@ -2,9 +2,11 @@ logo: /images/logo-moneysense-nobg.png
 links:
   - title: About Us
     url: /about-us/
+  - title: Money Management
+    collection: money-management
   - title: Insurance
     collection: insurance
-  - title: "Investing "
+  - title: Investing
     collection: investments
-  - title: "Retirement Planning "
+  - title: Retirement Planning
     collection: legacy-planning

@@ -13,7 +13,7 @@ variant: tiptap
 especially when it comes to the last few months of the year – think 10.10
 Sale, 11.11 Sale, Black Friday &amp; Cyber Monday.</p>
 <p>There just seems to be so many bargains to be scored! But are there, really?</p>
-<h3>Giving The Appearance Of Affordability – Buy Now, Pay Later</h3>
+<h3>Giving The Appearance Of Affordability – Instalment Plans And Buy Now, Pay Later</h3>
 <p>Instalment payment plans or Buy Now, Pay Later options may make pricier
 options&nbsp;<em>appear</em>&nbsp;affordable by spreading out payments.
 Instead of paying $1,200 now for a mobile phone, paying $400 each time
