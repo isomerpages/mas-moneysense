@@ -2,6 +2,7 @@ collections:
   insurance:
     output: true
     order:
+      - What To Ask Before Buying Health Insurance.md
       - What To Ask Before Buying Life Insurance.md
       - Insurance Basics.md
       - Understanding Health Insurance.md
