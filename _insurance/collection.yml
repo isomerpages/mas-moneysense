@@ -2,15 +2,15 @@ collections:
   insurance:
     output: true
     order:
-      - What To Ask Before Buying Health Insurance.md
-      - What To Ask Before Buying Life Insurance.md
       - Insurance Basics.md
       - Understanding Health Insurance.md
       - Understanding Integrated Shield Plans.md
       - Understanding Life Insurance.md
+      - What To Ask Before Buying Life Insurance.md
       - Understanding Term Insurance.md
       - "Life Insurance: Comparing Term and Bundled Products.md"
       - Understanding Whole Life Insurance.md
+      - What To Ask Before Buying Health Insurance.md
       - Understanding Critical Illness Insurance.md
       - Buying Life Insurance Online.md
       - Buying Direct Purchase Insurance.md
