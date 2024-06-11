@@ -37,7 +37,7 @@ you leave your job?</p>
 </li>
 <li>
 <p>How much insurance should you buy if you have financial constraints? Does
-the upgrade justify the costs, including the out of pocket expenses?</p>
+the upgrade justify the costs, including the out-of-pocket expenses?</p>
 </li>
 <li>
 <p>Can you afford the premiums over the long term? Health insurance premiums
@@ -47,7 +47,7 @@ go up with age.</p>
 <h4><strong>8 questions to ask your FA representative</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>I already have MediShield Life and/or ElderShield. What kind of health
+<p>I already have MediShield Life and/or CareShield Life. What kind of health
 insurance policy do you recommend and why?</p>
 </li>
 <li>
