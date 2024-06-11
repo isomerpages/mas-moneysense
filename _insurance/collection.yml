@@ -2,7 +2,6 @@ collections:
   insurance:
     output: true
     order:
-      - Buying Life Insurance Online.md
       - Insurance Basics.md
       - Understanding Health Insurance.md
       - Understanding Integrated Shield Plans.md
@@ -11,4 +10,5 @@ collections:
       - "Life Insurance: Comparing Term and Bundled Products.md"
       - Understanding Whole Life Insurance.md
       - Understanding Critical Illness Insurance.md
+      - Buying Life Insurance Online.md
       - Buying Direct Purchase Insurance.md
