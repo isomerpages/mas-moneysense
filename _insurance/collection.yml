@@ -2,6 +2,7 @@ collections:
   insurance:
     output: true
     order:
+      - Assessing Your Insurance Needs.md
       - Insurance Basics.md
       - Understanding Health Insurance.md
       - Understanding Integrated Shield Plans.md
