@@ -2,7 +2,7 @@ collections:
   insurance:
     output: true
     order:
-      - Buying life insurance online.md
+      - Buying Life Insurance Online.md
       - Insurance Basics.md
       - Understanding Health Insurance.md
       - Understanding Integrated Shield Plans.md
