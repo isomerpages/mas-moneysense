@@ -2,6 +2,7 @@ collections:
   insurance:
     output: true
     order:
+      - Understanding Investment Linked Insurance Policies.md
       - Insurance Basics.md
       - Assessing Your Insurance Needs.md
       - Understanding Health Insurance.md
