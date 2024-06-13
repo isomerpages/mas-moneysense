@@ -8,37 +8,33 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_ipad_charts6cff.jpg">
 </div>
-<p><strong>If you are thinking of investing in Singapore-listed shares, find out what you need to do before and after you invest, including doing your due diligence and monitoring your investments.</strong>
-</p>
-<h4><strong>Key Takeaways</strong></h4>
+<h4>Key Takeaways</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Always do your due diligence before investing.</strong>
-</p>
+<p>Always do your due diligence before investing</p>
 </li>
 <li>
-<p><strong>Find out more about the company and its performance by reading its annual reports, corporate announcements and other disclosures.</strong>
-</p>
+<p>Find out more about the company and its performance by reading its annual
+reports, corporate announcements and other disclosures</p>
 </li>
 <li>
-<p><strong>Monitor your investments and understand the corporate actions that the listed company intends to take and how these can affect you.</strong>
-</p>
+<p>Monitor your investments and understand the corporate actions that the
+listed company intends to take and how these can affect you</p>
 </li>
 </ul>
-<h2><strong>Investing In SGX-listed Shares</strong></h2>
+<h2>Investing In SGX-listed Shares</h2>
 <p>You can invest in shares of a company seeking a listing on the <a href="http://sgx.com/" rel="noopener noreferrer" target="_blank">Singapore Exchange (SGX)</a> through
 its Initial Public Offering (IPO).</p>
 <p>You can also invest in shares of companies that are already listed on
 the SGX through a broker. On the SGX, shares are mostly traded in board
 lots of 100. If a share is priced at $1, you pay $100 to invest in one
 lot of shares (excluding transaction costs).</p>
-<h3><strong>Note</strong></h3>
-<p>Some investors use margin financing when trading shares. Leverage trading
-can be risky and can lead to unlimited losses depending on the positions
-taken.</p>
+<p><strong>Note: </strong>Some investors use margin financing when trading
+shares. Leverage trading can be risky and can lead to unlimited losses
+depending on the positions taken.</p>
 <p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/guide-to-shares-what-you-need-to-know-before-you-invest/" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: What you need to know before you invest</a>
 </p>
-<h2><strong>Before You Invest</strong></h2>
+<h3>Before You Invest</h3>
 <p>With so many shares to choose from, it pays to do your due diligence.
 Take the time to do your research and shortlist companies that meet your
 criteria. To buy and sell shares, you will need a Central Depository (CDP)
@@ -99,7 +95,7 @@ is usually based on a percentage of the investment amount.</p>
 <p>In addition to brokerage commissions and other charges imposed by brokers,
 there is a CDP clearing fee and SGX trading access fee. Please note that
 GST is payable on all fees.</p>
-<h2><strong>After You Invest</strong></h2>
+<h3>After You Invest</h3>
 <p>As a shareholder, you should:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -114,8 +110,8 @@ take and how these can affect you</p>
 meeting or by proxy</p>
 </li>
 </ul>
-<h3><strong>Monitor Your Shares</strong></h3>
-<p>You can get live trading prices from the <a href="http://sgx.com/" rel="noopener noreferrer" target="_blank">SGX website</a>.
+<h4>Monitor Your Shares</h4>
+<p>You can get live trading prices from the SGX website.
 <br>
 <br>There are on-going disclosure requirements if the shares are listed on
 SGX. Under SGX Listing Rules, companies are required to announce all material
@@ -137,26 +133,25 @@ public, including interim financial statements, annual reports, shareholders’
 circulars or other documents</p>
 </li>
 </ul>
-<h3><strong>Track Corporate Actions</strong></h3>
+<h4>Track Corporate Actions</h4>
 <p>You should also keep track of corporate actions such as bonus or rights
 issues and share buybacks. As a shareholder, you should find out how these
 corporate actions will affect you.</p>
 <p>Visit the <a href="http://sgx.com/wps/portal/sgxweb/home/company_disclosure/company_announcements" rel="noopener noreferrer" target="_blank">SGX website</a> to
 find company announcements and circulars for any of the company's proposed
 corporate actions.</p>
-<h3><strong>Note</strong></h3>
-<p>Companies may request a trading halt or suspension when disseminating
-material information to the investors.</p>
-<h3><strong>Attend General Meetings And Vote</strong></h3>
+<p><strong>Note: </strong>Companies may request a trading halt or suspension
+when disseminating material information to the investors.</p>
+<h4>Attend General Meetings And Vote</h4>
 <p>As an ordinary shareholder, you have a right to attend and vote at general
 meetings on matters such as major acquisitions or disposals, or the appointment
 of directors.</p>
 <p>A general meeting provides a forum for you to engage the company’s board
 or senior management and voice your views on matters affecting the company.</p>
-<h3><strong>Note</strong></h3>
-<p>Your vote counts – cast your votes for resolutions seeking shareholders’
-approval by voting in person at a general meeting or by proxy.</p>
-<h2><strong>Concerns About An SGX-listed Company</strong></h2>
+<p><strong>Note: </strong>Your vote counts – cast your votes for resolutions
+seeking shareholders’ approval by voting in person at a general meeting
+or by proxy.</p>
+<h4>Concerns About An SGX-listed Company</h4>
 <p>If you are a shareholder and have some concerns about the company’s compliance
 with SGX’s listing rules, or about possible market misconduct, you may
 wish to <a href="https://www.sgx.com/contact-us" rel="noopener noreferrer" target="_blank">contact SGX</a>.</p>
@@ -165,8 +160,7 @@ administer a sound regulatory framework to maintain a fair, orderly and
 informed market.</p>
 <p>Alternatively, you may wish to make your views known at the company’s
 Annual General Meeting.</p>
-<h2><strong>Checklist</strong></h2>
-<h2><strong>Key Questions To Ask Before Investing In Shares</strong></h2>
+<h3>Key Questions To Ask Before Investing In Shares</h3>
 <p>Consider the suitability of an investment in shares in light of your own
 circumstances. In particular, you should consider whether you:</p>
 <ul data-tight="true" class="tight">
