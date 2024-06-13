@@ -9,6 +9,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/buying-direct-purchase-insurance.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To manage risk, you should invest in a diversified portfolio of different
+investments</p>
+</li>
+<li>
+<p>You should allocate your capital to different asset classes according
+to your desired risk-return profile</p>
+</li>
+<li>
+<p>Dollar-cost averaging removes the risk of timing the market wrongly</p>
+</li>
+</ul>
 <h3>Know Your Risk Appetite</h3>
 <p>Can you afford to lose all of your investment?</p>
 <p>Every investment bears risk. In some cases, you could lose some or all
@@ -107,7 +121,7 @@ mix regularly in order to maintain a balanced portfolio.</p>
 <p>Keep in mind that your investment objective, horizon and risk profile
 are likely to change as you go through different life stages. You will
 want to re-evaluate these from time to time.</p>
-<h4>Dollar-cost Averaging</h4>
+<h4>Dollar-Cost Averaging</h4>
 <p>Market conditions are hard to predict. Trying to buy low and sell high
 can be challenging and most investors fail to sustain any significant returns
 this way.</p>
@@ -116,5 +130,5 @@ you invest a fixed sum of money at regular intervals, whether the market
 is up or down.</p>
 <p>For example, if you invest $1,000 every month, you buy more shares when
 the market is down and fewer shares when the market is up.</p>
-<p>Over a long investment horizon, it would result in a lower average cost
-per share.</p>
+<p>Over a long investment horizon, dollar-cost averaging gives you the best
+chance of paying a lower average price.</p>
