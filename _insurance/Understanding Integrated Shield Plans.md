@@ -7,8 +7,22 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/integrated-shield-plans.jfif">
 </div>
-<p>An Integrated Shield Plan (IP) provides coverage on top of your MediShield
-Life.</p>
+<h3>Key takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>An Integrated Shield Plan (IP) is an optional health coverage provided
+by private insurance companies</p>
+</li>
+<li>
+<p>Consider the coverage you need based on the hospital ward and choice of
+hospitals you want to stay in, or you'll end up paying more premiums than
+necessary</p>
+</li>
+<li>
+<p>If you are not sure you have an IP, check with CPF</p>
+</li>
+</ul>
+<p>An IP provides coverage on top of your MediShield Life.</p>
 <p>Different types of IPs provide different coverage. Some cover you for
 a higher-type ward (A/ B1) in a public hospital while others cover admission
 into a private hospital.</p>
