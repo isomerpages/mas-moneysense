@@ -4,6 +4,10 @@ permalink: /buying-life-insurance-online/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/woman_card_laptop6cff.jpg">
+</div>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
