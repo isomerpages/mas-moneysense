@@ -19,8 +19,7 @@ one? What do you look out for? Even if you can afford it, you don't have
 to buy them all.</p>
 <h3>Types Of Policies</h3>
 <p>Here are 3 main types of insurance policies and their purpose:</p>
-<p><strong>1. Life Insurance</strong>
-</p>
+<h4>1. Life Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,8 +62,7 @@ Home Protection Scheme</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2. Health Insurance</strong>
-</p>
+<h4>2. Health Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,8 +88,7 @@ Disability income, ElderShield/ CareShield Life</p>
 </tr>
 </tbody>
 </table>
-<p><strong>3. General Insurance</strong>
-</p>
+<h4>3. General Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
