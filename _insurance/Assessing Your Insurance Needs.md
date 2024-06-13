@@ -4,8 +4,7 @@ permalink: /assessing-your-insurance-needs/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<h3>Key takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Get term insurance if you only have life protection needs</p>
@@ -17,7 +16,7 @@ description: ""
 <p>Know what you can afford</p>
 </li>
 </ul>
-<h3><strong>What are your insurance needs?</strong></h3>
+<h3>What are your insurance needs?</h3>
 <p>Nowadays, it is possible to be insured against all sorts of risks. But
 it may not be necessary to cover yourself against all risks. Finding the
 right insurance product is about knowing what you want to protect and how
