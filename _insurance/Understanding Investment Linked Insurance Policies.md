@@ -4,8 +4,7 @@ permalink: /understanding-investment-linked-insurance-policies/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Investment-Linked Policies (ILPs) combine life insurance coverage and
@@ -37,7 +36,7 @@ of the two.</p>
 <p>The value of these units depends on their price, which in turn depends
 on the sub-fund’s performance. This is why ILPs usually do not have any
 guaranteed cash values.</p>
-<h3><strong>Why invest in ILPs?</strong></h3>
+<h3>Why invest in ILPs?</h3>
 <p>Some consumers value ILPs because of their flexibility.</p>
 <p>You can change your investments by switching sub-funds when your financial
 needs change. In addition, you may also top up your investments and make
@@ -47,7 +46,7 @@ coverage as your needs change. For example, you can reduce the coverage
 (subject to a minimum sum assured) or even increase it (subject to underwriting).</p>
 <p>But if you are only concerned about getting insurance coverage, <strong>an ILP may not be the most suitable product for you.</strong>
 </p>
-<h3><strong>Types of ILPs</strong></h3>
+<h3>Types of ILPs</h3>
 <p>ILPs can be classified into two categories:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -65,7 +64,7 @@ of insurance coverage you need</p>
 Products (SIPs). Do check with your financial institution whether the product
 you are considering is an SIP.</p>
 <p></p>
-<h3><strong>How the investment portion works</strong></h3>
+<h3>How the investment portion works</h3>
 <p>The investment strategy of an ILP is determined by your selection of the
 sub-funds. This is unlike whole life or endowment policies where the insurer
 determines the investment strategy.</p>
@@ -76,7 +75,7 @@ strategy and approach, as well as the potential risks.</p>
 <p><strong>Tip: </strong>If you don't need the insurance coverage, you may
 consider unit trusts and exchange traded funds instead.</p>
 <p></p>
-<h4><strong>What to consider in choosing a sub-fund</strong></h4>
+<h4>What to consider in choosing a sub-fund</h4>
 <p>Choose one of more sub-funds that suit your investment objectives and
 time horizon.</p>
 <p>The sub-fund’s historical performance should not be your only consideration.
@@ -89,7 +88,7 @@ in exchange for relatively lower risks.</p>
 <p>For all ILP sub-funds under the CPF Investment Scheme, the CPF Board will
 assign a risk classification. Do note that these risk classifications only
 serve as a very broad guide on whether the sub-fund is suitable for you.</p>
-<h4><strong>Switching sub-funds</strong></h4>
+<h4>Switching sub-funds</h4>
 <p>ILPs allow you to move your money from one sub-fund to another. This is
 known as fund switching.</p>
 <p>It may be helpful for you to consider this if your financial circumstances
@@ -99,9 +98,7 @@ suitable.</p>
 fee per switch thereafter. Before switching from one sub-fund to another,
 check whether you are entitled to free switches and if not, how much you
 would need to pay for the switch.</p>
-<p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/Comms/Website/Past%20Websites/2023/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/investment-linked-versus-participating-life-insurance-policies.html" rel="noopener noreferrer nofollow" target="_blank">Investment-linked versus participating life insurance policies</a>
-</p>
-<h3><strong>How the insurance portion works</strong></h3>
+<h3>How the insurance portion works</h3>
 <p>While you are paying the same monthly premium throughout the life of the
 policy, the cost of insurance typically increases year on year (as you
 get older the risk of death, disability and illness increases). This is
@@ -113,7 +110,7 @@ sub-fund, the value of your units may not be enough to pay the insurance
 charges. You will have to top up your premium or reduce the coverage.</p>
 <p><strong>Tip: </strong>If protection is your main goal, other products
 such as term insurance, may offer higher coverage at a lower cost.</p>
-<h3><strong>What are the risks?</strong></h3>
+<h3>What are the risks?</h3>
 <p>Common risks associated with ILPs include the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -161,10 +158,10 @@ policy</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>What's the most you can lose?</strong></h3>
+<h3>What's the most you can lose?</h3>
 <p>ILPs usually do not have any guaranteed cash values. Hence, you can potentially
 lose the entire value of your investment.</p>
-<h3><strong>Before you invest: Things to note</strong></h3>
+<h3>Before you invest: Things to note</h3>
 <p>Consider if an ILP is suitable for you:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -189,7 +186,7 @@ some cases, the sub-fund that you are interested in may also be offered
 as a unit trust (i.e. without insurance coverage).</p>
 </li>
 </ul>
-<h3><strong>After you invest: Review your statements</strong></h3>
+<h3>After you invest: Review your statements</h3>
 <p>Read your ILP statements, which your insurer will send to you at least
 once a year (or more frequently). This statement shows the value of units
 in the policy, transactions for the period and charges paid through the
@@ -197,7 +194,7 @@ sale of units.</p>
 <p>Do review this statement to check if the ILP and sub-funds selected continue
 to suit your needs. Seek advice if your circumstances and what you need
 have changed.</p>
-<h3><strong>Using CPF for ILPs</strong></h3>
+<h3>Using CPF for ILPs</h3>
 <p>You can use your CPF savings to buy an ILP if the ILP is included under
 the CPF Investment Scheme. The CPF Board assigns a risk classification
 which serves as a broad guide to all ILP sub-funds under CPFIS.</p>
