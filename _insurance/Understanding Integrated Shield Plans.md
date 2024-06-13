@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/integrated-shield-plans.jfif">
 </div>
-<h3>Key takeaways</h3>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>An Integrated Shield Plan (IP) is an optional health coverage provided
@@ -47,7 +47,7 @@ you have to pay the rest of the premiums in cash.</p>
 <p>Are you wondering if you should just have MediShield Life, to upgrade
 to an IP or to keep the IP you already bought?</p>
 <p>There are two things to consider:</p>
-<h5>Your comfort level with the types of hospitals, wards and doctors</h5>
+<h5>Your Comfort Level With The Types Of Hospitals, Wards And Doctors</h5>
 <p>Do you wish to stay in a Type A/ B1 ward in a public hospital or a private
 hospital? Do you want to be able to choose your doctor?</p>
 <h5>Your Budget</h5>
