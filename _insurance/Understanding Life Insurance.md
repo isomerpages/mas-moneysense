@@ -7,6 +7,24 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/insurance-basics.jfif">
 </div>
+<h3>Key takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Find out what life insurance is and how it provides protection against
+financial loss in the event of death or total and permanent disability</p>
+</li>
+<li>
+<p>Get some tips on how to assess how much life insurance to buy</p>
+</li>
+<li>
+<p>Some products have an investment component to help you build savings —
+they cost more</p>
+</li>
+<li>
+<p>If you only need protection coverage, consider insurance-only term policies,
+which cost less</p>
+</li>
+</ul>
 <p>The primary reason we buy life insurance is for protection — it can provide
 financial back-up during emergencies when we pass on or become totally
 and permanently disabled.</p>
@@ -85,15 +103,13 @@ you can afford.</p>
 from a Financial Advisory (FA) representative.</p>
 <p>Direct purchase insurance products are available at lower cost if you
 are prepared to do this on your own.</p>
-<p>Before You Buy</p>
+<h3>Before You Buy</h3>
 <p>Before you purchase an insurance product, here are a few things you should
 do:</p>
-<p><strong>Give all the required information</strong>
-</p>
-<p>You must provide all the information asked for in the proposal form and
-any other details asked for by the insurance company. If you are not sure
-why it is needed or why it is important, ask the insurance company or your
-FA representative.</p>
+<p><strong>Give all the required information </strong>– You must provide
+all the information asked for in the proposal form and any other details
+asked for by the insurance company. If you are not sure why it is needed
+or why it is important, ask the insurance company or your FA representative.</p>
 <p>Check that all relevant information you have provided is included in the
 proposal form. Check that the proposal form is completed.</p>
 <p>If you spot any inaccuracies or missing information, do not sign the proposal
@@ -102,7 +118,7 @@ if there are errors or missing information and your (or your dependents)
 could end up without protection.</p>
 <p>Make sure you are fully satisfied with the information shown in your proposal
 form.</p>
-<p><strong>Make sure you understand the product</strong> Read your policy
+<p><strong>Make sure you understand the product</strong> – Read your policy
 documents and ask questions when in doubt. Take the documents home to read
 if you need more time. Ask the insurance company or your FA representative
 about the following:</p>
@@ -133,7 +149,7 @@ medical history</p>
 if you want to enquire on the status of your application</p>
 </li>
 </ul>
-<p><strong>After You Buy</strong>
+<p><strong><em>After You Buy</em></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -146,8 +162,6 @@ if you want to enquire on the status of your application</p>
 <p>How long it will take</p>
 </li>
 </ul>
-<p><strong>Be cautious</strong>
-</p>
 <p>You should</p>
 <ul data-tight="true" class="tight">
 <li>
