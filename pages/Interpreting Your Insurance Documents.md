@@ -4,8 +4,11 @@ permalink: /interpreting-your-insurance-documents/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_hand_signing6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Read the documents to know what you're buying</p>
@@ -19,7 +22,7 @@ life event happens, e.g., marriage, purchase of your first property, birth
 of your first child, loss of a dependant, etc.</p>
 </li>
 </ul>
-<h3><strong>Documents you will receive</strong></h3>
+<h3>Documents You Will Receive</h3>
 <p>When you buy an insurance policy, you'll come across most, if not all
 of these documents. Each document is created to give you a better understanding
 of what you're buying. Find out what each one is for.</p>
@@ -57,14 +60,14 @@ Life Insurance Association)</p>
 <p>Direct Purchase Insurance factsheet and checklist</p>
 </li>
 </ul>
-<h3><strong>Free-look period</strong></h3>
+<h3>Free-Look Period</h3>
 <p><strong>All life insurance companies grant a 14-day free-look period</strong> that
 starts from the day you receive the policy documents.</p>
 <p>Take this time to read through your policy documents carefully to see
 if the policy meets your needs. If you decide that the policy is not suitable,
 the insurance company will refund all your premiums less medical and other
 expenses they have paid.</p>
-<h3><strong>What does it all mean?</strong></h3>
+<h3>What Does It All Mean?</h3>
 <p>Your insurance contract is an important legal document. Read carefully
 before you agree to the terms and conditions.</p>
 <p>Here is a guide to interpreting the common terms in your insurance document:</p>
