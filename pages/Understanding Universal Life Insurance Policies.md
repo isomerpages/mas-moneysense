@@ -4,6 +4,10 @@ permalink: /understanding-universal-life-insurance-policies/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/father_son_park6cff.jpg">
+</div>
 <p><strong>Key takeaways</strong>
 </p>
 <ul data-tight="true" class="tight">
