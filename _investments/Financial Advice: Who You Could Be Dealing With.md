@@ -8,23 +8,21 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/couple_agent_ipad6cff.jpg">
 </div>
-<p><strong>Learn about the different types of financial advisors and Financial Advisory (FA) representatives, and how to check if they are authorised to provide financial advice.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Make sure your financial advisor and FA representative are authorised
-to provide financial advice.</p>
+to provide financial advice</p>
 </li>
 <li>
-<p>Learn about the different types of financial advisers.</p>
+<p>Learn about the different types of financial advisers</p>
 </li>
 </ul>
 <h3>What Is Financial Advice?</h3>
 <p>Financial advice is given when someone looks into your needs and financial
 situation and recommends you to purchase an investment or life insurance
 product.</p>
-<h3><strong>When To Seek Advice</strong></h3>
+<h3>When To Seek Advice</h3>
 <p>You may want to seek financial advice when you have a financial need or
 goal but do not know how to address it. Only authorised firms and individuals
 are allowed to give you financial advice on investments and life insurance
@@ -33,7 +31,7 @@ products.</p>
 Advisory (FA) representative will help you identify specific goals and
 develop a plan to achieve them over time. The plan may include buying life
 insurance or investment products.</p>
-<h3><strong>Buying A Product With And Without Advice</strong></h3>
+<h3>Buying A Product With And Without Advice</h3>
 <p>If you choose to receive financial advice, your FA representative must
 ensure that the product recommended is suitable for your needs, taking
 into account your financial objectives, investment horizon, risk profile
@@ -54,7 +52,7 @@ independent</p>
 the life of the contract</p>
 </li>
 </ul>
-<h3><strong>Who Can Give Financial Advice</strong></h3>
+<h3>Who Can Give Financial Advice</h3>
 <p>Only authorised firms and individuals are allowed to give you financial
 advice.</p>
 <p>FA representatives are appointed by licensed financial advisors, banks,
