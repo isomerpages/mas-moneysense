@@ -4,7 +4,7 @@ permalink: /what-to-ask-before-buying-health-insurance/
 variant: tiptap
 description: ""
 ---
-<h3>Key takeaways</h3>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shop around and compare before buying health insurance</p>
@@ -16,11 +16,11 @@ description: ""
 <p>Know what you're buying; don't buy on impulse</p>
 </li>
 </ul>
-<h3>What to ask before buying health insurance</h3>
+<h3>What To Ask Before Buying Health Insurance</h3>
 <p>Your FA representative or insurance agent is prepared to answer your questions.
 Even the tough ones. So arm yourself with a list of questions to clarify
 anything you want to know about the product.</p>
-<h4>Ask yourself first</h4>
+<h4>Ask Yourself First</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>How much insurance coverage do you need, in addition to what you have
@@ -43,7 +43,7 @@ the upgrade justify the costs, including the out-of-pocket expenses?</p>
 go up with age.</p>
 </li>
 </ul>
-<h4>8 questions to ask your FA representative</h4>
+<h4>8 Questions To Ask Your FA Representative</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>I already have MediShield Life and/or CareShield Life. What kind of health
