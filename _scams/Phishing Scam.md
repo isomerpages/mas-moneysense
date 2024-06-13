@@ -7,27 +7,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/phishing.jfif">
 </div>
-<p>Phishing (pronounced as "fishing") is a way of obtaining sensitive personal
-information such as account details, PIN and password through the internet.
-Anyone with these details can perform unauthorized transactions on your
-account. Find out how to protect yourself from phishing attempts.</p>
 <h4>Key Takeaways</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>What is phishing and how to protect yourself.</p>
+<p>Your bank will not ask you for your personal details or send you clickable
+links over emails or SMS</p>
 </li>
 <li>
-<p>Be alert to phishing attempts.</p>
+<p>Be wary of clicking on links or opening attachments in suspicious emails</p>
 </li>
 <li>
-<p>Note that your bank will not ask you for your personal details over emails.</p>
-</li>
-<li>
-<p>Do not click on any link or open attachments in suspicious emails that
-appear to be from your bank.</p>
-</li>
-<li>
-<p>If you think you have become a victim of phishing, contact your bank immediately.</p>
+<p>If you think you have become a victim of phishing, contact your bank immediately</p>
 </li>
 </ul>
 <h4>How To Avoid Phishing Attacks</h4>
@@ -52,43 +42,43 @@ online banking accounts and perform unauthorised transactions on them.</p>
 <h4>To Protect Yourself From Falling Prey To Phishing, Remember The Following:</h4>
 <ul>
 <li>
-<p>Never give out your banking details.</p>
+<p>Never give out your banking details</p>
 </li>
 <li>
 <p>Your bank will NEVER send you emails or SMS asking you for your bank login
-ID, password, or OTP.</p>
+ID, password, or OTP</p>
 </li>
 <li>
-<p>Do not open attachments or click on any link in suspicious emails or SMS.</p>
+<p>Do not open attachments or click on any link in suspicious emails or SMS</p>
 </li>
 <li>
-<p>Use your bank’s mobile app to perform banking transactions.</p>
+<p>Use your bank’s mobile app to perform banking transactions</p>
 </li>
 <li>
 <p>Always enter the full URL or domain name of your bank on your browser
-address bar.</p>
+address bar</p>
 </li>
 <li>
-<p>Install firewall, anti-virus and anti-spyware in your computer. Update
-them regularly.</p>
+<p>Install firewall, anti-virus and anti-spyware in your computer – update
+them regularly</p>
 </li>
 <li>
-<p>Avoid online banking in public areas such as cyber-cafes.</p>
+<p>Avoid online banking in public areas such as cyber-cafes</p>
 </li>
 <li>
-<p>Log off each time you complete online banking activities.</p>
+<p>Log off each time you complete online banking activities</p>
 </li>
 <li>
-<p>Select passwords that are difficult to guess. Change them often.</p>
+<p>Select passwords that are difficult to guess – change them often</p>
 </li>
 <li>
 <p>Monitor banking transaction notifications so as to spot any suspicious
-activity quickly.</p>
+activity quickly</p>
 </li>
 <li>
 <p>If you think you have become a victim of phishing, contact your bank immediately
-to freeze your accounts, card, or e-wallet. This gives you the best chance
-to prevent further unauthorised transactions.</p>
+to freeze your accounts, card, or e-wallet – this gives you the best chance
+to prevent further unauthorised transactions</p>
 </li>
 </ul>
 <h4>Beware of Bogus Phone Calls</h4>
@@ -100,18 +90,18 @@ threaten you and make you believe that you have committed a crime.</p>
 so that they can “check” your online accounts. If you do so, the criminals
 will be able to login to your online banking accounts and wipe out all
 the money in your bank accounts.</p>
-<h4>Here Are Some Tips To Protect Yourself From Bogus Phone Calls. Always Keep The Following In Mind:</h4>
+<h4>To Protect Yourself From Bogus Phone Calls, Remember The Following:</h4>
 <ul>
 <li>
 <p>Government officials or bank officers will NEVER call you to ask you for
-your personal information such as your online banking credentials.</p>
+your personal information such as your online banking credentials</p>
 </li>
 <li>
-<p>When in doubt, always hang up the phone.</p>
+<p>When in doubt, always hang up the phone</p>
 </li>
 <li>
 <p>If the caller ID displays “999”, hang up and call or visit your nearest
-police post to verify the authenticity of the call.</p>
+police post to verify the authenticity of the call</p>
 </li>
 </ul>
 <p></p>
