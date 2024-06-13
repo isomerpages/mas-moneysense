@@ -7,16 +7,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="crypto" src="/images/crypto%20coins%20tokens.jfif">
 </div>
-<p>Find out how digital tokens work and what you should do to protect yourself
-from token-related scams.</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cryptocurrencies are not regulated by the Monetary Authority of Singapore
-(MAS) as they are not legal tender.</p>
+(MAS) as they are not legal tender</p>
 </li>
 <li>
-<p>Be aware of the risks of Initial Coin Offerings (ICOs).</p>
+<p>Be aware of the risks of Initial Coin Offerings (ICOs)</p>
 </li>
 </ul>
 <h3>What Are Digital Tokens, Cryptocurrencies And ICOs</h3>
@@ -40,7 +38,6 @@ or ICO.</p>
 </li>
 </ul>
 <h3>How An ICO Works</h3>
-<hr>
 <p>An ICO is a public sale of a new Digital Token.</p>
 <p>Sellers typically set out their business proposals in a “white paper”
 with claims such as:</p>
@@ -68,7 +65,6 @@ cryptocurrencies e.g. Bitcoin or Ether, to a wallet address provided by
 the seller. Buyers may also be able to pay for the new tokens by transferring
 fiat currency to a bank account provided by the seller.</p>
 <h3>Risks Involving Digital Tokens</h3>
-<hr>
 <p>Cryptocurrencies are not regulated by MAS. They are not legal tender or
 securities. Persons that buy or sell cryptocurrencies or facilitate the
 exchange of cryptocurrencies may be regulated under the Payment Services
@@ -126,7 +122,6 @@ access to your Digital Tokens.</p>
 </li>
 </ul>
 <h3>Is It Regulated?</h3>
-<hr>
 <p><strong>There is no legislative protection.</strong>&nbsp;Remember, MAS
 will not be able to help you in any way if you lose money from dealing
 with digital tokens that are not products regulated by MAS. This includes
@@ -144,53 +139,14 @@ cryptocurrency and are not required to ensure that each cryptocurrency
 transaction is processed properly.&nbsp;MAS regulates cryptocurrency service
 providers under the Payment Services Act 2019 mainly for money-laundering
 and terrorism financing risk only.</p>
-<h3>Note</h3>
-<p>Your cryptocurrency service provider is required by law to give this risk
-warning to you.</p>
-<h3>For Licensees</h3>
-<p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
-</p>
-<p>MAS requires us to provide this risk warning to you as a customer of a
-Digital Payment Token (DPT) service provider.</p>
-<p>Before you pay your DPT service provider any money or DPT, you should
-be aware of the following.</p>
-<p>1. Your DPT service provider is licensed by MAS to provide DPT services.
-Please note that this does not mean you will be able to recover all the
-money or DPTs you paid to your DPT service provider if your DPT service
-provider’s business fails.</p>
-<p>2. You should not transact in the DPT if you are not familiar with this
-DPT. Transacting in DPTs may not be suitable for you if you are not familiar
-with the technology that DPT services are provided.</p>
-<p>3. You should be aware that the value of DPTs may fluctuate greatly. You
-should buy DPTs only if you are prepared to accept the risk of losing all
-of the money you put into such tokens.</p>
-<h3>For Exempted Payment Service Providers</h3>
-<p><strong>RISK WARNING ON DIGITAL PAYMENT TOKEN SERVICES</strong>
-</p>
-<p>MAS requires us to provide this risk warning to you as a customer of a
-digital payment token (DPT) service provider.</p>
-<p>Before you pay your DPT service provider any money or DPT, you should
-be aware of the following.</p>
-<p>1. Your DPT service provider is exempted by MAS from holding a licence
-to provide DPT services. Please note that you may not be able to recover
-all the money or DPTs you paid to your DPT service provider if your DPT
-service provider’s business fails.</p>
-<p>2. You should not transact in the DPT if you are not familiar with this
-DPT. Transacting in DPTs may not be suitable for you if you are not familiar
-with the technology that DPT services are provided.</p>
-<p>3. You should be aware that the value of DPTs may fluctuate greatly. You
-should buy DPTs only if you are prepared to accept the risk of losing all
-of the money you put into such tokens.</p>
-<h3>Note</h3>
-<p>Be wary of fraudulent websites soliciting cryptocurrency investments by
-using fabricated comments attributed to prominent public personalities.
-MAS and the Commercial Affairs Department have issued several advisories
-warning of such incidents.</p>
+<p><strong>Note: </strong>Be wary of fraudulent websites soliciting cryptocurrency
+investments by using fabricated comments attributed to prominent public
+personalities. MAS and the Commercial Affairs Department have issued several
+advisories warning of such incidents.</p>
 <p>If you suspect that an investment offer could be fraudulent or misused
 for other unlawful activities, report it to the Police.</p>
 <h3>Checklist</h3>
 <h4>Protect Yourself</h4>
-<hr>
 <p>Before making any investment decision:</p>
 <ul data-tight="true" class="tight">
 <li>
