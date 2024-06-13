@@ -4,8 +4,11 @@ permalink: /understanding-structured-deposits/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_hand_signing6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The return on a structured deposit is usually dependent on the performance
@@ -16,7 +19,7 @@ of an underlying financial instrument</p>
 you hold your investment to maturity, and the bank remains solvent</p>
 </li>
 </ul>
-<h3><strong>What are structured deposits?</strong></h3>
+<h3>What Are Structured Deposits?</h3>
 <p>A structured deposit combines a deposit with an investment product. The
 return on a structured deposit depends on the performance of an underlying
 financial asset, product or benchmark. These may include market indices,
@@ -24,7 +27,7 @@ shares, interest rates, bonds or other fixed-income securities, foreign
 exchange rates, or a combination of these.</p>
 <p>Structured deposits may be suitable for investors who want exposure to
 assets or markets that are not easily accessible to retail investors.</p>
-<h3><strong>Types of structured deposits</strong></h3>
+<h3>Types Of Structured Deposits</h3>
 <p>Here are some of the different structured deposits available:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -107,7 +110,7 @@ or defaults on its loans), there may be no returns for investor</p>
 Each tranche has either a fixed offer period or is available until the
 tranche is fully subscribed. The tranches may come with differing features
 and returns.</p>
-<h3><strong>What are the returns?</strong></h3>
+<h3>What Are The Returns?</h3>
 <p>Your return is calculated according to a formula set out in the structured
 deposit’s terms and conditions.</p>
 <p>A structured deposit is different from a fixed deposit. Structured deposits
@@ -120,7 +123,7 @@ But just like traditional deposits, the return of the principal and any
 returns is subject to the credit risk of the bank holding the deposit.
 If the deposit is withdrawn early, you may not get back 100% of the money
 invested.</p>
-<h3><strong>What are the risks?</strong></h3>
+<h3>What Are The Risks?</h3>
 <p>Common risks associated with structured deposits include the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -194,18 +197,18 @@ Scheme and Policy Owners' Protection Scheme.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Fees and charges</strong></h4>
+<h4>Fees And Charges</h4>
 <p>Please check with your bank to find out about fees. If you make an early
 withdrawal, you may have to forgo some of your returns as there could be
 transaction or unwinding costs.</p>
-<h3><strong>What's the most you can lose?</strong></h3>
+<h3>What's The Most You Can Lose?</h3>
 <p>You may lose some or all of your return depending on how the return is
 structured and whether the underlying financial asset, product or benchmark
 underperforms.</p>
 <p>The principal amount you invest is also subject to the credit risk of
 the bank your structured deposit is held with. Further, if you withdraw
 the deposit early, you may not receive 100% of the principal you invested.</p>
-<h3><strong>Structured deposits versus fixed deposits</strong></h3>
+<h3>Structured Deposits VS Fixed Deposits</h3>
 <p>In the case of fixed deposits, the returns and maturity periods are fixed.
 Structured deposits, on the other hand, have variable returns, and in some
 cases, variable maturities as well.</p>
@@ -408,7 +411,7 @@ there is no early withdrawal)</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Checklist</strong></h4>
+<h4>Checklist</h4>
 <p>Not everyone should invest in structured deposits. Before you invest,
 check that you:</p>
 <ul data-tight="true" class="tight">
@@ -438,7 +441,7 @@ the structured deposit. If the bank defaults, you could lose all of your
 investment.</p>
 </li>
 </ul>
-<h3><strong>Documents should you receive</strong></h3>
+<h3>Documents You Should Receive</h3>
 <p>There is no specific document to be provided by your financial advisory
 representative. However, he is required to tell you information about:</p>
 <ul data-tight="true" class="tight">
