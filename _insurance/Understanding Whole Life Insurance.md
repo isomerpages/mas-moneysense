@@ -7,6 +7,28 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/insurance-basics.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Whole life policies generally cost more than term insurance as part of
+the premium is invested to build up cash value</p>
+</li>
+<li>
+<p>Bonuses projected by participating policies are not guaranteed and may
+fluctuate</p>
+</li>
+<li>
+<p>Prepare to commit for the long term; early termination may result in losses</p>
+</li>
+<li>
+<p>A non-participating policy only provides guaranteed benefits and it is
+not entitled to bonuses</p>
+</li>
+<li>
+<p>If you take a loan from your cash value, it has to be repaid with interest
+– it will make it harder for your money to grow</p>
+</li>
+</ul>
 <p>Whole life insurance provides life-long protection. It is available in
 different forms such as participating and non-participating policies.</p>
 <h3>Participating Whole Life Policies</h3>
