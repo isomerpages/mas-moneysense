@@ -4,8 +4,11 @@ permalink: /health-insurance-terms-know-what-you-re-paying-for/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/insurance_policy6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>For most policies, you will have to pay for some out-of-pocket healthcare
@@ -23,9 +26,9 @@ features such as deductibles and co-insurance help to keep your premiums
 affordable. This means you will have to pay for some out-of- pocket medical
 costs.</p>
 <p>So make sure you know exactly what and how much you are covered for.</p>
-<h3><strong>Know what you're paying for</strong></h3>
+<h3>Know What You're Paying For</h3>
 <p>Start by learning the policy terms that may affect your coverage and claims:</p>
-<h4><strong>Premiums</strong></h4>
+<h4>Premiums</h4>
 <p>The payment to keep your health insurance going is known as a premium.
 It could be a lump sum (single premium) or in smaller sums (regular premiums)
 every month, quarter or year.</p>
@@ -35,7 +38,7 @@ a higher premium when there are excessive claims.</p>
 <p>Before buying a policy, make sure you can afford the premiums over the
 long-term. If you are unable to pay your premiums, your policy may lapse
 and you will lose coverage.</p>
-<h4><strong>Deductibles and co-insurance</strong></h4>
+<h4>Deductibles And Co-Insurance</h4>
 <p>A deductible is the initial amount you have to pay for your medical expenses
 before your health insurance makes a payout. You usually only need to pay
 the deductible once in a policy year.</p>
@@ -47,16 +50,16 @@ For example, if you have a co-insurance of 10%, you will pay 10% of the
 cost after the deductible.</p>
 <p>You can use MediSave up to prevailing limits to pay for the deductible
 and co-insurance not paid by your insurance policy.</p>
-<h4><strong>Claim limits</strong></h4>
+<h4>Claim Limits</h4>
 <p>There are limits to what you can claim under a policy. For example, limits
 may be included for all claims as well as for each illness, disability,
 per month, year, or for a lifetime.</p>
-<h4><strong>Benefits</strong></h4>
+<h4>Benefits</h4>
 <p>For medical expense insurance, having more policies does not necessarily
 give you more benefits, as you can claim only up to your actual medical
 expenses. At no point will your combined policies pay you more than 100%
 of your actual medical expenses.</p>
-<h4><strong>Age limit</strong></h4>
+<h4>Age Limit</h4>
 <p>There is no age limit for MediShield Life. It covers you for life, and
 there is no age limit for entry into the scheme.</p>
 <p>There is also no maximum age limit to join CareShield Life. However the
@@ -67,7 +70,7 @@ CareShield Life covers you for life as well.</p>
 to you once you reach a certain age. Some health insurance policies provide
 cover for your whole life, while others cover for a fixed period or up
 to a certain age. Choose a product that suits your needs.</p>
-<h4><strong>Policy exclusions</strong></h4>
+<h4>Policy Exclusions</h4>
 <p>MediShield Life is universal and has no exclusions. CareShield Life is
 also universal (has no exclusions) for cohorts born in 1980 or later.</p>
 <p>On the other hand, all private health insurance policies contain some
@@ -83,16 +86,16 @@ be restricted for a health condition or due to occupational exposure. <strong>Th
 <p>Exclusions vary from policy to policy. Besides pre-existing conditions,
 look out for other exclusions. Read your policy document carefully to find
 out exactly what you are covered for.</p>
-<h4><strong>Waiting period</strong></h4>
+<h4>Waiting Period</h4>
 <p>Most health insurance policies impose a waiting period of between 30 days
 and 90 days from the approval of cover. No benefits will be paid for illnesses
 arising or treatments carried out during the waiting period.</p>
-<h4><strong>Deferred period</strong></h4>
+<h4>Deferred Period</h4>
 <p>A ‘deferred period’ means benefits may only be paid after you have been
 disabled or sick for more than a certain number of days.</p>
 <p>Before you take up a health insurance policy, check the scope of coverage
 and waiting or deferred period, if any.</p>
-<h4><strong>Policy riders</strong></h4>
+<h4>Policy Riders</h4>
 <p>A policy rider may be added to an existing policy, which provides additional
 coverage. If the rider accelerates the basic policy’s benefit, the policy
 may expire after the rider is paid out.</p>
@@ -114,7 +117,7 @@ which pays a lump sum upon diagnosis of any of the critical illnesses covered
 by the policy.</p>
 </li>
 </ul>
-<h4><strong>Policy renewal</strong></h4>
+<h4>Policy Renewal</h4>
 <p>Always ask about the policy renewal conditions. Some health insurance
 policies:</p>
 <ul data-tight="true" class="tight">
@@ -132,7 +135,7 @@ medical benefits which end when you stop working for the employer</p>
 the policy after a major medical claim. It is essential to check if your
 product covers you for the duration you need and if the renewal is guaranteed.
 Read the terms and conditions of the policy before you buy it.</p>
-<h4><strong>Free-look period</strong></h4>
+<h4>Free-Look Period</h4>
 <p>Insurance companies minimally grant a <strong>14-day free-look period</strong>.
 IPs have a 21-day free look period. It starts from the date you receive
 your policy documents. During this period, you should review your policy
@@ -141,7 +144,7 @@ write to the insurance company to give them notice of cancellation.</p>
 <p>Written notice to the insurer must be given within 14 days (21 days for
 IPs) from the date you received your policy. The company will refund all
 your premiums, less medical and other expenses they have already incurred.</p>
-<h4><strong>Switching between policies</strong></h4>
+<h4>Switching Between Policies</h4>
 <p>Health insurance policies do not usually cover pre-existing conditions
 when you sign up for them. Before switching to another health insurance
 policy, assess if your health has changed from the time you bought your
@@ -155,7 +158,7 @@ covered under your previous IP, you may lose coverage for them if you switch
 to a new IP. So although MediShield Life covers pre-existing conditions,
 if you switch from one IP to another, you will only be covered for pre-existing
 conditions up to MediShield Life benefits.</p>
-<h3><strong>Do your research</strong></h3>
+<h3>Do Your Research</h3>
 <p>Healthcare costs differ greatly between public and private hospitals,
 and between ward classes. Before you go to the hospital for treatment,
 ask about:</p>
