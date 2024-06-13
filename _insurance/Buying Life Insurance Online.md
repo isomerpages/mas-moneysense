@@ -4,19 +4,18 @@ permalink: /buying-life-insurance-online/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>No financial advice is given if you decide to buy life insurance online.</p>
+<p>No financial advice is given if you decide to buy life insurance online</p>
 </li>
 <li>
 <p>You may not get back the premiums paid if you terminate or surrender your
-policy early.</p>
+policy early</p>
 </li>
 <li>
 <p>You must make sure the product you choose suits your risk profile and
-needs.</p>
+needs</p>
 </li>
 </ul>
 <p>Buying life insurance usually involves talking to a <a href="https://www.moneysense.gov.sg/financial-advice-who-you-could-be-dealing-with/" rel="noopener noreferrer nofollow" target="_blank">financial advisory (FA) representative</a>.
@@ -44,7 +43,7 @@ to buy as you will not be receiving advice and a recommendation from a
 financial adviser.</p>
 <p>DPI are priced without distribution expenses. Hence, you pay lower premiums
 than on comparable life insurance products.</p>
-<h3><strong>Choose the right policy</strong></h3>
+<h3>Choose the right policy</h3>
 <p>The online platform you use to purchase the policy directly will provide
 the product's information through documents such as&nbsp;the Product Summary,
 Policy Illustration, Product Highlights Sheet, Cover Page, and Bundled
@@ -77,7 +76,7 @@ Take the time to consider the questions and answer them carefully. Avoid
 making a decision in haste. Not answering questions on your health and
 medical conditions truthfully, for example, could lead to your policy being
 voided when you need it.</p>
-<h3><strong>Know what you're buying</strong></h3>
+<h3>Know what you're buying</h3>
 <p>Before completing the purchase, you will need to acknowledge that you
 have:</p>
 <ul data-tight="true" class="tight">
@@ -106,7 +105,7 @@ for</p>
 </ul>
 <p>If you have minor pre-existing conditions, some insurers offer a moratorium
 underwriting option to cover these conditions.</p>
-<h3><strong>Things to note</strong></h3>
+<h3>Things to note</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>A life policy is not a savings account or deposit</p>
