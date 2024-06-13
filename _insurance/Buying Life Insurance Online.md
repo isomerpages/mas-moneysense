@@ -47,7 +47,7 @@ to buy as you will not be receiving advice and a recommendation from a
 financial adviser.</p>
 <p>DPI are priced without distribution expenses. Hence, you pay lower premiums
 than on comparable life insurance products.</p>
-<h3>Choose the right policy</h3>
+<h3>Choose The Right Policy</h3>
 <p>The online platform you use to purchase the policy directly will provide
 the product's information through documents such as&nbsp;the Product Summary,
 Policy Illustration, Product Highlights Sheet, Cover Page, and Bundled
@@ -80,7 +80,7 @@ Take the time to consider the questions and answer them carefully. Avoid
 making a decision in haste. Not answering questions on your health and
 medical conditions truthfully, for example, could lead to your policy being
 voided when you need it.</p>
-<h3>Know what you're buying</h3>
+<h3>Know What You're Buying</h3>
 <p>Before completing the purchase, you will need to acknowledge that you
 have:</p>
 <ul data-tight="true" class="tight">
@@ -109,7 +109,7 @@ for</p>
 </ul>
 <p>If you have minor pre-existing conditions, some insurers offer a moratorium
 underwriting option to cover these conditions.</p>
-<h3>Things to note</h3>
+<h3>Things To Note</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>A life policy is not a savings account or deposit</p>
