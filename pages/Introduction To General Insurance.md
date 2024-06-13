@@ -4,6 +4,22 @@ permalink: /introduction-to-general-insurance/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_card_pondering6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Make sure you know what's covered and what's not</p>
+</li>
+<li>
+<p>Know who can sell you general insurance</p>
+</li>
+<li>
+<p>You'll receive a lump sum if the item covered is lost or damaged</p>
+</li>
+</ul>
 <p>General insurance is designed to protect the things you value. Your insurance
 company will pay you the sum assured or an agreed amount to cover some
 or all the loss under certain situations.</p>
@@ -19,7 +35,7 @@ or all the loss under certain situations.</p>
 <p>Damage to your house</p>
 </li>
 </ul>
-<h3><strong>Who are you dealing with</strong></h3>
+<h3>Who Are You Dealing With</h3>
 <p>General insurance products may be sold by general insurance agents or
 broking staff of insurance brokers. Before acting as an insurance agent
 for distributing general insurance products, the person or company must
@@ -31,7 +47,7 @@ if the individual is permitted to sell general insurance products.</p>
 agents have to explain all the main features of their products and services.
 They are also expected to handle your claims, complaints and requests for
 information fairly and promptly.</p>
-<h3><strong>Policy Owners' Protection (PPF)</strong></h3>
+<h3>Policy Owners' Protection (PPF)</h3>
 <p>Did you know that in Singapore, there is protection for your insurance
 policies? The PPF Scheme covers general insurance policies including all
 compulsory insurance policies under the Motor Vehicles (Third Party Risks
