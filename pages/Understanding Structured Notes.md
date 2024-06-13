@@ -4,8 +4,11 @@ permalink: /understanding-structured-notes/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/advisor_couple_signing6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Most structured notes are not principal-guaranteed</p>
@@ -18,7 +21,7 @@ description: ""
 come with substantial cost</p>
 </li>
 </ul>
-<h3><strong>What are structured notes?</strong></h3>
+<h3>What Are Structured Notes?</h3>
 <p>A structured note is a debt product whose return is linked to the performance
 of one or more underlying assets or benchmarks. It may be the interest
 that is payable on the structured note and/or the principal repayment,
@@ -41,12 +44,12 @@ invested by providing collateral, there is no guarantee that the principal
 amount invested will be returned to you.</p>
 <p>It is important that you read and understand the Product Highlights Sheet
 and Prospectus to understand the product’s features and risks.</p>
-<h3><strong>Structured note vs. structured deposit</strong></h3>
+<h3>Structured Note VS Structured Deposit</h3>
 <p>Structured note investors may potentially lose the whole amount invested
 in a structured note. But if you invest in a structured deposit, you will
 at least receive the principal amount deposited on the maturity of the
 structured deposits (subject to the credit risk of the bank).</p>
-<h3><strong>Underlying assets or benchmarks</strong></h3>
+<h3>Underlying Assets Or Benchmarks</h3>
 <p>The underlying assets or benchmarks are sometimes referred to as reference
 assets or reference benchmarks.</p>
 <p>These assets or benchmarks may include:</p>
@@ -77,7 +80,7 @@ assets or reference benchmarks.</p>
 assets or benchmarks (for example, the interest amount and/or principal
 repayment are dependent on both the creditworthiness and the share price
 of a group of companies).</p>
-<h3><strong>Types of structured notes</strong></h3>
+<h3>Types Of Structured Notes</h3>
 <p>Here are some types of structured notes that could be available:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -160,7 +163,7 @@ loans); and/or to the credit risk or falling market value of any collateral</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Returns from structured notes</strong></h3>
+<h3>Returns From Structured Notes</h3>
 <p>A structured note is a debt obligation of the issuer of the structured
 note. The issuer of the structured note usually pays interest or returns
 to investors during the term of the notes.</p>
@@ -170,14 +173,14 @@ which is linked to one or more underlying reference asset(s) or benchmark(s).</p
 the conditions affecting interest or principal payments. Ask questions
 and ensure that you understand the information in the documents before
 deciding whether to invest in the structured note.</p>
-<h3><strong>Why invest in structured notes?</strong></h3>
+<h3>Why Invest In Structured Notes?</h3>
 <p>Structured notes often offer investors potential returns that are higher
 than interest rates offered on traditional deposits. They may even offer
 the potential for capital appreciation.</p>
 <p>But such returns or capital gains are dependent on the performance of
 the underlying reference asset(s) or benchmark(s), which in turn exposes
 the investor to a greater variety of risks than a traditional deposit would.</p>
-<h3><strong>What are the risks?</strong></h3>
+<h3>What Are The Risks?</h3>
 <p>An investor will lose money if:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -201,7 +204,7 @@ institution (the counterparty).</p>
 <p>Risks arising from the derivative instruments, including the failure of
 a counterparty to meet its obligations, may be passed on directly to the
 investor and may result in the total loss of the original investment amount.</p>
-<h3><strong>What’s the most you can lose?</strong></h3>
+<h3>What’s The Most You Can Lose?</h3>
 <p><strong>Most structured notes are not principal-guaranteed.</strong> You
 may lose all or a substantial amount of the money you invested in certain
 situations, which are described in the Product Highlights Sheet and Prospectus.</p>
@@ -212,7 +215,7 @@ principal invested.</p>
 <p>Your return may also be affected if your structured note is redeemed early
 by the issuer, or for other reasons specified in the prospectus for the
 structured note.</p>
-<h3><strong>Early redemption</strong></h3>
+<h3>Early Redemption</h3>
 <p>Many structured notes allow the issuer to redeem or “call” the notes before
 maturity. When this happens, the notes would normally be redeemed in full.</p>
 <p>If an early redemption takes place, you may face reinvestment risk and
@@ -238,7 +241,7 @@ any or all obligations under the structured note.</p>
 </ul>
 <p>In these circumstances, you may lose all or part of the amount you initially
 invested.</p>
-<h3><strong>Fees and charges</strong></h3>
+<h3>Fees And Charges</h3>
 <p>The issuer may charge a fee for the management of the reference assets
 of the structured note and for the hedging of the risks relating to the
 changes in value of such assets.</p>
@@ -248,15 +251,15 @@ prospectus for the structured note.</p>
 <p>If the structured note is traded on an exchange, the trading of the note
 will incur clearing and trading fees, as well as commission fees imposed
 by individual brokers.</p>
-<h3><strong>Documents you should receive</strong></h3>
+<h3>Documents You Should Receive</h3>
 <p>If you are offered a structured note, you should receive a prospectus
 and Product Highlights Sheet.</p>
-<h4><strong>Prospectus</strong></h4>
+<h4>Prospectus</h4>
 <p>Issuers who offer structured notes to retail investors are required to
 provide a prospectus to investors. Read the prospectus carefully to understand
 the details of the offer, information on the issuer, risk factors, and
 the terms and conditions of the structured notes.</p>
-<h4><strong>Product Highlights Sheet</strong></h4>
+<h4>Product Highlights Sheet</h4>
 <p>In addition to the prospectus, the issuer should also provide you with
 a Product Highlights Sheet. The Product Highlights Sheet is a short document
 which highlights key features and risks of the structured notes, and usually
@@ -264,7 +267,7 @@ incorporates diagrams such as graphs and flowcharts to explain the structure
 or payoffs of the structured notes.</p>
 <p>The Product Highlights Sheet does not replace the prospectus. It is important
 to read the prospectus before deciding whether to purchase the product.</p>
-<h4><strong>Checklist</strong></h4>
+<h4>Checklist</h4>
 <p>Investing in structured notes may not be for everyone. Before you invest,
 check that you:</p>
 <ul data-tight="true" class="tight">
