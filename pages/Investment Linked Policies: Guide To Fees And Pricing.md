@@ -4,8 +4,11 @@ permalink: /investment-linked-policies-guide-to-fees-and-pricing/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/laptop_calculator6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>An ILP's fees and charges include insurance coverage and policy administration
@@ -16,7 +19,7 @@ charges as well as fund management fees</p>
 used is commonly known as the premium allocation rate</p>
 </li>
 </ul>
-<h3><strong>Fees and charges</strong></h3>
+<h3>Fees And Charges</h3>
 <p>You can find the details of all the charges of an investment-linked insurance
 policy (ILP) in its Product Highlight Sheet (PHS), Product (Fund) Summary
 and Policy Contract.</p>
@@ -146,7 +149,7 @@ charge</p>
 <p>Note that fees and charges may not be guaranteed and are subject to change.
 These fees and charges (including distribution costs such as commissions)
 are typically deducted from the (monthly) sale of units.</p>
-<h3><strong>How much of the premium is used to purchase units?</strong></h3>
+<h3><strong>How Much Of The Premium Is Used To Purchase Units?</strong></h3>
 <p>The full amount of premium paid may not be used to buy units. The proportion
 used is commonly known as the premium allocation rate and is stated in
 the Product Summary or Policy Contract.</p>
@@ -163,13 +166,13 @@ charges imposed when you surrender your policy, partially or fully, within
 a certain period of time.</p>
 <p>Although the premium allocation structure differs for front-end and back-end
 loaded ILPs, the overall effect of the charges will be similar.</p>
-<h3><strong>How unit prices are computed</strong></h3>
+<h3><strong>How Unit Prices Are Computed</strong></h3>
 <p>How it is computed and the frequency of computation may vary from sub-fund
 to sub-fund. Find out more in the Product Summary and Policy Contract.
 <br>
-<br>Generally, the fund manager calculates the sub-fund’s <strong>net asset value </strong>based
-on a valuation of its underlying assets, after the market closes. After
-deducting fund management charges from the net asset value, the balance
+<br>Generally, the fund manager calculates the sub-fund’s net asset value
+based on a valuation of its underlying assets, after the market closes.
+After deducting fund management charges from the net asset value, the balance
 is then divided by the total number of units to derive the unit price.</p>
 <p>All ILP orders to purchase or sell units are settled based on the next
 computed unit price (next business day’s price), sometimes referred to
