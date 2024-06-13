@@ -19,15 +19,15 @@ description: ""
 <p>Read all documents carefully before signing</p>
 </li>
 </ul>
-<h3>What to ask before buying life insurance</h3>
+<h3>What To Ask Before Buying Life Insurance</h3>
 <p>Policy terms, features, and benefits can be overwhelming, especially for
 someone new to buying insurance.</p>
 <p>Your FA representative must explain the features of the policy he or she
 recommended, and why it is suitable for you.</p>
 <p>Use this checklist before you sign on the dotted line.</p>
-<h3>Ask yourself</h3>
+<h3>Ask Yourself</h3>
 <p>Before you buy, ask yourself the following questions:</p>
-<h4>Has the FA representative recommended a suitable product?</h4>
+<h4>Has The FA Representative Recommended A Suitable Product?</h4>
 <p>Does the product meet your:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,7 +44,7 @@ product)?</p>
 <p>Does it supplement or complement the financial products (insurance and
 investment products) you already have? Will you be over-insured or exposed
 to more investment risks?</p>
-<h4>Are verbal representations provided in line with what's in the insurance policy documents?</h4>
+<h4>Are Verbal Representations Provided In Line With What's In The Insurance Policy Documents?</h4>
 <p>Verify these details of your insurance or investment documents:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -69,7 +69,7 @@ to more investment risks?</p>
 <p>Guaranteed or non-guaranteed returns</p>
 </li>
 </ul>
-<h4>Is the information in the insurance policy correct?</h4>
+<h4>Is The Information In The Insurance Policy Correct?</h4>
 <p>Even if your FA representative asks you to, <strong>you should never:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -83,7 +83,7 @@ to more investment risks?</p>
 <p>Over-state your income or ability to take risk</p>
 </li>
 </ul>
-<h4>Is there any benefit to switching insurance or investment products?</h4>
+<h4>Is There Any Benefit To Switching Insurance Or Investment Products?</h4>
 <p>If your FA representative recommends that you cancel an existing product
 and purchase another, check if it would cause you to:</p>
 <ul data-tight="true" class="tight">
@@ -103,7 +103,7 @@ and purchase another, check if it would cause you to:</p>
 <p>If the answer is "yes" to any of these, ask him why he is recommending
 the product to you. Do not buy the product if you are uncomfortable with
 the recommendation.</p>
-<h3>Ask your FA representative</h3>
+<h3>Ask Your FA Representative</h3>
 <p>Ask your FA representative about the key features and terms of the product:</p>
 <p><strong>About insurance protection:</strong>
 </p>
@@ -206,7 +206,7 @@ I am retrenched or retire early?</p>
 <p>What will it cost?</p>
 </li>
 </ul>
-<h3>Take your time</h3>
+<h3>Take Your Time</h3>
 <p>If you're uncomfortable with the recommendation or want to know what else
 is available, ask your FA representative. You are not obligated to purchase
 the product on the spot.</p>
