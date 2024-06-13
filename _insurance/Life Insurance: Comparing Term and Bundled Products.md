@@ -7,6 +7,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/managing-your-money.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Term insurance provides protection for a fixed period of time, and generally
+costs less</p>
+</li>
+<li>
+<p>Products that bundle a protection and an investment component generally
+cost more</p>
+</li>
+<li>
+<p>Products that have an investment component expose you to investment risk</p>
+</li>
+</ul>
 <p>When it comes to choosing life insurance, you have many options. Before
 asking which product is right for you, ask yourself why you want to be
 insured. Knowing this will help you narrow down your search for a suitable
