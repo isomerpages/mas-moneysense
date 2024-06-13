@@ -89,7 +89,7 @@ the Singapore Exchange which you can choose from:</p>
 <p>UOB Kay Hian</p>
 </li>
 </ul>
-<h3><strong>What you will need to apply for&nbsp;a trading account</strong></h3>
+<h3>What You Will Need To Apply For&nbsp;A Trading Account</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -227,7 +227,7 @@ If you wish to trade in listed SIPs, your securities broking firm has to
 conduct a Customer Account Review (CAR) to ascertain whether you have the
 relevant knowledge or experience to understand the risks and features of
 such complex product structures or derivatives before you are allowed to
-trade. Find out more on CAR from <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">MoneySense</a>.</p>
+trade.</p>
 <p>For trading in unlisted SIPs, you are required to pass the Customer Knowledge
 Assessment (CKA). This assessment is a requirement by Monetary Authority
 of Singapore (MAS) for you to have the relevant knowledge or experience
