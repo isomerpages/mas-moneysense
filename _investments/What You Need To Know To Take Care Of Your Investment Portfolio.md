@@ -24,7 +24,7 @@ earnings and therefore better share price performance.</p>
 how markets and the economy are performing. This article will explore some
 of the more important of these indicators.</p>
 <h3>Market Indicators</h3>
-<h4><strong>The Straits Times Index</strong></h4>
+<h4>The Straits Times Index</h4>
 <p>The most commonly-used and recognisable benchmark for the local stock
 market is the Straits Times Index (STI). This is made up of 30 of the largest
 stocks that are weighted by their market capitalisation (price X number
