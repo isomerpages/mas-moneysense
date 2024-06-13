@@ -7,6 +7,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/insurance-basics.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dependants' Protection Scheme is a type of term insurance</p>
+</li>
+<li>
+<p>Term insurance pays out only upon death or total and permanent disability
+and only within a fixed period of time</p>
+</li>
+<li>
+<p>Term insurance is usually cheaper than other forms of life insurance</p>
+</li>
+</ul>
 <p>Term insurance is life insurance that provides insurance coverage only
 for a fixed period of time. An example of term insurance is the Dependents'
 Protection Scheme.</p>
