@@ -9,6 +9,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/managing-your-money.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Investment products have different features and risk characteristics</p>
+</li>
+<li>
+<p>For more complex products, you will be required to undergo a knowledge
+assessment or account review before they can be sold to you</p>
+</li>
+</ul>
 <p>An important aspect of investing is understanding the product before you
 put your money in it.</p>
 <p>You might ask:</p>
