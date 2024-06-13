@@ -4,8 +4,11 @@ permalink: /understanding-specified-investment-products/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/person_pointing_graph6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>There are certain more complex retail investment products that are classified
@@ -24,7 +27,7 @@ similarly need to get through a Customer Knowledge Assessment</p>
 an SIP's complex features before they invest</p>
 </li>
 </ul>
-<h3><strong>What are SIPs?</strong></h3>
+<h3>What Are SIPs?</h3>
 <p>SIPs are generally products that are more complex than others. For example,
 they may contain derivatives, which can expose you to more factors that
 may affect your investment, or have returns or losses determined by complicated
@@ -37,7 +40,7 @@ the investor's investment knowledge and experience before selling SIPs
 to the investor. This is to assess that investors have the relevant knowledge
 and experience to understand the features and risks associated with investing
 in such products, before they invest.&nbsp;</p>
-<h3><strong>Types of SIPs</strong></h3>
+<h3>Types Of SIPs</h3>
 <p>There are generally two types of SIPs - those that are <strong>listed</strong> on
 an exchange and those that are <strong>unlisted</strong>.</p>
 <table style="minWidth: 50px">
@@ -89,7 +92,7 @@ structured notes)</p>
 </table>
 <p><strong>Tip: </strong>On the SGX website, SIPs are marked with an "@"
 prefix.</p>
-<h3><strong>What is required</strong></h3>
+<h3>What Is Required</h3>
 <p>Financial institutions are required to formally assess your investment
 knowledge and experience before selling SIPs to you. This is to ensure
 that you have the relevant knowledge and experience to understand the features
@@ -98,7 +101,7 @@ and risks associated with investing in such products.</p>
 risk appetite.</p>
 <p>You will need to go through a Customer Account Review for listed SIPs,
 or a Customer Knowledge Assessment for unlisted SIPs.</p>
-<h4><strong>Customer Account Review </strong></h4>
+<h4>Customer Account Review</h4>
 <p>Before you can open an account to trade listed SIPs, the financial institution
 must conduct a Customer Account Review.</p>
 <p>The financial institution will request information on your educational
@@ -125,12 +128,12 @@ and passed the assessment at the end of it</p>
 </ul>
 <p>You can find out the outcome of the Customer Account Review from the financial
 institution.</p>
-<h4><strong>How long it is valid for</strong></h4>
+<h4>How Long It Is Valid For</h4>
 <p>The outcome of your Customer Account Review will expire after 3 years
 if you have transacted in a listed SIP only once or not at all during that
 period. If so, the financial institution will be required to conduct a
 new Customer Account Review before you can transact in any listed SIP.</p>
-<h4><strong>Customer Knowledge Assessment </strong></h4>
+<h4>Customer Knowledge Assessment</h4>
 <p>If you wish to transact in an unlisted SIP, the financial institution
 must conduct a Customer Knowledge Assessment.</p>
 <p>The financial institution will request information on your educational
@@ -162,7 +165,7 @@ the financial institution.</p>
 <p>Even if you meet the Customer Knowledge Assessment criteria, remember
 that you can always ask the financial institution for advice on whether
 an unlisted SIP is suitable for you.</p>
-<h4><strong>How long it is valid for</strong></h4>
+<h4>How Long It Is Valid For</h4>
 <p>The outcome of your Customer Knowledge Assessment is only valid for a
 year.</p>
 <p>After the one year, the financial institution will be required to conduct
@@ -170,10 +173,10 @@ a fresh Customer Knowledge Assessment regardless of the number of transactions
 in unlisted SIPs you have made in that period, before you can transact
 in an unlisted SIP. This is to ensure that your knowledge and experience
 continue to be relevant.</p>
-<h3><strong>Trading both listed and unlisted SIPs</strong></h3>
+<h3>Trading Both Listed And Unlisted SIPs</h3>
 <p>If you want to buy both listed and unlisted SIPs, you will be asked to
 go through both a Customer Account Review and a Customer Knowledge Assessment.</p>
-<h3><strong>If you don't meet the CKA and CAR criteria</strong></h3>
+<h3>If You Don't Meet The CKA And CAR Criteria</h3>
 <p>You can still proceed to transact in SIPs if you do not meet the Customer
 Knowledge Assessment or Customer Account Review criteria. However, you
 should be aware of the consequences of proceeding with the transaction,
@@ -184,16 +187,14 @@ if you intend to proceed despite the outcome of your Customer Knowledge
 Assessment and Customer Account Review. For example, it might require that
 you receive advice on whether the product is suitable for you, or explain
 to you the general features and risks associated with investing in SIPs.</p>
-<h4><strong>Checklist</strong></h4>
-<p><strong>Before you invest: Key things to look out for</strong>
-</p>
+<h4>Checklist</h4>
 <p>Before you purchase an investment product or open an account to trade,
 consider the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Is the financial institution regulated?</p>
-<p>Check if the financial institution you are dealing with is regulated by
-MAS and if it is authorised to provide financial advice.</p>
+<p>Is the financial institution regulated? Check if the financial institution
+you are dealing with is regulated by MAS and if it is authorised to provide
+financial advice.</p>
 </li>
 <li>
 <p>Is the investment product suitable for you? Ask questions and understand
