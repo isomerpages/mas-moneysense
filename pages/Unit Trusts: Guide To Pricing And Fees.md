@@ -213,8 +213,8 @@ of the distributor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 <p>Payable to the distributor</p>
 </li>
 </ul>
-<h2><strong>Fees Charged To The Fund</strong></h2>
-<h3>Management Fees &nbsp;</h3>
+<h3>Fees Charged To The Fund</h3>
+<h4>Management Fees &nbsp;</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Payable to the fund manager for managing the fund.</p>
