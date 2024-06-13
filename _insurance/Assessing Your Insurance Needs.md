@@ -4,7 +4,11 @@ permalink: /assessing-your-insurance-needs/
 variant: tiptap
 description: ""
 ---
-<h3>Key takeaways</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/insurance_policy6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Get term insurance if you only have life protection needs</p>
@@ -16,13 +20,13 @@ description: ""
 <p>Know what you can afford</p>
 </li>
 </ul>
-<h3>What are your insurance needs?</h3>
+<h3>What Are Your Insurance Needs?</h3>
 <p>Nowadays, it is possible to be insured against all sorts of risks. But
 it may not be necessary to cover yourself against all risks. Finding the
 right insurance product is about knowing what you want to protect and how
 much you will need to cover a financial loss if the event were to happen.</p>
 <p>Here are the 3 main categories of insurance and how they can help you:</p>
-<h4>Life insurance</h4>
+<h4>Life Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -65,7 +69,7 @@ mortgage if the mortgagor passes away</p>
 </tr>
 </tbody>
 </table>
-<h4>Health insurance</h4>
+<h4>Health Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -126,7 +130,7 @@ dressing</p>
 </tr>
 </tbody>
 </table>
-<h4>General insurance</h4>
+<h4>General Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -193,7 +197,7 @@ suddenly admitted into a hospital</p>
 </tr>
 </tbody>
 </table>
-<h3>How much insurance is enough?</h3>
+<h3>How Much Insurance Is Enough?</h3>
 <p>To help you decide what insurance you need, make a list of the risks or
 events that concern you. Assess the likelihood of the event happening and
 the financial loss you or your dependants may suffer if so.</p>
