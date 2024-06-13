@@ -4,8 +4,11 @@ permalink: /investment-linked-versus-participating-life-insurance-policies/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_hand_signing6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Investment-Linked Policies (ILPs) and participating life insurance policies
