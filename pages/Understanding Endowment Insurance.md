@@ -4,8 +4,11 @@ permalink: /understanding-endowment-insurance/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/family_park6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Endowment policies are bundled products, which typically require higher
@@ -35,7 +38,7 @@ education, or building up a pool of savings over a fixed term.</p>
 premiums goes towards insurance coverage, while the rest is invested and
 subject to risk.</p>
 <p>Endowment insurance policy is available in different forms such as:</p>
-<h3><strong>Participating endowment policies</strong></h3>
+<h3>Participating Endowment Policies</h3>
 <p>Participating endowment policies share in the profits of the company's
 participating fund. Your share of the profit is paid in the form of bonuses
 or dividends to your policy.</p>
@@ -45,16 +48,16 @@ dividends which have been declared will be paid in addition to the sum
 assured.</p>
 <p>Endowment policies have cash values which will build up after a minimum
 period, and this differs from product to product.</p>
-<h3><strong>Non-participating endowment policies</strong></h3>
+<h3>Non-Participating Endowment Policies</h3>
 <p>Non-participating endowment policies have guaranteed maturity values and
 cash values.</p>
-<h3><strong>Anticipated endowment policies</strong></h3>
+<h3>Anticipated Endowment Policies</h3>
 <p>Anticipated endowment policies are similar to regular endowment policies
 except that a part of the sum assured is paid at pre-specified intervals
 during the term of the policy. The balance of the sum assured together
 with the accrued bonuses (if applicable) is paid at maturity.</p>
 <p>They are available as participating and non-participating policies.</p>
-<h3><strong>How endowment insurance works</strong></h3>
+<h3>How Endowment Insurance Works</h3>
 <p>Assess the features and risks and see if they match your needs.</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -235,7 +238,7 @@ on costs and for more details</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h3><strong>Things to note</strong></h3>
+<h3>Things To Note</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Endowment products are sometimes incorrectly marketed as fixed deposits. <strong>You may not get back what you put in</strong> as
