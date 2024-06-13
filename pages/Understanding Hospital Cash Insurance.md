@@ -4,8 +4,11 @@ permalink: /understanding-hospital-cash-insurance/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/nurse_elderly_wheelchair6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Amount paid to you may be more or less than your actual medical expenses</p>
@@ -18,7 +21,7 @@ time</p>
 <p>Hospital cash insurance pays you a fixed amount of money for each day
 you're hospitalised. The total amount paid under this policy may be more
 or less than your actual medical expenses.</p>
-<h3><strong>Key features</strong></h3>
+<h3>Key Features</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pays a fixed amount for each day you are warded for treatment or surgery</p>
@@ -36,7 +39,7 @@ or less than your actual medical expenses.</p>
 <p>Waiting periods and benefit limits are different across policies</p>
 </li>
 </ul>
-<h3><strong>Waiting period</strong></h3>
+<h3>Waiting Period</h3>
 <p>A hospital cash insurance policy may have a waiting period, a defined
 period from the start of the policy during which benefits will not be paid
 under certain conditions.</p>
