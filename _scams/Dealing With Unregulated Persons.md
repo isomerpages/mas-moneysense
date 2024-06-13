@@ -17,7 +17,7 @@ overseas), you will forgo the protection given under MAS' regulations.</p>
 <p>Check with the following sources:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://eservices.mas.gov.sg/fid/institution" rel="noopener noreferrer nofollow" target="_blank">Financial Institution Directory </a>–
+<p><a href="https://eservices.mas.gov.sg/fid/institution" rel="noopener noreferrer nofollow" target="_blank">Financial Institutions Directory </a>–
 Check to see if the person or company he represents is regulated by MAS
 to operate in Singapore. After you have found the entity in the Directory,
 check what activities it is authorised to conduct in Singapore. MAS only
