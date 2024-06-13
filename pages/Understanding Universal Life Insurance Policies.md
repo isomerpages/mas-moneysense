@@ -8,8 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/father_son_park6cff.jpg">
 </div>
-<p><strong>Key takeaways</strong>
-</p>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Universal life insurance policies are traditionally marketed as a tool
@@ -35,7 +34,7 @@ focus on wealth accumulation, thus offering lower protection benefits with
 a lower premium outlay</p>
 </li>
 </ul>
-<h3><strong>How do universal life insurance policies work?</strong></h3>
+<h3>How do universal life insurance policies work?</h3>
 <p>Universal life insurance policies are bundled products, meaning you get
 insurance protection and an investment return.</p>
 <p>Investment returns are based on the rates declared periodically by your
@@ -54,7 +53,7 @@ sum assured based on additional risk assessment.</p>
 you cancel your policy. You may pay more premiums at any time to increase
 the cash value of the policy.</p>
 <p></p>
-<h3><strong>What are the key features?</strong></h3>
+<h3>What are the key features?</h3>
 <p>Universal life policies are typically marketed as a tool for leaving a
 substantial inheritance to your loved ones after your death. In return,
 your insurer collects a large upfront lump-sum premium that can run into
@@ -86,8 +85,8 @@ Can you find the money at short notice?</p>
 <p>The bottomline: If you lose your insurance coverage as a result, how big
 of an impact will it be for you or your loved ones?</p>
 <p>Consider these points very carefully before you take up premium financing.</p>
-<h3><strong>What you should be aware of before buying</strong></h3>
-<h4><strong>Fees</strong></h4>
+<h3>What you should be aware of before buying</h3>
+<h4>Fees</h4>
 <p>You will have to pay fees at various points after buying a universal life
 insurance policy.</p>
 <p>These include:</p>
@@ -128,7 +127,7 @@ given.</p>
 <p>For details on how various charges affect the cash value of your policy,
 refer to the policy illustration provided to you when you purchase the
 policy.</p>
-<h3><strong>Possible lapse</strong></h3>
+<h3>Possible lapse</h3>
 <p>There is the possibility that the cash value of your policy gets lower
 and lower. For instance, the investment returns turn out to be much lower
 than expected while fees add up.</p>
@@ -138,7 +137,7 @@ premiums.</p>
 and review the cash value of your policy regularly. Insurers will typically
 make available periodic statements updating you of the cash value of your
 policy and notify you when your policy is about to lapse.</p>
-<h3><strong>Policy Term</strong></h3>
+<h3>Policy Term</h3>
 <p>Some universal life policies can be terminated by the insurer, after a
 notice period. In such a case, you will get back the accumulated cash value
 in your policy.</p>
@@ -212,7 +211,7 @@ giving notice)</p>
 <p></p>
 <p><strong>Tip: </strong>If all you need is protection coverage, buy term
 insurance.</p>
-<h3><strong>Where to find key information</strong></h3>
+<h3>Where to find key information</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -273,7 +272,7 @@ affect the projected cash value of your policy</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>What is the difference between a universal life insurance policy and other life insurance policies?</strong></h4>
+<h4>What is the difference between a universal life insurance policy and other life insurance policies?</h4>
 <p>The table compares the investment components of universal life insurance
 policies against other life insurance policies with cash value, such as
 participating whole life and endowment policies and investment-linked policies
