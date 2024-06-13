@@ -9,6 +9,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/insurance-basics.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Insurance policies help you cover your loss should something happen –
+what they cover depends on the specific policy</p>
+</li>
+<li>
+<p>Strike a balance between coverage and affordability – buy only what you
+need</p>
+</li>
+</ul>
 <p>Insurance is meant to protect you, your family and things you care about.
 The insurance you buy depends not only on what you want to protect but
 also what you can afford.</p>
@@ -19,7 +30,7 @@ one? What do you look out for? Even if you can afford it, you don't have
 to buy them all.</p>
 <h3>Types Of Policies</h3>
 <p>Here are 3 main types of insurance policies and their purpose:</p>
-<h4>1. Life Insurance</h4>
+<h4>Life Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -62,7 +73,7 @@ Home Protection Scheme</p>
 </tr>
 </tbody>
 </table>
-<h4>2. Health Insurance</h4>
+<h4>Health Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,7 +99,7 @@ Disability income, ElderShield/ CareShield Life</p>
 </tr>
 </tbody>
 </table>
-<h4>3. General Insurance</h4>
+<h4>General Insurance</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
