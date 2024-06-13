@@ -8,20 +8,18 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/client_meeting_clipboard6cff.jpg">
 </div>
-<p><strong>Getting financial advice begins with a fact-finding process and an analysis of your needs. Find out what the Financial Advisory (FA) representative needs to do and what you can expect when you meet.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recommendations are based on what you disclose. So, be truthful about
-your financial situation and any medical conditions.</p>
+your financial situation and any medical conditions</p>
 </li>
 <li>
 <p>Know your goals, how much you can afford to spend and how much risk or
-loss you can take.</p>
+loss you can take</p>
 </li>
 <li>
-<p>If the recommendation does not feel right, you do not have to buy it.</p>
+<p>If the recommendation does not feel right, you do not have to buy it</p>
 </li>
 </ul>
 <h3>What The FA Representative Needs To Do</h3>
@@ -49,10 +47,10 @@ information described above.</p>
 <p>Your FA representative will also assess if you have the relevant knowledge
 and experience to buy (or trade) a <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Product (SIP)</a>,
 as you may be recommended such a product.</p>
-<h4>Note</h4>
-<p>If your FA representative finds that there are no financial gaps to be
-addressed, they may not recommend a product to you at this point.</p>
-<h3>2. Make A Recommendation</h3>
+<p><strong>Note: </strong>If your FA representative finds that there are
+no financial gaps to be addressed, they may not recommend a product to
+you at this point.</p>
+<h4>2. Make A Recommendation</h4>
 <p>Your FA representative must have a reasonable basis for their recommendation.
 They must take into account your financial situation, particular needs
 and investment objectives.</p>
@@ -65,7 +63,7 @@ you are assessed to have not met the Customer Knowledge Assessment (for
 unlisted SIPs) or Customer Account Review (for listed SIPs). However, if
 you are interested in buying such a product although it was not recommended,
 you will be responsible for ensuring the suitability of the product.</p>
-<h3>3. Provide All Documents Needed</h3>
+<h4>3. Provide All Documents Needed</h4>
 <p>Your FA representative must give you the full details of the products
 that he or she is recommending. You should receive the following documents:</p>
 <h4>For Insurance</h4>
@@ -119,7 +117,7 @@ the product you are considering to invest in, you may receive documents
 such as a prospectus or product highlights sheet.</p>
 </li>
 </ul>
-<h3>4. Review Your Policy</h3>
+<h4>4. Review Your Policy</h4>
 <p>Your FA representative should contact you to review your policy or your
 investment portfolio with you regularly in order to help you see if your
 needs are being met.</p>
@@ -235,7 +233,7 @@ other financial products or the current product.</p>
 <h3>Checklist</h3>
 <p>Be prepared when you meet your FA representative. Use these checklists
 to go through what to do and ask before, during and after your meeting.</p>
-<h4>Meeting Your FA Rep</h4>
+<h4>Before Meeting Your FA Rep</h4>
 <p><strong>Think about your financial goals and needs</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -324,7 +322,7 @@ within which you can cancel your purchase.</p>
 <p><strong>Do not be pressured into signing up on the spot –</strong> Do not
 sign anything unless you have read and understood the document.</p>
 <p></p>
-<p><strong>NOTE: </strong>Your FA representative will assess your financial
+<p><strong>Note: </strong>Your FA representative will assess your financial
 situation and recommend products based on what you provide. So, make sure
 the information you give is full and accurate.</p>
 <h4>What To Do After Your Meeting</h4>
