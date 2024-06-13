@@ -7,6 +7,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/critical-illness-insurance.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Types of critical illnesses covered may vary from one insurer to another</p>
+</li>
+<li>
+<p>Payout is a one-time lump sum and the policy ends when it's paid out</p>
+</li>
+<li>
+<p>Lump sum amount does not depend on your medical expenses</p>
+</li>
+</ul>
 <p>Critical illness insurance pays you a one-time lump sum of money if you
 are diagnosed with a critical illness covered by the policy. These include:</p>
 <ul data-tight="true" class="tight">
