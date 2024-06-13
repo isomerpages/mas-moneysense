@@ -8,20 +8,18 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_woman_consultation6cff.jpg">
 </div>
-<p><strong>A checklist of important questions to ask yourself and your Financial Advisory (FA) representative before you buy an investment product.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Set your investment goals before meeting your FA representative.</strong>
+<p><strong>Set your investment goals before meeting your FA representative</strong>
 </p>
 </li>
 <li>
-<p><strong>Know your investing personality before investing.</strong>
+<p><strong>Know your investing personality before investing</strong>
 </p>
 </li>
 <li>
-<p><strong>Never invest in something you do not understand.</strong>
+<p><strong>Never invest in something you do not understand</strong>
 </p>
 </li>
 </ul>
@@ -30,7 +28,7 @@ description: ""
 and investment-linked insurance carry risks. Knowing what you are buying
 is the best way to navigate the risks. Here are a few things you should
 ask before investing in them.</p>
-<p>Print and use this list when you meet your FA representative.</p>
+<p>Use this list when you meet your FA representative.</p>
 <h3>10 Questions To Ask Yourself</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -49,10 +47,10 @@ after setting aside money for my daily needs and for emergencies?</p>
 <p><strong>What is my appetite for risk?</strong> 
 <br>How much can I afford to lose without overly impacting my financial situation
 and my financial plans?</p>
-<h3>Tip</h3>
-<p>Understand yourself better with the <a href="https://www.cpf.gov.sg/content/dam/web/member/growing-your-savings/documents/Risk_Tolerance_Questionaire.pdf" rel="noopener noreferrer" target="_blank">Risk Tolerance Questionnaire</a>.</p>
-<p></p>
 </li>
+</ol>
+<p><strong>Tip: </strong>Understand yourself better with the <a href="https://www.cpf.gov.sg/content/dam/web/member/growing-your-savings/documents/Risk_Tolerance_Questionaire.pdf" rel="noopener noreferrer" target="_blank">Risk Tolerance Questionnaire</a>.</p>
+<ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Does the recommended product meet my needs?</strong>
 </p>
@@ -70,12 +68,12 @@ written confirmation of any guaranteed returns or benefits.</p>
 </p>
 <p>If so, how does the return offered by the product compare with interest
 rates earned in my CPF accounts?</p>
-<h3>Tip</h3>
-<p>Money in your CPF Ordinary Account and Special Account currently earn
-a minimum interest of 2.5% and 4% per annum, respectively. This is both
-guaranteed and risk-free.</p>
-<p></p>
 </li>
+</ol>
+<p>Tip: Money in your CPF Ordinary Account and Special Account currently
+earn a minimum interest of 2.5% and 4% per annum, respectively. This is
+both guaranteed and risk-free.</p>
+<ol start="8" data-tight="true" class="tight">
 <li>
 <p><strong>When does the investment pay out?</strong> 
 <br>Can I afford to stay invested for that duration? Do I need the money earlier?</p>
@@ -122,11 +120,11 @@ if I find that I am unable to make the payment? What are the fees and charges?</
 </li>
 <li>
 <p>If the FA representative recommends investing with CPF monies, ask <strong>"How do the returns compare with interest rates earned by monies in your CPF accounts?</strong>"</p>
-<h3>Tip</h3>
-<p>CPF monies currently earn a minimum interest of 2.5% and 4% per annum,
-respectively. This is both guaranteed and risk-free.</p>
-<p></p>
 </li>
+</ol>
+<p><strong>Tip: </strong>CPF monies currently earn a minimum interest of
+2.5% and 4% per annum, respectively. This is both guaranteed and risk-free.</p>
+<ol start="7" data-tight="true" class="tight">
 <li>
 <p><strong>How long must I stay invested?</strong> 
 <br>What are the fees and charges? What are the penalties if I decide to liquidate
@@ -147,6 +145,5 @@ my FA representative of my decision to return the product? Are there any
 fees and charges?</p>
 </li>
 </ol>
-<h3>Tip</h3>
-<p>By all means, ask more questions if you are still unsure about the product
-your FA representative is recommending.</p>
+<p><strong>Tip: </strong>By all means, ask more questions if you are still
+unsure about the product your FA representative is recommending.</p>
