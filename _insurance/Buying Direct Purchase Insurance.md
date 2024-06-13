@@ -7,6 +7,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/buying-direct-purchase-insurance.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you do not need any financial advice, DPI is the most cost-effective
+option</p>
+</li>
+<li>
+<p>It is easy to do-it-yourself with DPI once you know how</p>
+</li>
+<li>
+<p>Compare insurance products to make more informed decisions</p>
+</li>
+</ul>
 <p>Direct Purchase Insurance (DPI) are term and whole life insurance products
 that you can buy directly from a life insurance company without paying
 a financial advisory (FA) representative.</p>
