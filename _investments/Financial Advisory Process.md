@@ -66,26 +66,28 @@ for ensuring the suitability of the product.</p>
 <h4>3. Provide All Documents Needed</h4>
 <p>Your FA representative must give you the full details of the products
 that he or she is recommending. You should receive the following documents:</p>
-<h4>For Insurance</h4>
+<p><strong>For Insurance</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Documentation of the FNA</strong> – Contains the information you
-shared with your FA representative and the basis of the recommendation.</p>
+<p>Documentation of the FNA – Contains the information you shared with your
+FA representative and the basis of the recommendation.</p>
 </li>
 <li>
-<p><strong>Cover page</strong> – A document highlighting the key information
-from the policy illustration and the product summary.</p>
+<p>Cover page – A document highlighting the key information from the policy
+illustration and the product summary.</p>
 </li>
 <li>
-<p><strong>Product summary</strong> – An overview of the features, exclusions,
-limitations, fees and charges of the recommended product.</p>
+<p>Product summary – An overview of the features, exclusions, limitations,
+fees and charges of the recommended product.</p>
 </li>
 <li>
-<p><strong>Product highlights</strong> – For Investment-linked insurance policies
-(ILPs). It describes the key features and risks of the relevant ILP sub-fund.</p>
+<p><strong>Product highlights </strong>– For Investment-linked insurance
+policies (ILPs). It describes the key features and risks of the relevant
+ILP sub-fund.</p>
 </li>
 <li>
-<p><strong>Policy illustration</strong> – Provides the benefits or projected
+<p><strong>Policy illustration </strong>– Provides the benefits or projected
 amounts payable in a claim or early termination of the policy. Including
 total cash values and death benefits, premiums and cost of distribution
 and charges. Cost of distribution includes the commission the insurer pays
@@ -93,28 +95,28 @@ to your FA representative or agent. The illustrations are projections,
 and you may not actually get the returns set out.</p>
 </li>
 <li>
-<p><strong>Bundled product disclosure document</strong> – For bundled insurance
-products. It sets out the principal features of the bundled product and
-contrasts against the most comparable term life insurance product. Consumers
-can consider buying, at lower cost, a term life product for insurance protection,
+<p>Bundled product disclosure document – For bundled insurance products.
+It sets out the principal features of the bundled product and contrasts
+against the most comparable term life insurance product. Consumers can
+consider buying, at lower cost, a term life product for insurance protection,
 and investing the difference in premiums on their own.</p>
 </li>
 <li>
-<p><strong>Other documents</strong> – A copy of <a href="https://www.lia.org.sg/media/1389/ygtli_english_jul2018.pdf" rel="noopener noreferrer" target="_blank">Your Guide to Life Insurance</a> and
+<p>Other documents – A copy of <a href="https://www.lia.org.sg/media/1389/ygtli_english_jul2018.pdf" rel="noopener noreferrer" target="_blank">Your Guide to Life Insurance</a> and
 a checklist to confirm that you have received and read the relevant documents.</p>
 </li>
 </ul>
-<h4>For Investments</h4>
+<p><strong>For Investments</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Documentation of the FNA</strong> – Similar to FNA for insurance
-products.</p>
+<p>Documentation of the FNA – Similar to FNA for insurance products.</p>
 </li>
 <li>
-<p><strong>Product information</strong> – FIs are required to disclose the
-features, risks, and costs of investment products to you. Depending on
-the product you are considering to invest in, you may receive documents
-such as a prospectus or product highlights sheet.</p>
+<p>Product information – FIs are required to disclose the features, risks,
+and costs of investment products to you. Depending on the product you are
+considering to invest in, you may receive documents such as a prospectus
+or product highlights sheet.</p>
 </li>
 </ul>
 <h4>4. Review Your Policy</h4>
@@ -156,23 +158,23 @@ and the company are authorised to provide financial advisory services.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Provide complete and accurate information.</strong> Be clear about
-your goals and risk tolerance. Fully and accurately disclose any pre-existing
-medical conditions you may have.</p>
+<p>Provide complete and accurate information. Be clear about your goals and
+risk tolerance. Fully and accurately disclose any pre-existing medical
+conditions you may have.</p>
 </li>
 <li>
-<p><strong>Understand what you are buying.</strong> Do not rush into buying
-on the spot. Take time to understand the recommendation, how it addresses
-your needs and the financial commitments required of you.</p>
+<p>Understand what you are buying. Do not rush into buying on the spot. Take
+time to understand the recommendation, how it addresses your needs and
+the financial commitments required of you.</p>
 </li>
 <li>
-<p><strong>Ask questions.</strong> Prepare your questions in advance (or use
-the checklists below).</p>
+<p>Ask questions. Prepare your questions in advance (or use the checklists
+below).</p>
 </li>
 <li>
-<p><strong>Check all information before signing.</strong> Make sure your personal
-details, e.g. education level, income, language proficiency, and risk profile
-are accurate.</p>
+<p>Check all information before signing. Make sure your personal details,
+e.g. education level, income, language proficiency, and risk profile are
+accurate.</p>
 </li>
 </ul>
 <p><strong>Don't:</strong>
@@ -194,18 +196,17 @@ the first place.</p>
 assess if it meets your needs. If you are not happy, you may ask them to
 show you something else. Do not feel compelled to buy the product, even
 if there is a 14-day free-look period for some products.</p>
-<p><strong>If you disagree with the recommendation</strong>, tell your FA
-representative what you really need. For example, if you want protection
-coverage and not investment, be clear about this. Otherwise, you may end
-up paying for something you do not need or want. Do ask for other recommendations.</p>
+<p>If you disagree with the recommendation, tell your FA representative what
+you really need. For example, if you want protection coverage and not investment,
+be clear about this. Otherwise, you may end up paying for something you
+do not need or want. Do ask for other recommendations.</p>
 <p>If you decide not to take up their offer and choose to buy a different
 product, it is your responsibility to check if the product you selected
 suits you.</p>
 <h3>After Buying Insurance Or Investing</h3>
-<p><strong>If you change your mind,</strong> remember that you should do so
-within the <strong>free-look period</strong>. You can go back to the product
-provider to inform them. The free-look period enables you to cancel your
-policy for any reason.</p>
+<p><strong>If you change your mind, remember that you should do so within the free-look period</strong>.
+You can go back to the product provider to inform them. The free-look period
+enables you to cancel your policy for any reason.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Insurance: 14 days from the date you receive your policy documents</p>
