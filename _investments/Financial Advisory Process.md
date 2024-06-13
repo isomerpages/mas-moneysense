@@ -31,7 +31,7 @@ can sell you.</p>
 <p>Your FA representative will ask you a series of questions about your finances,
 needs and goals. They need to gather enough information to assess your
 financial situation, protection needs and investment objectives. This fact-finding
-process is called <strong>Financial Needs Analysis</strong> (FNA).</p>
+process is called Financial Needs Analysis (FNA).</p>
 <p>As part of the FNA, your FA representative must identify your financial
 objectives and risk tolerance through an FNA. They will also need to know
 your employment status, financial situation (including your assets, liabilities,
@@ -45,7 +45,7 @@ where there is no human intervention, you may not need to provide all the
 information described above.</p>
 <h4>For Specified Investment Products</h4>
 <p>Your FA representative will also assess if you have the relevant knowledge
-and experience to buy (or trade) a <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Product (SIP)</a>,
+and experience to buy (or trade) a <a href="https://www.moneysense.gov.sg/understanding-specified-investment-products/" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Product (SIP)</a>,
 as you may be recommended such a product.</p>
 <p><strong>Note: </strong>If your FA representative finds that there are
 no financial gaps to be addressed, they may not recommend a product to
@@ -58,11 +58,11 @@ and investment objectives.</p>
 for you and disclose information on the product such as the benefits and
 risks of the product, the premiums and charges that you need to pay, and
 implications of any early withdrawal or surrenders.</p>
-<p>Your FA representative will not recommend a <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">SIP</a> if
-you are assessed to have not met the Customer Knowledge Assessment (for
-unlisted SIPs) or Customer Account Review (for listed SIPs). However, if
-you are interested in buying such a product although it was not recommended,
-you will be responsible for ensuring the suitability of the product.</p>
+<p>Your FA representative will not recommend an SIP if you are assessed to
+have not met the Customer Knowledge Assessment (for unlisted SIPs) or Customer
+Account Review (for listed SIPs). However, if you are interested in buying
+such a product although it was not recommended, you will be responsible
+for ensuring the suitability of the product.</p>
 <h4>3. Provide All Documents Needed</h4>
 <p>Your FA representative must give you the full details of the products
 that he or she is recommending. You should receive the following documents:</p>
@@ -184,8 +184,9 @@ of the recommendation, take time to think about it. If necessary, discuss
 it with your family and friends first.</p>
 </li>
 <li>
-<p>Lose sight of your financial goals and the reasons why you want to <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/assessing-your-insurance-needs.html" rel="noopener noreferrer nofollow" target="_blank">buy insurance</a> or
-<a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages.html" rel="noopener noreferrer nofollow" target="_blank">invest</a>in the first place.</p>
+<p>Lose sight of your financial goals and the reasons why you want to buy
+insurance or invest<a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages.html" rel="noopener noreferrer nofollow" target="_blank"> </a>in
+the first place.</p>
 </li>
 </ul>
 <h3>Reviewing The Recommendation</h3>
@@ -220,7 +221,7 @@ policy for any reason.</p>
 lapse.</p>
 </li>
 <li>
-<p><strong>Review your policy when your circumstances change</strong>, e.g.
+<p><strong>Review your policy when your circumstances change</strong>, e.g.,
 if you are having another child. You can go back to your FA representative
 for advice.</p>
 </li>
