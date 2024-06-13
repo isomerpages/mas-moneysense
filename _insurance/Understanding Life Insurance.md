@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/insurance-basics.jfif">
 </div>
-<h3>Key takeaways</h3>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Find out what life insurance is and how it provides protection against
@@ -223,8 +223,8 @@ life policies covered by the scheme are:</p>
 moneys under all insured policies are also covered. The PPF Scheme, however,
 does not cover policies issued by overseas branches of a registered life
 insurer incorporated in Singapore.</p>
-<p>Singapore Deposit Insurance Corporation (SDIC) provides protection for
-guaranteed benefits of life insurance policies, subject to applicable limits.</p>
+<p>Singapore Deposit Insurance Corporation provides protection for guaranteed
+benefits of life insurance policies, subject to applicable limits.</p>
 <p>For example, for individual life and voluntary group life policies, there
 is a limit of S$500,000 for the guaranteed sum assured and S$100,000 for
 the guaranteed surrender value per life assured per insurer.</p>
