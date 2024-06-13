@@ -4,7 +4,11 @@ permalink: /understanding-environmental-social-and-governance-esg-funds/
 variant: tiptap
 description: ""
 ---
-<h3><strong>What is an ESG fund?</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/05_Should_I_invest_now_1310Wx520Hpx6cff.jpg">
+</div>
+<h3>What Is An ESG Fund?</h3>
 <p>An ESG fund is a fund that uses environmental, social and/or governance
 factors as its key investment focus and strategy. This means that ESG factors
 significantly influence the fund’s selection of companies to invest in.</p>
@@ -24,7 +28,7 @@ product sourcing; and</p>
 conduct, business ethics</p>
 </li>
 </ul>
-<h3><strong>What is ESG investing?</strong></h3>
+<h3>What Is ESG Investing?</h3>
 <p>In ESG investing, funds incorporate ESG factors in their investment strategies
 or approaches in varying degrees as broadly set out below:</p>
 <ul data-tight="true" class="tight">
@@ -52,7 +56,7 @@ or affordable housing)</p>
 that they invest in. For example, as a shareholder, a fund can influence
 a company’s actions by engaging with the board and senior management, as
 well as voting at general meetings.</p>
-<h3><strong>What is greenwashing?</strong></h3>
+<h3>What Is Greenwashing?</h3>
 <p>As an investor looking to invest in ESG funds, you should watch out for
 greenwashing, which is the risk that a fund may present itself as more
 ethical, sustainable or environmentally sound than it actually is, or has
@@ -63,7 +67,7 @@ treaties or national commitments than they actually are.</p>
 <p>An example of greenwashing is when a fund claims to achieve a certain
 level of ESG impact through its investment strategy without sufficient
 or credible evidence to support that claim.</p>
-<h3><strong>Things to consider when investing in an ESG fund</strong></h3>
+<h3>Things To Consider When Investing In An ESG Fund</h3>
 <p>As with any other financial products, you should think about the following
 before investing in an ESG fund:</p>
 <ul data-tight="true" class="tight">
@@ -79,7 +83,7 @@ solutions to specific environmental or social challenges meet your ESG
 investing goals?</p>
 </li>
 </ul>
-<h3><strong>What you should look out for as an investor</strong></h3>
+<h3>What You Should Look Out For As An Investor</h3>
 <p>To ensure that adequate disclosures are made on the ESG aspects of a fund
 and mitigate risks of greenwashing, a fund that markets or represents itself
 as an ESG fund to retail investors must comply with MAS’ Disclosure and
@@ -115,7 +119,7 @@ focus;</p>
 <p>sources of ESG data used</p>
 </li>
 </ul>
-<h4><strong>Two key steps to take when considering ESG funds:</strong></h4>
+<h4>Two Key Steps To Take When Considering ESG Funds</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Check whether a fund is an ESG fund under the MAS Circular </strong>–
