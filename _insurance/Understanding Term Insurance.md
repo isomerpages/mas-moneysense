@@ -151,7 +151,7 @@ make their first contribution to CPF.</p>
 tend to be employees of a company or members of an organisation. They usually
 receive insurance at a reduced cost because the insurer’s risk is spread
 across a group of policyholders.</p>
-<p><a href="https://www.ns.sg/web/portal/nsmen/home/nstopics/awards-and-recognition/article/benefits-for-national-servicemen/mindef-group-insurance" rel="noopener noreferrer nofollow" target="_blank">MINDEF/MHA Group insurance</a>&nbsp;is
+<p><a href="https://www.ns.gov.sg/web/profiles/nsf/nsf-welfare-benefits#mindef-mha-group-insurance" rel="noopener noreferrer nofollow" target="_blank">MINDEF/MHA Group insurance</a>&nbsp;is
 a type of group insurance for all full-time and operationally-ready National
 Servicemen, regular servicemen, and volunteers (SAF Volunteer Corps, NS
 Volunteers, SPF Voluntary Special Constabulary and Civil Defence Auxiliary
