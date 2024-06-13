@@ -8,8 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_ipad_charts6cff.jpg">
 </div>
-<p><strong>Get started on investing by learning about terms commonly used in investing and what you should think about before you start.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
