@@ -4,8 +4,11 @@ permalink: /understanding-annuities/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/elderly_online_purchase6cff.jpg">
+</div>
+<h3><strong>Key Takeaways</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>CPF LIFE is an annuity that pays you an income stream for life</p>
@@ -25,7 +28,7 @@ fluctuate</p>
 <p>You cannot take a loan against annuity policies</p>
 </li>
 </ul>
-<h3>What are annuities?</h3>
+<h3>What Are Annuities?</h3>
 <p>An annuity is a type of insurance policy that typically guarantees fixed
 payments at regular intervals (usually monthly), for as long as you live
 or for a fixed period of time.</p>
@@ -36,7 +39,7 @@ participating fund.</p>
 is usually paid in a lump sum but it can also be paid for an agreed period
 before the insurer commences payments to you.</p>
 <p>The CPF LIFE scheme is an example of an annuity.</p>
-<h3><strong>Types of annuities</strong></h3>
+<h3>Types Of Annuities</h3>
 <p>There are two types of annuities:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -52,7 +55,7 @@ insurance company. While one should consider the kind of returns it has
 paid out in the past, only use it as a guide since it does not necessarily
 represent future performance when it comes to the non-guaranteed component
 of annuities.</p>
-<h3><strong>CPF LIFE</strong></h3>
+<h3>CPF LIFE</h3>
 <p>CPF LIFE is a life annuity. Unlike term annuities, CPF LIFE provides the
 assurance of a payout stream for as long as you live.</p>
 <p>As with other insurance schemes, CPF LIFE is able to do so via risk-pooling.
@@ -60,7 +63,7 @@ This means that the interest earned on the annuity premium is pooled among
 the surviving members, ensuring that no CPF LIFE member will run out of
 retirement payouts in old age.</p>
 <p>CPF LIFE is the only life annuity backed by the Singapore Government.</p>
-<h4><strong>Who is eligible</strong></h4>
+<h4>Who Is Eligible</h4>
 <p>You will automatically be included in CPF LIFE to enjoy lifelong payouts
 if:</p>
 <ul data-tight="true" class="tight">
