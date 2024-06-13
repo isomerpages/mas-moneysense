@@ -7,6 +7,22 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/understanding-health-insurance.jfif">
 </div>
+<h3>Key takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health insurance helps pay for health care costs in the event of an injury,
+illness or disability</p>
+</li>
+<li>
+<p>All Singaporeans are covered under MediShield Life, a basic government
+health plan to cover large medical expenses</p>
+</li>
+<li>
+<p>Apart from medical expense insurance, there are other types of health
+insurance plans. Know the differences in coverage so that you buy what
+you need</p>
+</li>
+</ul>
 <p>Health insurance helps you pay for your medical expenses when you fall
 ill, get injured or become disabled.</p>
 <p>All Singaporeans are covered under MediShield Life, a basic government
