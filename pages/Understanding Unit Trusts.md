@@ -8,6 +8,21 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/couple_agent_ipad6cff.jpg">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>When you buy into unit trusts, your investments are handled by a fund
+manager</p>
+</li>
+<li>
+<p>The returns on your investment are dependent on many factors, including
+your risk appetite and the fees charged to the investor and the fund</p>
+</li>
+<li>
+<p>The list of funds authorised or recognised by MAS for sale to retail investors
+is available on OPERA</p>
+</li>
+</ul>
 <p>If you invest in a unit trust or fund, your money is pooled with money
 from other investors and invested in a portfolio of assets according to
 the fund’s stated investment objective and investment approach.</p>
@@ -128,29 +143,29 @@ which include the risk of losing a substantial part of your investment</p>
 </li>
 <li>
 <p>Understand how returns are calculated or the factors that can affect returns,
-such as fees and other expenses.</p>
+such as fees and other expenses</p>
 </li>
 <li>
 <p>Understand the fund’s investment objective, strategy or approach. This
 includes understanding how it intends to achieve its investment objective
 under different market conditions, and how the limits it has in place on
-the amount of risk it can take can affect its returns.</p>
+the amount of risk it can take can affect its returns</p>
 </li>
 <li>
 <p>Are clear about the fund’s benchmark and whether the fund is seeking to
-outperform, or merely replicate the returns of the benchmark.</p>
+outperform, or merely replicate the returns of the benchmark</p>
 </li>
 <li>
-<p>Are familiar with the fund manager and fund’s track record.</p>
+<p>Are familiar with the fund manager and fund’s track record</p>
 </li>
 <li>
-<p>Understand the risks associated with the fund.</p>
+<p>Understand the risks associated with the fund</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Some funds use financial derivatives for hedging or investment purposes.
 You should be aware of the risks associated with the use of financial derivatives,
 including the risk that the provider (or counterparty) of the financial
-derivatives defaults.</p>
+derivatives defaults</p>
 </li>
 </ul>
 </li>
@@ -158,24 +173,24 @@ derivatives defaults.</p>
 <p>Understand how to interpret indicators, such as excess returns, active
 share and tracking error, that are disclosed in fund disclosure documents.
 You may refer to the section on ‘passive or active management’ for details
-on active share and tracking error.</p>
+on active share and tracking error</p>
 </li>
 <li>
 <p>Compare both active and passive funds to determine which type of funds
-better meet your investment needs.</p>
+better meet your investment needs</p>
 </li>
 <li>
-<p>Are prepared to have your money tied up for long periods of time.</p>
+<p>Are prepared to have your money tied up for long periods of time</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>As funds are exposed to market ups and downs, investors who stay invested
-long enough may be better able to ride out the downturns.</p>
+long enough may be better able to ride out the downturns</p>
 </li>
 <li>
 <p>You should have adequate financial resources so that you won’t have to
 liquidate your funds during a market downturn. If you need to convert your
 investments to cash in the short-term to meet specific needs, some funds
-may not be suitable for you.</p>
+may not be suitable for you</p>
 </li>
 </ul>
 </li>
@@ -205,9 +220,9 @@ is available on the website via&nbsp;<a href="https://eservices.mas.gov.sg/opera
 for public offers of investments.</p>
 <p>Singapore-constituted funds are known as “authorised funds” while foreign
 funds are known as “recognised funds”.</p>
-<h3>Note</h3>
-<p>When recommending a fund, your financial advisor is required to disclose
-to you the key features of the product including the following:</p>
+<p><strong>Note: </strong>When recommending a fund, your financial advisor
+is required to disclose to you the key features of the product including
+the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nature and aim of the product</p>
@@ -246,8 +261,7 @@ In either case, the sales charge will be refunded to you.</p>
 <p>You are making additional investments in a fund that you already own</p>
 </li>
 <li>
-<p>You purchased a recognised fund or a fund that is listed on the&nbsp;
-<a href="http://www.sgx.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Exchange</a>
+<p>You purchased a recognised fund or a fund that is listed on the <a href="http://www.sgx.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Exchange</a>
 </p>
 </li>
 </ul>
@@ -305,7 +319,7 @@ an indication of future performance.</p>
 and which fund to buy, please speak to a financial adviser representative.</p>
 <p>However, if you do not need financial advice, you may consider buying
 the fund through other channels that may cost less, such as platforms offered
-by banks or online fund platforms.What are the fees and charges you will
+by banks or online fund platforms. What are the fees and charges you will
 incur?</p>
 <p><strong>Find out what you will be charged, when and why. You can ask some of the following questions:</strong>
 </p>
