@@ -4,8 +4,11 @@ permalink: /understanding-disability-income-insurance/
 variant: tiptap
 description: ""
 ---
-<p><strong>Key takeaways</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/doctor_patient_tablet6cff.jpg">
+</div>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Policy pays a monthly benefit but it may not completely cover your entire
@@ -22,7 +25,7 @@ period</p>
 <p>Disability income insurance pays you for the loss of income due to an
 accident or illness. The policy helps to ease your financial loss, but
 will not completely replace your income before the accident or illness.</p>
-<h3><strong>Key features</strong></h3>
+<h3>Key features</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pays a fixed amount each month to replace the income you lose if you are
