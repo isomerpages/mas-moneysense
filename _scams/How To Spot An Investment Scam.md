@@ -23,16 +23,15 @@ Authority of Singapore (MAS)</p>
 </ul>
 <p>Out of nowhere, you are added to a group chat where people are sharing
 their windfall from a not-to-be-missed investment.</p>
-<p>Or you are contacted on social media by what initially looks to be your
-friend, who asks if you are interested in a lucrative investment opportunity.</p>
-<p>It could even be a telephone call where the person on the other end of
-the line knows your name and some other details, trying to strike up a
-conversation.</p>
+<p>Or you are contacted on social media, who asks if you are interested in
+a lucrative investment opportunity.</p>
+<p>It could even be an ad you chance upon on social media sites touting profitable
+"investment opportunities".</p>
 <p>Sounds familiar?</p>
-<p>Most of us would have read about news reports of people who have gotten
-scammed through such methods. Nevertheless, people continue to fall victim
-as scammers constantly come up with new, convincing ways to steal what
-is often very large amounts.</p>
+<p>Most of us would have read about news reports of people who were scammed
+through such methods. Nevertheless, people continue to fall victim as scammers
+constantly come up with new, convincing ways to steal what is often very
+large amounts.</p>
 <p>In many instances, victims thought they would never get scammed – sometimes
 they use the profits they receive initially to refute disbelieving loved
 ones. But criminals have become extremely skilled at convincing people
