@@ -8,26 +8,24 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/contactless_payment6cff.jpg">
 </div>
-<p><strong>A debit card lets you draw directly from your bank account when you make a purchase. Find out how it works, what to watch out for and how it compares to ATM and credit cards.</strong>
-</p>
-<h3><strong>Key Takeaways</strong></h3>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>You can use a debit card to withdraw money from an ATM.</p>
+<p>You can use a debit card to withdraw money from an ATM</p>
 </li>
 <li>
-<p>You can also use it like a credit card for Point-of-Sale (POS) transactions.</p>
+<p>You can also use it like a credit card for Point-of-Sale (POS) transactions</p>
 </li>
 <li>
 <p>Unlike credit cards, the amount is immediately deducted from your bank
-account, so you cannot spend more than what you have in your account.</p>
+account, so you cannot spend more than what you have in your account</p>
 </li>
 </ul>
-<h3><strong>What Is A Debit Card?</strong></h3>
+<h3>What Is A Debit Card?</h3>
 <p>Debit cards are like ATM cards. You can use it to buy goods and services.
 You can also use your debit card with your Personal Identification Number
 (PIN) to withdraw cash from your bank account at your bank’s ATMs.</p>
-<h3><strong>How It Works</strong></h3>
+<h3>How It Works</h3>
 <p>When you shop with your debit card or ATM card, the transaction amount
 is immediately deducted from your bank account. You cannot spend more than
 what's in your account.</p>
@@ -41,29 +39,29 @@ purchase amount is drawn from your own bank account.</p>
 fee for lost cards and a fee for withdrawals made abroad.</p>
 <p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/understanding-credit-cards/" rel="noopener noreferrer nofollow" target="_blank">Understanding Credit Cards</a>
 </p>
-<h3><strong>Risks And Safeguards</strong></h3>
+<h3>Risks And Safeguards</h3>
 <p>Although banks in Singapore have replaced magnetic stripe-only debit cards
 with chip cards, magnetic stripes are still used overseas.</p>
 <p>Here are a few ways to protect yourself:</p>
-<h4><strong>Activate Transaction Alerts</strong></h4>
+<h4>Activate Transaction Alerts</h4>
 <p>Chip technology can reduce the risks of cloning but the magnetic stripe
 part on your debit card can still be cloned or skimmed. Make sure you have
 activated transaction alerts.</p>
-<h4><strong>Check If The Correct Amount Is Debited</strong></h4>
+<h4>Check If The Correct Amount Is Debited</h4>
 <p>Some small-value purchases do not need a signature. Ask for a receipt
 to check if the correct amount is deducted. If the amount is wrong, alert
 the merchant immediately to ask for a refund. If you are not at POS, contact
 your bank quickly to see if it can help to reverse the transaction.</p>
-<h4><strong>Be Careful When Transacting Online</strong></h4>
+<h4>Be Careful When Transacting Online</h4>
 <p>Your debit card details may be captured by intercepting your online transactions.
 Criminals will then use the details to perform card-not-present transactions
 such as online or mail-order/ telephone-order transactions.</p>
-<h4><strong>Shop On 3D Secure Websites</strong></h4>
+<h4>Shop On 3D Secure Websites</h4>
 <p>A One-Time Password (OTP) is needed before completing the purchase. This
 step ensures that the person making the purchase is the rightful owner
 of the debit card used. Notify your bank immediately if you received an
 OTP but did not make the transaction.</p>
-<h3><strong>Lost Or Stolen Cards</strong></h3>
+<h3>Lost Or Stolen Cards</h3>
 <p>If you lose your debit card, let the card issuer know immediately. If
 it is stolen, make a police report and inform the card issuer. The maximum
 liability for unauthorised charges before reporting the loss to the card
@@ -72,7 +70,7 @@ issuer will be capped at $100.</p>
 not grossly negligent or did not fail to inform the card issuer as soon
 as you became aware that the card was lost or stolen.</p>
 <p>Do check with your bank on its policy for lost or stolen debit cards.</p>
-<h3><strong>Debit Cards Versus Other Cards</strong></h3>
+<h3>Debit Cards Versus Other Cards</h3>
 <p>Here's a comparison between debit cards, ATM cards and credit cards.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -231,43 +229,43 @@ repay the bank. Interest and late payment charges will apply.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Things To Watch Out For</strong></h3>
+<h3>Things To Watch Out For</h3>
 <p>You should:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Never leave your debit card or documents containing its details lying
-around.</p>
+around</p>
 </li>
 <li>
 <p>Sign the back of your debit card with permanent ink as soon as you receive
-it.</p>
+it</p>
 </li>
 <li>
 <p>Keep a record of your card numbers, expiration dates and the phone number
-and address of the bank in a secure place.</p>
+and address of the bank in a secure place</p>
 </li>
 <li>
 <p>Keep all card-related information such as your PIN, separate from your
-card.</p>
+card</p>
 </li>
 <li>
 <p>Safeguard your card details. Do not disclose your PIN for cash withdrawals
-to anyone. Memorise your PIN.</p>
+to anyone. Memorise your PIN</p>
 </li>
 <li>
 <p>Only shop at reputable and legitimate merchants (including online stores).
-Do not shop online using shared devices such as computers in cybercafes.</p>
+Do not shop online using shared devices such as computers in cybercafes</p>
 </li>
 <li>
 <p>Ask the merchant for a receipt when you make small value purchases. This
-is to ensure the correct amount is deducted.</p>
+is to ensure the correct amount is deducted</p>
 </li>
 <li>
-<p>Check regularly that your cards are with you.</p>
+<p>Check regularly that your cards are with you</p>
 </li>
 <li>
 <p>Call the bank immediately if your card or card information is lost or
-stolen. Note the time and date when you do so.</p>
+stolen. Note the time and date when you do so</p>
 </li>
 </ul>
 <p></p>
