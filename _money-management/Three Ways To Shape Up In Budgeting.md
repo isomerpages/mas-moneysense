@@ -8,14 +8,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/woman_checking_receipts6cff.jpg">
 </div>
-<p><strong>Everyone loves a good deal. That is why our parents trawled the newspapers for discount coupons and we check out our favourite shopping sites diligently for promotions.</strong>
-</p>
+<p>Everyone loves a good deal. That is why our parents trawled the newspapers
+for discount coupons and we check out our favourite shopping sites diligently
+for promotions.</p>
 <p>As long as the good deal you are eyeing is a need rather than a want,
 it is actually one way to shape up in budgeting.</p>
 <p>To recap, <strong>needs</strong> are things you cannot live without, like
 food or utilities; <strong>wants</strong> are things you desire, like a new
 pair of shoes, and yes, that Netflix subscription.</p>
-<h3><strong>Save When You Spend</strong></h3>
+<h3>Save When You Spend</h3>
 <p>So, if you are always <strong>keeping an eye out for discounts on essentials</strong>,
 you are shaving spending from your budget.</p>
 <p>For example, you could choose the right supermarket to pick up your groceries
@@ -29,7 +30,7 @@ price in your area! The app currently covers about 3,000 common household
 and grocery items, such as milk, rice, and eggs, being sold at most of
 the major supermarket chains. Hawker food prices will also be shown in
 the app.</p>
-<h3><strong>Where Is Your Money Going?</strong></h3>
+<h3>Where Is Your Money Going?</h3>
 <p>You could be in a job of your dreams, drawing a handsome salary, but are
 you leaking money?</p>
 <p>Sit down for an honest talk with yourself from time to time: Are you reading
@@ -45,7 +46,7 @@ way to handle your money. The key to being financially secure is not how
 much money we make, but how well we manage it.</p>
 <p>Study your bills carefully every few months and you might <strong>find unnecessary spending you can cut </strong>without
 even noticing any difference in your lifestyle!</p>
-<h3><strong>Challenge Someone</strong></h3>
+<h3>Challenge Someone</h3>
 <p>Keeping to a budget can seem joyless at times. After all, you are delaying
 gratification.</p>
 <p>But know that budgeting gets easier with time. The longer you keep to
@@ -58,9 +59,7 @@ you to loftier plans when you are coasting steadily to your financial goals.</p>
 <p>Budgeting is about being smart with your money. That means it's a lifelong
 journey, regardless of how much your paycheck grows. It also means it's
 never too late to start!</p>
-<p></p>
-<h3><strong>Checklist</strong></h3>
-<h4><strong>How To Prepare A Budget</strong></h4>
+<h3>How To Prepare A Budget</h3>
 <p>Here are a few tips to get you started:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -93,6 +92,5 @@ Adjust your budget if, for example, you get a pay rise or get a pay cut
 or if you have another addition to the family.</p>
 </li>
 </ol>
+<p><strong>Tip: </strong>For preparing a budget, visit MyMoneySense.</p>
 <p></p>
-<h3><strong>Tip</strong></h3>
-<p>For preparing a budget, visit <a href="https://www.mymoneysense.gov.sg/" rel="noopener noreferrer" target="_blank">MyMoneySense</a>.</p>
