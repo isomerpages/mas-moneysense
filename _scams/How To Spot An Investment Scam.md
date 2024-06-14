@@ -25,8 +25,8 @@ Authority of Singapore (MAS)</p>
 their windfall from a not-to-be-missed investment.</p>
 <p>Or you are contacted on social media, who asks if you are interested in
 a lucrative investment opportunity.</p>
-<p>It could even be an ad you chance upon on social media sites touting profitable
-"investment opportunities".</p>
+<p>It could even be an ad you chance upon on social media platforms touting
+profitable "investment opportunities".</p>
 <p>Sounds familiar?</p>
 <p>Most of us would have read about news reports of people who were scammed
 through such methods. Nevertheless, people continue to fall victim as scammers
