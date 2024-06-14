@@ -2,6 +2,7 @@ collections:
   money-management:
     output: true
     order:
+      - Effects Of Compounding Interest.md
       - "Managing Debt: What Can You Do?.md"
       - Managing Your Money.md
       - Understand The Types Of Loans.md
