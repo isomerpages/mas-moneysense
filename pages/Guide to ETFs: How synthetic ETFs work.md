@@ -16,23 +16,22 @@ ETFs. Each type of structure has its own specific risks</p>
 </li>
 </ul>
 <h3>What Are Synthetic ETFs?</h3>
-<p><a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/Comms/Website/Past%20Websites/2023/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-etfs-understanding-exchange-traded-funds.html" rel="noopener noreferrer nofollow" target="_blank">Exchange traded funds (ETFs)</a> can
-be structured as cash-based or synthetic ETFs.</p>
+<p>Exchange traded funds (ETFs) can be structured as cash-based or synthetic
+ETFs.</p>
 <p>Unlike cash-based ETFs, synthetic ETFs don't directly own the assets in
 the index they are tracking. Instead, they use derivative products to replicate
 index returns. These derivatives include swaps and access products (for
 example, participatory notes).</p>
 <p></p>
-<h3><strong>Tip</strong></h3>
-<p>On the <a href="https://api2.sgx.com/sites/default/files/2018-11/SGX%20ETF%20Investor%20Guide%20(Nov%202018).pdf" rel="noopener noreferrer" target="_blank">SGX</a>,
+<p><strong>Tip: </strong>On the <a href="https://api2.sgx.com/sites/default/files/2018-11/SGX%20ETF%20Investor%20Guide%20(Nov%202018).pdf" rel="noopener noreferrer" target="_blank">SGX</a>,
 synthetic ETFs are tagged with an ‘X’, which appears next to the ‘@’ used
-to mark <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/Comms/Website/Past%20Websites/2023/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">Specified Investment Products (SIPs)</a>.
-You'll see the symbols 'X@' beside the ETF's trading name.</p>
+to mark Specified Investment Products. You'll see the symbols 'X@' beside
+the ETF's trading name.</p>
 <p></p>
-<h2><strong>How the structures work</strong></h2>
+<h3>How The Structures Work</h3>
 <p>Here's how the swap-based ETFs (unfunded and funded) and access product-based
 ETFs work.</p>
-<h3><strong>Swap-based ETF (unfunded structure)</strong></h3>
+<h4>Swap-Based ETF (Unfunded Structure)</h4>
 <p>In an unfunded structure, the ETF buys and holds a basket of securities.
 The basket of securities may be completely unrelated to the index the ETF
 is tracking. The ETF then enters into a swap agreement with another entity
@@ -55,7 +54,7 @@ unpaid obligations from the swap counterparty. Additional losses may still
 be possible, for example, if the basket of securities is liquidated under
 adverse market conditions.</p>
 <p></p>
-<h3><strong>Swap-based ETF (funded structure)</strong></h3>
+<h4>Swap-Based ETF (Funded Structure)</h4>
 <p>In a funded structure, the ETF passes its cash holdings (pooled investors’
 monies) to a swap counterparty. In exchange, the swap counterparty pays
 the returns of the index the ETF is tracking.</p>
@@ -72,7 +71,7 @@ the index value and the value of the collateral. The funded ETF could suffer
 additional losses if the collateral is liquidated under adverse market
 conditions.</p>
 <p></p>
-<h3><strong>Access product-based ETF</strong></h3>
+<h4>Access Product-Based ETF</h4>
 <p>In an access product-based ETF, the ETF invests in participatory notes
 (P-notes) or other derivative products that replicate the performance of
 the index.</p>
@@ -80,9 +79,9 @@ the index.</p>
 China or India. For example, participatory notes linked to a basket of
 Chinese A-shares may be purchased and held by the ETF. As such, the ETF
 would be exposed to the counterparty risk of the participatory notes issuer.</p>
-<h2><strong>What are the risks?</strong></h2>
+<h3>What are the risks?</h3>
 <p>There are risks specific to each type of structure.</p>
-<h3><strong>Swap-based structures</strong></h3>
+<h4>Swap-based structures</h4>
 <p>The risks include:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -138,7 +137,7 @@ to the collateral.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Access products-based structures</strong></h3>
+<h4>Access Products-Based structures</h4>
 <p>The risks include:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -216,12 +215,12 @@ be difficulties for the ETF to enforce its rights to the collateral.</p>
 </tr>
 </tbody>
 </table>
-<h2><strong>The bottom line</strong></h2>
+<h3>The Bottom Line</h3>
 <p>Investing in ETFs allows diversification; you may easily gain exposure
 to an index and its underlying assets. With synthetic ETFs, however, this
 exposure is achieved using complex derivative products that carry specific
 risks. It's not done by buying the assets directly.</p>
 <p>If you are not comfortable with such a structure, you may want consider
 cash-based ETFs instead.</p>
-<p><strong>See also:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/Comms/Website/Past%20Websites/2023/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/guide-to-etfs-understanding-exchange-traded-funds.html" rel="noopener noreferrer nofollow" target="_blank">Understanding exchange traded funds</a>
+<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/guide-to-exchange-traded-funds-etfs-understanding-etfs/" rel="noopener noreferrer nofollow" target="_blank">Understanding exchange traded funds</a>
 </p>
