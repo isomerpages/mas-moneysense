@@ -8,24 +8,23 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/laptop_phone_shares6cff.jpg">
 </div>
-<p><strong>Find out how Real Estate Investment Trusts (REITs) work and what you should know if you are thinking of investing in one.</strong>
-</p>
-<h4><strong>Key Takeaways</strong></h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>REITs invest in real estate properties and distribute revenues generated from these assets (primarily rental income) at regular intervals to REIT holders.</strong>
-</p>
+<p>REITs invest in real estate properties and distribute revenues generated
+from these assets (primarily rental income) at regular intervals to REIT
+holders</p>
 </li>
 <li>
-<p><strong>REITs are professionally managed by REIT managers and property managers who charge a fee in exchange for their services.</strong>
-</p>
+<p>REITs are professionally managed by REIT managers and property managers
+who charge a fee in exchange for their services</p>
 </li>
 <li>
-<p><strong>There are a variety of REITs listed on the Singapore Exchange and you can buy them in the same way as you would buy a stock.</strong>
-</p>
+<p>There are a variety of REITs listed on the Singapore Exchange and you
+can buy them in the same way as you would buy a stock</p>
 </li>
 </ul>
-<h2><strong>What Are REITs?</strong></h2>
+<h3>What Are REITs?</h3>
 <p>When you invest in a Real Estate Investment Trust (REIT), your money is
 pooled together with other investors' in a collective investment scheme
 that invests in a portfolio of income generating real estate assets such
@@ -38,15 +37,13 @@ and property management fees.</p>
 appreciation potential.</p>
 <p>You can invest in them the same way as you would invest in stocks, through
 your broker.</p>
-<h2><strong>How It Works</strong></h2>
+<h3>How It Works</h3>
 <p>A typical REIT structure works like this:</p>
-<ol data-tight="true" class="tight">
-<li>
 <p>Money is raised from unit holders through an Initial Public Offering (IPO)
 and used by the REIT to purchase a pool of real estate properties.</p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
-<p>These properties are then leased out to tenants.</p>
+<p>These properties are then leased out to tenants</p>
 </li>
 <li>
 <p>In return, the income flows back to the unit holders (investors) as income
@@ -64,15 +61,17 @@ on these fees in the REITs’ prospectuses and financial statements.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/A_typical_REIT_structure.jpg">
 </div>
-<h2><strong>Roles in a REIT</strong></h2>
+<h3>Roles in a REIT</h3>
 <p>A REIT structure typically has the following key roles:</p>
-<h4>Trustee</h4>
+<p><strong>Trustee</strong>
+</p>
 <p>The trustee’s duties are set out in the trust deed. The trustee is responsible
 for holding the assets of the REIT on behalf of unit holders. Other duties
 may include ensuring compliance with all applicable laws and protecting
 certain rights of unit holders.</p>
 <p>The trustee is paid a fee for providing this service.</p>
-<h4>REIT Manager Or Property Manager</h4>
+<p><strong>REIT Manager Or Property Manager</strong>
+</p>
 <p>The REIT manager sets and executes the strategic direction of the REIT
 according to its stated investment strategy. For instance, it is responsible
 for the acquisition and divestment of the REIT’s properties.</p>
@@ -86,12 +85,13 @@ to run marketing events or programmes to attract shoppers/ tenants and
 to upkeep the property.</p>
 <p>In return, the property manager is paid a property management fee out
 of the assets of the REIT.</p>
-<h4>REIT Sponsor</h4>
+<p><strong>REIT Sponsor</strong>
+</p>
 <p>In some cases, there is a sponsor who sources the properties that are
 injected into the initial portfolio of the REIT and may continue to provide
 a pipeline of assets for the REIT.</p>
 <p>Usually the sponsor also owns stakes in the REIT manager and the REIT.</p>
-<h2><strong>Your Rights As A REIT Unit Holder</strong></h2>
+<h3>Your Rights As A REIT Unit Holder</h3>
 <p>In general, these are limited to the right to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,7 +110,7 @@ meeting must be made in writing to the REIT manager or trustee by at least
 <p>The resolution to remove the REIT manager must then be passed by a simple
 majority of unit holders present and voting at the general meeting, with
 no unit holders being disenfranchised.</p>
-<h2><strong>Before You Invest: Things To Note</strong></h2>
+<h3>Before You Invest: Things To Note</h3>
 <p>Do not assume that REITs are low risk and that the dividend income is
 recurring. Read your prospectus and research reports to understand the
 investment objective and strategy of the REIT.</p>
@@ -141,18 +141,18 @@ invest in. Note that the risk elements may differ greatly between REITs
 depending on their investment objective and strategy, geographical and
 sector focus, quality of the underlying real estate properties, land&nbsp;tenure
 of properties (leasehold or freehold), experience of the REIT manager and
-the income distribution policy.</p>
+the income distribution policy</p>
 </li>
 <li>
 <p>Consider if the REIT’s structure and risk profile suit your risk appetite
-and investment time horizon.</p>
+and investment time horizon</p>
 </li>
 <li>
 <p>Do not invest in a REIT if you do not understand or are not comfortable
-with its investment objective and strategy.</p>
+with its investment objective and strategy</p>
 </li>
 </ul>
-<h2><strong>Benefits Of REITs</strong></h2>
+<h3>Benefits Of REITs</h3>
 <p>REITs have the following benefits:</p>
 <p><strong>Diversification –</strong> The risk arising from investing in one
 property is diluted when you invest in a pool of properties through a REIT.</p>
@@ -169,7 +169,7 @@ conditions). Individual investors who receive these distributions also
 enjoy tax-exemption treatment.</p>
 <p><strong>Transparency and flexibility –</strong> You can access information
 on REIT prices and trade REITs throughout the trading day.</p>
-<h2><strong>Investing In REITs Versus Property Stocks</strong></h2>
+<h3>Investing In REITs VS Property Stocks</h3>
 <p>Although both are property-related, there are some differences between
 investing in REITs and investing in property stocks.</p>
 <p>Most REITs have annual managers’ fees, property management fees, trustees’
@@ -269,7 +269,7 @@ treatment by IRAS</p>
 </tr>
 </tbody>
 </table>
-<h2>&nbsp;<strong>What Are The Risks?</strong></h2>
+<h3>&nbsp;What Are The Risks?</h3>
 <p>Some of the risks associated with investing in REITs include:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -286,12 +286,12 @@ treatment by IRAS</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>REITs are traded on the stock exchange and the prices are subject to demand
-and supply conditions.</p>
+and supply conditions</p>
 </li>
 <li>
 <p>The prices generally reflect investors’ confidence in the economy, the
 property market and its returns, the REIT management, interest rates and
-many other factors.</p>
+many other factors</p>
 </li>
 </ul>
 </td>
@@ -305,18 +305,18 @@ many other factors.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Distributions are not guaranteed and are subject to fluctuations in the
-REIT’s income. For example, a REIT’s rental income may be affected if tenancy
+REIT’s income (For example, a REIT’s rental income may be affected if tenancy
 agreements could be renewed at a lower rental rate than before or the occupancy
-rate could fall.</p>
+rate could fall)</p>
 </li>
 <li>
 <p>Look out for whether the REIT has procured payment upfront or has contractual
-lock-ins of rental rates and other clauses in tenancy agreements.</p>
+lock-ins of rental rates and other clauses in tenancy agreements</p>
 </li>
 <li>
 <p>If the underlying properties are financed by debts, there is a refinancing
 risk when cost of debt varies. A higher cost of debt may also reduce the
-income distributions to unit holders.</p>
+income distributions to unit holders</p>
 </li>
 </ul>
 </td>
@@ -331,7 +331,7 @@ income distributions to unit holders.</p>
 <li>
 <p>If a substantial portion of the REIT’s value is from one or a few properties
 or a few tenants, you face a greater risk of loss should something happen
-to one of them.</p>
+to one of them</p>
 </li>
 </ul>
 </td>
@@ -344,12 +344,12 @@ to one of them.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>A REIT may find it difficult to find buyers and sellers for its properties.</p>
+<p>A REIT may find it difficult to find buyers and sellers for its properties</p>
 </li>
 <li>
 <p>It may be difficult for REITs to vary their investment portfolio or sell
 its assets on short notice under adverse economic conditions or exceptional
-circumstances.</p>
+circumstances</p>
 </li>
 </ul>
 </td>
@@ -363,11 +363,11 @@ circumstances.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Where a REIT uses debt to finance the acquisition of its properties, there
-is leverage risk.</p>
+is leverage risk</p>
 </li>
 <li>
 <p>If the REIT is wound up, its assets will be used to pay off creditors
-first. Any remaining value will then be distributed to unit holders.</p>
+first. Any remaining value will then be distributed to unit holders</p>
 </li>
 </ul>
 </td>
@@ -382,22 +382,22 @@ first. Any remaining value will then be distributed to unit holders.</p>
 <li>
 <p>As REITs distribute a large amount of their income to unit holders, they
 may not have the ability to build up cash reserves to repay loans as they
-fall due.</p>
+fall due</p>
 </li>
 <li>
 <p>To refinance, they may need to borrow more (through bank borrowings or
 bond issuances) or undertake equity fund raising activities such as rights
-issues or private placements.</p>
+issues or private placements</p>
 </li>
 <li>
-<p>The refinancing cost could also be higher when loans are due for renewal.</p>
+<p>The refinancing cost could also be higher when loans are due for renewal</p>
 </li>
 <li>
 <p>Another risk is that the REIT is unable to secure refinancing and has
-to sell off some properties if they are mortgaged under the loan.</p>
+to sell off some properties if they are mortgaged under the loan</p>
 </li>
 <li>
-<p>These risks could affect the unit price and income distribution of a REIT.</p>
+<p>These risks could affect the unit price and income distribution of a REIT</p>
 </li>
 </ul>
 </td>
@@ -414,7 +414,7 @@ to sell off some properties if they are mortgaged under the loan.</p>
 land leases will decrease over time, and the properties will have to be
 returned to the lessors upon the expiry of the land leases. The value of
 the REIT may be affected by the decreasing term or the expiry of the land
-leases, and this may result in a decline in the price of the units.</p>
+leases, and this may result in a decline in the price of the units</p>
 </li>
 </ul>
 </td>
@@ -429,14 +429,14 @@ leases, and this may result in a decline in the price of the units.</p>
 <li>
 <p>While some REITS can offer diversity based on the type of properties or
 region you want to invest in, such diversification could carry other risks
-such as sector and country regulation risk.</p>
+such as sector and country regulation risk</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h2><strong>Types Of REITs</strong></h2>
+<h3>Types Of REITs</h3>
 <p>There are a number of REITS <a href="https://www.sgx.com/securities/securities-prices?code=reits" rel="noopener noreferrer" target="_blank">listed on the SGX</a>.
 Here are the broad categories of REITs you can invest in and the typical
 properties they own:</p>
@@ -457,10 +457,9 @@ properties they own:</p>
 <p>Healthcare REITs – hospitals and nursing homes</p>
 </li>
 </ul>
-<h2><strong>Checklist</strong></h2>
-<h2><strong>Are REITS Suitable For You?</strong></h2>
+<h3>Are REITS Suitable For You?</h3>
 <p>Here is a checklist to help you decide whether to invest in a REIT.</p>
-<h3><strong>What Does The REIT Invest In?</strong></h3>
+<h4>What Does The REIT Invest In?</h4>
 <p>Read the prospectus and research reports to understand these key areas:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -473,7 +472,7 @@ political or regulatory risk, any tax considerations)</p>
 of a shopping mall, occupancy rate and the tenant mix)</p>
 </li>
 </ul>
-<h3><strong>How Is The REIT Structured?</strong></h3>
+<h4>How Is The REIT Structured?</h4>
 <p>Read the “Investment Approach” and “Risks” portions of the prospectus
 for information on the various risks of the specific REIT you intend to
 invest in. Note that the risk elements may differ greatly between REITs
@@ -483,7 +482,7 @@ depending on their structure.
 <ul data-tight="true" class="tight">
 <li>
 <p>Who are the people managing the REIT’s assets? For example, the management
-quality such as its reputation and track record, its strategy for growth.</p>
+quality such as its reputation and track record, its strategy for growth</p>
 </li>
 <li>
 <p>If there is a sponsor, who is the sponsor and what is the strength of
@@ -501,7 +500,7 @@ fees, trustees’ fees, acquisition and divestment fees etc)?</p>
 additional risk?</p>
 </li>
 </ul>
-<h3><strong>What Are Your Rights As A REIT Unit Holder?</strong></h3>
+<h4>What Are Your Rights As A REIT Unit Holder?</h4>
 <p>Read the trust deed and the prospectus to understand the rights and interests
 of a REIT unit holder. In general, these are limited to the right to:</p>
 <ul data-tight="true" class="tight">
@@ -513,7 +512,7 @@ with the provisions of the trust deed</p>
 <p>Remove a REIT manager</p>
 </li>
 </ul>
-<h3><strong>What Is The Distribution Policy?</strong></h3>
+<h4>What Is The Distribution Policy?</h4>
 <p>Find out:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -528,13 +527,13 @@ distributed?</p>
 e.g. insufficient cashflow?</p>
 </li>
 </ul>
-<h3><strong>Are You Comfortable With The REIT's Corporate Governance?</strong></h3>
+<h4>Are You Comfortable With The REIT's Corporate Governance?</h4>
 <p>Invest in the REIT only if you are comfortable with its corporate governance.
 For more information, you may refer the <a href="https://governanceforstakeholders.com/2021/11/11/news-release-governance-index-for-trusts-gift-2021/" rel="noopener noreferrer" target="_blank">Governance Index for Trusts</a>.</p>
-<h3><strong>Does The REIT Suit Your Needs?</strong></h3>
+<h4>Does The REIT Suit Your Needs?</h4>
 <p>Does the REIT’s structure and risk profile suit your risk appetite and
 investment time horizon, compared with other investment options?</p>
 <p><strong>Last but not least, if you find that you do not understand the REIT or are not comfortable with its structure and risks, do not invest in it.</strong>
 </p>
-<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/guide-to-shares-what-you-need-to-know-before-you-invest/" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: What you need to know before you Invest </a>
+<p><strong>See also:</strong>  <a href="https://www.moneysense.gov.sg/guide-to-shares-what-you-need-to-know-before-you-invest/" rel="noopener noreferrer nofollow" target="_blank">Guide to shares: What you need to know before you Invest</a>
 </p>
