@@ -2,6 +2,7 @@ collections:
   money-management:
     output: true
     order:
+      - "Managing Debt: What Can You Do?.md"
       - Managing Your Money.md
       - Understand The Types Of Loans.md
       - Three Ways To Shape Up In Budgeting.md
