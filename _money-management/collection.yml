@@ -2,6 +2,7 @@ collections:
   money-management:
     output: true
     order:
+      - Managing Your Money.md
       - Understand The Types Of Loans.md
       - Three Ways To Shape Up In Budgeting.md
       - Understanding Credit Cards.md
