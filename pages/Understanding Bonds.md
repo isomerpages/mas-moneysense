@@ -8,28 +8,26 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/woman_reading_report6cff.jpg">
 </div>
-<p><strong>Understand how bonds work and the things to look out for if you are thinking of investing in them.</strong>
-</p>
-<h4><strong>Key Takeaways</strong></h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>When you invest in bonds, you are lending money to the bond issuer at an agreed interest rate for a set period of time.</strong>
-</p>
+<p>When you invest in bonds, you are lending money to the bond issuer at
+an agreed interest rate for a set period of time</p>
 </li>
 <li>
-<p><strong>You can expect to be repaid the principal amount when the bond matures, provided that the bond issuer does not default.</strong>
-</p>
+<p>You can expect to be repaid the principal amount when the bond matures,
+provided that the bond issuer does not default</p>
 </li>
 <li>
-<p><strong>When interest rates rise, you will likely see a fall in bond prices, and vice versa.</strong>
-</p>
+<p>When interest rates rise, you will likely see a fall in bond prices, and
+vice versa</p>
 </li>
 </ul>
-<h2><strong>What It Is</strong></h2>
+<h3>What It Is</h3>
 <p>A bond is a debt security. It is a form of borrowing. Governments and
 companies issue bonds to raise funds (borrow money). When you invest in
 bonds, you are lending money to the issuer for a fixed period of time.</p>
-<h2><strong>How It Works</strong></h2>
+<h3>How It Works</h3>
 <p>Most bonds pay a regular stream of income throughout their life, also
 known as a coupon. Coupon rates are typically expressed as a percentage
 of the principal amount, which is also known as the “face” or “par” value.
@@ -38,11 +36,11 @@ par value.</p>
 <p>Typically, you can earn returns through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Interest income. These are the coupon payments you receive as an investor.</p>
+<p>Interest income: These are the coupon payments you receive as an investor</p>
 </li>
 <li>
-<p>Capital gains. You can earn capital gains if you sell the bonds at a higher
-price than the price you bought them at.</p>
+<p>Capital gains: You can earn capital gains if you sell the bonds at a higher
+price than the price you bought them at</p>
 </li>
 </ul>
 <p>It is important to note that while the coupon rate is generally fixed
@@ -57,7 +55,7 @@ through the life of the bond, the price of the bond may vary.</p>
 higher or lower than the price you initially paid</p>
 </li>
 </ul>
-<h2><strong>Are Bonds Suitable For You?</strong></h2>
+<h3>Are Bonds Suitable For You?</h3>
 <p>Bonds may be attractive for investors who desire a source of regular income
 or are looking to diversify their portfolio of investment assets.
 <br>
@@ -82,7 +80,7 @@ a financial adviser) changes in economic or other factors that may affect
 the issuer or the bonds</p>
 </li>
 </ul>
-<h2><strong>Why Bonds Have Different Coupon Rates</strong></h2>
+<h3>Why Bonds Have Different Coupon Rates</h3>
 <p>The coupon rates for different bonds will vary based on the credit quality
 of the issuer and the credit rating.</p>
 <p><strong>Credit quality of the issuer</strong>
@@ -220,7 +218,7 @@ that already knows them.</p>
 <p>For such unrated issuers and bonds, you should consider other measures
 of the issuer’s creditworthiness and the characteristics of the bonds when
 deciding whether to invest in the issuer’s bonds.</p>
-<h2><strong>What To Consider Before Investing</strong></h2>
+<h3>What To Consider Before Investing</h3>
 <p>Credit ratings have their limitations and should not be your sole consideration
 when deciding whether a bond should be included in your investment portfolio.</p>
 <p>They are only statements of opinion by the relevant credit rating agency
@@ -240,29 +238,28 @@ ratios and other credit metrics.</p>
 <p>Some useful financial credit metrics that you could look out for are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Debt to equity ratio –</strong> Measures how much debt an issuer
+<p><strong>Debt to equity ratio:</strong> Measures how much debt an issuer
 is using to finance its assets and operations, as compared with the issuer’s
 equity. A high level of debt suggests higher risk. If debt to equity ratio
 is more than 2, it means that to finance its operations, the issuer has
 more than twice the amount of debt compared with equity.</p>
 </li>
 <li>
-<p><strong>Debt to operating income ratio –</strong> Indicates the ability
+<p><strong>Debt to operating income ratio:</strong> Indicates the ability
 of a company to pay its debt using operating income. A higher ratio suggests
 that the company may have more difficulty servicing its debt. A declining
 ratio is better than an increasing one because it implies the company is
 paying off its debt and/ or growing earnings.</p>
 </li>
 <li>
-<p><strong>Interest coverage ratio –</strong> Reflects how many times the
-issuer can pay interest on debt obligations, using its operating income
-(or earnings). A lower interest coverage ratio means a weaker ability to
-cover interest obligations using its operating income. If the ratio is
-less than 1, it means that the issuer does not earn enough to cover its
-interest expense.</p>
+<p><strong>Interest coverage ratio:</strong> Reflects how many times the issuer
+can pay interest on debt obligations, using its operating income (or earnings).
+A lower interest coverage ratio means a weaker ability to cover interest
+obligations using its operating income. If the ratio is less than 1, it
+means that the issuer does not earn enough to cover its interest expense.</p>
 </li>
 <li>
-<p><strong>Operating profit margin –</strong> Measures operating profit (or
+<p><strong>Operating profit margin:</strong> Measures operating profit (or
 operating income) as a percentage of revenue. This shows the proportion
 of revenue left, after the issuer pays for operating expenses (such as
 wages), which can be used to pay for fixed costs (such as interest). The
@@ -270,7 +267,7 @@ lower the operating profit margin, the higher the risk of the issuer not
 being able to pay its fixed costs.</p>
 </li>
 <li>
-<p><strong>Free cash flow –</strong> The cash that a company has after spending
+<p><strong>Free cash flow:</strong> The cash that a company has after spending
 money to maintain or expand its assets. An issuer with a profitable and
 well-managed business should exhibit positive free cash flows consistently.</p>
 </li>
@@ -303,12 +300,12 @@ lower credit-quality or non-rated bonds.
 any one security. Individual investments can go up or down in value. Investing
 in different products is usually a good strategy to diversify and reduce
 the risks.</p>
-<h2><strong>What Is The Most You Can Lose?</strong></h2>
+<h3>What Is The Most You Can Lose?</h3>
 <p>You may lose a part of your invested amount if you sell your bonds before
 it matures. Bond prices fluctuate depending on the perceived credit quality
 of the issuer and market conditions. However, you may lose all of your
 investment if the issuer defaults on its bond or winds up or is liquidated.</p>
-<h2><strong>What Are The Risks?</strong></h2>
+<h3>What Are The Risks?</h3>
 <p>Common risks associated with bonds include the following:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -325,11 +322,11 @@ investment if the issuer defaults on its bond or winds up or is liquidated.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bond prices will be affected by the perceived credit quality or probability
-of default of the bond issuer.</p>
+of default of the bond issuer</p>
 </li>
 <li>
 <p>Default risk can change based on broader economic changes or changes in
-the financial situation of the issuer.</p>
+the financial situation of the issuer</p>
 </li>
 </ul>
 </td>
@@ -343,11 +340,11 @@ the financial situation of the issuer.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bond prices and interest rates move in opposite directions. If interest
-rates rise, bond prices will likely fall, and vice versa.</p>
+rates rise, bond prices will likely fall, and vice versa</p>
 </li>
 <li>
 <p>Longer term bonds are more sensitive to interest rate changes than bonds
-with shorter maturity dates.</p>
+with shorter maturity dates</p>
 </li>
 </ul>
 </td>
@@ -363,11 +360,11 @@ with shorter maturity dates.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A bond’s price will rise or fall with changing market conditions.</p>
+<p>A bond’s price will rise or fall with changing market conditions</p>
 </li>
 <li>
 <p>If there are few interested buyers, the bond is not very liquid. It will
-be harder for you to sell the bond or you may have to sell at a loss.</p>
+be harder for you to sell the bond or you may have to sell at a loss</p>
 </li>
 </ul>
 </td>
@@ -381,10 +378,10 @@ be harder for you to sell the bond or you may have to sell at a loss.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Some bonds allow the issuer to buy back or redeem the bond before its
-maturity date.</p>
+maturity date</p>
 </li>
 <li>
-<p>You may not be able to reinvest in a product with a similar yield.</p>
+<p>You may not be able to reinvest in a product with a similar yield</p>
 </li>
 </ul>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -395,7 +392,7 @@ maturity date.</p>
 <p><strong>Note:</strong> The terms and conditions for different bonds can
 differ greatly. Always read and understand the terms carefully before investing
 in any bonds.</p>
-<h2><strong>When A Bond Defaults</strong></h2>
+<h3>When A Bond Defaults</h3>
 <p>An “event of default” could happen when an issuer:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -410,7 +407,7 @@ to total equity does not exceed a certain ratio</p>
 of the bond which should be disclosed in the offer document given to you.
 When a default happens, you may lose all or a substantial part of your
 investment.</p>
-<h2><strong>Buying A Bond</strong></h2>
+<h3>Buying A Bond</h3>
 <p>You can buy a bond at issuance, through a public offer. You will pay the
 face value of the bond.</p>
 <p>You can also buy a bond on the secondary market (after issuance), as long
@@ -418,7 +415,7 @@ as there is a seller for it. This can be done through the <a href="http://www.sg
 <p>If you buy on the secondary market, the price you pay for the bond depends
 on the prevailing market price. You will also need to pay transaction fees,
 such as brokerage fees.</p>
-<h2><strong>Selling A Bond</strong></h2>
+<h3>Selling A Bond</h3>
 <p>You can hold the bond to maturity. You can expect to be repaid the principal
 amount of the bond at maturity provided that the bond issuer does not default.
 <br>
@@ -428,7 +425,7 @@ price at the time of sale.</p>
 <p>If you sell the bond at a price higher than what you paid, you can make
 a capital gain. Likewise, you could also suffer a loss if you sell at a
 lower price.</p>
-<h2><strong>Types Of Bonds</strong></h2>
+<h3>Types Of Bonds</h3>
 <p>Here are some examples of bond investments available in Singapore.</p>
 <p><strong>Singapore Government Securities And Savings Bonds</strong>
 </p>
@@ -498,17 +495,17 @@ buy shares, paying the normal brokerage fees.</p>
 <p>Advantages:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>May offer better returns than fixed deposits or government bonds.</p>
+<p>May offer better returns than fixed deposits or government bonds</p>
 </li>
 </ul>
 <p>What to look out for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You will be exposed to credit and other risks.</p>
+<p>You will be exposed to credit and other risks</p>
 </li>
 <li>
 <p>Consider whether you are able and willing to take a higher risk of default
-and losing part or all of your investment, in return for higher yields.</p>
+and losing part or all of your investment, in return for higher yields</p>
 </li>
 </ul>
 <p><strong>Perpetual Securities</strong>
@@ -528,29 +525,29 @@ strategies</p>
 <p>Advantages:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Smaller capital outlay needed than to own all the bonds in the fund.</p>
+<p>Smaller capital outlay needed than to own all the bonds in the fund</p>
 </li>
 <li>
 <p>The fund manager actively manages your bond holdings. In the case of an
-ETF, the fund usually tracks an index.</p>
+ETF, the fund usually tracks an index</p>
 </li>
 <li>
 <p>Choice of global, regional, country or sector-specific bond funds and
-ETFs.</p>
+ETFs</p>
 </li>
 </ul>
 <p>What to look out for:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Examine the total returns when evaluating a bond fund’s performance. Total
-returns include income and capital gains or losses over time.</p>
+<p>Examine the total returns when evaluating a bond fund’s performance –
+total returns include income and capital gains or losses over time</p>
 </li>
 <li>
-<p>You will have to pay management fees and other charges. These will reduce
-the overall returns to you.</p>
+<p>You will have to pay management fees and other charges – these will reduce
+the overall returns to you</p>
 </li>
 <li>
-<p>Some ETF are complex and classified as SIPs.</p>
+<p>Some ETF are complex and classified as SIPs</p>
 </li>
 </ul>
 <p></p>
