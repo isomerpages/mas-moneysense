@@ -4,6 +4,10 @@ permalink: /guide-to-etfs-how-synthetic-etfs-work/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/laptop_graph6cff.jpg">
+</div>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
