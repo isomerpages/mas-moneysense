@@ -18,9 +18,27 @@ at little or no risk.</p>
 </li>
 <li>
 <p>Check that the company and its representatives are regulated by the Monetary
-Authority of Singapore (MAS).</p>
+Authority of Singapore (MAS)</p>
 </li>
 </ul>
+<p>Out of nowhere, you are added to a group chat where people are sharing
+their windfall from a not-to-be-missed investment.</p>
+<p>Or you are contacted on social media by what initially looks to be your
+friend, who asks if you are interested in a lucrative investment opportunity.</p>
+<p>It could even be a telephone call where the person on the other end of
+the line knows your name and some other details, trying to strike up a
+conversation.</p>
+<p>Sounds familiar?</p>
+<p>Most of us would have read about news reports of people who have gotten
+scammed through such methods. Nevertheless, people continue to fall victim
+as scammers constantly come up with new, convincing ways to steal what
+is often very large amounts.</p>
+<p>In many instances, victims thought they would never get scammed – sometimes
+they use the profits they receive initially to refute disbelieving loved
+ones. But criminals have become extremely skilled at convincing people
+that get-rich-quick scheme is real and high returns are within easy reach.</p>
+<p>Always remember to Check Before You Invest if you want to safeguard your
+hard-earned money! Here's what you should check:</p>
 <h3>Check For Red Flags</h3>
 <p>Scammers use sophisticated tactics to get you to part with your money.
 There are red flags you can watch out for to steer clear of investment
@@ -91,8 +109,8 @@ such as the background of representatives and the entity's track record.</p>
 <p>It is also important to ask the entity as many questions as you need to
 fully understand the investment opportunity. If it is unable to answer
 or avoids answering any of your questions, be wary.</p>
-<p>If you suspect that you are a victim of scam, please inform your bank
-and file a police report immediately.</p>
+<p>If you suspect that you are a victim of scam, inform your bank and file
+a police report immediately.</p>
 <p>Tell your family and friends about investment scams so that they do not
 fall prey to them.</p>
 <p><strong>Remember, if an investment sounds too good to be true, it probably is.</strong>
