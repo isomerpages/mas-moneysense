@@ -242,7 +242,7 @@ track the relevant indices.</p>
 <p>The use of derivatives means:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>More parties are involved, e.g. the swap counterparty or the access product
+<p>More parties are involved, e.g., the swap counterparty or the access product
 issuer</p>
 </li>
 <li>
