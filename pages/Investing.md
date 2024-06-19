@@ -35,6 +35,10 @@ description: ""
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/advising_young_family.jpg">
+</div>
 <h4>Seeking Financial Advice</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -50,5 +54,38 @@ description: ""
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/digital_tablet_charts6cff.jpg">
+</div>
 <h4>Types Of Investments</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guide To Shares: How To Invest</p>
+</li>
+<li>
+<p>Guide To Shares: What You Need To Know Before You Invest</p>
+</li>
+<li>
+<p>Understanding Bonds</p>
+</li>
+<li>
+<p>Guide To ETFs: Understanding Exchange Traded Funds</p>
+</li>
+<li>
+<p>Guide To ETFs: How Synthetic ETFs Work</p>
+</li>
+<li>
+<p>Understanding Unit Trusts</p>
+</li>
+<li>
+<p>Unit Trusts: Guide To Pricing And Fees</p>
+</li>
+<li>
+<p>Unit Trusts: Making Sense of Fund Documents And Reports</p>
+</li>
+<li>
+<p>Understanding Real Estate Investment Trusts (REITs)</p>
+</li>
+</ul>
 <p></p>
