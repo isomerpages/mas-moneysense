@@ -42,7 +42,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Financial-Advice-Who-You-Could-Be-Dealing-With" rel="noopener noreferrer nofollow" target="_blank">Financial Advice: Who You Could Be Dealing With </a>
+<p><a href="https://www.moneysense.gov.sg/Financial-Advice-Who-You-Could-Be-Dealing-With" rel="noopener noreferrer nofollow" target="_blank">Financial Advice: Who You Could Be Dealing With</a>
 </p>
 </li>
 <li>
@@ -50,4 +50,5 @@ description: ""
 </p>
 </li>
 </ul>
+<h4>Types Of Investments</h4>
 <p></p>
