@@ -4,6 +4,10 @@ permalink: /7-personal-finance-resolutions-you-ll-be-able-to-keep-and-how/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/05_Should_I_invest_now_1310Wx520Hpx6cff.jpg">
+</div>
 <p>It’s always nice to start afresh for a new year. That’s why we make promises
 to ourselves to change a habit or start one, in order to become a better
 version of ourselves.</p>
