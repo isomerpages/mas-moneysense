@@ -2,6 +2,7 @@ collections:
   legacy-planning:
     output: true
     order:
+      - Deciding How To Transfer Your Estate.md
       - Planning For Retirement.md
       - Determine Your Retirement Needs.md
       - Options For Your Retirement Income.md
