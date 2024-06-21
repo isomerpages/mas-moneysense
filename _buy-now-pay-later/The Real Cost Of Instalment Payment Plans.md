@@ -9,8 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="instalment payment plans" src="/images/In%20The%20Spotlight/instalment%20payment%20plans.jfif">
 </div>
-<p><strong>Instalment plans are not all the same. Find out the difference between in-house instalment payment plans and instalment payment plans offered by credit card companies, and the hidden costs of each.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul>
 <li>
@@ -33,10 +31,10 @@ on the type of plan, their total cost can be much higher.</p>
 </ul>
 <h3>Types Of Instalment Plans</h3>
 <p>There are generally two types of instalment plans:</p>
-<p><strong>In-house Instalment Payment Plan</strong> - The store offers to
+<p><strong>In-house Instalment Payment Plan</strong> – The store offers to
 extend credit to the customer. In these plans, the store can usually repossess
 the item should the customer fail to pay their instalments.</p>
-<p><strong>Instalment Payment Plan offered by a credit card company</strong> -
+<p><strong>Instalment Payment Plan offered by a credit card company</strong> –
 Credit is offered as a deal between a credit card issuer and a merchant
 as an incentive for customers to use that credit card. <strong>Here's how they compare:</strong>
 </p>
@@ -59,8 +57,8 @@ as an incentive for customers to use that credit card. <strong>Here's how they c
 <p>Offered by merchants. Can be offered even for small amount purchases.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arrangement between merchants and card issuer. For large amount purchases
-only.</p>
+<p>Arrangement between merchants and card issuer – for large amount purchases
+only</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +66,7 @@ only.</p>
 <p>Repayment up to 72 months.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Repayment usually up to 36 months.</p>
+<p>Repayment usually up to 36 months</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +74,7 @@ only.</p>
 <p>Charges flat-rate interest of 11% to 27% p.a..</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interest-free, provided instalments are paid in full by the due date.</p>
+<p>Interest-free, provided instalments are paid in full by the due date</p>
 </td>
 </tr>
 </tbody>
@@ -113,25 +111,25 @@ you have to settle the charge fully.</p>
 <ul>
 <li>
 <p>You will need to keep paying the monthly instalments even if the merchant
-winds up.</p>
+winds up</p>
 </li>
 <li>
 <p>Although the instalment plan itself is interest-free, if you miss a payment,
-you will incur credit card interest charges.</p>
+you will incur credit card interest charges</p>
 </li>
 <li>
-<p>You may not be able to cancel the card until you make all the payments.</p>
+<p>You may not be able to cancel the card until you make all the payments</p>
 </li>
 <li>
 <p>Refunds or exchanges may not be allowed once the bank approves the instalment
-plan.</p>
+plan</p>
 </li>
 <li>
 <p>You may have to pay a penalty fee if you decide to opt out of the monthly
-instalment plan and repay it sooner.</p>
+instalment plan and repay it sooner</p>
 </li>
 <li>
-<p>The unpaid portion of the instalment is counted as a debt in your name.</p>
+<p>The unpaid portion of the instalment is counted as a debt in your name</p>
 </li>
 </ul>
 <h3>The Bottom Line</h3>
