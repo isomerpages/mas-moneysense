@@ -2,8 +2,8 @@ collections:
   legacy-planning:
     output: true
     order:
-      - Options For Your Retirement Income.md
       - Planning For Retirement.md
       - Determine Your Retirement Needs.md
+      - Options For Your Retirement Income.md
       - Lasting Power Of Attorney.md
       - What Is A Will?.md
