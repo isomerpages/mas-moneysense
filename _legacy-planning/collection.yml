@@ -2,6 +2,7 @@ collections:
   legacy-planning:
     output: true
     order:
+      - What Is Probate?.md
       - Deciding How To Transfer Your Estate.md
       - Planning For Retirement.md
       - Determine Your Retirement Needs.md
