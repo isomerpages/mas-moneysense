@@ -7,8 +7,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/planning%20your%20finances%20when%20having%20children.jfif">
 </div>
-<p><strong>Starting a family requires planning. With a clear idea of what it involves and the schemes available to ease new parents' financial load, you will be ready to embrace one of life's greatest joys.</strong>
-</p>
+<p>Starting a family requires planning. With a clear idea of what it involves
+and the schemes available to ease new parents' financial load, you will
+be ready to embrace one of life's greatest joys.</p>
 <p>You will never hear a parent lamenting, "I wish I didn't have any children.
 It's so expensive!" Yet, it is not uncommon for the financial responsibilities
 of raising a child to be one of the main sources of trepidation for those
@@ -20,7 +21,6 @@ is all doable with planning and the discipline to make sound financial
 decisions.</p>
 <p>Before you start a family, you and your spouse should:</p>
 <h3>Plan and Prioritise</h3>
-<hr>
 <p>Review your financial situation and financial plans. Draw up a fresh budget
 for the household to prioritise your spending so as to accommodate new
 expenses for your baby — doctor's visits for mummy and baby, baby's daily
@@ -28,7 +28,6 @@ necessities and perhaps even fun activities for your little one, etc. Revise
 your financial plan to cater for your child's longer term needs such as
 tertiary education.</p>
 <h3>Do Your Research</h3>
-<hr>
 <p>Talk to professionals, your friends and family members to have an idea
 of what it would cost to pay for your child's needs. Don't let the information
 alarm you but see it as a way to help you prepare for what's to come.</p>
@@ -51,7 +50,6 @@ and is co-funded — up to 75 per cent — by the government.</p>
 </li>
 </ul>
 <h3>What To Expect When You Are Expecting</h3>
-<hr>
 <p>Here are a few things to note when you are expecting:</p>
 <h4>Maternity Packages and Consultation Charges</h4>
 <p>Consultation and delivery charges vary. You may want to consider pre-natal
@@ -62,14 +60,6 @@ carefully to find out what is not included.</p>
 <p>The cost of delivery packages also varies depending on the type of delivery,
 choice of hospital and the length of stay. Broadly, delivery by C-section
 costs more; and private hospital stays are more expensive.</p>
-<p><strong>See also:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child/healthcare/medisave-grant-for-newborns" rel="noopener noreferrer nofollow" target="_blank">MediSave grant for newborns</a>
-</p>
-</li>
-</ul>
 <h4>Do You Already Have Maternity Benefits?</h4>
 <p>If you have a health insurance policy, find out if it covers pre- and
 post- delivery visits to the doctor. Some health insurance plans include
@@ -95,7 +85,6 @@ and neonatal cover.</p>
 insured under MediShield Life.&nbsp;Think about life insurance to help
 provide for your family should something unexpected happen to you.</p>
 <h3>Paying For Your Child’s Changing Needs</h3>
-<hr>
 <p>Having a child changes your world. You may need to cut back on your personal
 expenses and set aside more money for your child’s needs as she or he grows.</p>
 <h4>From Birth to 18 Months</h4>
@@ -114,7 +103,6 @@ expenses and set aside more money for your child’s needs as she or he grows.</
 <p>Healthcare</p>
 </li>
 </ul>
-<h4>Tip</h4>
 <p><strong><em>Start saving up during the pregnancy to buy these items.</em></strong>
 </p>
 <p>Later on, you may need to buy other items such as a baby stroller and
@@ -184,7 +172,6 @@ the extra premiums first.</p>
 <p>Be careful not to cut back on your savings for retirement or healthcare
 insurance. You need to take care of yourself as well.</p>
 <h3>Getting Help</h3>
-<hr>
 <p>There are a range of government schemes to help you defray the cost of
 having and raising your child.</p>
 <p>These include:</p>
@@ -210,12 +197,7 @@ having and raising your child.</p>
 </p>
 </li>
 </ul>
-<h4>Tip</h4>
-<p><em>Find out more about enhancements in</em>&nbsp;<a href="https://www.madeforfamilies.gov.sg/marriage/your-home-matters-new/housing-schemes-and-grants" rel="noopener noreferrer nofollow" target="_blank">housing,</a>&nbsp;
-<a href="https://www.madeforfamilies.gov.sg/support-measures/managing-work-and-family-life/family-friendly-workplaces" rel="noopener noreferrer nofollow" target="_blank">workplace support</a>, <em>and</em>&nbsp;<a href="https://www.madeforfamilies.gov.sg/parental-leave-and-benefits" rel="noopener noreferrer nofollow" target="_blank">support for parents.</a>
-</p>
 <h3>Paying for University</h3>
-<hr>
 <p>Saving for a child's university education should be one of your priorities
 as a parent. The cost can be hefty. Apart from school or tuition fees,
 you have to factor in living expenses if you are planning to send your
