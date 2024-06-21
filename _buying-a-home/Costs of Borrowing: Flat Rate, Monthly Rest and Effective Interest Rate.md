@@ -9,23 +9,21 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="cost of borrowing" src="/images/cost%20of%20borrowing.jfif">
 </div>
-<p><strong>Look beyond the advertised interest rate. Learn about different types of loans and what factors affect how much interest you will end up paying.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Loans are not free money and must be repaid with interest.</p>
+<p>Loans are not free money and must be repaid with interest</p>
 </li>
 <li>
 <p>Usually, you pay more interest for a loan with a longer tenure than for
-one with a shorter tenure.</p>
+one with a shorter tenure</p>
 </li>
 <li>
 <p>Use the effective interest rate to compare different loans to get the
-best rate.</p>
+best rate</p>
 </li>
 <li>
-<p>Check the repayment schedule before signing up.</p>
+<p>Check the repayment schedule before signing up</p>
 </li>
 </ul>
 <p>Before taking out a loan, think about the interest payments. Apart from
@@ -33,7 +31,7 @@ the interest rate, consider the processing fees, legal costs and other
 charges due to late or non-payment.</p>
 <p>Remember, for the same amount borrowed, you pay more interest for a longer
 loan period than for a shorter loan period.</p>
-<h3>How Interest Rates are Calculated</h3>
+<h3>How Interest Rates Are Calculated</h3>
 <p>Not all loans work the same way. Learn about flat and monthly rest rates,
 and how they affect interest calculations.</p>
 <h4>Flat Rate</h4>
@@ -103,7 +101,7 @@ loan than for a 5-year loan.</p>
 of the loan. As you pay down your outstanding loan amount every month,
 the interest also reduces over time.</p>
 <p>Monthly Rest Rate is commonly used for home loans.</p>
-<h5>Loan on Monthly Rest</h5>
+<h5>Loan On Monthly Rest</h5>
 <p>Say you have a $600,000 loan payable over 20 years at a fixed rate of
 3.5% per annum and you have to make 240 equal monthly repayments of $3,480.</p>
 <p>Here's what your payment schedule might look like for the first five years.
@@ -240,7 +238,7 @@ Notice that the interest portion of the payment reduces as time goes on.</p>
 </tr>
 </tbody>
 </table>
-<h3>Fixed versus Floating Rate</h3>
+<h3>Fixed Versus Floating Rate</h3>
 <p>For a fixed rate monthly rest, the interest rate stays the same for a
 period of time known as the lock-in period.</p>
 <p>For a floating rate, the interest rate can move up or down. If interest
@@ -332,7 +330,7 @@ the least.</p>
 <p>However, you may not always want to choose the loan with the lowest EIR.
 For instance, if you intend to repay early, you may take a loan with a
 higher EIR, but without any early repayment penalty.</p>
-<h3>Deciding on a Repayment Plan</h3>
+<h3>Deciding On A Repayment Plan</h3>
 <p>Apart from the interest, you will also need to consider your ability to
 meet the monthly repayment when choosing the loan tenure.</p>
 <p>Generally, a shorter loan tenure means less interest overall but a higher
@@ -344,7 +342,7 @@ interest payable).</p>
 <p><strong>Note:</strong> If you take up a floating-rate loan, keep in mind
 that <strong>interest rates can go up</strong>. Even small increases can
 make a big difference in the total amount you pay, so plan accordingly.</p>
-<h3>Other Costs of Loans</h3>
+<h3>Other Costs Of Loans</h3>
 <p>Loans may come with other costs such as fees, charges and third-party
 costs, which could add up. You may need to factor these into your calculations.</p>
 <table style="minWidth: 50px">
