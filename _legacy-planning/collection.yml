@@ -2,6 +2,7 @@ collections:
   legacy-planning:
     output: true
     order:
+      - What Is A Trust?.md
       - Understanding Estate Planning.md
       - What Is Probate?.md
       - Deciding How To Transfer Your Estate.md
