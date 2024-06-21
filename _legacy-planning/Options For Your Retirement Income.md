@@ -22,7 +22,7 @@ the SRS, from your investments and by monetising your property</p>
 other sources of income after you retire. These can be your Supplementary
 Retirement Scheme (SRS) funds, insurance payouts, downsizing or renting
 out your property, investment returns, or any part-time employment.</p>
-<h3>Where will your income come from?</h3>
+<h3>Where Will Your Income Come From?</h3>
 <p>An important part of retirement planning is to assess your available resources
 for your retirement.</p>
 <ul data-tight="true" class="tight">
@@ -62,7 +62,7 @@ for your retirement.</p>
 <p>Have you set aside money for your other goals, like your children’s education?</p>
 </li>
 </ul>
-<h3>Don’t forget about your insurance</h3>
+<h3>Don’t Forget About Your Insurance</h3>
 <p>Is your insurance coverage adequate? Healthcare costs rise as we get older.
 All of us are covered under <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life" rel="noopener noreferrer" target="_blank">MediShield Life</a>,
 but you could consider <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/Comms/Website/Past%20Websites/2023/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/starter-packs/guide-to-types-of-health-insurance.html" rel="noopener noreferrer nofollow" target="_blank">additional cover</a> to
@@ -71,9 +71,9 @@ the additional costs on your retirement savings, too.</p>
 <p>Do ensure that you're still covered during your retirement years. Some
 policies offer an option to stop paying premiums upon retirement, while
 still enjoying coverage.</p>
-<h3>Ways to save for retirement</h3>
+<h3>Ways To Save For Retirement</h3>
 <p>Here are a few ways to build up your retirement nest egg:</p>
-<h4>CPF savings</h4>
+<h4>CPF Savings</h4>
 <p>From the moment you make your first CPF contribution to your Ordinary,
 Special, and Medisave Accounts (OA, SA, and MA), you're already leveraging
 on the risk-free and attractive interest rates.</p>
@@ -102,7 +102,7 @@ tax reliefs:</p>
 50% of the amount if you withdraw at retirement</p>
 </li>
 </ul>
-<h4>Monetising your property</h4>
+<h4>Monetising Your Property</h4>
 <p>If you own your HDB flat and have met the Minimum Occupation Period, you
 could rent out a room or the whole flat to collect a regular rental income.</p>
 <p>You can also consider the following:</p>
