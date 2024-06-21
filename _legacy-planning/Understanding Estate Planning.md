@@ -52,7 +52,7 @@ they are provided for even when you're not around.</p>
 <p>Who to trust to carry out your estate plan</p>
 </li>
 </ul>
-<h3>Why do people avoid it?</h3>
+<h3>Why Do People Avoid It?</h3>
 <p>Many people are too busy living to think about end-of-life planning. Some
 common reasons are:</p>
 <ul data-tight="true" class="tight">
@@ -96,7 +96,7 @@ to your family under the Intestate Succession Act or the Inheritance Certificate
 (for Muslims). PTO charges an administrative fee for the service.</p>
 <p>You should make a CPF nomination if you want your CPF savings to be distributed
 accordng to your wishes.</p>
-<h3>What do you have?</h3>
+<h3>What Do You Have?</h3>
 <p>Think about what you have that's valuable — your money, property and possessions.
 These are the assets that form your estate.</p>
 <p>Types of assets include:</p>
@@ -123,7 +123,7 @@ Scheme</p>
 Medisave and Retirement Account balances</p>
 </li>
 </ul>
-<h3>Do you own your property with someone?</h3>
+<h3>Do You Own Your Property With Someone?</h3>
 <p>If you own your property with someone else, it's important to look at
 the nature of ownership. It will determine the portion of the asset you're
 legally able to transfer.</p>
@@ -144,13 +144,48 @@ automatically transferred to the surviving owner. You therefore cannot
 will your share of the property to another person</p>
 </li>
 </ul>
-<h3>Calculate your estate's net value</h3>
+<h3>Calculate Your Estate's Net Value</h3>
 <p>Your liquid assets, investments and insurance payouts, and personal assets
 all add up to make the gross value of your estate.</p>
 <p>The net value of your estate takes into account your assets, liabilities,
 fees and expenses, and the nature of ownership.</p>
 <p>Liabilities include credit card arrears, housing, car, and education loans;
 plus funeral expenses, probate fees, income taxes and family needs.</p>
-<p>
-<br>
-</p>
+<h3>When To Review Your Estate Plan</h3>
+<p>You should review your estate plan <strong>at least once a year,</strong> and
+also when circumstances change.</p>
+<p>Review your plan when there are major changes in your life, such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Marriage</p>
+</li>
+<li>
+<p>Birth of a child</p>
+</li>
+<li>
+<p>Significant changes in the value of your assets</p>
+</li>
+<li>
+<p>If you legally change your name</p>
+</li>
+<li>
+<p>Other changes in life stage and circumstances, e.g. divorce, your child
+is no longer a minor</p>
+</li>
+</ul>
+<p>You will also need to review your estate plan in these situations:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Where a beneficiary passes away</p>
+</li>
+<li>
+<p>If a named executor or trustee is unable to carry out their duties</p>
+</li>
+<li>
+<p>If anyone mentioned in the Will legally changes their name</p>
+</li>
+<li>
+<p>Death of your child's appointed guardian</p>
+</li>
+</ul>
+<p></p>
