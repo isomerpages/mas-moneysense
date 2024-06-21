@@ -4,6 +4,10 @@ permalink: /understanding-contracts-for-difference/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/signing_contract6cff.jpg">
+</div>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
