@@ -215,4 +215,4 @@ take some time.</p>
 </div>
 </details>
 </div>
-<p>What is indemnity and pre-funding?</p>
+<p></p>
