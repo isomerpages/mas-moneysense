@@ -42,7 +42,7 @@ decision.</p>
 <p><strong>Note: </strong>Remember, your CPF savings are not included in
 your estate. You should make a <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme" rel="noopener noreferrer" target="_blank">CPF nomination</a> to
 distribute your CPF savings to your beneficiaries.</p>
-<h3>Transfer before death</h3>
+<h3>Transfer Before Death</h3>
 <p>During your lifetime, your assets (e.g. your savings, property and investments)
 can be transferred to anyone as gifts or through trusts.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -66,7 +66,7 @@ incapable of handling money matters.</p>
 on how you want the assets or income from the assets distributed.</p>
 <p><strong>Note:</strong> Recurring fees and expenses over time make trusts
 costly.</p>
-<h3>Transfer upon death</h3>
+<h3>Transfer Upon Death</h3>
 <p>Whether you made a Will or not, your estate would be transferred through
 the <strong>probate process.</strong> If you don't leave a Will, your estate
 will be distributed to your beneficiaries according to the intestacy laws
@@ -74,7 +74,7 @@ or Will substitutes.</p>
 <p>Intestacy laws are inflexible and the settlement process is long. Wills
 and Will substitutes ensure that your estate is distributed more quickly,
 and according to your wishes.</p>
-<h4>Through probate</h4>
+<h4>Through Probate</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Writing a will</summary>
@@ -95,7 +95,7 @@ contents of your will in your lifetime.</p>
 </details>
 </div>
 <p></p>
-<h4>Other ways to transfer your assets</h4>
+<h4>Other Ways To Transfer Your Assets</h4>
 <p>Joint ownership and insurance nominations are other ways to transfer your
 assets quickly and inexpensively, outside the probate process.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -233,7 +233,7 @@ Succession Act</p>
 </div>
 </details>
 </div>
-<h3>Let's make a plan</h3>
+<h3>Let's Make A Plan</h3>
 <p>Now that you've learned the various estate planning tools, it's time to
 get your estate in order. You may want to seek <a href="https://pto.mlaw.gov.sg/" rel="noopener noreferrer" target="_blank">legal advice</a> to make sure your will
 is valid. It can be altered at any time.</p>
