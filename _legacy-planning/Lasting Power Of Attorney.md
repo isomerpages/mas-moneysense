@@ -9,6 +9,22 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/lasting-power-of-attorney.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plan ahead with a Lasting Power of Attorney to safeguard your interests
+and for peace of mind</p>
+</li>
+<li>
+<p>Appoint someone you trust to make decisions and act on your behalf should
+you ever lose mental capacity</p>
+</li>
+<li>
+<p>A family member is not automatically given the right to make legal decisions
+on your behalf should you lose mental capacity. This can hinder their ability
+to care for you</p>
+</li>
+</ul>
 <p>Many of us actively plan ahead for the future by saving up, investing
 and buying insurance.</p>
 <p>We do this because we want to be sure that we are prepared for a rainy
@@ -27,7 +43,7 @@ your behalf should you lose mental capacity one day.</p>
 <p>Personal welfare; and</p>
 </li>
 <li>
-<p>Property and affairs.</p>
+<p>Property and affairs</p>
 </li>
 </ul>
 <h3>What If You Do Not Have An LPA?</h3>
@@ -58,9 +74,7 @@ only take longer to complete but will also cost more.</p>
 </div>
 <p><sub>Infographics from Office of the Public Guardian.</sub>
 </p>
-<h4>Click here to apply for <a href="https://opg-eservice.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">LPA</a>.</h4>
-<p>All LPAs must be made and submitted via the Office of the Public Guardian
-Online (OPGO).</p>
+<p>All LPAs must be made and submitted via the <a href="https://opg-eservice.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Office of the Public Guardian Online (OPGO)</a>.</p>
 <p>Information on exceptional situations where hardcopy LPA may be used can
 be found <a href="https://www.msf.gov.sg/what-we-do/opg/opg-online-(opgo)/for-donors-and-donees" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
