@@ -16,7 +16,7 @@ to this <a href="https://mascdn.azureedge.net/cms/the-money-advice-service-habit
 behaviour experts from Cambridge University).</p>
 <p>We’ve done the research for you and distilled 3 simple drills you can
 incorporate into your everyday interaction with your children.&nbsp;</p>
-<h3>Let the kids ‘pay’</h3>
+<h3>Let The Kids ‘Pay’</h3>
 <p>Pretend play is something many children enjoy. You might have seen them
 take care of a baby doll, whip up a storm in a toy kitchen, or play cashier.</p>
 <p>Letting them try paying for stuff in real life may be something they associate
@@ -33,7 +33,7 @@ it gives them practice with shopping for the best deal.</p>
 <p>Importantly, the concept of making choices is ingrained in them. Rather
 than tell them “we can’t afford it” (which in some cases, at least, is
 a lie), make them see that “we choose not to spend money like that”.&nbsp;&nbsp;</p>
-<h3>Allow them to make good and bad decisions</h3>
+<h3>Allow Them To Make Good And Bad Decisions</h3>
 <p>If they are to learn about making choices, what better way than to really
 let them experience it for real.</p>
 <p>Something to consider: When your child goes to Primary 3 or so, consider
@@ -59,7 +59,7 @@ less likely they’ll treasure what they have.&nbsp;</p>
 You don’t want to set this tone for their financial future to spare your
 child a couple of hours of hunger.<strong>&nbsp;</strong>
 </p>
-<h3>Show them, don’t tell them</h3>
+<h3>Show Them, Don’t Tell Them</h3>
 <p>If you’re always browsing online stores in your free time, or splashing
 out on a new gadget the moment you lay your eyes on it, don’t be surprised
 if your child doesn’t pick up sound financial habits as quickly.</p>
