@@ -2,6 +2,7 @@ collections:
   legacy-planning:
     output: true
     order:
+      - "CPF Nominations: What Happens To Your CPF When You Pass Away?.md"
       - "Intestacy: What If You Don't Have An Estate Plan?.md"
       - What Is A Trust?.md
       - Understanding Estate Planning.md
