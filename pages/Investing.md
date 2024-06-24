@@ -61,31 +61,40 @@ description: ""
 <h4>Types Of Investments</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Guide To Shares: How To Invest</p>
+<p><a href="https://www.moneysense.gov.sg/guide-to-shares-how-to-invest" rel="noopener noreferrer nofollow" target="_blank">Guide To Shares: How To Invest</a>
+</p>
 </li>
 <li>
-<p>Guide To Shares: What You Need To Know Before You Invest</p>
+<p><a href="https://www.moneysense.gov.sg/guide-to-shares-what-you-need-to-know-before-you-invest/" rel="noopener noreferrer nofollow" target="_blank">Guide To Shares: What You Need To Know Before You Invest</a>
+</p>
 </li>
 <li>
-<p>Understanding Bonds</p>
+<p><a href="https://www.moneysense.gov.sg/understanding-bonds/" rel="noopener noreferrer nofollow" target="_blank">Understanding Bonds</a>
+</p>
 </li>
 <li>
-<p>Guide To ETFs: Understanding Exchange Traded Funds</p>
+<p><a href="https://www.moneysense.gov.sg/guide-to-etfs-understanding-exchange-traded-funds/" rel="noopener noreferrer nofollow" target="_blank">Guide To ETFs: Understanding Exchange Traded Funds</a>
+</p>
 </li>
 <li>
-<p>Guide To ETFs: How Synthetic ETFs Work</p>
+<p><a href="https://www.moneysense.gov.sg/guide-to-etfs-how-synthetic-etfs-work" rel="noopener noreferrer nofollow" target="_blank">Guide To ETFs: How Synthetic ETFs Work</a>
+</p>
 </li>
 <li>
-<p>Understanding Unit Trusts</p>
+<p><a href="https://www.moneysense.gov.sg/understanding-unit-trusts/" rel="noopener noreferrer nofollow" target="_blank">Understanding Unit Trusts</a>
+</p>
 </li>
 <li>
-<p>Unit Trusts: Guide To Pricing And Fees</p>
+<p><a href="https://www.moneysense.gov.sg/unit-trusts-guide-to-pricing-and-fees/" rel="noopener noreferrer nofollow" target="_blank">Unit Trusts: Guide To Pricing And Fees</a>
+</p>
 </li>
 <li>
-<p>Unit Trusts: Making Sense of Fund Documents And Reports</p>
+<p><a href="https://www.moneysense.gov.sg/unit-trusts-making-sense-of-fund-documents-and-reports/" rel="noopener noreferrer nofollow" target="_blank">Unit Trusts: Making Sense of Fund Documents And Reports</a>
+</p>
 </li>
 <li>
-<p>Understanding Real Estate Investment Trusts (REITs)</p>
+<p><a href="https://www.moneysense.gov.sg/understanding-real-estate-investment-trusts-reits/" rel="noopener noreferrer nofollow" target="_blank">Understanding Real Estate Investment Trusts (REITs)</a>
+</p>
 </li>
 </ul>
 <p></p>
