@@ -9,29 +9,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/how%20home%20loans%20work.jfif">
 </div>
-<p><strong>Find out about the types of home loans available and how interest is calculated, and learn about repayments and refinancing.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The HDB Loan Eligibility (HLE) letter and property loan fact sheet contain
 the terms of your loan and show how rising interest rates could affect
-your repayments.</p>
+your repayments</p>
 </li>
 <li>
 <p>For bank loans, variable rates will kick in after the fixed rate lock-in
-period ends (differs by loan package).</p>
+period ends (differs by loan package)</p>
 </li>
 <li>
-<p>Refinancing a home loan may help you save on the interest.</p>
+<p>Refinancing a home loan may help you save on the interest</p>
 </li>
 <li>
 <p>Making a partial pre-payment can help you lower your monthly loan payments
-and save on the interest as well.</p>
+and save on the interest as well</p>
 </li>
 </ul>
 <h3>What Is A Home Loan?</h3>
-<hr>
 <p>An HDB loan or home loan is money borrowed from HDB or the bank to help
 you buy your property. For HDB flats, you may also be able to tap on housing
 loans at a&nbsp;<a href="https://www.hdb.gov.sg/residential/servicing-your-hdb-housing-loan/loan-matters/interest-rate" rel="noopener noreferrer nofollow" target="_blank">concessionary interest rate</a>,
@@ -53,7 +50,6 @@ remaining purchase price to the seller</p>
 </li>
 </ul>
 <h3>Who is Eligible for a Home Loan?</h3>
-<hr>
 <p>HDB and the banks will have their own eligibility criteria for prospective
 borrowers. These include:</p>
 <ul data-tight="true" class="tight">
@@ -78,7 +74,6 @@ and HDB's/ the bank’s internal credit requirements</p>
 the ability to service monthly instalments to be eligible for a loan. Each
 lender will assess your eligibility based on its criteria.</p>
 <h3>Types Of Home Loans</h3>
-<hr>
 <p>HDB offers a concessionary loan for HDB buyers only, at an interest rate
 that is pegged at 0.1% above the CPF Ordinary Account interest rate. This
 interest rate is revised in line with the revision of CPF interest rates.</p>
@@ -92,31 +87,31 @@ interest rate is revised in line with the revision of CPF interest rates.</p>
 </li>
 </ul>
 <p>Here's how they compare:</p>
-<p><strong>Fixed-rate Loans</strong>
+<p><strong>Fixed-Rate Loans</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Rate is fixed and will not change for the first few years (promotional
-rate).</p>
+rate)</p>
 </li>
 <li>
-<p>Rate does not change even when market rates fall.</p>
+<p>Rate does not change even when market rates fall</p>
 </li>
 <li>
-<p>After a fixed rate period, interest becomes variable.</p>
+<p>After a fixed rate period, interest becomes variable</p>
 </li>
 </ul>
-<p><strong>Floating or Variable Rate Loans</strong>
+<p><strong>Floating Or Variable Rate Loans</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Rate varies and is usually tied to a reference rate e.g. CPF Ordinary
 Account, Singapore Overnight Rate Average (SORA) or a rate determined by
-the bank (e.g. internal board rate).</p>
+the bank (e.g. internal board rate)</p>
 </li>
 <li>
 <p>If the reference rate goes up, the interest payable will increase and
-vice versa.</p>
+vice versa</p>
 </li>
 </ul>
 <p>The reference rate can change at any time, depending on the prevailing
@@ -143,7 +138,6 @@ later</p>
 for the remainder of the loan. Make sure you know how much your monthly
 payments will increase when the promotional period is over.</p>
 <h3>How Interest Is Computed</h3>
-<hr>
 <p>The common method of calculating interest is monthly reducing (monthly
 rest).</p>
 <p>Even a small increase in interest rates can affect your monthly instalment
@@ -202,10 +196,9 @@ and the effective interest rate that you will end up paying for your loan.</p>
 </tr>
 </tbody>
 </table>
-<h3>Tip</h3>
-<p>Even if you are eligible for a bigger loan or a longer loan tenure, do
-not take it up unless you are sure you will have the resources to fund
-it.</p>
+<p><strong>Tip: </strong>Even if you are eligible for a bigger loan or a
+longer loan tenure, do not take it up unless you are sure you will have
+the resources to fund it.</p>
 <h3>What You Can Do: Pre-pay Your Home Loan</h3>
 <p>You can consider making a lump sum pre-payment on your home loan to reduce
 your monthly payments and save on interest over the long run. Be sure to
@@ -264,18 +257,16 @@ rises to 5% per annum and remains at that level for the remaining loan
 tenure of 25 years. Subject to the terms and conditions of your home loan
 — check with your lender.</p>
 <h3>All About Your Loan</h3>
-<hr>
 <p>Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet
 for more details about your home loan.</p>
-<h3>HDB Loan Eligibility Letter</h3>
+<h4>HDB Loan Eligibility Letter</h4>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
-you can borrow, you will need to apply for an&nbsp;<a href="https://safe.menlosecurity.com/https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE)</a>&nbsp;letter.</p>
+you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE)</a>&nbsp;letter.</p>
 <p>HLE helps you plan for your home purchase by giving you information on
 how much you can borrow, the monthly repayments, the amount of cash you
 need and other terms and conditions.</p>
-<h4>Tip</h4>
-<p>An HDB loan comes with certain eligibility criteria such as an income
-ceiling. <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" rel="noopener noreferrer nofollow" target="_blank">Check if you qualify.</a>
+<p><strong>Tip: </strong>An HDB loan comes with certain eligibility criteria
+such as an income ceiling. <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" rel="noopener noreferrer nofollow" target="_blank">Check if you qualify.</a>
 </p>
 <h3>Property Loan Fact Sheet</h3>
 <p>Before you sign up for a home loan with a bank, the bank must provide
@@ -307,8 +298,7 @@ monthly instalments and contains the key features of the loan, including:</p>
 </ul>
 <p>Ask your bank to take you through the fact sheet so that you know what
 you are committing to when you take up the loan.</p>
-<h3>Refinancing and Repricing</h3>
-<hr>
+<h3>Refinancing And Repricing</h3>
 <p>Refinancing means switching from your existing home loan to a new lender
 with lower interest rates. Refinancing at your current bank is called repricing,
 or conversion.</p>
@@ -330,7 +320,7 @@ loan with an HDB loan.</p>
 </li>
 </ul>
 <p>Go through these steps to check and compare your options:</p>
-<p><strong>1. Check with your Current Bank</strong>
+<p><strong>1. Check With Your Current Bank</strong>
 </p>
 <p>Ask your existing bank for repricing options before checking with other
 banks. Check whether the lock-in period still applies to your loan. If
@@ -362,10 +352,10 @@ compare:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The updated repayment schedules for the various packages – check the interest
-payable.</p>
+payable</p>
 </li>
 <li>
-<p>The advertised rates and Effective Interest Rate (EIR) for the packages.</p>
+<p>The advertised rates and Effective Interest Rate (EIR) for the packages</p>
 </li>
 </ul>
 <p>Your instalment amounts and interest rates will likely change if you change
@@ -374,16 +364,16 @@ property fact sheet to explain the key features of the loan package. Take
 this opportunity to ask questions such as the penalty fees for early loan
 repayment, or bundled products, such as mortgagee interest policy, and
 compare with other loan packages to understand the differences.</p>
-<p><strong>3. Read the Fine Print</strong>
+<p><strong>3. Read The Fine Print</strong>
 </p>
 <p>Before committing to a refinanced housing loan package:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Read the terms and conditions and understand what the new package offers.</p>
+<p>Read the terms and conditions and understand what the new package offers</p>
 </li>
 <li>
 <p>Check the&nbsp;<a href="https://www.cpf.gov.sg/member/faq/home-ownership/housing-scheme/how-much-cpf-savings-can-i-use-for-my-property-purchase" rel="noopener noreferrer nofollow" target="_blank">CPF Housing Withdrawal Limit</a>&nbsp;applicable
-to you when you refinance your housing loan.</p>
+to you when you refinance your housing loan</p>
 </li>
 </ul>
 <h3>What If You Cannot Pay?</h3>
@@ -400,8 +390,7 @@ charge allows HDB or the bank to sell your home and use the sales proceeds
 to pay off what you owe the bank.</p>
 <p>The CPF Board is entitled to the remaining sales proceeds to recover what
 has been deducted from your CPF OA.</p>
-<h3>Tip</h3>
-<p>If you are using CPF to service your housing instalments, it makes sense
-to pay off the loan&nbsp;<strong>by the CPF withdrawal age of 55,</strong>&nbsp;due
+<p><strong>Tip: </strong>If you are using CPF to service your housing instalments,
+it makes sense to pay off the loan&nbsp;<strong>by the CPF withdrawal age of 55,</strong>&nbsp;due
 to the lower CPF contributions from age 50 onwards. With lower contributions
 to your Ordinary Account, you may have to use more cash for the loan repayments.</p>

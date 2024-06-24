@@ -9,6 +9,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/buying-direct-purchase-insurance.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To manage risk, you should invest in a diversified portfolio of different
+investments</p>
+</li>
+<li>
+<p>You should allocate your capital to different asset classes according
+to your desired risk-return profile</p>
+</li>
+<li>
+<p>Dollar-cost averaging removes the risk of timing the market wrongly</p>
+</li>
+</ul>
 <h3>Know Your Risk Appetite</h3>
 <p>Can you afford to lose all of your investment?</p>
 <p>Every investment bears risk. In some cases, you could lose some or all
@@ -34,8 +48,8 @@ repayments and your future goals.</p>
 <p>As all investments carry risk, you should consider the risk-return tradeoff
 before deciding on an investment. Generally, the higher the potential returns,
 the greater the risk.</p>
-<p><strong>Note: Your risk appetite is more about how much you can afford to lose rather than how much you want to make.</strong>
-</p>
+<p><strong>Note: </strong>Your risk appetite is more about how much you can
+afford to lose rather than how much you want to make.</p>
 <h3>Risk-return Trade-off</h3>
 <p>The higher the potential returns, the higher the risks.</p>
 <p>For example, if you were to invest in futures, you might expect high returns.
@@ -45,7 +59,7 @@ significant amount, or even all of my money?”</p>
 <h3>Managing Risk</h3>
 <p>All investments involve some measure of risk. You can use these three
 investment strategies to help you manage risk:</p>
-<h3>Diversification</h3>
+<h4>Diversification</h4>
 <p>Diversification refers to spreading your investments over a variety of
 assets with the aim that a portfolio of lowly-correlated assets does not
 all move in the same direction at the same time or even if they do move
@@ -67,7 +81,7 @@ countries (e.g. a portfolio of different shares or exchange-traded fund
 that tracks an index)</p>
 </li>
 </ul>
-<h3>Correlation</h3>
+<h4>Correlation</h4>
 <p>Assets that move together in the same direction are said to be correlated.
 One way to diversify is to combine assets which move randomly or in opposite
 ways. These assets can be described as being negatively correlated, or
@@ -81,7 +95,7 @@ used in construction, will drop. These two are positively correlated.</p>
 <p>However, industries dealing in healthcare will not be affected and hence
 the share price of a healthcare company will move independently or randomly
 – they are not correlated.</p>
-<h3>Asset Allocation</h3>
+<h4>Asset Allocation</h4>
 <p>Deciding how to distribute your investments is part of the asset allocation
 strategy. Here are five factors to consider before you decide on your asset
 allocation:</p>
@@ -107,7 +121,7 @@ mix regularly in order to maintain a balanced portfolio.</p>
 <p>Keep in mind that your investment objective, horizon and risk profile
 are likely to change as you go through different life stages. You will
 want to re-evaluate these from time to time.</p>
-<h3>Dollar-cost Averaging</h3>
+<h4>Dollar-Cost Averaging</h4>
 <p>Market conditions are hard to predict. Trying to buy low and sell high
 can be challenging and most investors fail to sustain any significant returns
 this way.</p>
@@ -116,5 +130,5 @@ you invest a fixed sum of money at regular intervals, whether the market
 is up or down.</p>
 <p>For example, if you invest $1,000 every month, you buy more shares when
 the market is down and fewer shares when the market is up.</p>
-<p>Over a long investment horizon, it would result in a lower average cost
-per share.</p>
+<p>Over a long investment horizon, dollar-cost averaging gives you the best
+chance of paying a lower average price.</p>

@@ -9,6 +9,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/couple.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Planning ahead allows you to better enjoy your retirement</p>
+</li>
+<li>
+<p>Starting early gives you more time to reap the benefits of compounding
+interest</p>
+</li>
+<li>
+<p>Inflation has a big effect on cost of living in the future</p>
+</li>
+</ul>
 <p>Retirement is about being able to choose whether to work. You are in a
 better position to make that decision if you start retirement planning
 early.</p>
@@ -250,26 +263,6 @@ goals.</p>
 </li>
 <li>
 <p>How can CPF help?</p>
-</li>
-</ul>
-<p></p>
-<h4>Read More: Approaching Your Retirement Years In</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/MoneySense_Retirement_Booklet__English____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">English</a>
-</p>
-</li>
-<li>
-<p><a href="/files/MoneySense_Retirement_Booklet__Mandarin____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Mandarin</a>
-</p>
-</li>
-<li>
-<p><a href="/files/MoneySense_Retirement_Booklet__Malay____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay</a>
-</p>
-</li>
-<li>
-<p><a href="/files/MoneySense_Retirement_Booklet__Tamil____April_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil</a>
-</p>
 </li>
 </ul>
 <p></p>

@@ -9,16 +9,26 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/critical-illness-insurance.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>You can write your own will and change it anytime you wish</p>
+</li>
+<li>
+<p>CPF savings are not covered under a will and are not part of an estate</p>
+</li>
+<li>
+<p>A will helps you give your money to the people you feel need it most</p>
+</li>
+</ul>
 <p>A will is a written document that sets out your instructions and wishes
 on how you want your estate (your money, property, possessions and other
 assets) to be distributed after your death.</p>
 <p>You may want to speak to a lawyer to make sure your will is valid. It
 can be altered at any time.</p>
-<p><strong>Note:</strong>
-</p>
-<p>CPF savings are&nbsp;not covered under a will and not part of an estate.
-They are protected from creditors' claims to it. You are strongly encouraged
-to make a&nbsp;<a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme" rel="noopener noreferrer nofollow" target="_blank">CPF nomination</a>&nbsp;so
+<p><strong>Note: </strong>CPF savings are&nbsp;not covered under a will and
+not part of an estate. They are protected from creditors' claims to it.
+You are strongly encouraged to make a&nbsp;<a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme" rel="noopener noreferrer nofollow" target="_blank">CPF nomination</a>&nbsp;so
 that your intended beneficiaries can have quick access to the funds.</p>
 <h3>Must You Have A Will?</h3>
 <p>Writing a will is essential if you have dependents like young or disabled

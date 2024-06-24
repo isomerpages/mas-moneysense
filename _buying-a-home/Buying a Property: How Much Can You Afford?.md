@@ -9,20 +9,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Buying a property" src="/images/buying%20a%20property.jfif">
 </div>
-<p><strong>Buy a property within your means. Take stock of all your resources to see what you can afford and how much you can borrow, and get to know the differences between HDB loans and bank loans.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Choose a home based on what you can afford in terms of upfront and ongoing
-payments.</p>
+payments</p>
 </li>
 <li>
-<p>If you are buying an HDB flat, you may qualify for an HDB loan.</p>
+<p>If you are buying an HDB flat, you may qualify for an HDB loan</p>
 </li>
 <li>
 <p>How much you can borrow will depend on your lender’s assessment and rules
-such as the Total Debt Servicing Ratio (TDSR) and Loan-To-Value (LTV) limit.</p>
+such as the Total Debt Servicing Ratio (TDSR) and Loan-To-Value (LTV) limit</p>
 </li>
 </ul>
 <h3>What Can You Afford?</h3>
@@ -30,10 +28,10 @@ such as the Total Debt Servicing Ratio (TDSR) and Loan-To-Value (LTV) limit.</p>
 Make sure you buy a home that you can afford in the long run. You will
 need to have enough resources to pay for upfront costs, ongoing homeownership
 expenses and monthly loan instalments.</p>
-<h3>Upfront Costs</h3>
+<h4>Upfront Costs</h4>
 <p>These include the option fee, downpayment, stamp duty, legal cost, agent's
 commission and fees, renovation and other miscellaneous costs.</p>
-<h3>Ongoing Expenses</h3>
+<h4>Ongoing Expenses</h4>
 <p>There are some ongoing expenses which cannot be paid with your CPF savings.
 You will need to set aside enough money for:</p>
 <p>Monthly expenses (property taxes, fire and mortgage insurance, conservancy
@@ -41,23 +39,23 @@ and management service fees). Future interest rate hikes if you are taking
 up a floating rate loan. Possible drop in property value and the original
 LTV ratio is exceeded. You may have to dip into your savings if you are
 not prepared.</p>
-<h3>Monthly Loan Instalments</h3>
+<h4>Monthly Loan Instalments</h4>
 <p>A home loan is usually repaid in monthly instalments. Each monthly instalment
 consists of a principal repayment and interest payment.</p>
 <p>The size of your monthly instalment depends on how much you have borrowed,
 the loan tenure, the interest rate of the loan and how interest is computed.</p>
-<h3>Things to Note</h3>
+<h3>Things To Note</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>For the same amount of money borrowed, a longer loan tenure means your
-monthly payment is smaller but your total interest paid is higher.</p>
+monthly payment is smaller but your total interest paid is higher</p>
 </li>
 <li>
 <p>Take note of the cap on the amount you can use from your CPF savings for
-your home loan.</p>
+your home loan</p>
 </li>
 <li>
-<p>Ask your lender for a repayment schedule.</p>
+<p>Ask your lender for a repayment schedule</p>
 </li>
 </ul>
 <h3>How Much Do You Have Now?</h3>
@@ -180,7 +178,7 @@ properties, the following LTV limits apply:</p>
 <p>Apply the lowest LTV limit if the loan tenure exceeds 30 years (or 25
 years for HDB flats) or the loan period extends beyond the borrower's age
 of 65 years.</p>
-<h3>Getting an HDB Loan</h3>
+<h3>Getting An HDB Loan</h3>
 <p>If you are buying an HDB flat, you may qualify for a loan from the HDB.
 With an HDB loan, you may borrow up to 85% of the purchase price or the
 property’s valuation price. This depends on which is lower, subject to
@@ -206,7 +204,7 @@ on how much you can borrow, the monthly repayments, the amount of cash
 you need and other terms and conditions.</p>
 <p>Note: An HDB loan comes with certain eligibility criteria such as an income
 ceiling. Check if you qualify.</p>
-<h3>HDB Loan versus Bank Loan</h3>
+<h3>HDB Loan Versus Bank Loan</h3>
 <p>If you are choosing between an HDB loan and bank loan for financing your
 HDB flat, the key differences to consider include the downpayment, interest
 rate and flexibility to pay off your loan early.</p>
@@ -320,5 +318,4 @@ period</p>
 </tr>
 </tbody>
 </table>
-<p>Find out more: About Housing Loans: Key Questions to Ask Your Bank Before
-Taking a Housing Loan</p>
+<p></p>

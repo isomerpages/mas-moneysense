@@ -9,6 +9,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/couple.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Have a good idea of the kind of lifestyle you want when you retire</p>
+</li>
+<li>
+<p>Decide when you want to retire, and for how long</p>
+</li>
+<li>
+<p>Estimate how much you need to save in order to meet your retirement goals</p>
+</li>
+</ul>
 <p>What kind of lifestyle do you want to lead when you retire? How many years
 do you expect to be in retirement? What debt or income will you still have
 when you retire?</p>
@@ -45,9 +57,8 @@ higher returns also carry a higher risk of losing money.</p>
 <p>For example, stocks may have higher potential returns than bonds but they
 also carry higher risk. On the other hand, cash and fixed deposits are
 safe but have relatively low returns.</p>
-<h4>Tip</h4>
-<p>You can top up your CPF account with cash to enjoy attractive interest
-rates of up to 5% for your retirement nest egg.</p>
+<p><strong>Tip: </strong>You can top up your CPF account with cash to enjoy
+attractive interest rates of up to 5% for your retirement nest egg.</p>
 <h3>Number Of Years Until You Retire</h3>
 <p>To get this number, subtract your current age from the retirement age.
 This is the period you have to build your retirement funds.</p>
@@ -115,5 +126,5 @@ age is 62:</p>
 $24,000 x 26 = $624,000</p>
 </li>
 </ul>
-<p>Note: When doing your actual calculations, you will need to take into
-account inflation and your expected investment returns.</p>
+<p><strong>Note:</strong> When doing your actual calculations, you will need
+to take into account inflation and your expected investment returns.</p>

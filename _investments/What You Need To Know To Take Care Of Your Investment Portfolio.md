@@ -8,8 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Interest Graph" src="/images/interest_graph6cff.jpg">
 </div>
-<p><strong>No matter what your financial goals are – whether you are investing for growth, income, or security – it is important to regularly review the state and financial health of your portfolio.</strong>
-</p>
+<p>No matter what your financial goals are – whether you are investing for
+growth, income, or security – it is important to regularly review the state
+and financial health of your portfolio.</p>
 <p>Because market conditions can change drastically over time, and when they
 do, your portfolio may need readjusting.</p>
 <p>For example, if the economy is expected to contract, you might want to
@@ -23,8 +24,7 @@ earnings and therefore better share price performance.</p>
 how markets and the economy are performing. This article will explore some
 of the more important of these indicators.</p>
 <h3>Market Indicators</h3>
-<p><strong>The Straits Times Index</strong>
-</p>
+<h4>The Straits Times Index</h4>
 <p>The most commonly-used and recognisable benchmark for the local stock
 market is the Straits Times Index (STI). This is made up of 30 of the largest
 stocks that are weighted by their market capitalisation (price X number

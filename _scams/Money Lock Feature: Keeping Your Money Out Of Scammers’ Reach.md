@@ -7,9 +7,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1064.jpeg">
 </div>
-<p><strong>Your bank may offer a “Money Locking” feature which stops scammers from digitally transferring your money out of your bank account. To access money that has been locked up, you need to visit a bank branch to verify your identity or do it through an ATM.&nbsp;&nbsp;</strong>
-</p>
-<p></p>
 <p>Practising cyber hygiene is vital to avoid getting scammed. To guard against
 scammers, consider “locking up” a portion of the money in your bank accounts.&nbsp;&nbsp;</p>
 <p>The “locked-up” amount cannot be transferred out digitally by anyone,

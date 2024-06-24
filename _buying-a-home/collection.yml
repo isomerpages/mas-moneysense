@@ -2,6 +2,7 @@ collections:
   buying-a-home:
     output: true
     order:
+      - "Switching To SORA: What You Need To Know.md"
       - "Buying a Property: How Much Can You Afford?.md"
       - How Home Loans Work.md
       - "Costs of Borrowing: Flat Rate, Monthly Rest and Effective Interest

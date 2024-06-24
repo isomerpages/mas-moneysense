@@ -3,11 +3,16 @@ collections:
     output: true
     order:
       - Insurance Basics.md
+      - Assessing Your Insurance Needs.md
       - Understanding Health Insurance.md
+      - What To Ask Before Buying Health Insurance.md
       - Understanding Integrated Shield Plans.md
       - Understanding Life Insurance.md
+      - What To Ask Before Buying Life Insurance.md
       - Understanding Term Insurance.md
       - "Life Insurance: Comparing Term and Bundled Products.md"
       - Understanding Whole Life Insurance.md
+      - Understanding Investment Linked Insurance Policies.md
       - Understanding Critical Illness Insurance.md
+      - Buying Life Insurance Online.md
       - Buying Direct Purchase Insurance.md

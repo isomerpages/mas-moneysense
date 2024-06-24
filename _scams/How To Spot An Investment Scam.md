@@ -7,9 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Investment Scam" src="/images/investment%20scam.png">
 </div>
-<p><strong>Find out how you can spot an investment scam and what you can do to avoid falling prey to one.</strong>
-</p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>All investments carry risks. Always check before you invest!</p>
@@ -20,11 +18,27 @@ at little or no risk.</p>
 </li>
 <li>
 <p>Check that the company and its representatives are regulated by the Monetary
-Authority of Singapore (MAS).</p>
+Authority of Singapore (MAS)</p>
 </li>
 </ul>
-<h4>Check For Red Flags</h4>
-<hr>
+<p>Out of nowhere, you are added to a group chat where people are sharing
+their windfall from a not-to-be-missed investment.</p>
+<p>Or you are contacted on social media, who asks if you are interested in
+a lucrative investment opportunity.</p>
+<p>It could even be an ad you chance upon on social media platforms touting
+profitable "investment opportunities".</p>
+<p>Sounds familiar?</p>
+<p>Most of us would have read about news reports of people who were scammed
+through such methods. Nevertheless, people continue to fall victim as scammers
+constantly come up with new, convincing ways to steal what is often very
+large amounts.</p>
+<p>In many instances, victims thought they would never get scammed – sometimes
+they use the profits they receive initially to refute disbelieving loved
+ones. But criminals have become extremely skilled at convincing people
+that get-rich-quick scheme is real and high returns are within easy reach.</p>
+<p>Always remember to Check Before You Invest if you want to safeguard your
+hard-earned money! Here's what you should check:</p>
+<h3>Check For Red Flags</h3>
 <p>Scammers use sophisticated tactics to get you to part with your money.
 There are red flags you can watch out for to steer clear of investment
 scams.</p>
@@ -64,7 +78,7 @@ accolades or simply large investment profits to gain trust.</p>
 <p>Some use testimonials from "satisfied customers" to shore up their credibility.</p>
 <p>You should approach claims with healthy skepticism. Where possible, verify
 the claims with an independent third party.</p>
-<h4>Check That The Entity Is Regulated</h4>
+<h3>Check That The Entity Is Regulated</h3>
 <p>Some investment scams may even claim to be regulated by the relevant authorities
 to mislead you.</p>
 <p>Confirm such claims by checking the resources on the Monetary Authority
@@ -87,15 +101,15 @@ misperceived as being licensed or authorised by MAS</p>
 </ul>
 <p>Remember, dealing with an unregulated entity means giving up the safeguards
 offered under the laws administered by MAS.</p>
-<h4>Check On The Company's Background</h4>
+<h3>Check On The Company's Background</h3>
 <p>Do not be too quick to believe everything you are told. Verify information
 provided by the entity about themselves or the investment opportunity,
 such as the background of representatives and the entity's track record.</p>
 <p>It is also important to ask the entity as many questions as you need to
 fully understand the investment opportunity. If it is unable to answer
 or avoids answering any of your questions, be wary.</p>
-<p>If you suspect that you are a victim of scam, please inform your bank
-and file a police report immediately.</p>
+<p>If you suspect that you are a victim of scam, inform your bank and file
+a police report immediately.</p>
 <p>Tell your family and friends about investment scams so that they do not
 fall prey to them.</p>
 <p><strong>Remember, if an investment sounds too good to be true, it probably is.</strong>

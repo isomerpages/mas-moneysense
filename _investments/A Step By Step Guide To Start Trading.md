@@ -8,8 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/laptop_phone_shares6cff.jpg">
 </div>
-<p><strong>Before investing in listed investment products, you need to open a brokerage trading account with any securities broking firm to deposit or sell your stocks and securities.</strong>
-</p>
+<p>Before investing in listed investment products, you need to open a brokerage
+trading account with any securities broking firm to deposit or sell your
+stocks and securities.</p>
 <p>You can choose to:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -88,8 +89,7 @@ the Singapore Exchange which you can choose from:</p>
 <p>UOB Kay Hian</p>
 </li>
 </ul>
-<p><strong>What you will need to apply <u>online</u> for&nbsp;a trading account</strong>
-</p>
+<h3>What You Will Need To Apply For&nbsp;A Trading Account</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -146,46 +146,6 @@ address</p>
 </tr>
 </tbody>
 </table>
-<p><strong>What you will need to apply <u>in person</u> for&nbsp;a trading account</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Singaporean/ Singapore Permanent Resident</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Foreigner</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>NRIC</p>
-</li>
-<li>
-<p>11B and Passport [for NSF]</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>IC or passport</p>
-</li>
-<li>
-<p>Original Supporting document reflecting your name and address</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>How To Open A CDP Account</h3>
 <p>Before opening a CDP account, you must ensure that you fulfill certain
 eligibility criteria:</p>
@@ -224,9 +184,8 @@ passport [for NSF]</p>
 </li>
 </ul>
 <h3>Receiving Dividend Payments And Cash Entitlements</h3>
-<p>Since September 2020, CDP has stopped paying dividend payments or other
-cash distributions through cheques. Instead, the amounts will be credited
-directly into your designated bank account.</p>
+<p>CDP credits dividend payments or other cash distributions directly into
+your designated bank account.</p>
 <p>You need to set up your designated bank account if you want to receive
 your dividends or cash distributions on schedule. Otherwise, these amounts
 will be reflected in your CDP statements but the funds will not reach you.</p>
@@ -262,13 +221,13 @@ converted to SGD before they are credited to you.</p>
 firm, they will link up your trading account to your CDP account. Once
 your trading account has been successfully linked (which may take up to
 two weeks), you will be able to start trading.</p>
-<h3>Customer Account Review (CAR) And Customer Knowledge Assessment (CKA)</h3>
+<h4>Customer Account Review (CAR) And Customer Knowledge Assessment (CKA)</h4>
 <p>Specified Investment Products (SIPs) are complex investment products.
 If you wish to trade in listed SIPs, your securities broking firm has to
 conduct a Customer Account Review (CAR) to ascertain whether you have the
 relevant knowledge or experience to understand the risks and features of
 such complex product structures or derivatives before you are allowed to
-trade. Find out more on CAR from <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/understanding-specified-investment-products-sips.html" rel="noopener noreferrer nofollow" target="_blank">MoneySense</a>.</p>
+trade.</p>
 <p>For trading in unlisted SIPs, you are required to pass the Customer Knowledge
 Assessment (CKA). This assessment is a requirement by Monetary Authority
 of Singapore (MAS) for you to have the relevant knowledge or experience

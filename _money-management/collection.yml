@@ -2,8 +2,12 @@ collections:
   money-management:
     output: true
     order:
+      - Managing Your Money.md
       - Three Ways To Shape Up In Budgeting.md
+      - Effects Of Compounding Interest.md
+      - Understand The Types Of Loans.md
       - Understanding Credit Cards.md
       - Understanding Credit Card Interest And Charges.md
       - Credit Reports and Creditworthiness.md
       - Understanding Debit Cards.md
+      - "Managing Debt: What Can You Do?.md"

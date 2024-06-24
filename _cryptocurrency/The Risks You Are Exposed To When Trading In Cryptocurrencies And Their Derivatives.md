@@ -8,18 +8,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Risks when trading in crypto" src="/images/crypto%20coins%20tokens.jfif">
 </div>
-<p><strong>Cryptocurrencies and their derivatives are highly risky products and there are no MAS regulations that protect your money or cryptocurrencies. Find out what dangers you are exposed to when trading in such products.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cryptocurrencies and their derivatives are unregulated except for cryptocurrency
-derivatives which are listed on Approved Exchanges licensed by MAS.</p>
+derivatives, which are listed on Approved Exchanges licensed by MAS</p>
 </li>
 <li>
 <p>If you trade in unregulated products, MAS is unable to help you if you
 face difficulties in recovering your assets such as cryptocurrencies and
-monies, or become a victim to unfair or manipulative practices.</p>
+monies, or become a victim to unfair or manipulative practices</p>
 </li>
 </ul>
 <p>Cryptocurrencies, also known as Digital Payment Tokens (DPTs), are tokens
@@ -37,7 +35,7 @@ are not legal tender.</p>
 <li>
 <p>Exchange one type of cryptocurrency for another, including providing trading
 services, brokerage services, operation of a market or platform that allows
-customers to trade with each other.</p>
+customers to trade with each other</p>
 </li>
 </ul>
 <p>These companies are licensed by MAS to address the risks of money laundering
@@ -62,7 +60,7 @@ or</p>
 </li>
 <li>
 <p>You encounter problems withdrawing funds from the DPT service providers/
-DeFi application.</p>
+DeFi application</p>
 </li>
 </ul>
 <p>In addition to these risks, DPTs are not suitable for retail investors

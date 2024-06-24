@@ -9,22 +9,34 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/managing-your-money.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>In building your portfolio, you need to consider your investment objectives
+and goals, investment horizon and available funds</p>
+</li>
+<li>
+<p>You need to know your risk profile, and think about creating a well diversified
+portfolio</p>
+<p></p>
+</li>
+</ul>
 <p>Start to build your portfolio by asking yourself these six questions:</p>
-<h3>1. How much time do you have to invest?</h3>
+<h3>How Much Time Do You Have To Invest?</h3>
 <p>The longer your investment horizon, the more time you have to grow your
 investments through compounding.</p>
 <p>Staying invested for longer periods also allows you time to ride out short-term
 fluctuations in the market.</p>
 <p>If you need your money in the near term, you should look for low-risk
 products that are easy to liquidate (e.g. Singapore Savings Bonds).</p>
-<h3>2. How much money do you have to invest?</h3>
+<h3>How Much Money Do You Have To Invest?</h3>
 <p>After accounting for your emergency savings, household expenses, insurance
 premiums and loan repayments, you will have an idea of how much you have
 available for investment.</p>
 <p>Do not commit to investing more than you can comfortably afford in the
 long term. Also keep in mind that most investments come with some costs;
 for example, unit trusts have several fees and charges attached.</p>
-<h3>3. How much risk can you take?</h3>
+<h3>How Much Risk Can You Take?</h3>
 <p>Take note of the short-term and long-term needs of your family – if you
 have more immediate needs, you should be taking on less risky investments.</p>
 <p>Also, if your investment suffers a loss, will it impact your other commitments
@@ -33,23 +45,23 @@ to recover from your losses.</p>
 <p>Be extra prudent when investing your retirement savings.</p>
 <p>You can understand your risk profile better with help from assessment
 tools such as this risk tolerance questionnaire.</p>
-<h3>4. What are your goals?</h3>
+<h3>What Are Your Goals?</h3>
 <p>Work out how much money you need and when you need it for each of your
 financial goals. This will help you determine the returns you need to reach
 your goals.</p>
 <ul>
 <li>
 <p>If you are just starting your career, your investment objective would
-be to grow your capital.</p>
+be to grow your capital</p>
 </li>
 <li>
 <p>If you have already reached your savings goal, your investment objective
-might then be to secure your capital.</p>
+might then be to secure your capital</p>
 </li>
 <li>
 <p>If you have retired and need to access your nest egg, you would want to
 ensure high liquidity or being able to convert your investment to cash
-quickly. You may also like to earn an income from your savings.</p>
+quickly. You may also like to earn an income from your savings</p>
 </li>
 </ul>
 <p>A simple way of focusing your objectives is to decide which category you
@@ -139,7 +151,7 @@ fall into: growth, income or capital preservation.</p>
 </tr>
 </tbody>
 </table>
-<h3>5. What should you invest in?</h3>
+<h3>What Should You Invest In?</h3>
 <p>Diversify, diversify, diversify!</p>
 <p>Take note of the different asset classes and major types of products.</p>
 <p>Compare what are available and check how well they meet your needs and
@@ -174,7 +186,7 @@ of Singapore</p>
 mind</p>
 </li>
 </ul>
-<h3>6. Is your portfolio diversified and performing as expected?</h3>
+<h3>Is Your Portfolio Diversified And Performing As Expected?</h3>
 <p>Review your portfolio regularly and re-balance. You should take into account
 your current life stage and financial status.</p>
 <p>Regularly reviewing the performance of your investments helps you identify

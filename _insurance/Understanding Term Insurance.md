@@ -7,6 +7,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/insurance-basics.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dependants' Protection Scheme is a type of term insurance</p>
+</li>
+<li>
+<p>Term insurance pays out only upon death or total and permanent disability
+and only within a fixed period of time</p>
+</li>
+<li>
+<p>Term insurance is usually cheaper than other forms of life insurance</p>
+</li>
+</ul>
 <p>Term insurance is life insurance that provides insurance coverage only
 for a fixed period of time. An example of term insurance is the Dependents'
 Protection Scheme.</p>
@@ -138,7 +151,7 @@ make their first contribution to CPF.</p>
 tend to be employees of a company or members of an organisation. They usually
 receive insurance at a reduced cost because the insurer’s risk is spread
 across a group of policyholders.</p>
-<p><a href="https://www.ns.sg/web/portal/nsmen/home/nstopics/awards-and-recognition/article/benefits-for-national-servicemen/mindef-group-insurance" rel="noopener noreferrer nofollow" target="_blank">MINDEF/MHA Group insurance</a>&nbsp;is
+<p><a href="https://www.ns.gov.sg/web/profiles/nsf/nsf-welfare-benefits#mindef-mha-group-insurance" rel="noopener noreferrer nofollow" target="_blank">MINDEF/MHA Group insurance</a>&nbsp;is
 a type of group insurance for all full-time and operationally-ready National
 Servicemen, regular servicemen, and volunteers (SAF Volunteer Corps, NS
 Volunteers, SPF Voluntary Special Constabulary and Civil Defence Auxiliary

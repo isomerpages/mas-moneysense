@@ -8,31 +8,29 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/discussing_graph6cff.jpg">
 </div>
-<p><strong>When you buy a unit trust or fund, you will receive documents such as a prospectus, product highlights sheet and annual reports. Find out what to look out for in the documents and how to use the information.</strong>
-</p>
 <h4><strong>Key Takeaways</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>When you are offered a fund, do read the prospectus and Product Highlights Sheet (PHS) you receive.</strong>
-</p>
+<p>When you are offered a fund, do read the prospectus and Product Highlights
+Sheet (PHS)</p>
 </li>
 <li>
-<p><strong>Read the fund manager's fund reports and factsheets to monitor how your fund is performing.</strong>
-</p>
+<p>Read the fund manager's fund reports and factsheets to monitor how your
+fund is performing</p>
 </li>
 <li>
-<p><strong>Take note of any changes to the fund's holdings and whether these still match its stated investment objective.</strong>
-</p>
+<p>Take note of any changes to the fund's holdings and whether these still
+match its stated investment objective</p>
 </li>
 </ul>
-<h2><strong>Prospectus And Product Highlights Sheet</strong></h2>
+<h3>Prospectus And Product Highlights Sheet</h3>
 <p>When a fund is offered to you, it must be accompanied by a prospectus
 and a Product Highlights Sheet (PHS).</p>
 <p>Ask for these documents and read them carefully to understand the fund’s
 investment objective, strategy, risks, fees, historical performance and
 other important information. Ask the fund manager or your financial adviser
 if you have questions.</p>
-<h3><strong>What To Look Out For</strong></h3>
+<h3>What To Look Out For</h3>
 <p>Here are some of the key items to note:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -67,7 +65,7 @@ benchmarks.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check if you understand the risks of investing in the fund and whether
-you can afford to take them. E.g. How would you cope with losing money?</p>
+you can afford to take them, e.g., How would you cope with losing money?</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +102,7 @@ carefully.</p>
 </tr>
 </tbody>
 </table>
-<h2><strong>Regular Fund Reports</strong></h2>
+<h3>Regular Fund Reports</h3>
 <p>After investing, you can expect to receive the following reports:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -167,12 +165,12 @@ on their funds. Read these materials to monitor how your fund is performing.
 <p>Websites of financial advisers and fund managers</p>
 </li>
 <li>
-<p>The Fund Information Service at <a href="http://www.fundsingapore.com/screener/basic_search" rel="noopener noreferrer nofollow" target="_blank">FundSingapore.com</a> –
-this provides information about funds and investment-linked life insurance
-policies available in Singapore</p>
+<p>The Fund Information Service at FundSingapore – this provides information
+about funds and investment-linked life insurance policies available in
+Singapore</p>
 </li>
 </ul>
-<h3><strong>What To Look Out For</strong></h3>
+<h3>What To Look Out For</h3>
 <p>When reading a fund report, do watch out for the following terms:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -269,7 +267,7 @@ passive fund's returns closely followed that of the benchmark.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Changes In Strategy Or Approach</strong></h3>
+<h3>Changes In Strategy Or Approach</h3>
 <p>In addition, while a fund’s investment objective may not change, the actual
 investment approach or strategy deployed may change.</p>
 <p>Changes in the top 10 holdings of the fund (as shown in the fund’s periodic
@@ -277,11 +275,11 @@ reports) could indicate that the investment approach or strategy has changed.
 If you notice that the fund’s holdings do not correspond with its stated
 investment objective, find out why.
 <br>
-<br>Watch out for <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/10/understanding-unit-trusts.html#evaluating-a-funds-performance" rel="noopener noreferrer nofollow" target="_blank">how the fund performs</a> compared
+<br>Watch out for <a href="https://www.moneysense.gov.sg/understanding-unit-trusts/" rel="noopener noreferrer nofollow" target="_blank">how the fund performs</a> compared
 to its benchmarks. Make sure you understand the charts provided as well
 as their limitations. For example, if performance appears to be exceptional
 over certain periods but not other periods, find out why.</p>
-<h2><strong>The Bottom Line</strong></h2>
+<h3>The Bottom Line</h3>
 <p>Look out for the key information in a fund's prospectus, product highlights
 sheet and regular reports. They contain a wealth of information that will
 help you make informed investment decisions, both before and after you

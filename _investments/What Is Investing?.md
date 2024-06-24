@@ -8,27 +8,23 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/man_ipad_charts6cff.jpg">
 </div>
-<p><strong>Get started on investing by learning about terms commonly used in investing and what you should think about before you start.</strong>
-</p>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Investing helps you grow your money so that you can reach your financial goals</strong>
-</p>
+<p>Investing helps you grow your money so that you can reach your financial
+goals</p>
 </li>
 <li>
-<p><strong>Investing is expected to provide better returns than bank deposits, but it comes with risks</strong>
-</p>
+<p>Investing is expected to provide better returns than bank deposits, but
+it comes with risks</p>
 </li>
 <li>
-<p><strong>Save first, then invest in products you understand and are suitable for your needs, risk profile and circumstances</strong>
-</p>
+<p>Save first, then invest in products you understand and are suitable for
+your needs, risk profile and circumstances</p>
 </li>
 </ul>
 <h3>Before You Start Investing</h3>
-<p>You should have these in place before you start on your investing journey:
-<br>
-</p>
+<p>You should have these in place before you start on your investing journey:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enough money for your daily expenses and other expected expenditure</p>

@@ -7,6 +7,22 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Are%20You%20Planning%20Your%20Finances/understanding-health-insurance.jfif">
 </div>
+<h3>Key Takeaways</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Health insurance helps pay for health care costs in the event of an injury,
+illness or disability</p>
+</li>
+<li>
+<p>All Singaporeans are covered under MediShield Life, a basic government
+health plan to cover large medical expenses</p>
+</li>
+<li>
+<p>Apart from medical expense insurance, there are other types of health
+insurance plans. Know the differences in coverage so that you buy what
+you need</p>
+</li>
+</ul>
 <p>Health insurance helps you pay for your medical expenses when you fall
 ill, get injured or become disabled.</p>
 <p>All Singaporeans are covered under MediShield Life, a basic government
@@ -111,11 +127,9 @@ all insurers. You will need a medical assessment. Your application could
 be rejected if you have a pre-existing illness.</p>
 </li>
 </ul>
-<p><strong>Note:</strong>
-</p>
-<p>All Singapore Citizens and Permanent Residents born in 1980 or later are
-covered under CareShield Life (the enhanced ElderShield Scheme) on 1 Oct
-2020, or when they turn 30, whichever is later.</p>
+<p><strong>Note: </strong>All Singapore Citizens and Permanent Residents
+born in 1980 or later are covered under CareShield Life (the enhanced ElderShield
+Scheme) on 1 Oct 2020, or when they turn 30, whichever is later.</p>
 <p>CareShield Life provides better basic protection against the costs of
 long-term care should you become severely disabled. It offers higher payouts
 that increase over time and you will receive the payouts for as long as
@@ -164,10 +178,9 @@ Shield Plan or ElderShield Supplements.</p>
 <p>These plans add to your MediShield Life or ElderShield plans. There is
 no duplication in coverage.</p>
 <h4>How MediSave Fits In</h4>
-<p><a href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings" rel="noopener noreferrer nofollow" target="_blank">MediSave</a>&nbsp;is
-a savings account for healthcare expenses, not a health insurance policy.
-Part of your CPF contributions goes into your MediSave account and this
-is part of your CPF savings.</p>
+<p>MediSave is a savings account for healthcare expenses, not a health insurance
+policy. Part of your CPF contributions goes into your MediSave account
+and this is part of your CPF savings.</p>
 <p>You can use your MediSave to pay for you and your immediate family members:</p>
 <ul data-tight="true" class="tight">
 <li>

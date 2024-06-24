@@ -7,17 +7,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="4 tips to stay safe when using e-payments" src="/images/4%20tips.jfif">
 </div>
-<p><strong>Electronic payments, commonly known as e-payments, refer to cashless transactions made via electronic mediums. These transactions are completed as simply and quickly as by just tapping a card or device, or using an app, saving time for both consumers and businesses.</strong>
-</p>
-<h4>Common E-payment Methods Today</h4>
-<hr>
+<h3>Common E-payment Methods Today</h3>
 <p>E-payment is common in Singapore today. You can use it for&nbsp;dining,
 shopping in a brick-and-mortar store or online, and for transport. It can
 also be used to gift or pay others.</p>
 <p>With the wide range of e-payment choices available, do you know what you
 are signing up for and how you can protect yourself from unauthorised transactions?</p>
 <p>Here are some common e-payment methods and safety tips:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -135,7 +136,6 @@ ID/ passcode.</p>
 </tbody>
 </table>
 <h4>How Do I Ensure That My Money And Accounts Are Kept Safe When Using E-payments?</h4>
-<hr>
 <p>In general, looking after your money in e-payment accounts begins with
 practicing good cyber hygiene. Much like how you would not leave cash lying
 around in plain sight, it is important to take measures to ensure the money
@@ -150,7 +150,6 @@ if they are of low value. Taking measures to ensure your accounts are as
 safe as possible could also help limit your liability in the event of unauthorised
 transactions.</p>
 <h4>What Should I Do If I Detect Unauthorised Transactions On My Account?</h4>
-<hr>
 <p>You should report any unauthorised transactions to your bank or payment
 service provider as soon as possible and provide as much information as
 you can on any unauthorised transaction within a reasonable time. Your
