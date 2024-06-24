@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/couple_pruning_plants.jpg">
 </div>
-<p>Planning For Retirement</p>
+<h4>Planning For Retirement</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moneysense.gov.sg/planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Planning For Retirement</a>
@@ -28,7 +28,7 @@ description: ""
 </p>
 </li>
 </ul>
-<p>Estate Planning</p>
+<h4>Estate Planning</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moneysense.gov.sg/understanding-estate-planning/" rel="noopener noreferrer nofollow" target="_blank">Understanding Estate Planning</a>
