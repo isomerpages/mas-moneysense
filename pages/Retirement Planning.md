@@ -12,7 +12,7 @@ description: ""
 <p>Planning For Retirement</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/introduction-to-planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Introduction To Planning For Retirement</a>
+<p><a href="https://www.moneysense.gov.sg/planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Planning For Retirement</a>
 </p>
 </li>
 <li>
@@ -31,7 +31,11 @@ description: ""
 <p>Estate Planning</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://moneysense.gov.sg/what-is-estate-planning/" rel="noopener noreferrer nofollow" target="_blank">What Is Estate Planning?</a>
+<p><a href="https://www.moneysense.gov.sg/understanding-estate-planning/" rel="noopener noreferrer nofollow" target="_blank">Understanding Estate Planning</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moneysense.gov.sg/lasting-power-of-attorney/" rel="noopener noreferrer nofollow" target="_blank">Lasting Power Of Attorney</a>
 </p>
 </li>
 <li>
