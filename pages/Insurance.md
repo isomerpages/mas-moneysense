@@ -4,7 +4,8 @@ permalink: /insurance/
 variant: tiptap
 description: ""
 ---
-<h3>Insurance can be a safeguard against financial loss. Get an overview on the types of insurance and understand the difference between life, health and general insurance.</h3>
+<p><strong>Insurance can be a safeguard against financial loss. Get an overview on the types of insurance and understand the difference between life, health and general insurance.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/family_park6cff.jpg">
