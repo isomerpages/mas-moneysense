@@ -4,7 +4,8 @@ permalink: /retirement-planning/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Retiring well requires planning. Planning your estate is important, especially if you have dependants. Here's how to get started.</strong></h3>
+<p><strong>Retiring well requires planning. Planning your estate is important, especially if you have dependants. Here's how to get started.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/couple_pruning_plants.jpg">
@@ -28,6 +29,10 @@ description: ""
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg">
+</div>
 <h4>Estate Planning</h4>
 <ul data-tight="true" class="tight">
 <li>
