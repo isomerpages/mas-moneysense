@@ -4,7 +4,8 @@ permalink: /money-management/
 variant: tiptap
 description: ""
 ---
-<h3>Financial planning begins with knowing where your money is going. Learn the basics of managing your income, saving, and loans.</h3>
+<p><strong>Financial planning begins with knowing where your money is going. Learn the basics of managing your income, saving, and loans.</strong>
+</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/woman_ipad6cff.jpg">

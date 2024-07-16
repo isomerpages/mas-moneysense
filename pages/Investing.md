@@ -4,7 +4,8 @@ permalink: /investing/
 variant: tiptap
 description: ""
 ---
-<h3>Invest for the future you want. Learn about basic concepts such as setting investment goals and objectives, risk-return trade-offs as well as diversification and asset allocation.</h3>
+<p><strong>Invest for the future you want. Learn about basic concepts such as setting investment goals and objectives, risk-return trade-offs as well as diversification and asset allocation.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/woman_smiling_laptop6cff.jpg">
 </div>
