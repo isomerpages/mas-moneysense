@@ -7,10 +7,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="getting married" src="/images/getting%20married.jfif">
 </div>
-<p><strong>Do not let money put a strain on your relationship. Find out how you can work together to achieve your financial goals as a couple.</strong>
-</p>
+<p></p>
 <h4>Working On Your New Financial Life Together</h4>
-<hr>
 <p>One of the most important parts of a marriage is knowing how to manage
 your money together.</p>
 <p>Differing attitudes towards money can pose challenges to a relationship.
@@ -21,7 +19,6 @@ and have bills to pay.</p>
 <p>Planning ahead together can help you build a strong foundation for your
 marriage.</p>
 <h4>What You Should Do</h4>
-<hr>
 <p>Here are some tips for you:</p>
 <h4>1. Learn Each Other's Spending Habits</h4>
 <p>Find out each other's style of managing money, and adapt to each other.
@@ -48,6 +45,8 @@ discuss them with your spouse first.</p>
 <h4>6. Sort Out The Important Things First</h4>
 <p>As you move on to the next stage of life, it's also time to review your
 health and life insurance.</p>
+<hr>
 <p></p>
-<h4>Read More: <a href="/files/Couples_Booklet___Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">Planning Your Finances Together</a></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moneysense.gov.sg/money-management" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2018 MoneySense website images/man_card_pondering6cff.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making Sense Of Your Money</div><div class="isomer-card-description">Make sense of your money by learning the basics of money management. Find out the importance of setting financial goals, and managing your income, savings and spending.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <p></p>
