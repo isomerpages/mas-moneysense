@@ -149,7 +149,7 @@ charge</p>
 <p>Note that fees and charges may not be guaranteed and are subject to change.
 These fees and charges (including distribution costs such as commissions)
 are typically deducted from the (monthly) sale of units.</p>
-<h3><strong>How Much Of The Premium Is Used To Purchase Units?</strong></h3>
+<h3>How Much Of The Premium Is Used To Purchase Units?</h3>
 <p>The full amount of premium paid may not be used to buy units. The proportion
 used is commonly known as the premium allocation rate and is stated in
 the Product Summary or Policy Contract.</p>
@@ -166,7 +166,7 @@ charges imposed when you surrender your policy, partially or fully, within
 a certain period of time.</p>
 <p>Although the premium allocation structure differs for front-end and back-end
 loaded ILPs, the overall effect of the charges will be similar.</p>
-<h3><strong>How Unit Prices Are Computed</strong></h3>
+<h3>How Unit Prices Are Computed</h3>
 <p>How it is computed and the frequency of computation may vary from sub-fund
 to sub-fund. Find out more in the Product Summary and Policy Contract.
 <br>
@@ -177,3 +177,8 @@ is then divided by the total number of units to derive the unit price.</p>
 <p>All ILP orders to purchase or sell units are settled based on the next
 computed unit price (next business day’s price), sometimes referred to
 as forward price.</p>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moneysense.gov.sg/insurance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2018 MoneySense website images/doctor_patient_form6cff.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Understanding Insurance</div><div class="isomer-card-description">Insurance can be a safeguard against financial loss. Get an overview on the types of insurance and understand the difference between life, health and general insurance.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>
