@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/woman_calling_phone6cff.jpg">
 </div>
 <p></p>
-<h4>Key Takeaways</h4>
+<h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>DCS structures allow top executives and founders to retain majority control
