@@ -263,4 +263,8 @@ will.</p>
 involved in the transfer or distribution of the assets.</p>
 <p><strong>Note:</strong> Try <a href="https://mylegacy.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">My Legacy</a>, a tool that helps you
 explore, store, and share your end-of-life plans.</p>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moneysense.gov.sg/retirement-planning" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2018 MoneySense website images/elderly_couple_laptop6cff.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Introduction To Retirement Planning</div><div class="isomer-card-description">Retiring well requires planning. Here's how to get started, from tips to create a retirement income to managing your finances during retirement.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <p></p>
