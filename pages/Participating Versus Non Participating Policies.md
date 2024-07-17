@@ -240,3 +240,8 @@ decide to cash in your policy as this may be less than your total premiums
 paid to-date.</p>
 <p>If it does not, you may only receive a refund for any unused premium should
 you surrender your policy.</p>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moneysense.gov.sg/insurance/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2018 MoneySense website images/doctor_patient_form6cff.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Understanding Insurance</div><div class="isomer-card-description">Insurance can be a safeguard against financial loss. Get an overview on the types of insurance and understand the difference between life, health and general insurance.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>
