@@ -130,3 +130,7 @@ there are unauthorised transactions. Note the time and date when you do
 so.</p>
 <p>Set SMS alerts on your credit card transactions to notify you if your
 card is charged above a certain amount or used overseas.</p>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moneysense.gov.sg/money-management" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2018 MoneySense website images/man_card_pondering6cff.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making Sense Of Your Money</div><div class="isomer-card-description">Make sense of your money by learning the basics of money management. Find out the importance of setting financial goals, and managing your income, savings and spending.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>
