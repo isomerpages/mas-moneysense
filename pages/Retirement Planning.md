@@ -60,10 +60,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/calculating-the-value-of-your-estate/" rel="noopener noreferrer nofollow" target="_blank">Calculating The Value Of Your Estate</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.moneysense.gov.sg/deciding-how-to-transfer-your-estate" rel="noopener noreferrer nofollow" target="_blank">Deciding How To Transfer Your Estate</a>
 </p>
 </li>
