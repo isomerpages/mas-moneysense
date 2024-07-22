@@ -63,9 +63,5 @@ description: ""
 <p><a href="https://www.moneysense.gov.sg/deciding-how-to-transfer-your-estate" rel="noopener noreferrer nofollow" target="_blank">Deciding How To Transfer Your Estate</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.moneysense.gov.sg/when-to-review-your-estate-plan/" rel="noopener noreferrer nofollow" target="_blank">When To Review Your Estate Plan</a>
-</p>
-</li>
 </ul>
 <p></p>
