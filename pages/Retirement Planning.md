@@ -24,10 +24,6 @@ description: ""
 <p><a href="https://www.moneysense.gov.sg/options-for-your-retirement-income/" rel="noopener noreferrer nofollow" target="_blank">Options For Your Retirement Income</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.moneysense.gov.sg/managing-your-retirement-dollars/" rel="noopener noreferrer nofollow" target="_blank">Managing Your Retirement Dollars</a>
-</p>
-</li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -40,11 +36,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/legacy-planning/lpa//" rel="noopener noreferrer nofollow" target="_blank">Lasting Power Of Attorney</a>
+<p><a href="https://www.moneysense.gov.sg/legacy-planning/lpa/" rel="noopener noreferrer nofollow" target="_blank">Lasting Power Of Attorney</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/intestacy-what-if-you-dont-have-an-estate-plan/" rel="noopener noreferrer nofollow" target="_blank">Intestacy: What If You Don't Have An Estate Plan?</a>
+<p><a href="https://www.moneysense.gov.sg/intestacy-what-if-you-don-t-have-an-estate-plan/" rel="noopener noreferrer nofollow" target="_blank">Intestacy: What If You Don't Have An Estate Plan?</a>
 </p>
 </li>
 <li>
