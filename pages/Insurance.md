@@ -28,19 +28,19 @@ description: ""
 <h4>Health Insurance</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/understanding-health-insurance" rel="noopener noreferrer nofollow" target="_blank">Understanding Health Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/health-insurance/" rel="noopener noreferrer nofollow" target="_blank">Understanding Health Insurance</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/what-to-ask-before-buying-health-insurance" rel="noopener noreferrer nofollow" target="_blank">What To Ask Before Buying Health Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/what-to-ask-before-buying-health-insurance/" rel="noopener noreferrer nofollow" target="_blank">What To Ask Before Buying Health Insurance</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/understanding-integrated-shield-plans" rel="noopener noreferrer nofollow" target="_blank">Understanding Integrated Shield Plans</a>
+<p><a href="https://www.moneysense.gov.sg/integrated-shield-plans/" rel="noopener noreferrer nofollow" target="_blank">Understanding Integrated Shield Plans</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Understanding-Critical-Illness-Insurance" rel="noopener noreferrer nofollow" target="_blank">Understanding Critical Illness Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/critical-illness-insurance/" rel="noopener noreferrer nofollow" target="_blank">Understanding Critical Illness Insurance</a>
 </p>
 </li>
 </ul>
@@ -51,35 +51,35 @@ description: ""
 <h4>Life Insurance</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/understanding-life-insurance" rel="noopener noreferrer nofollow" target="_blank">Understanding Life Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/life-insurance/" rel="noopener noreferrer nofollow" target="_blank">Understanding Life Insurance</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/What-To-Ask-Before-Buying-Life-Insurance" rel="noopener noreferrer nofollow" target="_blank">What To Ask Before Buying Life Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/what-to-ask-before-buying-life-insurance/" rel="noopener noreferrer nofollow" target="_blank">What To Ask Before Buying Life Insurance</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Understanding-Term-Insurance" rel="noopener noreferrer nofollow" target="_blank">Understanding Term Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/term-insurance/" rel="noopener noreferrer nofollow" target="_blank">Understanding Term Insurance</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Life-Insurance-Comparing-Term-and-Bundled-Products" rel="noopener noreferrer nofollow" target="_blank">Life Insurance: Comparing Term and Bundled Products</a>
+<p><a href="https://www.moneysense.gov.sg/term-vs-whole-life/" rel="noopener noreferrer nofollow" target="_blank">Life Insurance: Comparing Term and Bundled Products</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Understanding-Whole-Life-Insurance" rel="noopener noreferrer nofollow" target="_blank">Understanding Whole Life Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/understanding-whole-life-insurance/" rel="noopener noreferrer nofollow" target="_blank">Understanding Whole Life Insurance</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Understanding-Investment-Linked-Insurance-Policies" rel="noopener noreferrer nofollow" target="_blank">Understanding Investment Linked Insurance Policies</a>
+<p><a href="https://www.moneysense.gov.sg/understanding-investment-linked-insurance-policies/" rel="noopener noreferrer nofollow" target="_blank">Understanding Investment Linked Insurance Policies</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Buying-Life-Insurance-Online" rel="noopener noreferrer nofollow" target="_blank">Buying Life Insurance Online</a>
+<p><a href="https://www.moneysense.gov.sg/buying-life-insurance-online/" rel="noopener noreferrer nofollow" target="_blank">Buying Life Insurance Online</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Buying-Direct-Purchase-Insurance" rel="noopener noreferrer nofollow" target="_blank">Buying Direct Purchase Insurance</a>
+<p><a href="https://www.moneysense.gov.sg/buying-direct-purchase-insurance/" rel="noopener noreferrer nofollow" target="_blank">Buying Direct Purchase Insurance</a>
 </p>
 </li>
 </ul>
