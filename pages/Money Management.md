@@ -44,7 +44,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/understanding-credit-card-interst-and-charges" rel="noopener noreferrer nofollow" target="_blank">Understanding Credit Card Interest And Charges</a>
+<p><a href="https://www.moneysense.gov.sg/understanding-credit-card-interest-and-charges/" rel="noopener noreferrer nofollow" target="_blank">Understanding Credit Card Interest And Charges</a>
 </p>
 </li>
 <li>
