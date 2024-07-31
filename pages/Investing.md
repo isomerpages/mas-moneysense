@@ -12,27 +12,27 @@ description: ""
 <h4>Getting Started With Investing</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/What-Is-Investing" rel="noopener noreferrer nofollow" target="_blank">What Is Investing?</a>
+<p><a href="https://www.moneysense.gov.sg/what-is-investing/" rel="noopener noreferrer nofollow" target="_blank">What Is Investing?</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/An-Introduction-To-Types-Of-Investments" rel="noopener noreferrer nofollow" target="_blank">An Introduction To Types Of Investments</a>
+<p><a href="https://www.moneysense.gov.sg/investments/types-of-investments/" rel="noopener noreferrer nofollow" target="_blank">An Introduction To Types Of Investments</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Managing-Investment-Risk" rel="noopener noreferrer nofollow" target="_blank">Managing Investment Risk</a>
+<p><a href="https://www.moneysense.gov.sg/investments/investment-risk/" rel="noopener noreferrer nofollow" target="_blank">Managing Investment Risk</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Putting-Together-An-Investment-Portfolio" rel="noopener noreferrer nofollow" target="_blank">Putting Together An Investment Portfolio</a>
+<p><a href="https://www.moneysense.gov.sg/investments/investment-portfolio/" rel="noopener noreferrer nofollow" target="_blank">Putting Together An Investment Portfolio</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/A-Step-By-Step-Guide-To-Start-Trading" rel="noopener noreferrer nofollow" target="_blank">A Step By Step Guide To Start Trading</a>
+<p><a href="https://www.moneysense.gov.sg/a-step-by-step-guide-to-start-trading/" rel="noopener noreferrer nofollow" target="_blank">A Step By Step Guide To Start Trading</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/What-You-Need-To-Know-To-Take-Care-Of-Your-Investment-Portfolio" rel="noopener noreferrer nofollow" target="_blank">What You Need To Know To Take Care Of Your Investment Portfolio</a>
+<p><a href="https://www.moneysense.gov.sg/what-you-need-to-know-to-take-care-of-your-investment-portfolio/" rel="noopener noreferrer nofollow" target="_blank">What You Need To Know To Take Care Of Your Investment Portfolio</a>
 </p>
 </li>
 </ul>
@@ -43,15 +43,15 @@ description: ""
 <h4>Seeking Financial Advice</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/What-To-Ask-When-Buying-An-Investment-Product" rel="noopener noreferrer nofollow" target="_blank">What To Ask When Buying An Investment Product</a>
+<p><a href="https://www.moneysense.gov.sg/what-to-ask-when-buying-an-investment-product/" rel="noopener noreferrer nofollow" target="_blank">What To Ask When Buying An Investment Product</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Financial-Advice-Who-You-Could-Be-Dealing-With" rel="noopener noreferrer nofollow" target="_blank">Financial Advice: Who You Could Be Dealing With</a>
+<p><a href="https://www.moneysense.gov.sg/financial-advice-who-you-could-be-dealing-with/" rel="noopener noreferrer nofollow" target="_blank">Financial Advice: Who You Could Be Dealing With</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/Financial-Advisory-Process" rel="noopener noreferrer nofollow" target="_blank">Financial Advisory Process</a>
+<p><a href="https://www.moneysense.gov.sg/financial-advisory-process/" rel="noopener noreferrer nofollow" target="_blank">Financial Advisory Process</a>
 </p>
 </li>
 </ul>
@@ -86,7 +86,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.moneysense.gov.sg/unit-trusts-guide-to-pricing-and-fees/" rel="noopener noreferrer nofollow" target="_blank">Unit Trusts: Guide To Pricing And Fees</a>
+<p><a href="https://www.moneysense.gov.sg/unit-trusts-guide/" rel="noopener noreferrer nofollow" target="_blank">Unit Trusts: Guide To Pricing And Fees</a>
 </p>
 </li>
 <li>

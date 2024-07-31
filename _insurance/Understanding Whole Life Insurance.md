@@ -1,6 +1,6 @@
 ---
 title: Understanding Whole Life Insurance
-permalink: /permalink/
+permalink: /understanding-whole-life-insurance/
 description: ""
 variant: tiptap
 ---

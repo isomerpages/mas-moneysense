@@ -28,7 +28,7 @@ how much money we make, but how well we manage it.</p>
 It is a commitment to save a fixed amount every time you get paid. You
 should keep this amount in a separate bank account so that you are not
 tempted to spend it.</p>
-<h3>Save first versus spend first</h3>
+<h3>Save First Versus Spend First</h3>
 <p>Here's the difference between the two spending patterns:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -38,7 +38,7 @@ tempted to spend it.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Spending pattern</p>
+<p>Spending Pattern</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>When salary comes in, it goes to:</p>
@@ -86,7 +86,7 @@ Ideally, you should save at least 20% of your income every month. For the
 rest of your income, use a budget to help you manage your expenses.</p>
 <p>Conversely, a spend-first-save-later pattern could mean there is nothing
 left for savings.</p>
-<h3>How do you spend?</h3>
+<h3>How Do You Spend?</h3>
 <p>A simple way to track your spending is by using a budgeting app. Or you
 could jot down what you spent, when and how much you paid for it.</p>
 <p>Before you start tracking your spending, take an honest look at how you
@@ -116,7 +116,7 @@ to see if you're getting the best deal?</p>
 </ul>
 <p>You should take steps to curb your spending if it is keeping you from
 achieving your goals.</p>
-<h3>Setting a budget</h3>
+<h3>Setting A Budget</h3>
 <p>A budget is a good <strong>savings and spending plan</strong>. It can help
 you manage your savings, income, spending, debt and other liabilities prudently.
 Setting up a budget is also a great way to get a quick snapshot of where
@@ -136,7 +136,7 @@ short-term goals</p>
 </ul>
 <p>If you have an existing budget, review it from time to time to make sure
 it still works.</p>
-<h3>How to prepare a budget</h3>
+<h3>How To Prepare A Budget</h3>
 <p>Here are a few tips to get you started:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -169,7 +169,7 @@ Adjust your budget if, for example, you get a pay rise or get a pay cut
 or if you have another addition to the family.</p>
 </li>
 </ol>
-<h3>If you're spending too much</h3>
+<h3>If You Are Spending Too Much</h3>
 <p>Look for ways to reduce your expenses. Here are some ideas:</p>
 <ul data-tight="true" class="tight">
 <li>
