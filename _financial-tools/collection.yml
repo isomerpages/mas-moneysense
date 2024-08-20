@@ -2,7 +2,6 @@ collections:
   financial-tools:
     output: true
     order:
-      - Mortgage Switching.md
       - Debt Calculator.md
       - Budget Calculator.md
       - Mortgage Calculator.md
