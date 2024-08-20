@@ -2,7 +2,6 @@ collections:
   financial-tools:
     output: true
     order:
-      - Net Worth Calculator.md
       - Mortgage Switching.md
       - Debt Calculator.md
       - Budget Calculator.md
