@@ -1,5 +1,4 @@
 collections:
   financial-tools:
     output: true
-    order:
-      - Mortgage Calculator.md
+    order: []
