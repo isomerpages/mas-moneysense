@@ -2,5 +2,4 @@ collections:
   financial-tools:
     output: true
     order:
-      - Budget Calculator.md
       - Mortgage Calculator.md
