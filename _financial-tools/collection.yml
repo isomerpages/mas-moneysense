@@ -2,6 +2,5 @@ collections:
   financial-tools:
     output: true
     order:
-      - Debt Calculator.md
       - Budget Calculator.md
       - Mortgage Calculator.md
