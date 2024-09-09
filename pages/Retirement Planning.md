@@ -13,7 +13,7 @@ description: ""
 <h4>Planning For Retirement</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moneysense.gov.sg/legacy-planningplanning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Planning For Retirement</a>
+<p><a href="https://www.moneysense.gov.sg/legacy-planning/planning-for-retirement/" rel="noopener noreferrer nofollow" target="_blank">Planning For Retirement</a>
 </p>
 </li>
 <li>
