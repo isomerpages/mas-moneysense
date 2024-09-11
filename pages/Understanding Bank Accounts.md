@@ -38,7 +38,7 @@ or using the bank’s Automated Teller Machine (ATM). You can also make them
 using the phone or online.</p>
 <p>At the same time, you can earn interest for your deposits with some types
 of accounts.</p>
-<h3>Types of bank accounts</h3>
+<h3>Types of Bank Accounts</h3>
 <p>There are three main types of bank accounts: savings, current and fixed
 deposit accounts.</p>
 <p>Each type has its own set of features. Choose your account based on what
@@ -50,11 +50,11 @@ as to pay bills, a current, savings or a combined current and savings account
 will be more useful</p>
 </li>
 <li>
-<p>If you are thinking of putting aside a sum of money for medium to long-term
-savings, then you may prefer to open a fixed deposit account</p>
+<p>If you are thinking of putting aside a sum of money as savings, then you
+may prefer to open a fixed deposit account</p>
 </li>
 </ul>
-<h3>Key features of bank accounts</h3>
+<h3>Key Features Of Bank Accounts</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -166,7 +166,7 @@ savings, then you may prefer to open a fixed deposit account</p>
 <p>*If you need to withdraw money from your fixed deposit before the maturity
 date (this is an early or premature withdrawal), you may receive no interest
 or suffer partial loss of interest on the deposit.</p>
-<h4>Before you open an account</h4>
+<h4>Before You Open An Account</h4>
 <p>There are other conditions to be aware of. Before opening a bank account,
 here are a few things to check.</p>
 <p>For all accounts:</p>
@@ -194,9 +194,6 @@ balance?</p>
 <p>Minimum account holding period. What penalties apply if account is closed
 earlier?</p>
 </li>
-<li>
-<p>(For current account only) Are there charges for cheques?</p>
-</li>
 </ul>
 <p>For fixed deposits:</p>
 <ul data-tight="true" class="tight">
@@ -220,10 +217,7 @@ or joint-all basis.</p>
 banking transactions on that account (e.g. withdraw money, write cheques
 or close the account) individually.</p>
 <p>You can be held liable for any borrowing on a joint-alternate account
-even if the account is operated by a single signatory. For instance, if
-the other joint account holder writes a cheque when there is not enough
-money in the joint account to pay, the bank can hold you both liable for
-the amount outstanding.</p>
+even if the account is operated by a single signatory.</p>
 <p><strong>Joint-all</strong>
 </p>
 <p>For joint-all accounts, the instruction for the banking transaction must
@@ -233,7 +227,7 @@ be given by all account holders.</p>
 <p>If there is a “joint and several liability” clause in the agreement, the
 bank has the option of suing you and your joint account holder together,
 or choose to sue either you or your joint account holder only.</p>
-<h3>Opening or closing an account</h3>
+<h3>Opening Or Closing An Account</h3>
 <p>You can get an application form from the bank, either at a branch, by
 mail or by downloading the form from the bank’s website. Get ready supporting
 documents requested by the bank, such as proof of identification. Do ask
