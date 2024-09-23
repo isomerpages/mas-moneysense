@@ -51,7 +51,7 @@ will be more useful</p>
 </li>
 <li>
 <p>If you are thinking of putting aside a sum of money as savings, then you
-may prefer to open a fixed deposit account</p>
+may prefer to open a fixed deposit (FD) account</p>
 </li>
 </ul>
 <h3>Key Features Of Bank Accounts</h3>
@@ -74,7 +74,7 @@ may prefer to open a fixed deposit account</p>
 <p>Current</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Fixed deposit</p>
+<p>Fixed Deposit</p>
 </th>
 </tr>
 <tr>
@@ -165,7 +165,9 @@ may prefer to open a fixed deposit account</p>
 </table>
 <p>*If you need to withdraw money from your fixed deposit before the maturity
 date (this is an early or premature withdrawal), you may receive no interest
-or suffer partial loss of interest on the deposit.</p>
+or suffer partial loss of interest on the deposit. In some cases, you may
+also need to pay a fee which could potentially result in you receiving
+less than the initial deposit placed.</p>
 <h4>Before You Open An Account</h4>
 <p>There are other conditions to be aware of. Before opening a bank account,
 here are a few things to check.</p>
@@ -198,14 +200,53 @@ earlier?</p>
 <p>For fixed deposits:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Is the deposit automatically rolled over on maturity date?</p>
+<p>Will you need the funds you intend to place in fixed deposits before it
+reaches maturity date?</p>
 </li>
 <li>
-<p>What if withdrawal is made before maturity? What penalties or charges
+<p>Are there conditions to meet for the rates on offer such as minimum sum
+of deposits?</p>
+</li>
+<li>
+<p>Can withdrawal be made before maturity? what penalties or charge will
 apply? Is interest still payable?</p>
 </li>
+<li>
+<p>How do I specify instructions for the banks' treatment of my fixed deposits
+when they mature? If no instruction is provided, is the deposit automatically
+rolled over on maturity date, and if so, which amount will be rolled over
+(e.g. principal only or principal with accrued interest) and what would
+be the rollover rate (e.g. prevailing Board rate or prevailing promotional
+rate)?</p>
+</li>
+<li>
+<p>Is it possible for you to change your fixed deposit maturity instructions
+on the date of maturity?</p>
+<p></p>
+</li>
+<li>
+<p>Fixed deposit rates and features vary across banks. For instance, some
+banks may require you to meet a minimum deposit requirement in order to
+be entitled to a promotional rate. Banks may also provide you with various
+options to manage your matured FD, such as rolling over matured fixed deposits
+in different manners (e.g. principal only or principal with accrued interest)
+or crediting the amounts to your bank account. If you choose to automatically
+roll over your FD, you may wish to approach your bank when maturity date
+is near to find out the prevailing rate at which your FD will be rolled-over
+at.</p>
+<p></p>
+</li>
+<li>
+<p>It may also be helpful to compare fixed deposit rates and their features
+using online resources such as finance blogs or websites. These blogs and
+websites often have comparison tables of FD rates across a number of banks
+and can be a useful reference if you are considering placing a fixed deposit.
+After doing your own research, do approach the banks directly to confirm
+the prevailing and applicable FD rates on offer and the terms and conditions
+that apply to you, before placing your deposit.</p>
+</li>
 </ul>
-<h3>Types of joint accounts</h3>
+<h3>Types of Joint Accounts</h3>
 <p>If two or more people want to open an account together, they may open
 a joint account. In a joint account, the names of all the account holders
 will appear on the account.</p>
@@ -240,7 +281,7 @@ before the account is opened.</p>
 <p>When you close an account, some banks may charge an early account closure
 fee if the account is opened for less than a certain period of time. In
 some cases, the bank may even reduce the interest you would have earned.</p>
-<h3>CPFIS and SRS accounts</h3>
+<h3>CPFIS And SRS Accounts</h3>
 <p>The CPF Investment Scheme (CPFIS) account allows you to use your CPF savings
 to invest in various financial products such as shares, unit trusts, insurance,
 and bonds. Only local banks and selected Qualifying Full Banks are eligible
