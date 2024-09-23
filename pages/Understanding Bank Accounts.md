@@ -51,7 +51,7 @@ will be more useful</p>
 </li>
 <li>
 <p>If you are thinking of putting aside a sum of money as savings, then you
-may prefer to open a fixed deposit (FD) account</p>
+may prefer to open a fixed deposit account</p>
 </li>
 </ul>
 <h3>Key Features Of Bank Accounts</h3>
@@ -228,22 +228,22 @@ on the date of maturity?</p>
 <p>Fixed deposit rates and features vary across banks. For instance, some
 banks may require you to meet a minimum deposit requirement in order to
 be entitled to a promotional rate. Banks may also provide you with various
-options to manage your matured FD, such as rolling over matured fixed deposits
-in different manners (e.g. principal only or principal with accrued interest)
-or crediting the amounts to your bank account. If you choose to automatically
-roll over your FD, you may wish to approach your bank when maturity date
-is near to find out the prevailing rate at which your FD will be rolled-over
-at.</p>
+options to manage your matured fixed deposit, such as rolling over matured
+fixed deposit in different manners (e.g. principal only or principal with
+accrued interest) or crediting the amounts to your bank account. If you
+choose to automatically roll over your fixed deposit, you may wish to approach
+your bank when maturity date is near to find out the prevailing rate at
+which your fixed deposit will be rolled-over at.</p>
 <p></p>
 </li>
 <li>
 <p>It may also be helpful to compare fixed deposit rates and their features
 using online resources such as finance blogs or websites. These blogs and
-websites often have comparison tables of FD rates across a number of banks
-and can be a useful reference if you are considering placing a fixed deposit.
-After doing your own research, do approach the banks directly to confirm
-the prevailing and applicable FD rates on offer and the terms and conditions
-that apply to you, before placing your deposit.</p>
+websites often have comparison tables of fixed deposit rates across a number
+of banks and can be a useful reference if you are considering placing a
+fixed deposit. After doing your own research, do approach the banks directly
+to confirm the prevailing and applicable fixed deposit rates on offer and
+the terms and conditions that apply to you, before placing your deposit.</p>
 </li>
 </ul>
 <h3>Types of Joint Accounts</h3>
