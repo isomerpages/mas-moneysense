@@ -9,7 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Artboard_2.png
+      background: /images/soil_plant_coins6cff.jpg
+      title: Money Matters Made SImple
   - infopic:
       title: Hot Button Issues
       button: Find out more
