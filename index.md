@@ -9,8 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/navigating major financial decisions.jfif
-      title: Money Matters Made Simple
+      background: /images/Artboard_1.png
   - infopic:
       title: Hot Button Issues
       button: Find out more
