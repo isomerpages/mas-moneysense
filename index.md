@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Artboard_1.png
+      background: /images/Artboard_2.png
   - infopic:
       title: Hot Button Issues
       button: Find out more
