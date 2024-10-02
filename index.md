@@ -9,8 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/soil_plant_coins6cff.jpg
-      title: Money Matters Make Simple
+      background: /images/RPC_x_Moneysense_website_banner_version_2.png
   - infopic:
       title: Hot Button Issues
       button: Find out more
