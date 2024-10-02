@@ -10,6 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/RPC2024_Money_Sense_Homepage_banner.png
+      title: Make every day matter. Find your financial calm.
   - infopic:
       title: Hot Button Issues
       button: Find out more
