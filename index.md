@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RPC_x_Moneysense_website_banner_version_2.png
+      background: /images/RPC2024_Money_Sense_Homepage_banner.png
   - infopic:
       title: Hot Button Issues
       button: Find out more
