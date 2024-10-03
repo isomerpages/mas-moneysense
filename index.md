@@ -9,8 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/navigating major financial decisions.jfif
-      title: Money Matters Made Simple
+      background: /images/RPC2024_Money_Sense_Homepage_banner.png
+      title: Money Matters Make Simple
+      variant: image
   - infopic:
       title: Hot Button Issues
       button: Find out more
