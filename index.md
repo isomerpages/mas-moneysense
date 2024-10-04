@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RPC2024_Money_Sense_Homepage_banner.png
+      background: /images/Final_MoneySense_banner.jpg
       title: Money Matters Make Simple
       variant: image
   - infopic:
