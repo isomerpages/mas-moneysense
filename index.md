@@ -13,7 +13,7 @@ sections:
       title: Money Matters Make Simple
       variant: image
       key_highlights:
-        - title: Be Ready with CPF
+        - title: Find yours at cpf.gov.sg/BeReady
           description: ""
           url: https://www.cpf.gov.sg/member/infohub/be-ready
   - infopic:
