@@ -12,7 +12,10 @@ sections:
       background: /images/Final_MoneySense_banner_1.jpg
       title: Money Matters Make Simple
       variant: image
-      url: cpf.gov.sg/BeReady
+      key_highlights:
+        - title: Be Ready with CPF
+          description: ""
+          url: cpf.gov.sg/BeReady
   - infopic:
       title: Hot Button Issues
       button: Find out more
