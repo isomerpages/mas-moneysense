@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Be Ready with CPF
           description: ""
-          url: cpf.gov.sg/BeReady
+          url: https://www.cpf.gov.sg/member/infohub/be-ready
   - infopic:
       title: Hot Button Issues
       button: Find out more
