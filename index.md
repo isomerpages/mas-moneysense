@@ -9,9 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Final_MoneySense_banner_1.jpg
+      background: /images/RPC_x_Moneysense_wallpaper_FINAL.jpg
       title: Money Matters Make Simple
       variant: image
+      key_highlights:
+        - title: Find yours at cpf.gov.sg/BeReady
+          description: ""
+          url: https://www.cpf.gov.sg/member/infohub/be-ready
   - infopic:
       title: Hot Button Issues
       button: Find out more
