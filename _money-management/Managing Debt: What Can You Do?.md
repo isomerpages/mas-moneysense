@@ -188,7 +188,7 @@ a concessionary revolving unsecured credit facility in the form of a credit
 card. It comes with a credit limit of 1 month's income for your daily needs.</p>
 </li>
 </ul>
-<p><strong>Infographic:</strong>  <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/Comms/Website/Past%20Websites/2023/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/-/media/moneysense/images/infographics/6673%20%20Article%20%20Infographic204.jpg" rel="noopener noreferrer nofollow" target="_blank">How a Debt Consolidation Plan may help improve your debt situation</a>
+<p><strong>Infographic: </strong><a href="/files/dcp infographics.pdf" rel="noopener noreferrer nofollow" target="_blank">How a Debt Consolidation Plan may help with your debt situation</a>
 </p>
 <h4>Who Can Apply For DCP?</h4>
 <p>You can apply for DCP if you meet these criteria:</p>
