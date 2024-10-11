@@ -190,7 +190,6 @@ card. It comes with a credit limit of 1 month's income for your daily needs.</p>
 </ul>
 <p><strong>Infographic: </strong><a href="/files/dcp infographics.pdf" rel="noopener noreferrer nofollow" target="_blank">How a Debt Consolidation Plan may help with your debt situation</a>
 </p>
-<p></p>
 <h4>Who Can Apply For DCP?</h4>
 <p>You can apply for DCP if you meet these criteria:</p>
 <ul data-tight="true" class="tight">
