@@ -150,4 +150,20 @@ the investment opportunity is regulated by MAS</p>
 is legitimate</p>
 </li>
 </ul>
+<p><strong>TELL:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Warn friends and family about this scam encounter</p>
+</li>
+<li>
+<p>Report and block suspected scam accounts/ chat groups</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+fallen victim</p>
+</li>
+</ul>
+<p>For information on other scams and how to safeguard yourself against them,
+you may visit <a href="http://scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">scamshield.gov.sg</a>.</p>
 <p></p>
