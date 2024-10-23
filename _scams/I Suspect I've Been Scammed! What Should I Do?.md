@@ -22,7 +22,7 @@ mobile phone.</p>
 <p></p>
 </li>
 </ul>
-<h3>Acting Fast To Prevent More Losses </h3>
+<h3>Acting Fast To Prevent More Losses</h3>
 <p>As soon as you realise you may have fallen for a scam, your first steps
 should focus on stopping criminals from siphoning away more money.</p>
 <p><strong>That means contacting your bank immediately to freeze your accounts, </strong>cancel
@@ -43,10 +43,10 @@ for an upfront payment of fee to help you get back your stolen money.</p>
 <p>Don't be duped! Once you suspect something is wrong, stop giving away
 more money.</p>
 <p></p>
-<h4>Tip </h4>
+<h4>Tip</h4>
 <p>Turn on and monitor transaction notifications from your banks so that
 you can detect unauthorised transactions in a timely manner.</p>
-<h3>Report To The Police </h3>
+<h3>Report To The Police</h3>
 <p>After securing your accounts, lodge a <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener nofollow" target="_blank">police report online</a> or
 at the nearest Neighbourhood Police Centre of Neighbourhood Police Post.</p>
 <p>It is a good idea to report to the police while details are still fresh
@@ -56,7 +56,7 @@ also need a copy of the police report as soon as practicable.</p>
 <p>Some of the details that will be useful for investigations include the
 date and time of the scam, the fraudulent website address or email address,
 and phone numbers used by the scammers.</p>
-<h3>Ways To Protect Yourself </h3>
+<h3>Ways To Protect Yourself</h3>
 <p>Don't blame yourself if you have fallen prey to a scam.</p>
 <p>Scammers are very good at what they do and are always coming up with new
 ruses.</p>
