@@ -2,6 +2,7 @@ collections:
   scams:
     output: true
     order:
+      - I Suspect I've Been Scammed! What Should I Do?.md
       - 4 Tips To Stay Safe When Using Electronic Payments.md
       - How To Spot An Investment Scam.md
       - Phishing Scam.md
