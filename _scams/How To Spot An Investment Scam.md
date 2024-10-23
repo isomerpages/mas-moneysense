@@ -18,7 +18,7 @@ at little or no risk.</p>
 </li>
 <li>
 <p>Check that the company and its representatives are regulated by the Monetary
-Authority of Singapore (MAS)</p>
+Authority of Singapore (MAS).</p>
 </li>
 </ul>
 <p>Out of nowhere, you are added to a group chat where people are sharing
@@ -99,8 +99,8 @@ a non-exhaustive list of persons unregulated by MAS who may have been wrongly
 misperceived as being licensed or authorised by MAS</p>
 </li>
 </ul>
-<p>Remember, dealing with an unregulated entity means giving up the safeguards
-offered under the laws administered by MAS.</p>
+<p>Remember, <a href="https://www.moneysense.gov.sg/dealing-with-unregulated-persons/" rel="noopener nofollow" target="_blank">dealing with an unregulated entity </a>means
+giving up the safeguards offered under the laws administered by MAS.</p>
 <h3>Check On The Company's Background</h3>
 <p>Do not be too quick to believe everything you are told. Verify information
 provided by the entity about themselves or the investment opportunity,
