@@ -18,7 +18,7 @@ at little or no risk.</p>
 </li>
 <li>
 <p>Check that the company and its representatives are regulated by the Monetary
-Authority of Singapore (MAS)</p>
+Authority of Singapore (MAS).</p>
 </li>
 </ul>
 <p>Out of nowhere, you are added to a group chat where people are sharing
@@ -99,8 +99,8 @@ a non-exhaustive list of persons unregulated by MAS who may have been wrongly
 misperceived as being licensed or authorised by MAS</p>
 </li>
 </ul>
-<p>Remember, dealing with an unregulated entity means giving up the safeguards
-offered under the laws administered by MAS.</p>
+<p>Remember, <a href="https://www.moneysense.gov.sg/dealing-with-unregulated-persons/" rel="noopener nofollow" target="_blank">dealing with an unregulated entity </a>means
+giving up the safeguards offered under the laws administered by MAS.</p>
 <h3>Check On The Company's Background</h3>
 <p>Do not be too quick to believe everything you are told. Verify information
 provided by the entity about themselves or the investment opportunity,
@@ -114,3 +114,56 @@ a police report immediately.</p>
 fall prey to them.</p>
 <p><strong>Remember, if an investment sounds too good to be true, it probably is.</strong>
 </p>
+<h3>Safeguard Yourself Against Scams</h3>
+<p>To ACT and safeguard yourself against scams:</p>
+<p><strong>ADD:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Privacy settings to your messaging app to avoid being added into unknown
+chatgroups</p>
+</li>
+<li>
+<p>Security features such as 2 or multi-FA for banking apps, transaction
+limits on payment accounts (bank, PayNow, PayLah)</p>
+</li>
+<li>
+<p>Money Lock to your bank accounts to further secure a portion of your savings</p>
+</li>
+</ul>
+<p><strong>CHECK:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Resources on the MAS website (i.e. Financial Institutions Directory, Register
+of Representatives, and Investor Alert List) on whether the company offering
+the investment opportunity is regulated by MAS</p>
+</li>
+<li>
+<p>With someone you trust about the offer</p>
+</li>
+<li>
+<p>Call the ScamShield helpline (1799) to check if you are unsure</p>
+</li>
+<li>
+<p>Call the official hotline of the company to check if this investment product
+is legitimate</p>
+</li>
+</ul>
+<p><strong>TELL:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Warn friends and family about this scam encounter</p>
+</li>
+<li>
+<p>Report and block suspected scam accounts/ chat groups</p>
+</li>
+<li>
+<p>Call your bank immediately and make a police report if you think you have
+fallen victim</p>
+</li>
+</ul>
+<p>For information on other scams and how to safeguard yourself against them,
+you may visit <a href="http://scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">scamshield.gov.sg</a>.</p>
+<p></p>
