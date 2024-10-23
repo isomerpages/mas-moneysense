@@ -114,3 +114,40 @@ a police report immediately.</p>
 fall prey to them.</p>
 <p><strong>Remember, if an investment sounds too good to be true, it probably is.</strong>
 </p>
+<h3>Safeguard Yourself Against Scams</h3>
+<p>To ACT and safeguard yourself against scams:</p>
+<p><strong>ADD:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Privacy settings to your messaging app to avoid being added into unknown
+chatgroups</p>
+</li>
+<li>
+<p>Security features such as 2 or multi-FA for banking apps, transaction
+limits on payment accounts (bank, PayNow, PayLah)</p>
+</li>
+<li>
+<p>Money Lock to your bank accounts to further secure a portion of your savings</p>
+</li>
+</ul>
+<p><strong>CHECK:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Resources on the MAS website (i.e. Financial Institutions Directory, Register
+of Representatives, and Investor Alert List) on whether the company offering
+the investment opportunity is regulated by MAS</p>
+</li>
+<li>
+<p>With someone you trust about the offer</p>
+</li>
+<li>
+<p>Call the ScamShield helpline (1799) to check if you are unsure</p>
+</li>
+<li>
+<p>Call the official hotline of the company to check if this investment product
+is legitimate</p>
+</li>
+</ul>
+<p></p>
