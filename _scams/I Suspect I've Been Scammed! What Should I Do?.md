@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 image: /images/woman_holding_card6cff.jpg
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/woman_holding_card6cff.jpg">
+</div>
+<p></p>
 <p>Reacting fast after you have fallen prey to a scam is crucial. This gives
 you a change to recover your funds or at least prevent further losses.</p>
 <h3>Key Takeaways</h3>
