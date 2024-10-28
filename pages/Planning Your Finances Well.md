@@ -56,14 +56,14 @@ available in Chinese, Malay, and Tamil)!</p>
 <p></p>
 <p>Have questions? Learn more <a href="/files/Basic Financial Planning Guide/FAQs_for_consumers_on_Basic_Financial_Planning__finalised_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<h3>More resources on financial planning</h3>
+<h3>More Resources On Financial Planning</h3>
 <h5>Emergency Funds:</h5>
 <p>Set aside <strong>at least three to six months’</strong> worth of expenses</p>
 <p>(Read more: <a href="/managing-your-money/" rel="noopener noreferrer nofollow" target="_blank">Managing your finances</a>)</p>
 <h5>Protection: Obtain insurance protection for:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Death &amp; Total Permanent Disability: <strong>9x annual income</strong>
+<p>Death &amp; Total and Permanent Disability: <strong>9x annual income</strong>
 </p>
 </li>
 <li>
