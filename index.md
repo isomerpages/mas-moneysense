@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/RPC_x_Moneysense_wallpaper_FINAL.jpg
-      variant: center
+      variant: image
       key_highlights:
         - title: Find yours at cpf.gov.sg/BeReady
           description: ""
