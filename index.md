@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RPC_x_Moneysense_wallpaper_FINAL.jpg
+      background: /images/soil_plant_coins6cff.jpg
       title: Money Matters Make Simple
-      variant: image
+      variant: center
       key_highlights:
         - title: Find yours at cpf.gov.sg/BeReady
           description: ""
