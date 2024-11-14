@@ -10,7 +10,6 @@ notification: ""
 sections:
   - hero:
       background: /images/RPC_x_Moneysense_wallpaper_FINAL.jpg
-      title: Money Matters Make Simple
       variant: image
       key_highlights:
         - title: Find yours at cpf.gov.sg/BeReady
