@@ -180,7 +180,7 @@ years for HDB flats) or the loan period extends beyond the borrower's age
 of 65 years.</p>
 <h3>Getting An HDB Loan</h3>
 <p>If you are buying an HDB flat, you may qualify for a loan from the HDB.
-With an HDB loan, you may borrow up to 85% of the purchase price or the
+With an HDB loan, you may borrow up to 80% of the purchase price or the
 property’s valuation price. This depends on which is lower, subject to
 HDB’s credit assessment.</p>
 <p>The amount of HDB loan granted depends on:</p>
@@ -221,7 +221,7 @@ rate and flexibility to pay off your loan early.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Home Loan</p>
+<p>HDB Loan (HDB flats only)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Bank Loan</p>
@@ -235,7 +235,7 @@ rate and flexibility to pay off your loan early.</p>
 <p>Up to 80%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 70%</p>
+<p>Up to 75%</p>
 </td>
 </tr>
 <tr>
@@ -318,4 +318,7 @@ period</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For more information on LTV and downpayment rules, please click <a href="https://www.mas.gov.sg/regulation/explainers/new-housing-loans/loan-tenure-and-loan-to-value-limits" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For TDSR and MSR rules, please click <a href="https://www.mas.gov.sg/regulation/explainers/new-housing-loans/msr-and-tdsr-rules" rel="noopener nofollow" target="_blank">here</a> for
+a simple overview and <a href="https://www.mas.gov.sg/regulation/explainers/tdsr-for-property-loans" rel="noopener nofollow" target="_blank">here</a> for
+more details.</p>
