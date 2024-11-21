@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Investment Scam" src="/images/investment%20scam.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS_Website_Banner_FA_5_InvestmentScams.jpg">
 </div>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
