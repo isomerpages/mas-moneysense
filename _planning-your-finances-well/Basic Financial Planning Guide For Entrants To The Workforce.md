@@ -7,9 +7,8 @@ description: Empower your financial journey as an Entry-Level salaried employee
   workforce.
 image: /images/2018 MoneySense website images/business_people_greeting.jpg
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/business_people_greeting.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS_Website_Banner_FA_2_BFPG_1stJobber.jpg">
 </div>
 <p>You are in the pink of health and taking your first steps into the working
 world. This is the best time to start building a strong foundation for
