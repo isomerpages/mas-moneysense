@@ -7,9 +7,8 @@ description: Navigate your family's financial challenges together with
   your loved ones today.
 image: /images/2018 MoneySense website images/young_family_ipad.jpg
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2018 MoneySense website images/young_family_ipad.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS_Website_Banner_FA_3_BFPG_WithDependents.jpg">
 </div>
 <p>You have loved ones looking to you for support. A solid financial plan
 will help you navigate the challenges!</p>

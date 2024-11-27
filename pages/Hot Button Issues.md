@@ -2,6 +2,7 @@
 title: Hot Button Issues
 permalink: /hot-button-issues/
 description: ""
+variant: markdown
 ---
 ![In the Spotlight](/images/In%20The%20Spotlight/in%20the%20spotlight%20landing%20pic.jfif)
 
@@ -17,4 +18,4 @@ It pays to stay abreast of new developments so you can spot red flags and avoid 
 
 * [Inflation](/what-is-inflation/)
 
-* [Scams](/4-tips-to-stay-safe-when-using-e-payments/)
+* [Scams](/how-to-spot-an-investment-scam/)
