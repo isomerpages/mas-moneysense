@@ -9,7 +9,7 @@ variant: tiptap
 </div>
 <p>You are strongly encouraged to deal only with persons who are regulated
 by the Monetary Authority of Singapore (MAS) as MAS has requirements on
-the competence and professionalism of financia institutions' representatives.</p>
+the competence and professionalism of financial institutions' representatives.</p>
 <p>If you choose to deal with unregulated persons (including those based
 overseas), you will forgo the protection given under MAS' regulations.</p>
 <h3>How To Check</h3>
