@@ -43,27 +43,27 @@ decisions when you apply for credit facilities such as loans and credit
 cards.</p>
 <p>A good credit repayment history makes it easier for you to qualify for
 loans and credit cards in the future.</p>
-<h3>Factors That Affect Your Credit Score </h3>
+<h3>Factors That Affect Your Credit Score</h3>
 <p>A number of different factors could affect your credit score:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Utilisation Pattern – </strong>the amount of credit owned/ used
 on accounts by individuals</p>
-<p><strong>•	Available Credit –  </strong>the number of accounts open or
-active that provide you with a credit facility</p>
-<p><strong>•	Account Delinquency Data – </strong>Late payment on your loan
+<p><strong>• Available Credit – </strong>the number of accounts open or active
+that provide you with a credit facility</p>
+<p><strong>• Account Delinquency Data – </strong>Late payment on your loan
 accounts</p>
-<p><strong>•	Credit Account History – </strong>A consumer with long-established
+<p><strong>• Credit Account History – </strong>A consumer with long-established
 credit history is deemed to be more favourable or a reliable borrower as
 compared to one with limited or no credit history. Accounts with history
 of prompt payments will help to boost your credit rating</p>
-<p><strong>•	Enquiry Activity – </strong>While self-enquiries will not have
+<p><strong>• Enquiry Activity – </strong>While self-enquiries will not have
 an effect on your credit score, increased loan application activities have
 a direct correlation to credit risk and indicate that the consumer’s debt
 exposure is likely to increase. To keep your enquiries to a minimum, try
 to limit the number of loan facilities and credit cards that you apply
 for</p>
-<p><strong>•	Recent Credit – </strong>If you have recently taken multiple
+<p><strong>• Recent Credit – </strong>If you have recently taken multiple
 new credit facilities within a short period, it may be perceived as you
 overextending yourself</p>
 </li>
