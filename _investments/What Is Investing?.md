@@ -131,6 +131,10 @@ when you get married, have children or retire, as your needs may change
 during such times</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Six_Step_Investing_Guide_20250212_164040_0000.png">
+</div>
 <hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moneysense.gov.sg/investing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2018 MoneySense website images/digital_tablet_charts6cff.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get Started With Investing</div><div class="isomer-card-description">Investing is a key part of your overall financial plan. Get an introduction to the basics of investing, including concepts such as setting investment goals and objectives, risk-return trade-offs as well as diversification and asset allocation.</div><div class="isomer-card-link">Read more</div></div></a>
