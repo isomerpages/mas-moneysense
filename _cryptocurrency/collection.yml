@@ -2,8 +2,4 @@ collections:
   cryptocurrency:
     output: true
     order:
-      - Risks Of Cryptocurrencies, Initial Coin Offerings And Other Digital
-        Tokens.md
-      - The Risks You Are Exposed To When Trading In Cryptocurrencies And Their
-        Derivatives.md
-      - Risks Of Trading Payment Token Derivatives.md
+      - Risks Of Digital Tokens.md
