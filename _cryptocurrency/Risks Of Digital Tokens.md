@@ -85,7 +85,7 @@ tends to be high.</p>
 </li>
 </ul>
 <h3>What Protection Do You Have?</h3>
-<p><strong>There is no legislative protection for losses suffered. </strong>
+<p><strong>There is no legislative protection for losses suffered.</strong>
 </p>
 <p>MAS will not be able to help you if you lose money from dealing with digital
 tokens that are not products regulated by MAS, even if the digital token
@@ -94,7 +94,7 @@ service is provided by an entity regulated by MAS.</p>
 introduced for cryptocurrency service providers. In addition, retail distribution
 measures aim to provide retail customers with greater risk awareness, and
 limit risks which they can take.</p>
-<p>However, MAS' regulator measures cannot shield consumers from the risk
+<p>However, MAS' regulatory measures cannot shield consumers from the risk
 of their cryptocurrency holdings losing value, or cryptocurrency service
 providers collapsing (for example, due to unsustainable business models,
 fraud, or excessive risk taking).</p>
