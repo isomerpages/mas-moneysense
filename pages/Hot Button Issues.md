@@ -14,7 +14,7 @@ It pays to stay abreast of new developments so you can spot red flags and avoid 
 
 * [Buy Now Pay Later](/3-traps-to-avoid-when-you-go-shopping/)
 
-* [Cryptocurrency](/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens/)
+* [Cryptocurrency](/risks-of-trading-payment-token-derivatives/)
 
 * [Inflation](/what-is-inflation/)
 
