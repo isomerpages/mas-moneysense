@@ -9,12 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/RPC_x_Moneysense_wallpaper_FINAL.jpg
+      background: /images/MAS_Website_Banner_FA_1_Main.jpg
       variant: image
-      key_highlights:
-        - title: Find yours at cpf.gov.sg/BeReady
-          description: ""
-          url: https://www.cpf.gov.sg/member/infohub/be-ready
   - infopic:
       title: Hot Button Issues
       button: Find out more
