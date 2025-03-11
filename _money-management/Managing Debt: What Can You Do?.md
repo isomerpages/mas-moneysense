@@ -60,15 +60,15 @@ the due date</p>
 </ul>
 <p>If your debt on all credit cards and unsecured credit facilities with
 FIs exceeds 12 times your monthly income for three consecutive months,
-you will <a href="https://int.mas.iz.gov.sg/regulation/explainers/ongoing-credit-checks-and-requirements" rel="noopener nofollow" target="_blank">not be able to get additional credit facilities and your existing credit line(s) will be suspended</a>.</p>
+you will <a href="https://www.mas.gov.sg/regulation/explainers/ongoing-credit-checks-and-requirements" rel="noopener nofollow" target="_blank">not be able to get additional credit facilities and your existing credit line(s) will be suspended</a>.</p>
 <p>More information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://int.mas.iz.gov.sg/regulation/explainers/ongoing-credit-checks-and-requirements/borrowers-who-are-60-days-past-due" rel="noopener nofollow" target="_blank">Rules for borrowers who are 60 days past due</a>
+<p><a href="https://www.mas.gov.sg/regulation/explainers/ongoing-credit-checks-and-requirements" rel="noopener nofollow" target="_blank">Rules for borrowers who are 60 days past due</a>
 </p>
 </li>
 <li>
-<p><a href="https://int.mas.iz.gov.sg/regulation/explainers/credit-limit-management-measure" rel="noopener nofollow" target="_blank">Credit limit management measure</a>
+<p><a href="https://www.mas.gov.sg/regulation/explainers/credit-limit-management-measure" rel="noopener nofollow" target="_blank">Credit limit management measure</a>
 </p>
 </li>
 </ul>
