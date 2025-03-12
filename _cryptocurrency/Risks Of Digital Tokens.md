@@ -17,7 +17,7 @@ variant: tiptap
 <p>Cryptocurrencies are not legal tender</p>
 </li>
 <li>
-<p>There is no legislative protectino for losses suffered</p>
+<p>There is no legislative protection for losses suffered</p>
 </li>
 </ul>
 <h3>What Are Digital Tokens?</h3>
