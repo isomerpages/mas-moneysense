@@ -12,7 +12,7 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>The Deposit Insurance Scheme protects your deposits with a member bank
-for up to $75,000 per depositor per bank</p>
+for up to $100,000 per depositor per bank</p>
 </li>
 <li>
 <p>All full banks and finance companies in Singapore are members of the scheme</p>
