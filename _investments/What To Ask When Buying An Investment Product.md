@@ -48,8 +48,9 @@ impacting my financial situation and my financial plans?</p>
 <p><strong>Tip: </strong>Understand yourself better with the <a href="https://www.cpf.gov.sg/content/dam/web/member/growing-your-savings/documents/Risk_Tolerance_Questionaire.pdf" rel="noopener noreferrer" target="_blank">Risk Tolerance Questionnaire</a>.</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p>Does the recommended product meet my needs? Which benefits are guaranteed
-and which are not?</p>
+<p>Does the recommended product meet my needs? Which benefits and features
+are guaranteed and which are not? Under what conditions might the benefits
+or features be withdrawn?</p>
 </li>
 <li>
 <p>What is the potential return? Is it realistic? What is the maximum I could
