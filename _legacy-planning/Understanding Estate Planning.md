@@ -89,11 +89,11 @@ as you wish; a judge will appoint someone to handle your assets and affairs</p>
 </li>
 </ul>
 <p>CPF savings (balances left in a deceased member's Ordinary, Medisave and
-Special/Retirement Accounts) do not form part of the estate and are not
-covered by a will. If you don't make a CPF nomination, your CPF savings
-would be transferred to the Public Trustee's Office (PTO) for distribution
-to your family under the Intestate Succession Act or the Inheritance Certificate
-(for Muslims). PTO charges an administrative fee for the service.</p>
+Special/Retirement Accounts) are not covered by a will. If you don't make
+a CPF nomination, your CPF savings would be transferred to the Public Trustee's
+Office (PTO) for distribution to your family under the Intestate Succession
+Act or the Inheritance Certificate (for Muslims). PTO charges an administrative
+fee for the service.</p>
 <p>You should make a CPF nomination if you want your CPF savings to be distributed
 accordng to your wishes.</p>
 <h3>What Do You Have?</h3>
