@@ -74,6 +74,11 @@ see if the FA firm is authorised by MAS to provide financial advisory services</
 see if the individual you are talking to is an FA representative</p>
 </li>
 </ul>
+<p>Customers who are speaking or meeting with their FA representatives for
+the first time are encouraged to verify that the individual they are interacting
+with is the representative listed in the Register of Representatives. For
+instance, they could request to meet in person at the official premise
+of the financial institution, and ask for official identification.</p>
 <h3>Types Of Financial Advisors</h3>
 <p>There are different types of financial institutions that can offer financial
 advice on investments and life insurance products. They could be licensed
