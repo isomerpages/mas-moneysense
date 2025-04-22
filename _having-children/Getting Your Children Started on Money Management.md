@@ -22,7 +22,7 @@ money management have a more lasting impact!</p>
 <h3>7 Handy Tips on Teaching Your Children about Money</h3>
 <hr>
 <h5>1. Start Talking About Money</h5>
-<p>Children can start grasping the concept of money from as young as three
+<p>Children can start grasping the concept of money from as young as seven
 years old. As soon as your children can count, talk to them about money.
 Teach basic money skills through simple everyday activities. Show and tell
 them what money is and what it can do. Make it fun!</p>
