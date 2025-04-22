@@ -65,9 +65,9 @@ for your retirement.</p>
 <h3>Don’t Forget About Your Insurance</h3>
 <p>Is your insurance coverage adequate? Healthcare costs rise as we get older.
 All of us are covered under <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life" rel="noopener noreferrer" target="_blank">MediShield Life</a>,
-but you could consider <a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/Comms/Website/Past%20Websites/2023/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/starter-packs/guide-to-types-of-health-insurance.html" rel="noopener noreferrer nofollow" target="_blank">additional cover</a> to
-meet other healthcare needs and preferences. Do weigh up the impact of
-the additional costs on your retirement savings, too.</p>
+but you could consider additional cover to meet other healthcare needs
+and preferences. Do weigh up the impact of the additional costs on your
+retirement savings, too.</p>
 <p>Do ensure that you're still covered during your retirement years. Some
 policies offer an option to stop paying premiums upon retirement, while
 still enjoying coverage.</p>
