@@ -76,7 +76,7 @@ only take longer to complete but will also cost more.</p>
 </p>
 <p>All LPAs must be made and submitted via the <a href="https://opg-eservice.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Office of the Public Guardian Online (OPGO)</a>.</p>
 <p>Information on exceptional situations where hardcopy LPA may be used can
-be found <a href="https://www.msf.gov.sg/what-we-do/opg/opg-online-(opgo)/for-donors-and-donees" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+be found <a href="https://www.msf.gov.sg/what-we-do/opg/opg-online-(opgo)/for-donors" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.moneysense.gov.sg/retirement-planning" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/2018 MoneySense website images/elderly_couple_laptop6cff.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Introduction To Retirement Planning</div><div class="isomer-card-description">Retiring well requires planning. Here's how to get started, from tips to create a retirement income to managing your finances during retirement.</div><div class="isomer-card-link">Read more</div></div></a>
