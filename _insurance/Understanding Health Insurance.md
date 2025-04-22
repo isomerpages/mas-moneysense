@@ -59,7 +59,7 @@ may not give you the same coverage as before.</p>
 <td rowspan="1" colspan="1">
 <p>MediShield Life&nbsp;already covers Singapore citizens and Permanent Residents,
 paying for large&nbsp;hospital bills and selected costly outpatient treatments.&nbsp;If
-you want more coverage,&nbsp;you could consider getting an&nbsp;<a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/about-integrated-shield-plans" rel="noopener noreferrer nofollow" target="_blank">Integrated Shield Plan</a>.</p>
+you want more coverage,&nbsp;you could consider getting an&nbsp;<a href="https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/about-integrated-shield-plans" rel="noopener noreferrer nofollow" target="_blank">Integrated Shield Plan</a>.</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ ElderShield Supplements, and&nbsp;<a href="http://www.careshieldlife.gov.sg/" re
 insurance scheme that pays for basic public hospital treatments.</p>
 <p>If you prefer to be admitted to a better type ward or private hospital,
 you can consider an upgrade to an Integrated Shield Plan with wider coverage.</p>
-<p>See&nbsp;<a href="https://www.moh.gov.sg/cost-financing/bill-estimator" rel="noopener noreferrer nofollow" target="_blank">how much hospital treatments cost</a>.</p>
+<p>See&nbsp;<a href="https://www.moh.gov.sg/managing-expenses/bills-and-fee-benchmarks/cost-financing/" rel="noopener noreferrer nofollow" target="_blank">how much hospital treatments cost</a>.</p>
 <p>There are a few things to consider when choosing a health insurance plan:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -194,7 +194,7 @@ CareShield Life</p>
 <p><strong>Note:</strong>&nbsp;There are withdrawal limits on the use of
 MediSave. Read more on the&nbsp;<a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medisave" rel="noopener noreferrer nofollow" target="_blank">Ministry of Health (MOH) website</a>.</p>
 <h4>Assistance Under MediFund</h4>
-<p>You can apply for assistance under the&nbsp;<a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medifund" rel="noopener noreferrer nofollow" target="_blank">MediFund scheme</a>&nbsp;if
+<p>You can apply for assistance under the&nbsp;<a href="https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medifund" rel="noopener noreferrer nofollow" target="_blank">MediFund scheme</a>&nbsp;if
 you are a Singapore citizen receiving subsidised treatment and have difficulty
 paying your medical bill at a MediFund-approved institution.</p>
 <p>To apply, approach the medical social workers at the MediFund-approved
