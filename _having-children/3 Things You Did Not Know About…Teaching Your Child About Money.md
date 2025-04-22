@@ -10,9 +10,7 @@ variant: tiptap
 <p><strong>It probably comes as no surprise that you influence your kids significantly – from their taste in music, to their daily routines, to their values in life.</strong>
 </p>
 <p>So it’s probably a good idea to know a thing or two about imparting sound
-financial values to them, from when they are as young as three years old
-(according to this&nbsp;<a href="https://mascdn.azureedge.net/cms/the-money-advice-service-habit-formation-and-learning-in-young-children-may2013.pdf" rel="noopener noreferrer nofollow" target="_blank">study</a>&nbsp;by
-behaviour experts from Cambridge University).</p>
+financial values to them, from when they are as young as seven years old.</p>
 <p>We’ve done the research for you and distilled three simple drills you
 can incorporate into your everyday interaction with your children.</p>
 <h3>Let The Children ‘Pay’</h3>
