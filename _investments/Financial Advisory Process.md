@@ -187,8 +187,7 @@ it with your family and friends first.</p>
 </li>
 <li>
 <p>Lose sight of your financial goals and the reasons why you want to buy
-insurance or invest<a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages.html" rel="noopener noreferrer nofollow" target="_blank"> </a>in
-the first place.</p>
+insurance or invest in the first place.</p>
 </li>
 </ul>
 <h3>Reviewing The Recommendation</h3>
