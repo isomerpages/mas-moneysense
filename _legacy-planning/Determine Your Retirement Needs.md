@@ -68,7 +68,7 @@ retire early.</p>
 <h3>Number Of Years In Retirement</h3>
 <p>To get an idea of how long you can expect to be in retirement, subtract
 your retirement age from the age you expect to live to.</p>
-<p>Currently, the life expectancies of men and women are around 80 and 85
+<p>Currently, the life expectancies of men and women are around 81 and 86
 years respectively. Given the current retirement age of 63 years and re-employment
 age of 68, you should aim to build up retirement savings that can last
 at least 20 to 30 years.</p>
@@ -96,11 +96,11 @@ $48,000 per year, and your desired retirement age is 62:</p>
 </li>
 <li>
 <p>Years in retirement (life expectancy - retirement age): <strong>Men</strong>:
-83 - 63 = 20; <strong>Women</strong> 88 - 63 = 25</p>
+81 - 63 = 18; <strong>Women</strong> 86 - 63 = 23</p>
 </li>
 <li>
-<p>Total retirement income needed: <strong>Men</strong>: $36,000 x 21 = $720,000; <strong>Women</strong>:
-$36,000 x 25 = $900,000</p>
+<p>Total retirement income needed: <strong>Men</strong>: $36,000 x 18 = $648,000; <strong>Women</strong>:
+$36,000 x 23 = $828,000</p>
 </li>
 </ul>
 <h4>Adjusted Expense Method</h4>
@@ -119,11 +119,11 @@ age is 62:</p>
 </li>
 <li>
 <p>Years in retirement (life expectancy - desired retirement age): <strong>Men</strong>:
-83 - 62 = 21; <strong>Women</strong> 88 - 62 = 26</p>
+81 - 62 = 19; <strong>Women</strong> 86 - 62 = 24</p>
 </li>
 <li>
-<p>Total retirement income needed: <strong>Men</strong>: $24,000 x 21 = $504,000; <strong>Women</strong>:
-$24,000 x 26 = $624,000</p>
+<p>Total retirement income needed: <strong>Men</strong>: $24,000 x 19 = $456,000; <strong>Women</strong>:
+$24,000 x 24 = $576,000</p>
 </li>
 </ul>
 <p><strong>Note:</strong> When doing your actual calculations, you will need

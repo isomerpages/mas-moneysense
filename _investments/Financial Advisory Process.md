@@ -150,7 +150,7 @@ the recommendation.</p>
 advice on</p>
 </li>
 </ul>
-<p>Use the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Register of Representatives</a> and
+<p>Use the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institutions Representatives Register</a> and
 <a href="https://eservices.mas.gov.sg/fid" rel="noopener noreferrer" target="_blank">Financial Institutions Directory</a>to check if the FA representative
 and the company are authorised to provide financial advisory services.</p>
 <h3>While going through an FNA</h3>
@@ -187,8 +187,7 @@ it with your family and friends first.</p>
 </li>
 <li>
 <p>Lose sight of your financial goals and the reasons why you want to buy
-insurance or invest<a href="https://team.dms.mas.gov.sg/sites/csi/consEdn/MoneySense%20Website/MS%202023%20Website%20Archive/Offline%20Website/MON-241-PRD/www.moneysense.gov.sg/articles/2018/11/financial-goals-at-different-life-stages.html" rel="noopener noreferrer nofollow" target="_blank"> </a>in
-the first place.</p>
+insurance or invest in the first place.</p>
 </li>
 </ul>
 <h3>Reviewing The Recommendation</h3>
