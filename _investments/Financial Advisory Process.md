@@ -150,7 +150,7 @@ the recommendation.</p>
 advice on</p>
 </li>
 </ul>
-<p>Use the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Register of Representatives</a> and
+<p>Use the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institutions Representatives Register</a> and
 <a href="https://eservices.mas.gov.sg/fid" rel="noopener noreferrer" target="_blank">Financial Institutions Directory</a>to check if the FA representative
 and the company are authorised to provide financial advisory services.</p>
 <h3>While going through an FNA</h3>
