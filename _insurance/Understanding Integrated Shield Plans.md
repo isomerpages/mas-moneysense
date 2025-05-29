@@ -63,6 +63,9 @@ for your IP, you can switch your plan to one which provides coverage for
 lower ward classes with the same insurer without any additional underwriting.
 Or you can cease your IP and be insured under MediShield Life only without
 any exclusions for pre-existing conditions.</p>
+<p>Assess whether your health insurance aligns with your needs, and make
+informed decisions about your coverage using the <a href="http://cpf.gov.sg/healthplanner" rel="noopener noreferrer nofollow" target="_blank">Health Insurance Planner.</a>
+</p>
 <h3>Are You Covered?</h3>
 <p>Not sure if your current health insurance is an IP? You can check by logging
 in to the&nbsp;CPF Board website.</p>
