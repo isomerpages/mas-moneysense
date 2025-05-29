@@ -47,6 +47,10 @@ the upgrade justify the costs, including the out-of-pocket expenses?</p>
 go up with age.</p>
 </li>
 </ul>
+<p><strong>Tip:</strong> Assess whether your health insurance aligns with
+your needs, and make informed decisions about your coverage using the
+<a href="http://cpf.gov.sg/healthplanner" rel="noopener noreferrer nofollow" target="_blank">Health Insurance Planner.</a>
+</p>
 <h4>8 Questions To Ask Your FA Representative</h4>
 <ol data-tight="true" class="tight">
 <li>
