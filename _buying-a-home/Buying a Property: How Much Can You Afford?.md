@@ -58,6 +58,9 @@ your home loan</p>
 <p>Ask your lender for a repayment schedule</p>
 </li>
 </ul>
+<p><strong>Tip:</strong> Explore how your housing decisions can impact your
+retirement goal with the <a href="https://www.cpf.gov.sg/member/tools-and-services/planners/home-purchase" rel="noopener noreferrer nofollow" target="_blank">Home Purchase Planner.</a>
+</p>
 <h3>How Much Do You Have Now?</h3>
 <p>Take a look at what you currently have. Do you have enough money to see
 you through all the costs involved in buying a home?</p>
