@@ -42,7 +42,7 @@ costs of maintaining the property?</p>
 </li>
 <li>
 <p>Hobbies – What do you enjoy doing? How much will it contribute to your
-expenses?</p>
+expenses</p>
 </li>
 </ul>
 <h3>Inflation Rate</h3>
@@ -59,6 +59,8 @@ also carry higher risk. On the other hand, cash and fixed deposits are
 safe but have relatively low returns.</p>
 <p><strong>Tip: </strong>You can top up your CPF account with cash to enjoy
 attractive interest rates of up to 5% for your retirement nest egg.</p>
+<p>Explore ways to make the most of your CPF to achieve your goal with the
+<a href="https://www.cpf.gov.sg/member/tools-and-services/planners/cpf-planner-retirement-income" rel="noopener noreferrer nofollow" target="_blank">Retirement Payout Planner</a>.</p>
 <h3>Number Of Years Until You Retire</h3>
 <p>To get this number, subtract your current age from the retirement age.
 This is the period you have to build your retirement funds.</p>
