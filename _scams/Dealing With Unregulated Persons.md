@@ -29,7 +29,7 @@ information received by MAS, may have been wrongly perceived as being licensed
 or authorised by MAS. This list is not exhaustive.</p>
 </li>
 <li>
-<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institutions Representatives Register </a>–
+<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institution Representatives Register </a>–
 This list consists of names of representatives appointed by financial institutions
 (banks, insurers, holders of capital markets services licenses or licensed
 financial advisors).</p>

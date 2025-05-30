@@ -122,7 +122,7 @@ the penalties if I decide to liquidate some or all of my investments earlier?</p
 </li>
 <li>
 <p>Are you regulated by the Monetary Authority of Singapore (MAS)? Check
-if he/ she is listed on the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institutions Representatives Register</a>.</p>
+if he/ she is listed on the <a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institution Representatives Register</a>.</p>
 </li>
 <li>
 <p>How is my investment monitored? What reports and updates will I receive?
