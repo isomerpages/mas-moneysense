@@ -70,7 +70,7 @@ check if he or she is permitted to give financial advice.</p>
 see if the FA firm is authorised by MAS to provide financial advisory services</p>
 </li>
 <li>
-<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institutions Representatives Register</a> to
+<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institution Representatives Register</a> to
 see if the individual you are talking to is an FA representative</p>
 </li>
 </ul>
