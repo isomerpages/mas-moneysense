@@ -90,7 +90,7 @@ a list of financial institutions regulated by MAS and the regulated activities
 they are authorised to provide</p>
 </li>
 <li>
-<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institutions Representatives Register</a>&nbsp;-
+<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institution Representatives Register</a>&nbsp;-
 a list of individuals who conduct activities regulated by MAS</p>
 </li>
 <li>
