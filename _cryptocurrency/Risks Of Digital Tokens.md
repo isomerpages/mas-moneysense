@@ -161,7 +161,7 @@ a list of financial institutions regulated by MAS and the regulated activities
 they are authorised to provide</p>
 </li>
 <li>
-<p><a href="http://eservices.mas.gov.sg/rr" rel="noopener noreferrer nofollow" target="_blank">Financial Institution Representative Register</a>&nbsp;-
+<p><a href="http://eservices.mas.gov.sg/rr" rel="noopener noreferrer nofollow" target="_blank">Financial Institution Representatives Register</a>&nbsp;-
 a list of individuals who conduct activities regulated by MAS</p>
 </li>
 <li>
