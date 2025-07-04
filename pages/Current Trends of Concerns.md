@@ -30,15 +30,8 @@ variant: tiptap
 </li>
 </ul>
 <h3>Crypto</h3>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/risks-of-cryptocurrencies-initial-coin-offerings-and-other-digital-tokens/</a>
-</p>
-</li>
-<li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/the-risks-you-are-exposed-to-when-trading-in-cryptocurrencies-and-their-derivatives/</a>
-</p>
-</li>
 <li>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moneysense.gov.sg/risks-of-trading-payment-token-derivatives/</a>
 </p>
