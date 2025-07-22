@@ -93,11 +93,6 @@ they are authorised to provide</p>
 <p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institution Representatives Register</a>&nbsp;-
 a list of individuals who conduct activities regulated by MAS</p>
 </li>
-<li>
-<p><a href="https://www.mas.gov.sg/ial" rel="noopener noreferrer nofollow" target="_blank">Investor Alert List</a>&nbsp;-
-a non-exhaustive list of persons unregulated by MAS who may have been wrongly
-misperceived as being licensed or authorised by MAS</p>
-</li>
 </ul>
 <p>Remember, <a href="https://www.moneysense.gov.sg/dealing-with-unregulated-persons/" rel="noopener nofollow" target="_blank">dealing with an unregulated entity </a>means
 giving up the safeguards offered under the laws administered by MAS.</p>
