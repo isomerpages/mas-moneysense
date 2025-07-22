@@ -130,9 +130,9 @@ limits on payment accounts (bank, PayNow, PayLah)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Resources on the MAS website (i.e. Financial Institutions Directory, Register
-of Representatives, and Investor Alert List) on whether the company offering
-the investment opportunity is regulated by MAS</p>
+<p>Resources on the MAS website (i.e. Financial Institutions Directory, Financial
+Institution Representatives Register) on whether the company offering the
+investment opportunity is regulated by MAS</p>
 </li>
 <li>
 <p>With someone you trust about the offer</p>
