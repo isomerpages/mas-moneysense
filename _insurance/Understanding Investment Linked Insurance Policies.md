@@ -181,7 +181,7 @@ you opt for higher insurance coverage, the insurance costs may escalate
 as you age.</p>
 </li>
 <li>
-<p><strong>Do consider whether you can keep up with the premiums&nbsp;. </strong>Your
+<p><strong>Do consider whether you can keep up with the premiums. </strong>Your
 sub-fund units may be liquidated to cover insurance mortality charges.
 In the event where you have higher insurance coverage and a poor performing
 sub-fund you may need to top up either your premium or reduce the sum assured.</p>
