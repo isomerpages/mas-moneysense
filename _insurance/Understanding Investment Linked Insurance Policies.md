@@ -174,15 +174,17 @@ ride out market fluctuations and defray initial costs which can significantly
 limit short-term potential returns.</p>
 </li>
 <li>
-<p><strong>The insurance coverage between ILPs differ.</strong> Some are more
-investment-oriented with very little insurance coverage, whilst others
-will allow you to set the level of coverage that you require. Do note that
-the more you are covered for, the more units will be needed to pay for
-the coverage and that leaves less units to be invested.</p>
+<p><strong>ILPs offer varying levels of insurance protection.</strong>&nbsp;Some
+are investment-oriented with minimal insurance coverage, whilst others
+allow you to customise your insurance protection based on your needs. If
+you opt for higher insurance coverage, the insurance costs may escalate
+as you age.</p>
 </li>
 <li>
-<p><strong>Do consider whether you can keep up with the premiums</strong> if
-you no longer earn an income.</p>
+<p><strong>Do consider whether you can keep up with the premiums&nbsp;. </strong>Your
+sub-fund units may be liquidated to cover insurance mortality charges.
+In the event where you have higher insurance coverage and a poor performing
+sub-fund you may need to top up either your premium or reduce the sum assured.</p>
 </li>
 <li>
 <p><strong>Do compare investing through an ILP against investing in other investment products.</strong> In
