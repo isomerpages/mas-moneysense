@@ -4,8 +4,9 @@ permalink: /how-to-spot-an-investment-scam/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS_Website_Banner_FA_5_InvestmentScams.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS24_7280_MAS_Moneysense_Youtube_Companion_Bnr.jpg">
 </div>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
