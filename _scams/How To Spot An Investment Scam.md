@@ -10,7 +10,7 @@ variant: tiptap
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>All investments carry risks. Before investing, always ask yourself,<em> “Sure or not?” </em> 
+<p>All investments carry risks. Before investing, always ask yourself,<em> “Sure or not?”</em>
 </p>
 </li>
 <li>
@@ -27,8 +27,8 @@ come up with new, convincing ways to steal what is often very large amounts.</p>
 <p><strong>Self-initiated investment scam variant: </strong>While searching
 for investment opportunities online, you find one that promises to be lucrative.
 It could even be an ad you chance upon on social media platforms touting
-profitable "investment opportunities".</p>
-<p>&lt;Embed “Self-Initiated Variant” Video from Youtube&gt;</p>
+profitable "investment opportunities". &lt;Embed “Self-Initiated Variant”
+Video from Youtube&gt;</p>
 <p><strong>Chatgroup addition investment scam variant:</strong> Out of nowhere,
 you are added to a group chat where people are sharing their windfall from
 a not-to-be-missed investment.</p>
@@ -48,8 +48,7 @@ your hard-earned money! Here's what you should check.</p>
 <p>Some investment scams may claim to be regulated by the relevant authorities
 to mislead you.</p>
 <p>Confirm such claims by checking the resources on the Monetary Authority
-of Singapore (MAS) website. <em> </em>
-</p>
+of Singapore (MAS) website.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://eservices.mas.gov.sg/fid" rel="noopener nofollow" target="_blank">Financial Institutions Directory</a> -
