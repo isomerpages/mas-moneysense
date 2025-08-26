@@ -19,8 +19,8 @@ variant: tiptap
 </li>
 </ul>
 <p>Check for red flags. Be wary of opportunities that offer high returns
-at little or no risk.Most of us would have read about news reports of people
-who were scammed. People continue to fall victim as scammers constantly
+at little or no risk. Most of us would have read about news reports of
+people who were scammed. People continue to fall victim as scammers constantly
 come up with new, convincing ways to steal what is often very large amounts.</p>
 <h3>Common Investment Scams</h3>
 <p>Have you encountered any of these situations?</p>
