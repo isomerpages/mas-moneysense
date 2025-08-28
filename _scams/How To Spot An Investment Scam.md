@@ -28,16 +28,22 @@ come up with new, convincing ways to steal what is often very large amounts.</p>
 <p><strong>Self-initiated investment scam variant: </strong>While searching
 for investment opportunities online, you find one that promises to be lucrative.
 It could even be an ad you chance upon on social media platforms touting
-profitable "investment opportunities". &lt;Embed “Self-Initiated Variant”
-Video from Youtube&gt;</p>
+profitable "investment opportunities".</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=UgFF_nuB9N0"></iframe>
+</div>
 <p><strong>Chatgroup addition investment scam variant:</strong> Out of nowhere,
 you are added to a group chat where people are sharing their windfall from
 a not-to-be-missed investment.</p>
-<p>&lt;Embed “Chatgroup Addition Variant” Video from Youtube&gt;</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=ilTdLNrvl34"></iframe>
+</div>
 <p><strong>Befriending investment scam variant: </strong>Your new online
 friend who shares your interests starts telling you about an exclusive
 investment opportunity.</p>
-<p>&lt;Embed “Befriending Variant” Video from Youtube&gt;</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=nNOajUqDPi0"></iframe>
+</div>
 <p>Sounds familiar?</p>
 <p>In many instances, victims thought they would never get scammed – sometimes
 they use the profits they receive initially to refute disbelieving loved
