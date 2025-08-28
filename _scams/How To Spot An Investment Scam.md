@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS24_7280_MAS_Moneysense_Youtube_Companion_Bnrr.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS24_7280_MAS_Moneysense_Digital_Bnrs_1970x720px.jpg">
 </div>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
@@ -145,9 +145,9 @@ limits on payment accounts (bank, PayNow, PayLah)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Resources on the MAS website (i.e. Financial Institutions Directory, Financial
-Institution Representatives Register) on whether the company offering the
-investment opportunity is regulated by MAS</p>
+<p>Resources on the MAS website (i.e. <a href="https://eservices.mas.gov.sg/fid" rel="noopener nofollow" target="_blank">Financial Institutions Directory</a>,
+<a href="https://eservices.mas.gov.sg/rr" rel="noopener nofollow" target="_blank">Financial Institution Representatives Register</a>) on whether the company
+offering the investment opportunity is regulated by MAS</p>
 </li>
 <li>
 <p>With someone you trust about the offer</p>
