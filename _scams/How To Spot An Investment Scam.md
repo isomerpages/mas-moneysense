@@ -4,40 +4,84 @@ permalink: /how-to-spot-an-investment-scam/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS_Website_Banner_FA_5_InvestmentScams.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS24_7280_MAS_Moneysense_Digital_Bnrs_1970x720px.jpg">
 </div>
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>All investments carry risks. Always check before you invest!</p>
+<p>All investments carry risks. Before investing, always ask yourself,<em> “Sure or not?”</em>
+</p>
 </li>
 <li>
-<p>Check for red flags. Be wary of opportunities that offer high returns
-at little or no risk.</p>
-</li>
-<li>
-<p>Check that the company and its representatives are regulated by the Monetary
-Authority of Singapore (MAS).</p>
+<p>Check that the <a href="https://eservices.mas.gov.sg/fid" rel="noopener nofollow" target="_blank">entity</a> or
+<a href="https://eservices.mas.gov.sg/rr" rel="noopener nofollow" target="_blank">individual</a>is regulated by the Monetary Authority of Singapore (MAS)</p>
 </li>
 </ul>
-<p>Out of nowhere, you are added to a group chat where people are sharing
-their windfall from a not-to-be-missed investment.</p>
-<p>Or you are contacted on social media, who asks if you are interested in
-a lucrative investment opportunity.</p>
-<p>It could even be an ad you chance upon on social media platforms touting
+<p>Check for red flags. Be wary of opportunities that offer high returns
+at little or no risk. Most of us would have read about news reports of
+people who were scammed. People continue to fall victim as scammers constantly
+come up with new, convincing ways to steal what is often very large amounts.</p>
+<h3>Common Investment Scams</h3>
+<p>Have you encountered any of these situations?</p>
+<p><strong>Self-initiated investment scam variant: </strong>While searching
+for investment opportunities online, you find one that promises to be lucrative.
+It could even be an ad you chance upon on social media platforms touting
 profitable "investment opportunities".</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UgFF_nuB9N0?si=iDYoUrZUmb8HDFkt"></iframe>
+</div>
+<p><strong>Chatgroup addition investment scam variant:</strong> Out of nowhere,
+you are added to a group chat where people are sharing their windfall from
+a not-to-be-missed investment.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ilTdLNrvl34?si=q1UoMM2Ij-8ijNgE"></iframe>
+</div>
+<p><strong>Befriending investment scam variant: </strong>Your new online
+friend who shares your interests starts telling you about an exclusive
+investment opportunity.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nNOajUqDPi0?si=GFJTEZYzuIq6QdqU"></iframe>
+</div>
 <p>Sounds familiar?</p>
-<p>Most of us would have read about news reports of people who were scammed
-through such methods. Nevertheless, people continue to fall victim as scammers
-constantly come up with new, convincing ways to steal what is often very
-large amounts.</p>
 <p>In many instances, victims thought they would never get scammed – sometimes
 they use the profits they receive initially to refute disbelieving loved
 ones. But criminals have become extremely skilled at convincing people
-that get-rich-quick scheme is real and high returns are within easy reach.</p>
-<p>Always remember to Check Before You Invest if you want to safeguard your
-hard-earned money! Here's what you should check:</p>
+that get-rich-quick scheme is real and high returns are within easy reach.
+Always remember to ask, “Sure or not?” and conduct checks to safeguard
+your hard-earned money! Here's what you should check.</p>
+<h3>Check That The Entity Is Regulated</h3>
+<p>Some investment scams may claim to be regulated by the relevant authorities
+to mislead you.</p>
+<p>Confirm such claims by checking the resources on the Monetary Authority
+of Singapore (MAS) website.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://eservices.mas.gov.sg/fid" rel="noopener nofollow" target="_blank">Financial Institutions Directory</a> -
+a list of financial institutions regulated by MAS and the regulated activities
+they are authorised to provide</p>
+</li>
+<li>
+<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener nofollow" target="_blank">Financial Institution Representative Register</a> -
+a list of individuals who conduct activities regulated by MAS. Even if
+the individual’s name can be found on the Register, do meet him in person
+and verify his identity against official ID.</p>
+</li>
+</ul>
+<p>Remember, <a href="https://www.moneysense.gov.sg/dealing-with-unregulated-persons/" rel="noopener nofollow" target="_blank">dealing with an unregulated entity</a> means
+giving up the safeguards offered under the laws administered by MAS.</p>
+<h3>Check On The Company's Background</h3>
+<p>Do not be too quick to believe everything you are told. Verify information
+provided by the entity about themselves or the investment opportunity,
+such as the background of the individuals and the entity's track record.</p>
+<p>It is also important to ask the entity as many questions as you need to
+fully understand the investment opportunity. If it is unable to answer
+or avoids answering any of your questions, be wary.</p>
+<p>If you suspect that you are a victim of scam, inform your bank and file
+a police report immediately.</p>
+<p>Tell your family and friends about investment scams so that they do not
+fall prey to them.</p>
 <h3>Check For Red Flags</h3>
 <p>Scammers use sophisticated tactics to get you to part with your money.
 There are red flags you can watch out for to steer clear of investment
@@ -66,7 +110,7 @@ use lucrative promises to lure investors in</p>
 scams to rush you into committing your money.</p>
 <p>Make sure you fully understand what you are buying into instead of focusing
 on the carrots dangled.</p>
-<h4>Offer Of Commissions</h4>
+<h4>Offer of Commissions</h4>
 <p>Legitimate investment schemes generally do not offer commissions to investors
 for referrals.</p>
 <p>Investment scams use such incentives to encourage existing customers to
@@ -78,35 +122,6 @@ accolades or simply large investment profits to gain trust.</p>
 <p>Some use testimonials from "satisfied customers" to shore up their credibility.</p>
 <p>You should approach claims with healthy skepticism. Where possible, verify
 the claims with an independent third party.</p>
-<h3>Check That The Entity Is Regulated</h3>
-<p>Some investment scams may even claim to be regulated by the relevant authorities
-to mislead you.</p>
-<p>Confirm such claims by checking the resources on the Monetary Authority
-of Singapore (MAS) website.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://eservices.mas.gov.sg/fid" rel="noopener noreferrer nofollow" target="_blank">Financial Institutions Directory</a>&nbsp;-
-a list of financial institutions regulated by MAS and the regulated activities
-they are authorised to provide</p>
-</li>
-<li>
-<p><a href="https://eservices.mas.gov.sg/rr" rel="noopener noreferrer" target="_blank">Financial Institution Representatives Register</a>&nbsp;-
-a list of individuals who conduct activities regulated by MAS</p>
-</li>
-</ul>
-<p>Remember, <a href="https://www.moneysense.gov.sg/dealing-with-unregulated-persons/" rel="noopener nofollow" target="_blank">dealing with an unregulated entity </a>means
-giving up the safeguards offered under the laws administered by MAS.</p>
-<h3>Check On The Company's Background</h3>
-<p>Do not be too quick to believe everything you are told. Verify information
-provided by the entity about themselves or the investment opportunity,
-such as the background of representatives and the entity's track record.</p>
-<p>It is also important to ask the entity as many questions as you need to
-fully understand the investment opportunity. If it is unable to answer
-or avoids answering any of your questions, be wary.</p>
-<p>If you suspect that you are a victim of scam, inform your bank and file
-a police report immediately.</p>
-<p>Tell your family and friends about investment scams so that they do not
-fall prey to them.</p>
 <p><strong>Remember, if an investment sounds too good to be true, it probably is.</strong>
 </p>
 <h3>Safeguard Yourself Against Scams</h3>
@@ -130,9 +145,9 @@ limits on payment accounts (bank, PayNow, PayLah)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Resources on the MAS website (i.e. Financial Institutions Directory, Financial
-Institution Representatives Register) on whether the company offering the
-investment opportunity is regulated by MAS</p>
+<p>Resources on the MAS website (i.e. <a href="https://eservices.mas.gov.sg/fid" rel="noopener nofollow" target="_blank">Financial Institutions Directory</a>,
+<a href="https://eservices.mas.gov.sg/rr" rel="noopener nofollow" target="_blank">Financial Institution Representatives Register</a>) on whether the company
+offering the investment opportunity is regulated by MAS</p>
 </li>
 <li>
 <p>With someone you trust about the offer</p>
