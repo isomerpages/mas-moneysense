@@ -30,19 +30,19 @@ for investment opportunities online, you find one that promises to be lucrative.
 It could even be an ad you chance upon on social media platforms touting
 profitable "investment opportunities".</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=UgFF_nuB9N0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UgFF_nuB9N0?si=iDYoUrZUmb8HDFkt"></iframe>
 </div>
 <p><strong>Chatgroup addition investment scam variant:</strong> Out of nowhere,
 you are added to a group chat where people are sharing their windfall from
 a not-to-be-missed investment.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=ilTdLNrvl34"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ilTdLNrvl34?si=q1UoMM2Ij-8ijNgE"></iframe>
 </div>
 <p><strong>Befriending investment scam variant: </strong>Your new online
 friend who shares your interests starts telling you about an exclusive
 investment opportunity.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=nNOajUqDPi0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nNOajUqDPi0?si=GFJTEZYzuIq6QdqU"></iframe>
 </div>
 <p>Sounds familiar?</p>
 <p>In many instances, victims thought they would never get scammed – sometimes
