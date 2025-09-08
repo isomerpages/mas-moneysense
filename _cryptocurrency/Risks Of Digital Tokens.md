@@ -79,7 +79,7 @@ are too wide.</p>
 <p><strong>Authenticity of service providers: </strong>It is difficult to
 trace and verify the authenticity of the operator of trading platforms
 that are run online or outside Singapore. If a trading platform fails,
-you could lose all your money. In addition, establishing the credibitliy
+you could lose all your money. In addition, establishing the credibility
 of token issuers could be hard. As with all start-ups, the failure rate
 tends to be high.</p>
 </li>
