@@ -11,7 +11,6 @@ sections:
   - hero:
       background: /images/MAS24_7280_MAS_Moneysense_Web_Bnr_R2_R5A.jpg
       variant: image
-      url: https://www.cpf.gov.sg/member/infohub/be-ready?cid=cpfprel:bn:brd:alsgm:retiringwell:retirementplanning:retirementlifestyle
   - infopic:
       title: Hot Button Issues
       button: Find out more
