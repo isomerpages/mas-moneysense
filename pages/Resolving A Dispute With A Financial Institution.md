@@ -33,7 +33,7 @@ on the types of cases they can handle.</p>
 file a complaint with them using the <a href="https://www.fidrec.com.sg/knowledgebase/article/KA-01027/en-us" rel="noopener noreferrer" target="_blank">Online Dispute Resolution Form</a>.</p>
 <p>For Integrated Shield Plan (IP) claim disputes with insurers that are
 of a clinical nature, you may wish to consider filing your case under the
-<a href="http://www.ccrp.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Clinical Claims Resolution Process</a>.&nbsp;</p>
+<a href="https://www.moh.gov.sg/newsroom/new-clinical-claims-resolution-process-established-to-resolve-ip-claim-disputes" rel="noopener noreferrer nofollow" target="_blank">Clinical Claims Resolution Process</a>.&nbsp;</p>
 <p>The Clinical Claims Resolution Process is a voluntary process that provides
 insurers, doctors, medical institutions, and policyholders an avenue for
 recourse. Parties must agree to participate and abide by the decision of
