@@ -372,7 +372,7 @@ compare with other loan packages to understand the differences.</p>
 <p>Read the terms and conditions and understand what the new package offers</p>
 </li>
 <li>
-<p>Check the&nbsp;<a href="https://www.cpf.gov.sg/member/faq/home-ownership/housing-scheme/how-much-cpf-savings-can-i-use-for-my-property-purchase" rel="noopener noreferrer nofollow" target="_blank">CPF Housing Withdrawal Limit</a>&nbsp;applicable
+<p>Check the&nbsp;<a href="https://www.cpf.gov.sg/service/article/how-much-cpf-savings-can-i-use-for-my-property-purchase" rel="noopener noreferrer nofollow" target="_blank">CPF Housing Withdrawal Limit</a>&nbsp;applicable
 to you when you refinance your housing loan</p>
 </li>
 </ul>
