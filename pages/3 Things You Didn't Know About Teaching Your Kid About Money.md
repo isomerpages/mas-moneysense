@@ -12,7 +12,7 @@ description: ""
 life.</p>
 <p>So it’s probably a good idea to know a thing or two about imparting sound
 financial values to them, from when they are as young as 3 years old (according
-to this <a href="https://mascdn.azureedge.net/cms/the-money-advice-service-habit-formation-and-learning-in-young-children-may2013.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>study</u></a> by
+to this <a href="https://altorwealth.com/wp-content/uploads/2024/04/the-money-advice-service-habit-formation-and-learning-in-young-children-may2013.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>study</u></a> by
 behaviour experts from Cambridge University).</p>
 <p>We’ve done the research for you and distilled 3 simple drills you can
 incorporate into your everyday interaction with your children.&nbsp;</p>
