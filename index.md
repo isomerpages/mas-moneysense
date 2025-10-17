@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MAS24_7280_MAS_Moneysense_Web_Bnr_R2_R5A.jpg
+      background: /images/MS_Website_Banner__Final_.jpg
       variant: image
   - infopic:
       title: Hot Button Issues
