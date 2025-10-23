@@ -12,9 +12,12 @@ variant: tiptap
 <h3>Key Takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>The HDB Loan Eligibility (HLE) letter and property loan fact sheet contain
-the terms of your loan and show how rising interest rates could affect
-your repayments</p>
+<p>You will need to apply for an HDB Flat Eligibility (HFE)&nbsp;letter to
+find out if you are eligible for an HDB loan.</p>
+</li>
+<li>
+<p>The property loan fact sheet contain the terms of your loan and show how
+rising interest rates could affect your repayments</p>
 </li>
 <li>
 <p>For bank loans, variable rates will kick in after the fixed rate lock-in
@@ -261,13 +264,11 @@ tenure of 25 years. Subject to the terms and conditions of your home loan
 for more details about your home loan.</p>
 <h4>HDB Loan Eligibility Letter</h4>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
-you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE)</a>&nbsp;letter.</p>
-<p>HLE helps you plan for your home purchase by giving you information on
-how much you can borrow, the monthly repayments, the amount of cash you
-need and other terms and conditions.</p>
-<p><strong>Tip: </strong>An HDB loan comes with certain eligibility criteria
-such as an income ceiling. <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" rel="noopener noreferrer nofollow" target="_blank">Check if you qualify.</a>
-</p>
+you can borrow, you will need to apply for an <a href="https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter" rel="noopener noreferrer nofollow" target="_blank">HDB Flat Eligibility (HFE)</a>&nbsp;letter.</p>
+<p>If you are thinking of taking a housing loan from a financial institution
+(FI), you should first request for an In-Principle Approval (IPA) from
+the participating FI to obtain an indicative loan assessment before applying
+for an HFE letter.</p>
 <h3>Property Loan Fact Sheet</h3>
 <p>Before you sign up for a home loan with a bank, the bank must provide
 you with a property loan fact sheet.</p>
