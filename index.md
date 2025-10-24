@@ -15,7 +15,7 @@ sections:
       title: Hot Button Issues
       button: Find out more
       url: /hot-button-issues
-      image: /images/In The Spotlight/in the spotlight main pic.jfif
+      image: /images/MAS24_7280_MAS_Moneysense_Digital_Bnrs_1970x720px.jpg
       alt: stay-updated
       description: To strengthen your finances, you need to know about new financial
         instruments and understand the changing environment.
