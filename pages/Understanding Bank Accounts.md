@@ -239,7 +239,7 @@ which your fixed deposit will be rolled-over at.</p>
 <li>
 <p>It may also be helpful to compare fixed deposit rates and their features
 using online resources such as finance blogs or websites, like the Institute
-of Financial Literacy's <a href="https://ifl.org.sg/fixed-deposit-rates/" rel="noopener nofollow" target="_blank">fixed deposit rates comparator</a>.
+for Financial Literacy's <a href="https://ifl.org.sg/fixed-deposit-rates/" rel="noopener nofollow" target="_blank">fixed deposit rates comparator</a>.
 These blogs and websites often have comparison tables of fixed deposit
 rates across a number of banks and can be a useful reference if you are
 considering placing a fixed deposit. After doing your own research, do
