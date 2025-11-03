@@ -238,13 +238,14 @@ which your fixed deposit will be rolled-over at.</p>
 </li>
 <li>
 <p>It may also be helpful to compare fixed deposit rates and their features
-using online resources such as finance blogs or websites, like the <a href="https://ifl.org.sg/fixed-deposit-rates/" rel="noopener nofollow" target="_blank">fixed deposit rates comparator</a> on
-Institute for Financial Literacy’s website. These blogs and websites often
-have comparison tables of fixed deposit rates across a number of banks
-and can be a useful reference if you are considering placing a fixed deposit.
-After doing your own research, do approach the banks directly to confirm
-the prevailing and applicable fixed deposit rates on offer and the terms
-and conditions that apply to you, before placing your deposit.</p>
+using online resources such as finance blogs or websites, like Institute
+of Financial Literacy's <a href="https://ifl.org.sg/fixed-deposit-rates/" rel="noopener nofollow" target="_blank">fixed deposit rates comparator</a>.
+These blogs and websites often have comparison tables of fixed deposit
+rates across a number of banks and can be a useful reference if you are
+considering placing a fixed deposit. After doing your own research, do
+approach the banks directly to confirm the prevailing and applicable fixed
+deposit rates on offer and the terms and conditions that apply to you,
+before placing your deposit.</p>
 </li>
 </ul>
 <h3>Types of Joint Accounts</h3>
