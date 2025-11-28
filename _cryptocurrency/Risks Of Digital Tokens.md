@@ -17,7 +17,9 @@ variant: tiptap
 <p>Cryptocurrencies are not legal tender</p>
 </li>
 <li>
-<p>There is no legislative protection for losses suffered</p>
+<p>MAS' regulatory measures cannot shield consumers from the risk of their
+cryptocurrency holdings losing value, or cryptocurrency service providers
+collapsing</p>
 </li>
 </ul>
 <h3>What Are Digital Tokens?</h3>
@@ -85,8 +87,6 @@ tends to be high.</p>
 </li>
 </ul>
 <h3>What Protection Do You Have?</h3>
-<p><strong>There is no legislative protection for losses suffered.</strong>
-</p>
 <p>MAS will not be able to help you if you lose money from dealing with digital
 tokens that are not products regulated by MAS, even if the digital token
 service is provided by an entity regulated by MAS.</p>
