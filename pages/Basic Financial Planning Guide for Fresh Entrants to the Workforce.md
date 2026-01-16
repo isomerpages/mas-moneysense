@@ -336,4 +336,43 @@ not come with any financial advice.</p>
 <p>/insert QR Code</p>
 <p></p>
 <h4>CPF and your retirement</h4>
+<p>Your CPF savings help to prepare for your retirement from the moment you
+begin working. Grow your retirement savings by making cash top-ups and/or
+CPF transfer to your CPF Special/Retirement Account. You can enjoy up to
+$8,000 in tax relief on your cash top-ups and receive higher monthly payouts
+due to compounding interest when you retire!You should start investing
+to grow your wealth too. Take advantage of your long time horizon and the
+power of compounding interest</p>
+<p>/insert QR Code</p>
+<p></p>
+<h4>Home purchase</h4>
+<p>For many Singaporeans, a home will be the largest purchase and investment
+that one will make. It is important that you plan your finances and budget
+for a flat purchase carefully with HDB’s ABCs of financial planning and
+financial tools.</p>
+<p>/insert QR Code</p>
+<p></p>
+<h4>Investments</h4>
+<p>An important aspect of investing is understanding your own circumstances
+and the product before you put your money in it. Considerations include
+your financial goals, needs, investment horizon, risk appetite and budget,
+as well as the product’s features, terms, benefits and risks. ​</p>
+<p>Every investment bears risk. In some cases, you could lose some or all
+of the money you invested. Bear in mind that there is no free lunch - the
+higher the potential returns, the higher the risks! ​</p>
+<p>For lower risk products, you may consider Singapore Savings Bonds, T-bills
+and fixed deposits that are capital guaranteed by the Government or banks.</p>
+<p>​Diversification is a way to manage investment risks, by allocating funds
+across different asset classes (e.g. stocks and bonds), different industries
+and different countries.</p>
+<p>There are diversified investment products such as Exchange Traded Funds
+(ETFs) and/or Unit Trusts (UTs),which can help you spread your investment
+across different asset classes, industries and countries. ​There are also
+bundled products which have both investment and protection elements. Examples
+of such bundled products include whole life policies, investment linked
+policies (ILPs) and endowment plans.</p>
+<p>​Pay attention to the fees and charges incurred when purchasing investment
+products as these will reduce your returns. You are also strongly encouraged
+to purchase investment products through MAS regulated financial institutions.</p>
+<p>/insert QR Code</p>
 <p></p>
