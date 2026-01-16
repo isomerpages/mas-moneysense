@@ -37,7 +37,7 @@ your long-term goals.</p>
 <p>Emergency Funs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Set side at least 3 to 6 months<sup>1  </sup>worth of expense</p>
+<p>Set side at least 3 to 6 months<sup>1 </sup>worth of expense</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Consider keeping money in a combination of:</p>
@@ -49,24 +49,41 @@ your long-term goals.</p>
 <p>Singapore Savings Bonds (SSBs)*</p>
 </li>
 </ul>
-<p>SSBs are guaranteed by the Government. You can exit your investment in
-any given month without penalty</p>
+<p><em>*SSBs are guaranteed by the Government. You can exit your investment in any given month without penalty</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Protection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Obtain insurance protection for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Death &amp; Total Permanent Disability: 9x annual income</p>
+</li>
+<li>
+<p>Critical Illness: 4x annual income</p>
+</li>
+</ul>
+<p>Familiarise with national scheme, MediShield Life, that have you covered
+for large healthcare bills</p>
+<p>Spend at most 15% of take-home pay on insurance protection</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Consider Term Insurance Plans for affordable protection</p>
 <p></p>
+<p>Scan to compare insurance products</p>
+<p></p>
+<p></p>
+<p>go.gov..sg/compare</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Invest at least 10% of take-home pay for retirement and other financial
+goals (e.g., wedding, home purchase)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
