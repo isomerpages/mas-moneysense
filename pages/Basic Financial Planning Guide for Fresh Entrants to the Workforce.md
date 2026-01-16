@@ -6,7 +6,7 @@ description: A beginner-friendly financial planning guide for fresh entrants to
   the workforce in Singapore, with tips on budgeting, CPF, insurance, and
   savings.
 ---
-<h2>Title</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAS_Website_Banner_FA_2_BFPG_1stJobber.jpg">
 </div>
@@ -232,7 +232,7 @@ planning.</p>
 <p>Investments</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>At least </strong>
+<p><strong>At least</strong>
 </p>
 <p>10% x $2,000 = $200</p>
 </td>
