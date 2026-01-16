@@ -82,11 +82,16 @@ for large healthcare bills</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Invest at least 10% of take-home pay for retirement and other financial
-goals (e.g., wedding, home purchase)</p>
+<p>Investments</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Invest at least 10% of take-home pay for retirement and other financial
+goals (e.g., wedding, home purchase)</p>
+<ul data-tight="true" class="tight">
+<li>
 <p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
