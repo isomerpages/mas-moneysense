@@ -291,9 +291,49 @@ premium(excluding MediShield Life) exceeds these limits, you may need to
 pay a portion using cash.</p>
 <blockquote>
 <p></p>
-<p><strong>Half of Singapore residents with IPs do not utilise their IP benefits fully </strong>by
-choosing to stay in Class B2/C wards when hospitalised. In such cases,
-MediShield Life’s coverage would be sufficient and additional IP may not
-be necess</p>
+<p>Half of Singapore residents with IPs do not utilise their IP benefits
+fully<strong> </strong>by choosing to stay in Class B2/C wards when hospitalised.
+In such cases, MediShield Life’s coverage would be sufficient and additional
+IP may not be necessary.</p>
 </blockquote>
+<p></p>
+<p>/insert QR code</p>
+<p></p>
+<h4>Coverage for death, total permanent disability and critical illness</h4>
+<p>The Life Insurance Association of Singapore recommends coverage of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>9x annual income for death and total permanent disability; and</p>
+</li>
+<li>
+<p>4x annual income for standard critical illness</p>
+</li>
+</ul>
+<p>Dependants’ Protection Scheme (DPS) is a term life insurance scheme that
+provides a one-off payout (up to $70,000 until age 60; up to $55,000 from
+above age 60 to 65) in the event of death, terminal illness or total permanent
+disability. It is automatically extended to you upon your first CPF working
+contribution.</p>
+<p>Term insurance policies are a cost-effective way to ensure protection,
+especially when lower premiums are “locked-in” at a younger age.</p>
+<p>Premiums for term insurance policies are usually cheaper compared to whole
+life insurance policies, for the same level of protection. This is because
+most term insurance policies only provide insurance protection and do not
+have any investment element (i.e. no surrender value).</p>
+<p>For more affordable options, explore:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Group term insurance policies (e.g. MINDEF &amp; MHA group term insurance
+policies applicable to Full-time National Servicemen and their dependants);
+and</p>
+<p></p>
+</li>
+<li>
+<p>Direct Purchase Insurance. No commission is charged as this option does
+not come with any financial advice.</p>
+</li>
+</ul>
+<p>/insert QR Code</p>
+<p></p>
+<h4>CPF and your retirement</h4>
 <p></p>
