@@ -289,4 +289,11 @@ of the long-term costs that increase significantly with age. You can use
 MediSave to cover IP premiums, but it has withdrawal limits. If your IP
 premium(excluding MediShield Life) exceeds these limits, you may need to
 pay a portion using cash.</p>
+<blockquote>
+<p></p>
+<p><strong>Half of Singapore residents with IPs do not utilise their IP benefits fully </strong>by
+choosing to stay in Class B2/C wards when hospitalised. In such cases,
+MediShield Life’s coverage would be sufficient and additional IP may not
+be necess</p>
+</blockquote>
 <p></p>
