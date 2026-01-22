@@ -260,9 +260,9 @@ rises to 5% per annum and remains at that level for the remaining loan
 tenure of 25 years. Subject to the terms and conditions of your home loan
 — check with your lender.</p>
 <h3>All About Your Loan</h3>
-<p>Check the HDB Home Loan Eligibility Letter (HLE) and property loan factsheet
+<p>Check the HDB Flat Eligibility (HFE) letter and property loan factsheet
 for more details about your home loan.</p>
-<h4>HDB Loan Eligibility Letter</h4>
+<h4>HDB Flat Eligibility Letter</h4>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
 you can borrow, you will need to apply for an <a href="https://www.hdb.gov.sg/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/application-for-an-hdb-flat-eligibility-hfe-letter" rel="noopener noreferrer nofollow" target="_blank">HDB Flat Eligibility (HFE)</a>&nbsp;letter.</p>
 <p>If you are thinking of taking a housing loan from a financial institution
