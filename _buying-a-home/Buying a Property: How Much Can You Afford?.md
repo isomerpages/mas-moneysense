@@ -183,7 +183,7 @@ years for HDB flats) or the loan period extends beyond the borrower's age
 of 65 years.</p>
 <h3>Getting An HDB Loan</h3>
 <p>If you are buying an HDB flat, you may qualify for a loan from the HDB.
-With an HDB loan, you may borrow up to 80% of the purchase price or the
+With an HDB loan, you may borrow up to 75% of the purchase price or the
 property’s valuation price. This depends on which is lower, subject to
 HDB’s credit assessment.</p>
 <p>The amount of HDB loan granted depends on:</p>
@@ -235,7 +235,7 @@ rate and flexibility to pay off your loan early.</p>
 <p>LTV Limit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Up to 80%</p>
+<p>Up to 75%</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Up to 75%</p>
