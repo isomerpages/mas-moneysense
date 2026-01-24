@@ -200,9 +200,9 @@ HDB’s credit assessment.</p>
 </ul>
 <h3>Are You Eligible?</h3>
 <p>To find out if you are eligible for an HDB loan and the maximum amount
-you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Loan Eligibility (HLE) letter</a>
+you can borrow, you will need to apply for an <a href="https://iam.hdb.gov.sg/common/login?spcptracking=1698139626565_8d11_547220b00778" rel="noopener noreferrer nofollow" target="_blank">HDB Flat Eligibility (HFE) letter</a>
 </p>
-<p>The HLE helps you plan for your home purchase by giving you information
+<p>The HFE helps you plan for your home purchase by giving you information
 on how much you can borrow, the monthly repayments, the amount of cash
 you need and other terms and conditions.</p>
 <p>Note: An HDB loan comes with certain eligibility criteria such as an income
