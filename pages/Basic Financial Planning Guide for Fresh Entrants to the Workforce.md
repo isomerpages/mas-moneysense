@@ -13,7 +13,6 @@ description: A beginner-friendly financial planning guide for fresh entrants to
 <p>You are in the pink of health, between the ages of 19 - 29 years old,
 and taking your first steps into the working world. This is the best time
 to start building a strong foundation for your long-term goals.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -122,7 +121,58 @@ Trusts</p>
 with his parents but plans to settle down with his girlfriend and buy a
 home in 5 years. Here’s a breakdown of his monthly cashflows for financial
 planning.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Monthly Salary</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>$2,500</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Employee CPF Contribution (20%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$500</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monthly Take-home Pay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Financial Planning Budget</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>$600</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monthly Expenses</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,400</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<h4>Breakdown of Monthly Financial Planning</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -164,7 +214,8 @@ planning.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>$350</p>
+<p>$350<sup>1</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +234,8 @@ planning.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>$21 from CPF</p>
+<p>$21 from CPF<sup>2</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -204,8 +256,10 @@ planning.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>$2 from CPF</p>
-<p>$15</p>
+<p>$2 from CPF<sup>3</sup>
+</p>
+<p>$15<sup>4</sup>
+</p>
 <p></p>
 </td>
 </tr>
@@ -224,23 +278,48 @@ planning.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>$35</p>
+<p>$35<sup>5</sup>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Investments</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>At least</strong>
 </p>
 <p>10% x $2,000 = $200</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Retirement (Long-term): e.g. Exchange Traded Funds</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<p>$100<sup>6</sup>
+</p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Home Purchase (Short-term): e.g. T-Bills</p>
+</li>
+</ul>
+<p>In 5 years, John would have prepared more than $40,000<sup>7</sup> for
+his home purchase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$100</p>
 </td>
 </tr>
 <tr>
@@ -260,6 +339,30 @@ planning.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>1.John has already saved $3,000 having worked part-time previously and
+from serving national service. He will save the recommended amount of 6
+months’ expenses ($8,400) in slightly over one year.</p>
+<p>2. Based on actual MediShield Life premiums (before subsidies) of $254.67
+(annual) or $254.67/12= $21.22 (monthly) according to</p>
+<p><a href="https://www.cpf.gov.sg/content/dam/web/member/healthcare/documents/MediShield%20Life%20Premiums%20by%20Age%20Group.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.cpf.gov.sg/content/dam/web/member/healthcare/documents/MediShield%20Life%20Premiums%20by%20Age%20Group.pdf</a>.
+MediShield Life premiums are payable yearly using CPF. Premiums also</p>
+<p>increase with age.</p>
+<p>3. Based on actual DPS annual premiums of $18 (coverage of up to $70,000
+until age 60) or $18/12= $1.5 (monthly), according to <a href="https://www.cpf.gov.sg/member/faq/account-services/dependants--protection-" rel="noopener noreferrer nofollow" target="_blank">https://www.cpf.gov.sg/member/faq/account-services/dependants--protection-</a>
+</p>
+<p>scheme/how-much-premium-do-i-need-to-pay-to-be-covered-under-dps. DPS
+premiums are payable yearly using CPF. Premiums also increase with age.</p>
+<p>4. Based on estimated annual median prices of term insurance plans for
+coverage until age 65 according to <a href="http://www.comparefirst.sg" rel="noopener noreferrer nofollow" target="_blank">www.comparefirst.sg</a>. Please note
+that coverage is in multiples of $100,000, rounded up or down depending</p>
+<p>on the individual’s estimated insurance protection needs.</p>
+<p>5. Based on estimated annual median prices of standalone term insurance
+plans which minimally cover the 37 critical illnesses defined in LIA’s
+Critical Illness Framework.</p>
+<p>6. John invests remaining funds available.</p>
+<p>7. $6,000 in T-Bills &amp; $34,504.80 in his CPF OA, excluding interests
+and assuming no change in his salary for</p>
 <p></p>
 <h3>Find out more for fresh entrants to the workforce</h3>
 <h4>Emergency funds</h4>
