@@ -340,29 +340,28 @@ his home purchase</p>
 </tbody>
 </table>
 <p></p>
-<p>1.John has already saved $3,000 having worked part-time previously and
-from serving national service. He will save the recommended amount of 6
-months’ expenses ($8,400) in slightly over one year.</p>
-<p>2. Based on actual MediShield Life premiums (before subsidies) of $254.67
-(annual) or $254.67/12= $21.22 (monthly) according to</p>
-<p><a href="https://www.cpf.gov.sg/content/dam/web/member/healthcare/documents/MediShield%20Life%20Premiums%20by%20Age%20Group.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.cpf.gov.sg/content/dam/web/member/healthcare/documents/MediShield%20Life%20Premiums%20by%20Age%20Group.pdf</a>.
-MediShield Life premiums are payable yearly using CPF. Premiums also</p>
-<p>increase with age.</p>
-<p>3. Based on actual DPS annual premiums of $18 (coverage of up to $70,000
-until age 60) or $18/12= $1.5 (monthly), according to <a href="https://www.cpf.gov.sg/member/faq/account-services/dependants--protection-" rel="noopener noreferrer nofollow" target="_blank">https://www.cpf.gov.sg/member/faq/account-services/dependants--protection-</a>
+<p><em>1.John has already saved $3,000 having worked part-time previously and from serving national service. He will save the recommended amount of 6 months’ expenses ($8,400) in slightly over one year.</em>
 </p>
-<p>scheme/how-much-premium-do-i-need-to-pay-to-be-covered-under-dps. DPS
-premiums are payable yearly using CPF. Premiums also increase with age.</p>
-<p>4. Based on estimated annual median prices of term insurance plans for
-coverage until age 65 according to <a href="http://www.comparefirst.sg" rel="noopener noreferrer nofollow" target="_blank">www.comparefirst.sg</a>. Please note
-that coverage is in multiples of $100,000, rounded up or down depending</p>
-<p>on the individual’s estimated insurance protection needs.</p>
-<p>5. Based on estimated annual median prices of standalone term insurance
-plans which minimally cover the 37 critical illnesses defined in LIA’s
-Critical Illness Framework.</p>
-<p>6. John invests remaining funds available.</p>
-<p>7. $6,000 in T-Bills &amp; $34,504.80 in his CPF OA, excluding interests
-and assuming no change in his salary for</p>
+<p><em>2. Based on actual MediShield Life premiums (before subsidies) of $254.67 (annual) or $254.67/12= $21.22 (monthly) according to</em>
+</p>
+<p><em><a href="https://www.cpf.gov.sg/content/dam/web/member/healthcare/documents/MediShield%20Life%20Premiums%20by%20Age%20Group.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.cpf.gov.sg/content/dam/web/member/healthcare/documents/MediShield%20Life%20Premiums%20by%20Age%20Group.pdf</a>. MediShield Life premiums are payable yearly using CPF. Premiums also</em>
+</p>
+<p><em>increase with age.</em>
+</p>
+<p><em>3. Based on actual DPS annual premiums of $18 (coverage of up to $70,000 until age 60) or $18/12= $1.5 (monthly), according to <a href="https://www.cpf.gov.sg/member/faq/account-services/dependants--protection-" rel="noopener noreferrer nofollow" target="_blank">https://www.cpf.gov.sg/member/faq/account-services/dependants--protection-</a></em>
+</p>
+<p><em>scheme/how-much-premium-do-i-need-to-pay-to-be-covered-under-dps. DPS premiums are payable yearly using CPF. Premiums also increase with age.</em>
+</p>
+<p><em>4. Based on estimated annual median prices of term insurance plans for coverage until age 65 according to <a href="http://www.comparefirst.sg" rel="noopener noreferrer nofollow" target="_blank">www.comparefirst.sg</a>. Please note that coverage is in multiples of $100,000, rounded up or down depending</em>
+</p>
+<p><em>on the individual’s estimated insurance protection needs.</em>
+</p>
+<p><em>5. Based on estimated annual median prices of standalone term insurance plans which minimally cover the 37 critical illnesses defined in LIA’s Critical Illness Framework.</em>
+</p>
+<p><em>6. John invests remaining funds available.</em>
+</p>
+<p><em>7. $6,000 in T-Bills &amp; $34,504.80 in his CPF OA, excluding interests and assuming no change in his salary for</em>
+</p>
 <p></p>
 <h3>Find out more for fresh entrants to the workforce</h3>
 <h4>Emergency funds</h4>
@@ -398,10 +397,27 @@ pay a portion using cash.</p>
 fully<strong> </strong>by choosing to stay in Class B2/C wards when hospitalised.
 In such cases, MediShield Life’s coverage would be sufficient and additional
 IP may not be necessary.</p>
+<p></p>
 </blockquote>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Check out MOH's comparision of IPs</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>/insert QR code</p>
-<p></p>
+<p>go.gov.sg/compareip</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*IP policyholders are also not eligible for Additional Premium Support (APS), which is a form of financial assistance for MediShield Life/CareShield Life premiums. If you are currently receiving APS to pay for your MediShield Life and/or CareShield Life premiums, you will stop receiving APS if you choose to be insured under an IP. This applies even if you are not the person paying for the IP.</em>
+</p>
 <h4>Coverage for death, total permanent disability and critical illness</h4>
 <p>The Life Insurance Association of Singapore recommends coverage of:</p>
 <ul data-tight="true" class="tight">
@@ -436,7 +452,33 @@ and</p>
 not come with any financial advice.</p>
 </li>
 </ul>
-<p>/insert QR Code</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learn more about DPS here</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>/insert QR code</p>
+<p>go.gov.sg/dps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Compare premiums and features of insurance products at compareFIRST</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>/insert QE code</p>
+<p>go.gov.sg/compare</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>CPF and your retirement</h4>
 <p>Your CPF savings help to prepare for your retirement from the moment you
@@ -446,14 +488,48 @@ $8,000 in tax relief on your cash top-ups and receive higher monthly payouts
 due to compounding interest when you retire!You should start investing
 to grow your wealth too. Take advantage of your long time horizon and the
 power of compounding interest</p>
-<p>/insert QR Code</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learn more about CPF top-ups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>/insert QR code</p>
+<p>go.gov.sg/cpftopups</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>Home purchase</h4>
 <p>For many Singaporeans, a home will be the largest purchase and investment
 that one will make. It is important that you plan your finances and budget
 for a flat purchase carefully with HDB’s ABCs of financial planning and
 financial tools.</p>
-<p>/insert QR Code</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Find out more from HDB's comprehensive guide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>/insert QR code</p>
+<p>go.gov.sg/buyhdb</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>Investments</h4>
 <p>An important aspect of investing is understanding your own circumstances
@@ -477,5 +553,33 @@ policies (ILPs) and endowment plans.</p>
 <p>​Pay attention to the fees and charges incurred when purchasing investment
 products as these will reduce your returns. You are also strongly encouraged
 to purchase investment products through MAS regulated financial institutions.</p>
-<p>/insert QR Code</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learn more about how to build an investment portfolio that meets your
+needs here!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>/insert QR code</p>
+<p>go.gov.sg/investments</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Refer to MAS Financial Intitutions Directory for a listing of the financial
+instituitions regulated by MAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>/insert QE code</p>
+<p>go.gov.sg/regulatedfis</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
