@@ -97,7 +97,7 @@ charges or if you need to give your FI advance notice.</p>
 <p>5. Go back to Step 1 and start over. Keep going till you pay off all your
 loans.</p>
 <p>To better manage your cash flow, adopt the following good habits:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Draw up a budget – List out your monthly income and family expenses, and
 see what expenses you can trim to repay your debts faster. Cut out indulgences
@@ -117,7 +117,7 @@ afford.</p>
 <p>Pay on time – Make your repayments on time to avoid interest and late
 charges. If you have difficulty making the repayments, talk to your FI.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <h3>What If You Can't Pay?</h3>
 <p>Speak to your FI immediately. They may be able to help you restructure
