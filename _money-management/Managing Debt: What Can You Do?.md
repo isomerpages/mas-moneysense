@@ -82,8 +82,7 @@ you will <a href="https://www.mas.gov.sg/regulation/explainers/ongoing-credit-ch
 <h3>Paying Off Your Debts</h3>
 <p>Remember: <strong>Pay off the debt with the highest interest first. </strong>If
 you have credit card debt, other unsecured loans or instalment plans, follow
-these steps to pay them off as quickly as possible. Repeat until your debts
-are paid off:</p>
+these steps to pay them off as quickly as possible.</p>
 <p>1. Order your outstanding loans by interest rates.</p>
 <p>2. Pay off the full amount with the highest interest rate first. Late
 or missed credit card payments can result in high interest charges that
