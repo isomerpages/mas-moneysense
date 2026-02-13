@@ -57,6 +57,13 @@ the due date</p>
 <li>
 <p>Avoid people who pressure you to spend</p>
 </li>
+<li>
+<p>Be mindful of lifestyle inflation</p>
+</li>
+<li>
+<p>Spend within your means; cut back on expenses if your income has fallen
+or may decline</p>
+</li>
 </ul>
 <p>If your debt on all credit cards and unsecured credit facilities with
 FIs exceeds 12 times your monthly income for three consecutive months,
@@ -75,11 +82,13 @@ you will <a href="https://www.mas.gov.sg/regulation/explainers/ongoing-credit-ch
 <h3>Paying Off Your Debts</h3>
 <p>Remember: <strong>Pay off the debt with the highest interest first. </strong>If
 you have credit card debt, other unsecured loans or instalment plans, follow
-these steps to pay them off as quickly as possible. Repeat until your debts
-are paid off:</p>
+these steps to pay them off as quickly as possible.</p>
 <p>1. Order your outstanding loans by interest rates.</p>
-<p>2. Pay off the full amount with the highest interest rate.</p>
-<p>3. If you have trouble paying the full amount, pay it off in parts. Save
+<p>2. Pay off the full amount with the highest interest rate first. Late
+or missed credit card payments can result in high interest charges that
+compound quickly, causing debts to grow.&nbsp;</p>
+<p>3. If you have trouble paying the full amount, pay it off in parts. Try
+to pay more than the minimum payment due to reduce interest costs. Save
 and pay till it's paid off.</p>
 <p>4. When you have money to spare e.g. after receiving a bonus, increase
 your regular repayments or make lump sum payments. Check if there are penalty
@@ -87,21 +96,27 @@ charges or if you need to give your FI advance notice.</p>
 <p>5. Go back to Step 1 and start over. Keep going till you pay off all your
 loans.</p>
 <p>To better manage your cash flow, adopt the following good habits:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Draw up a budget – List out your monthly income and family expenses, and
 see what expenses you can trim to repay your debts faster. Cut out indulgences
-like eating out if you have trouble paying your bills.</p>
+like eating out if you have trouble paying your bills. Adjust your spending
+habits to ensure you live within your means, especially if your income
+has fallen or may decline.</p>
 </li>
 <li>
-<p>Review your debts– Avoid having many sources of credit. It is easier to
-keep track of repayments when you have fewer credit facilities.</p>
+<p>Proactively review your debts– Avoid having many sources of credit. It
+is easier to keep track of repayments when you have fewer credit facilities.
+If your income records with your FI are outdated, speak to your FI early
+to ensure your credit limits are adjusted to reflect your current financial
+situation. This helps reduce the risk of taking on more debt than you can
+afford.</p>
 </li>
 <li>
 <p>Pay on time – Make your repayments on time to avoid interest and late
 charges. If you have difficulty making the repayments, talk to your FI.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <h3>What If You Can't Pay?</h3>
 <p>Speak to your FI immediately. They may be able to help you restructure
@@ -125,8 +140,10 @@ or require you to pay a higher interest rate for a loan</p>
 <h3>Work With Your FI</h3>
 <p>Do not avoid calls or letters from your FI, its lawyers or debt collectors.
 Talk to them as soon as possible. Remain co-operative and contactable.
-If you are co-operative, your FI will be better able to help you restructure
-your payment schedule.</p>
+If you are co-operative, your FI will be better able to advise you on how
+to manage and pay down your debts, including offering payment restructuring
+options such as converting your outstanding unsecured debts into a term
+loan.</p>
 <h3>If You Have Multiple Debts</h3>
 <p>Don't give up – you can improve your debt situation. Here are steps you
 can take:</p>
@@ -155,8 +172,11 @@ unsecured loans. Give up your unused cards and your credit lines!</p>
 <p>You can do the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Contact <a href="http://www.ccs.org.sg/" rel="noopener noreferrer" target="_blank">Credit Counselling Singapore</a> for
-help to resolve your debt problems.</p>
+<p>Contact&nbsp;<a href="http://www.ccs.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Credit Counselling Singapore</a>&nbsp;(CCS)
+for free counselling and debt advisory services to resolve your debt problems.
+Under the <a href="https://ccs.org.sg/services/dmp/" rel="noopener noreferrer nofollow" target="_blank">Debt Management Programme</a>,
+CCS assesses your financial situation and negotiates with your FI creditors
+to develop a sustainable repayment plan.</p>
 </li>
 <li>
 <p>Apply for a <a href="https://www.abs.org.sg/consumer-banking/consumers/debt-consolidation-plan" rel="noopener noreferrer" target="_blank">Debt Consolidation Plan</a>,
