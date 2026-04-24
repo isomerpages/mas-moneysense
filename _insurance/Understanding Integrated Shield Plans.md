@@ -19,7 +19,8 @@ hospitals you want to stay in, or you'll end up paying more premiums than
 necessary</p>
 </li>
 <li>
-<p>If you are not sure you have an IP, check with CPF</p>
+<p>If you are not sure you have an IP, check by logging in to the CPF Board
+website</p>
 </li>
 </ul>
 <p>An IP provides coverage on top of your MediShield Life.</p>
@@ -53,16 +54,29 @@ hospital? Do you want to be able to choose your doctor?</p>
 <h5>Your Budget</h5>
 <p>Can you afford the IP premiums in the long term especially when the premiums
 rise with age?</p>
-<p>Private insurers provide extra protection or riders to cover the deductibles
-and co-insurance. You will have to pay a separate premium for these with
-cash. They cannot be paid using MediSave.</p>
-<p>Rider premiums also increase as you get older. All new riders from March
-2018 will need to incorporate a co-payment (what you pay) of 5% or more.</p>
 <p>If you can no longer afford or do not wish to continue paying the premiums
-for your IP, you can switch your plan to one which provides coverage for
-lower ward classes with the same insurer without any additional underwriting.
-Or you can cease your IP and be insured under MediShield Life only without
-any exclusions for pre-existing conditions.</p>
+for your IP, consider switching to a plan that provides coverage for lower-ward
+classes with the same insurer – this would not need additional underwriting.
+Or you could cease your IP and be insured under only MediShield Life, which
+does not exclude pre-existing conditions.</p>
+<p>Private insurers provide optional products called riders that are designed
+to cover part of the co-insurance of your IP.</p>
+<p>Riders may also provide coverage for additional treatments, such as cancer
+drug treatments not covered under MediShield Life and IPs. But premiums
+for riders can be more expensive than IPs' as a result.</p>
+<p>Even with a rider, you will need to pay a deductible and a co-payment
+when you make a claim.</p>
+<blockquote>
+<p>The deductible is the fixed amount you pay each policy year – ranging
+from $1,500 to $3,500, depending on ward class – before any payout from
+your IP. The co-payment is 5% of the bill, capped at a minimum of $6,000
+per year.</p>
+</blockquote>
+<p>The premium for riders must be paid with cash. They cannot be paid using
+MediSave.</p>
+<p>Rider premiums increase as you get older.</p>
+<p>More comprehensive coverage is typically accompanied by higher premiums.
+Consider balancing the benefits of a rider with its long-term affordability.</p>
 <p>Assess whether your health insurance aligns with your needs, and make
 informed decisions about your coverage using the <a href="http://cpf.gov.sg/healthplanner" rel="noopener noreferrer nofollow" target="_blank">Health Insurance Planner.</a>
 </p>
