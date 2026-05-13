@@ -50,7 +50,7 @@ understand their own financial needs, and decide which financial products
 are right for them. Our programmes are always free and unbiased. We also
 work with schools on financial education activities and workshops for their
 students.</p>
-<p>Join our mailing list and follow us on Facebook (<a href="https://www.facebook.com/MoneySENSE/" rel="noopener noreferrer nofollow" target="_blank">moneysense</a>) and Instagram
+<p>Follow us on Facebook (<a href="https://www.facebook.com/MoneySENSE/" rel="noopener noreferrer nofollow" target="_blank">moneysense</a>) and Instagram
 (<a href="https://www.instagram.com/moneysense_sg" rel="noopener noreferrer nofollow" target="_blank">@moneysense_sg</a>)
 for latest updates on what we do.</p>
 <h3>Partners</h3>
